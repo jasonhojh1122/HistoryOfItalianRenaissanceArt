@@ -83,10 +83,108 @@
   - Follower of Giotto
   - Baroncelli Chapel, Santa Croce, Florence
   - Fescoes of the Last Supper With the Tree of Life, Refectory, Santa Croce, Florence
-    ![img](https://upload.wikimedia.org/wikipedia/commons/3/3c/Taddeo_Gaddi%2C_Arbor_vitae%2C_c1330-40_or_-60%2C_Santa_Croce_Refectory%2C_Florence.jpg)
+    ![img](img/FrescoesOfTheLastSupperWithTheTreeOfLife.png)
     - Juclas is located on"our" side of the table, until Leonardo's Last Supper
 
 #### Sculpture
+
+- [Andrea Pisano](https://en.wikipedia.org/wiki/Andrea_Pisano)
+  - Creation of Adam, Opera del Duomo Museum, Florence
+    ![img](https://upload.wikimedia.org/wikipedia/commons/6/67/Andrea_Pisano%2C_The_Creation_of_Adam_and_Eve%2C_1334-43%2C_Museo_dell%27Opera_del_Duomo%2C_Florence.jpg)
+  - South door of Florence Baptistery
+    ![img](https://upload.wikimedia.org/wikipedia/commons/6/63/PisanoDoors.jpg)
+
+### Sienese Art of The Early Trecento
+
+- [Duccio di Buoninsegna](https://en.wikipedia.org/wiki/Duccio)
+  - Madonna and Child, Uffizi Gallery, Florence
+    ![img](https://upload.wikimedia.org/wikipedia/commons/f/f0/Duccio_-_Rucellai_Madonna.jpg)
+
+### Later Gothic Art In Tuscany And Northern Italy
+
+- Brief history background
+
+  - A flood struck Florence in 1333
+  - Economic crises in mid 1340s
+  - Argricultural disastersduring 1346-47
+  - Black death struke again in 1348
+
+- [Andrea Orcagna](https://en.wikipedia.org/wiki/Orcagna)
+
+  - Enthroned Chris with Madonna and Saints
+    ![alt text](img/EnthronedChriswithMadonnaandSaints.png)
+    - Rigid, formal composition
+    - Emphasis on outline different from Giotto's soft roundness outline
+  - Tabernacle of Orsanmichele
+    ![img](https://upload.wikimedia.org/wikipedia/commons/5/52/Tabernakel%2C_Andrea_di_Cione%2C_1359%2C_Orsanmichele_Florenz-01-185.jpg)
+    ![img2](https://upload.wikimedia.org/wikipedia/commons/3/35/Andrea_orcagna%2C_tabernacolo_di_orsanmichele%2C_1359%2C_dormitio_e_assunta_04.jpg)
+
+- [Andrea da Firenze](https://en.wikipedia.org/wiki/Andreas_de_Florentia)
+
+  - Fresco in the Chapter House at Santa Maria Novella, Florence
+    ![alt text](img/ChapterHouseAtSantaMariaNovella.png)
+    - Triumph of the Church
+  - Rose window in Santa maria Novella, Florence
+    ![alt text](img/RoseWindowAtSantaMariaNovella.png)
+    - Stained glass imported from France
+
+- [Agnolo Gaddi](https://en.wikipedia.org/wiki/Agnolo_Gaddi)
+
+  - last major Florentine painter stylistically descended from Giotto
+  - Legend of the True Cross, Santa Croce, Florence
+    ![img](https://upload.wikimedia.org/wikipedia/commons/a/a8/Florence%2C_Santa_Croce%2C_apse%2C_Legend_of_the_True_Cross%2C_frescoe_cycle_by_Agnolo_Gaddi%2C_1385-1387_north.jpg)
+
+- [Lorenzo Monaco](https://en.wikipedia.org/wiki/Lorenzo_Monaco)
+
+  - Coronation of the Virgin, Uffizi Gallery, Florence
+    ![img](https://upload.wikimedia.org/wikipedia/commons/2/2a/Monaco_coronation.jpg)
+
+- [Paolo Veneziano](https://en.wikipedia.org/wiki/Paolo_Veneziano)
+
+  - Venice painter
+
+- [Bernabò Visconti](https://en.wikipedia.org/wiki/Bernab%C3%B2_Visconti)
+
+  - Lord of Milan
+  - Equestrian statue of Bernabò Visconti, Castello Sforzesco, Milan
+    ![img](https://upload.wikimedia.org/wikipedia/commons/8/83/Milano_-_Castello_sforzesco_-_Bonino_da_Campione_%28sec._XIV%29_-_Tomba_Bernab%C3%B2_Visconti_-_Foto_Giovanni_Dall%27Orto_-_6-1-2007_-_08.jpg)
+
+- [Gian Galeazzo Visconti](https://en.wikipedia.org/wiki/Gian_Galeazzo_Visconti)
+
+  - First duke of Milan, bought from king Wenceslaus
+  - [Hours of Gian Galeazzo Visconti](https://en.wikipedia.org/wiki/Hours_of_Gian_Galeazzo_Visconti), Biblioteca Nazionale, Florence
+    ![img](https://upload.wikimedia.org/wikipedia/commons/2/22/46v.jpg)
+
+    - By [Giovannino dei Grassi](https://en.wikipedia.org/wiki/Giovannino_de%27_Grassi)
+
+  - Start [Milan Cathedral](https://en.wikipedia.org/wiki/Milan_Cathedral)
+    ![plan](img/MilanCathedral1391Plan.png)
+
+## Part 2: The Quattrocento
+
+### The Renaissance Begins: Architecture
+
+- Brief history background
+
+  - Florence faced multipe enemies
+    - revolt of the Ciompi in 1378
+    - Milan under Visconti family
+    - King Ladislaus of Naples
+  - Florence developed world first graduated tax
+
+- Role of Medici Family
+
+  - [Giovanni di Bicci de' Medici](https://en.wikipedia.org/wiki/Giovanni_di_Bicci_de'_Medici) (1360 - 1429)
+    - New sacristy for the old church of San Lorenzo, one of the earliest Renaissance interior.
+  - [Cosimo de' Medici](https://en.wikipedia.org/wiki/Cosimo_de%27_Medici)
+
+    - Built the first Renaissance church, the first Renaissance palace, the first Renaissance monastery
+
+    - Sponsored lots of artists
+    - [Donatello](https://en.wikipedia.org/wiki/Donatello)'s David, first large-scale nude sculpture since antiquity
+      ![img](https://upload.wikimedia.org/wikipedia/commons/7/7f/Florence_-_David_by_Donatello.jpg)
+
+- [Filippo Brunelleschi](https://en.wikipedia.org/wiki/Filippo_Brunelleschi)
 
 ## Terms
 
