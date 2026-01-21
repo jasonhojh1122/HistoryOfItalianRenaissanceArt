@@ -1,0 +1,11 @@
+# Old Sacristy (Sagrestia Vecchia)
+
+- **Artist**: [Brunelleschi](../artists/FilippoBrunelleschi.md)
+- **Location**: [San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
+- **Medium**: Architecture
+
+## Description
+
+One of the earliest Renaissance interiors. Commissioned by Giovanni di Bicci de' Medici as a new sacristy for the old church of San Lorenzo.
+
+![img](https://upload.wikimedia.org/wikipedia/commons/e/e4/Sagrestia_vecchia%2C_veduta_00.jpg)

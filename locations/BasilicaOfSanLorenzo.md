@@ -8,7 +8,7 @@ Designed by [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md).
 
 ## Architecture
 
-### Sagrestia Vecchia di San Lorenzo (Old Sacristy)
+### [Sagrestia Vecchia di San Lorenzo (Old Sacristy)](../artworks/OldSacristy.md)
 - **Architect**: [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md)
 - **Patron**: [Giovanni di Bicci de' Medici](../artists/GiovanniDiBicciDeMedici.md)
 - One of the earliest Renaissance interiors
@@ -17,7 +17,7 @@ Designed by [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md).
 
 ## Artworks
 
-### Annunciation (Martelli Annunciation)
+### [Annunciation (Martelli Annunciation)](../artworks/MartelliAnnunciation.md)
 - **Artist**: [Filippo Lippi](../artists/FilippoLippi.md)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Martelli_Annunciation)

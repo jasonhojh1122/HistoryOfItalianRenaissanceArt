@@ -6,13 +6,13 @@ Active during the Later Gothic period in Tuscany.
 
 ## Artworks
 
-### Enthroned Christ with Madonna and Saints
+### [Enthroned Christ with Madonna and Saints](../artworks/EnthronedChristWithMadonnaAndSaints.md)
 - Rigid, formal composition
 - Emphasis on outline different from Giotto's soft roundness outline
 
 ![alt text](../img/EnthronedChriswithMadonnaandSaints.png)
 
-### Tabernacle of Orsanmichele
+### [Tabernacle of Orsanmichele](../artworks/TabernacleOfOrsanmichele.md)
 - **Location**: [Orsanmichele](../locations/Orsanmichele.md), Florence
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/5/52/Tabernakel%2C_Andrea_di_Cione%2C_1359%2C_Orsanmichele_Florenz-01-185.jpg)

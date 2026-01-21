@@ -12,7 +12,7 @@ Begun in 1286, originally designed by [Arnolfo di Cambio](../artists/ArnolfoDiCa
 
 ## Architecture
 
-### Dome
+### [Dome](../artworks/DomeOfFlorenceCathedral.md)
 - **Architect**: [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md)
 - Exactly half as wide as it is tall
 
@@ -22,12 +22,12 @@ Begun in 1286, originally designed by [Arnolfo di Cambio](../artists/ArnolfoDiCa
 
 ## Artworks
 
-### Funerary Monument
+### [Funerary Monument of John Hawkwood](../artworks/FuneraryMonumentJohnHawkwood.md)
 - **Artist**: [Paolo Uccello](../artists/PaoloUccello.md)
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/2/24/Paolo_uccello%2C_Monumento_equestre_di_John_Hawkwood%2C_1436%2C_01.JPG)
 
-### Niccolò da Tolentino
+### [Niccolò da Tolentino](../artworks/NiccoloDaTolentino.md)
 - **Artist**: [Andrea del Castagno](../artists/AndreaDelCastagno.md)
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/4/41/Andrea_del_castagno%2C_Monumento_equestre_di_Niccol%C3%B2_da_Tolentino%2C_1456%2C_01.JPG)

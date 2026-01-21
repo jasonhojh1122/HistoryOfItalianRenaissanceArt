@@ -8,6 +8,7 @@ This project contains notes on Italian Renaissance Art for my upcoming travel
 - `README.md` - Navigation index with links organized by location, artist, period, and medium
 - `artists/` - Individual artist pages
 - `locations/` - Individual location pages
+- `artworks/` - Individual artwork pages
 - `img/` - Local images (floor plans, diagrams, etc.)
 
 # Article Templates
@@ -80,3 +81,32 @@ City, Country
 - Each artwork as a separate heading
 - Artist links connect to artist articles
 - Medium specified for each work
+
+## Artwork Article Template
+
+Each artwork file should follow this structure:
+
+```markdown
+# Artwork Name
+
+[Wikipedia](https://en.wikipedia.org/wiki/Artwork_Name)
+
+- **Artist**: [Artist Name](../artists/ArtistFile.md)
+- **Location**: [Location Name](../locations/LocationFile.md), City
+- **Medium**: (fresco, marble, bronze, oil on panel, etc.)
+- **Date**: (if known)
+
+## Description
+
+Key observations, art historical significance, and notable details.
+
+![img](image_url_or_path)
+```
+
+### Template Notes
+
+- Wikipedia link at the top for quick reference
+- Artist and Location links connect to their respective articles
+- Medium and date for context
+- Description section for art historical significance
+- Image at the end

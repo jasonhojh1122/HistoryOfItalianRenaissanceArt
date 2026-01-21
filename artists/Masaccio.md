@@ -6,7 +6,7 @@ Major figure in the transition to Renaissance painting.
 
 ## Artworks
 
-### Trinity
+### [Trinity](../artworks/Trinity.md)
 - **Location**: [Santa Maria Novella](../locations/SantaMariaNovella.md), Florence
 - Collaboration with [Masolino](Masolino.md)
 

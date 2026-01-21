@@ -6,7 +6,7 @@ Added light source to his painting.
 
 ## Artworks
 
-### Last Judgement
+### [Last Judgement](../artworks/LastJudgementCavallini.md)
 - **Location**: [Santa Cecilia in Trastevere](../locations/SantaCeciliaInTrastevere.md), Rome
 - **Period**: Duecento (1200s)
 - **Medium**: Mosaics

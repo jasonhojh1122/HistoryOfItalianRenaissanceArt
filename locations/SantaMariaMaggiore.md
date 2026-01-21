@@ -4,7 +4,7 @@ Rome, Italy
 
 ## Artworks
 
-### Mosaic in Santa Maria Maggiore
+### [Mosaic in Santa Maria Maggiore](../artworks/MosaicSantaMariaMaggiore.md)
 - **Artist**: [Jacopo Torriti](../artists/JacopoTorriti.md)
 - **Period**: Duecento (1200s)
 

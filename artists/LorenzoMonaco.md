@@ -4,7 +4,7 @@
 
 ## Artworks
 
-### Coronation of the Virgin
+### [Coronation of the Virgin](../artworks/CoronationOfTheVirgin.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/2/2a/Monaco_coronation.jpg)

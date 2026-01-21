@@ -4,7 +4,7 @@
 
 ## Artworks
 
-### Hours of Gian Galeazzo Visconti
+### [Hours of Gian Galeazzo Visconti](../artworks/HoursOfGianGaleazzoVisconti.md)
 - **Location**: [Biblioteca Nazionale](../locations/BibliotecaNazionale.md), Florence
 - Commissioned by [Gian Galeazzo Visconti](GianGaleazzoVisconti.md)
 

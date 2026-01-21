@@ -4,7 +4,7 @@ Florence, Italy
 
 ## Artworks
 
-### Madonna with Child with scenes of life of Saint Anne
+### [Madonna with Child with scenes of life of Saint Anne (Pitti Tondo)](../artworks/PittiTondo.md)
 - **Artist**: [Filippo Lippi](../artists/FilippoLippi.md)
 - Tondo: circular picture
 

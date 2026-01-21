@@ -4,7 +4,7 @@
 
 ## Artworks
 
-### Four Crowned Martyrs
+### [Four Crowned Martyrs](../artworks/FourCrownedMartyrs.md)
 - **Location**: [Orsanmichele](../locations/Orsanmichele.md), Florence
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/e/e0/FirenzeOrsanmichele03.jpg)

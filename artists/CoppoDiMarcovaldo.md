@@ -4,7 +4,7 @@
 
 ## Artworks
 
-### Part of the ceiling of Baptistery of Florence
+### [Baptistery Ceiling Mosaic](../artworks/BaptisteryCeilingMosaic.md)
 - **Location**: [Baptistery of Florence](../locations/BaptisteryOfFlorence.md)
 - **Period**: Duecento (1200s)
 

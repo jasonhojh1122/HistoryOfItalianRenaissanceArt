@@ -8,7 +8,7 @@ Last Italo-Byzantine painter.
 
 ## Artworks
 
-### Enthroned Madonna and Child with Angels and Prophets
+### [Enthroned Madonna and Child with Angels and Prophets](../artworks/EnthronedMadonnaAndChildWithAngelsAndProphets.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Period**: Duecento (1200s)
 

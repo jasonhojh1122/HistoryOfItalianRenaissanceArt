@@ -9,7 +9,7 @@ Follower of Giotto.
 ### Baroncelli Chapel
 - **Location**: [Santa Croce](../locations/SantaCroce.md), Florence
 
-### Frescoes of the Last Supper With the Tree of Life
+### [Last Supper with the Tree of Life](../artworks/LastSupperWithTheTreeOfLife.md)
 - **Location**: [Santa Croce](../locations/SantaCroce.md), Florence (Refectory)
 - Judas is located on "our" side of the table, until Leonardo's Last Supper
 

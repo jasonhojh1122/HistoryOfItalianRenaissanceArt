@@ -4,7 +4,7 @@ Florence, Italy
 
 ## Artworks
 
-### Hours of Gian Galeazzo Visconti
+### [Hours of Gian Galeazzo Visconti](../artworks/HoursOfGianGaleazzoVisconti.md)
 - **Artist**: [Giovannino dei Grassi](../artists/GiovanninoDeiGrassi.md)
 - **Patron**: [Gian Galeazzo Visconti](../artists/GianGaleazzoVisconti.md)
 

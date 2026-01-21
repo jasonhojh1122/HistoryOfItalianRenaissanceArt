@@ -4,7 +4,7 @@
 
 ## Artworks
 
-### Mosaic in Santa Maria Maggiore
+### [Mosaic in Santa Maria Maggiore](../artworks/MosaicSantaMariaMaggiore.md)
 - **Location**: [Santa Maria Maggiore](../locations/SantaMariaMaggiore.md), Rome
 - **Period**: Duecento (1200s)
 

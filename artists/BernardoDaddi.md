@@ -6,6 +6,6 @@ Follower of Giotto.
 
 ## Artworks
 
-### Fresco in Baroncelli Chapel
+### [Baroncelli Chapel Frescoes](../artworks/BaroncelliChapelFrescoes.md)
 - **Location**: [Santa Croce](../locations/SantaCroce.md), Florence (Baroncelli Chapel)
 - **Medium**: Fresco

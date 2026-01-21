@@ -6,7 +6,7 @@ Master of naturalistic landscape and atmospheric effects.
 
 ## Artworks
 
-### Adoration of the Magi
+### [Adoration of the Magi](../artworks/AdorationOfTheMagi.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - Lower left corner shows a more natural light
 
