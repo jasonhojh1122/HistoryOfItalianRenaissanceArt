@@ -193,7 +193,7 @@
 
 ### Transitions In Tuscan Sculpture
 
-- Competition panel for the second set of bronze doors for the Florence Baptistery  
+- Competition panel for the second set of bronze doors for the Florence Baptistery
   ![img](img/BrunelleschiVersusGhiberti.png)
   - Left: Brunelleschi. Servant in the left's pose is derived from based Spinario, a popular Roman sculpture. Each figures was cast individually
   - Right: Lorenzo Ghiberti. Only Issac figure was cast separately. Thus the whole piece is lighter but stronger.
@@ -333,6 +333,9 @@
 
 ### Art in Florence Under The Medici I
 
+- [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - [Penitent Magdalene](https://en.wikipedia.org/wiki/Penitent_Magdalene_(Donatello)), Opera del Duomo Museum, Florence
+  - ![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Donatello%2C_maria_maddalena_02.JPG)
 ## Terms
 
 - Christus triumphans: A cross with a alive Christ
