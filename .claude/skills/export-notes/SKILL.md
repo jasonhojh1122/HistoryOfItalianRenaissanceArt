@@ -1,20 +1,21 @@
 ---
 name: export-notes
-description: Export notes from NOTES.md to individual markdown files for artists, locations, and artworks following the templates defined in CLAUDE.md. Use when you need to sync reading notes to the structured article format.
+description: Export notes from NOTES.md to individual markdown files for artists, locations, artworks, and terms following the templates defined in CLAUDE.md. Use when you need to sync reading notes to the structured article format.
 ---
 
 # Export Notes
 
-Export reading notes from `NOTES.md` to individual markdown files in `artists/`, `locations/`, and `artworks/` directories.
+Export reading notes from `NOTES.md` to individual markdown files in `artists/`, `locations/`, and `artworks/` directories, plus a `terms.md` glossary file.
 
 ## Workflow
 
 ### 1. Read and Parse NOTES.md
 
 Read `NOTES.md` and identify:
-- **Artists**: Lines with `[Artist Name](wikipedia_link)` format, followed by artworks
+- **Artists**: Lines with `[Artist Name](wikipedia_link)` format, or the first level indent under h3, usually followed by artworks
 - **Artworks**: Indented items under artists with artwork names and details
-- **Locations**: Architecture sections with location links and floor plans
+- **Locations**: Architecture sections with location links, or location lists after artwork name
+- **Terms**: Items under the `## Terms` section containing art history terminology
 
 ### 2. Extract Entity Information
 
@@ -40,6 +41,11 @@ For each entity, extract:
 - Floor plan (if mentioned)
 - List of artworks housed there
 
+**Terms**:
+- Term name
+- Definition/translation
+- Any additional context
+
 ### 3. Generate File Names
 
 Convert names to PascalCase filenames:
@@ -51,8 +57,6 @@ Remove articles (The, A), prepositions, and punctuation. Keep proper nouns capit
 
 ### 4. Apply Templates
 
-Use the templates from CLAUDE.md:
-
 **Artist Template**:
 ```markdown
 # Artist Name
@@ -63,13 +67,9 @@ Brief biographical context: guild membership, teacher/influences, distinctive st
 
 ## Artworks
 
-### [Artwork Name](../artworks/ArtworkFile.md)
+### [Artwork A Name](../artworks/ArtworkAFile.md)
+### [Artwork B Name](../artworks/ArtworkBFile.md)
 
-- **Location**: [Location Name](../locations/LocationFile.md), City
-- **Medium**: (fresco, marble, bronze, etc.)
-- Key observations and significance
-
-![img](image_url)
 ```
 
 **Location Template**:
@@ -77,6 +77,7 @@ Brief biographical context: guild membership, teacher/influences, distinctive st
 # Location Name
 
 [Wikipedia](https://en.wikipedia.org/wiki/Location_Name)
+[GoogleMap](links to google map if possble)
 
 City, Country
 
@@ -87,12 +88,6 @@ Architectural style (if applicable).
 ## Artworks
 
 ### [Artwork Name](../artworks/ArtworkFile.md)
-
-- **Artist**: [Artist Name](../artists/ArtistFile.md)
-- **Medium**: (fresco, sculpture, etc.)
-- Notable details
-
-![img](image_url)
 ```
 
 **Artwork Template**:
@@ -111,6 +106,21 @@ Architectural style (if applicable).
 Key observations and art historical significance.
 
 ![img](image_url)
+```
+
+**Terms File** (`terms.md` in root directory):
+```markdown
+# Art History Terms
+
+## Religious & Iconographic Terms
+
+### Term Name
+Definition or translation. Additional context if available.
+
+## Artistic Techniques
+
+### Term Name
+Definition or explanation.
 ```
 
 ### 5. Cross-Reference Links
@@ -137,7 +147,8 @@ When the user asks to export notes:
    - Create/update the artist file in `artists/`
    - Create/update artwork files in `artworks/` for each artwork
    - Create/update location files in `locations/` for each location mentioned
-4. Report what was created/updated
+4. If `## Terms` section exists, create/update `terms.md` in the root directory
+5. Report what was created/updated
 
 ## Example
 
@@ -161,11 +172,6 @@ Generate:
 ## Artworks
 
 ### [Crucifix](../artworks/CrucifixGiotto.md)
-
-- **Location**: [Santa Maria Novella](../locations/SantaMariaNovella.md), Florence
-- Earliest artwork by Giotto
-
-![img](image_url)
 ```
 
 **artworks/CrucifixGiotto.md**:
@@ -184,14 +190,11 @@ Earliest artwork by Giotto.
 
 **locations/SantaMariaNovella.md** (add to existing or create):
 ```markdown
+# Santa Maria Novella
+
 ## Artworks
 
 ### [Crucifix](../artworks/CrucifixGiotto.md)
-
-- **Artist**: [Giotto di Bondone](../artists/GiottoDiBondone.md)
-- Earliest artwork by Giotto
-
-![img](image_url)
 ```
 
 ## Notes

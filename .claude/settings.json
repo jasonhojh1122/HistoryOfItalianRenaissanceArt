@@ -1,5 +1,7 @@
 {
   "skills": [
-    ".claude/skills/wikipedia-search"
+    ".claude/skills/wikipedia-search",
+    ".claude/skills/google-map-search",
+    ".claude/skills/export-notes"
   ]
 }
