@@ -1,9 +1,11 @@
 # Legend of the True Cross
 
+[Wikipedia](https://en.wikipedia.org/wiki/Legend_of_the_True_Cross_(Gaddi))
+
 - **Artist**: [Agnolo Gaddi](../artists/AgnoloGaddi.md)
 - **Location**: [Santa Croce](../locations/SantaCroce.md), Florence
 - **Medium**: Fresco
-- **Date**: 1385-1387
+- **Date**: 1385–1387
 
 ## Description
 

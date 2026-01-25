@@ -1,6 +1,13 @@
 # Santa Cecilia in Trastevere
 
+[Wikipedia](https://en.wikipedia.org/wiki/Santa_Cecilia_in_Trastevere)
+
+[GoogleMap](https://maps.google.com/?q=Santa%20Cecilia%20in%20Trastevere%2C%20Rome%2C%20Italy)
+
 Rome, Italy
+
+**Type**: Church
+**Architectural style**: Romanesque, Baroque
 
 ## Artworks
 

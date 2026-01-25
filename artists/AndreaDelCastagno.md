@@ -2,6 +2,11 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Andrea_del_Castagno)
 
+**Born**: c. 1421, Castagno, Republic of Florence
+**Died**: August 19, 1457, Florence
+
+Italian Renaissance painter influenced chiefly by Masaccio and Giotto. His works include frescoes in Sant'Apollonia and the painted equestrian monument of Niccolò da Tolentino in Florence Cathedral. He influenced the Ferrarese school of Cosmè Tura, Francesco del Cossa, and Ercole de' Roberti.
+
 ## Artworks
 
 ### [Last Supper](../artworks/LastSupperCastagno.md)

@@ -1,6 +1,12 @@
 # Uffizi Gallery
 
+[Wikipedia](https://en.wikipedia.org/wiki/Uffizi)
+
+[GoogleMap](https://maps.google.com/?q=Uffizi%20Gallery%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Museum
 
 ## Artworks
 
@@ -50,3 +56,42 @@ Florence, Italy
 - Fought in Hussite war, beaten by Jan Zizka
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/0/0e/Andrea_del_Castagno_-_Pippo_Spano%2C_Niccol%C3%B2_Acciaiuoli%2C_Francesco_Petrarca_-_Google_Art_Project.jpg)
+
+### [Hercules and the Hydra](../artworks/HerculesAndTheHydra.md)
+- **Artist**: [Antonio del Pollaiuolo](../artists/AntonioDelPollaiuolo.md)
+- First large-scale Renaissance works about mythology
+
+### [Hercules Slaying Antaeus](../artworks/HerculesSlayingAntaeus.md)
+- **Artist**: [Antonio del Pollaiuolo](../artists/AntonioDelPollaiuolo.md)
+
+### [The Baptism of Christ](../artworks/BaptismOfChrist.md)
+- **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md) (with Leonardo da Vinci)
+
+### [Adoration of the Magi](../artworks/AdorationOfTheMagiBotticelli.md)
+- **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
+- Includes portraits of the Medici family
+
+### [Madonna of the Magnificat](../artworks/MadonnaOfTheMagnificat.md)
+- **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
+- Tondo format
+
+### [Primavera](../artworks/Primavera.md)
+- **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
+
+### [Birth of Venus](../artworks/BirthOfVenus.md)
+- **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
+
+### [Portrait of a Man with a Medal of Cosimo de Medici](../artworks/PortraitOfAManWithAMedal.md)
+- **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
+
+### [Cestello Annunciation](../artworks/CestelloAnnunciation.md)
+- **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
+
+### [Calumny of Apelles](../artworks/CalumnyOfApelles.md)
+- **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
+
+### [Adoration of the Shepherds](../artworks/AdorationOfTheShepherdsFilippinoLippi.md)
+- **Artist**: [Filippino Lippi](../artists/FilippinoLippi.md)
+
+### [Portrait of Francesco delle Opere](../artworks/PortraitOfFrancescoDelleOpere.md)
+- **Artist**: [Pietro Perugino](../artists/PietroPerugino.md)

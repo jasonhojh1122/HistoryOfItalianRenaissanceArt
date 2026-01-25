@@ -2,6 +2,11 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Andrea_Pisano)
 
+**Born**: c. 1290, Pontedera, Republic of Pisa
+**Died**: c. 1348, Orvieto
+
+Also known as Andrea da Pontedera. Italian sculptor and architect, best known for his bronze doors on the south entrance of the Florence Baptistery.
+
 ## Artworks
 
 ### [Creation of Adam](../artworks/CreationOfAdam.md)

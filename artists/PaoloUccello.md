@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Paolo_Uccello)
 
-Fascinated by perspective.
+**Born**: 1397, Pratovecchio, Republic of Florence
+**Died**: December 10, 1475, Florence
+
+Born Paolo di Dono, Uccello was an Italian Renaissance painter and mathematician notable for his pioneering work on visual perspective. According to Vasari, he was obsessed by perspective and would stay up all night trying to grasp the exact vanishing point.
 
 ![img](../img/PaoloPerceptionStudy.png)
 

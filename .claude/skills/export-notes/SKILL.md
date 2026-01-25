@@ -259,7 +259,7 @@ The first great basilica in Florence and the city's principal Dominican church. 
 
 ### Biblical Context Subjects
 
-Add a **Biblical Context** section for artworks depicting these common religious subjects:
+Add a **Biblical Context** section for artworks depicting these common religious subjects, such as but not limited to:
 - **Annunciation** - Angel Gabriel announces to Mary she will bear Jesus (Luke 1:26-38)
 - **Nativity** - Birth of Jesus in Bethlehem (Luke 2:1-20, Matthew 1:18-25)
 - **Adoration of the Magi** - Wise men visit infant Jesus (Matthew 2:1-12)

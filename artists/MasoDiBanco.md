@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Maso_di_Banco)
 
-Assistant of Giotto.
+**Born**: c. 1305, Florence, Republic of Florence
+**Died**: c. 1350, Florence
+
+Italian painter of the 14th century. He and Taddeo Gaddi were the most prominent Florentine pupils of Giotto, exploring the three-dimensional dramatic realism inaugurated by their master.
 
 ## Artworks
 

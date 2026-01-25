@@ -1,6 +1,12 @@
 # Orsanmichele
 
+[Wikipedia](https://en.wikipedia.org/wiki/Orsanmichele)
+
+[GoogleMap](https://maps.google.com/?q=Orsanmichele%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Church/Museum
 
 ![img](../img/SculpturalProgramAtOrsanmichele.png)
 
@@ -28,3 +34,7 @@ Florence, Italy
 - **Artist**: [Nanni di Banco](../artists/NanniDiBanco.md)
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/e/e0/FirenzeOrsanmichele03.jpg)
+
+### [Christ and Saint Thomas](../artworks/ChristAndSaintThomas.md)
+- **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md)
+- **Medium**: Bronze

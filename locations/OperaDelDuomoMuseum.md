@@ -1,6 +1,12 @@
 # Opera del Duomo Museum
 
+[Wikipedia](https://en.wikipedia.org/wiki/Museo_dell%27Opera_del_Duomo_(Florence))
+
+[GoogleMap](https://maps.google.com/?q=Museo%20dell%27Opera%20del%20Duomo%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Museum
 
 ## Artworks
 

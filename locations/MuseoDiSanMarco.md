@@ -1,6 +1,12 @@
 # Museo di San Marco
 
+[Wikipedia](https://en.wikipedia.org/wiki/Museo_di_San_Marco)
+
+[GoogleMap](https://maps.google.com/?q=Museo%20di%20San%20Marco%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Museum (former convent)
 
 ## Artworks
 

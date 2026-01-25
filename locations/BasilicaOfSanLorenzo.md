@@ -2,7 +2,12 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Basilica_of_San_Lorenzo,_Florence)
 
+[GoogleMap](https://maps.google.com/?q=Basilica%20di%20San%20Lorenzo%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Basilica
+**Architectural style**: Renaissance
 
 Designed by [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md).
 

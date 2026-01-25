@@ -1,8 +1,11 @@
 # Atys-Amorino
 
+[Wikipedia](https://en.wikipedia.org/wiki/Attis-Amorino)
+
 - **Artist**: [Donatello](../artists/Donatello.md)
 - **Location**: [Bargello](../locations/Bargello.md), Florence
 - **Medium**: Bronze
+- **Date**: c. 1440
 
 ## Description
 

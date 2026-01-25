@@ -1,8 +1,11 @@
 # Battle of San Romano
 
+[Wikipedia](https://en.wikipedia.org/wiki/The_Battle_of_San_Romano)
+
 - **Artist**: [Paolo Uccello](../artists/PaoloUccello.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Tempera on panel
+- **Date**: c. 1435–1460
 
 ## Description
 

@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Gian_Galeazzo_Visconti)
 
-First duke of Milan, bought from King Wenceslaus. Major patron of the arts.
+**Born**: October 16, 1351, Pavia
+**Died**: September 3, 1402, Melegnano
+
+First duke of Milan (1395), ruling just before the dawn of the Renaissance. He was the founding patron of the Certosa di Pavia, completed the Visconti Castle at Pavia, and furthered work on the Duomo of Milan. Major patron of the arts.
 
 ## Associated Artworks
 

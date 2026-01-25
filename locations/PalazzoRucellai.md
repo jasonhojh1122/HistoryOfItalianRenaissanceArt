@@ -2,7 +2,12 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Palazzo_Rucellai)
 
+[GoogleMap](https://maps.google.com/?q=Palazzo%20Rucellai%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Palazzo
+**Architectural style**: Renaissance
 
 Designed by [Leon Battista Alberti](../artists/LeonBattistaAlberti.md).
 

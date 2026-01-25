@@ -2,7 +2,12 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Santa_Croce,_Florence)
 
+[GoogleMap](https://maps.google.com/?q=Santa%20Croce%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Basilica
+**Architectural style**: Italian Gothic
 
 Italian Gothic architecture.
 
@@ -48,3 +53,9 @@ Italian Gothic architecture.
 - **Artist**: [Agnolo Gaddi](../artists/AgnoloGaddi.md)
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/a/a8/Florence%2C_Santa_Croce%2C_apse%2C_Legend_of_the_True_Cross%2C_frescoe_cycle_by_Agnolo_Gaddi%2C_1385-1387_north.jpg)
+
+### [Tomb of Carlo Marsuppini](../artworks/TombOfCarloMarsuppini.md)
+- **Artist**: [Desiderio da Settignano](../artists/DesiderioDaSettignano.md)
+- **Medium**: Marble
+
+![img](https://upload.wikimedia.org/wikipedia/commons/f/f9/Desiderio_da_Settignano%2C_Memorial_Tomb_for_Carlo_Marsuppini%2C_1453-55%2C_Santa_Croce%2C_Florence.jpg)

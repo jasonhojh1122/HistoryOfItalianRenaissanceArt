@@ -1,8 +1,11 @@
 # North Door of Florence Baptistery
 
-- **Artist**: [Ghiberti](../artists/LorenzoGhiberti.md)
+[Wikipedia](https://en.wikipedia.org/wiki/North_Doors_of_the_Florence_Baptistery)
+
+- **Artist**: [Lorenzo Ghiberti](../artists/LorenzoGhiberti.md)
 - **Location**: [Florence Baptistery](../locations/BaptisteryOfFlorence.md), Florence
 - **Medium**: Bronze
+- **Date**: 1403–1424
 
 ## Description
 

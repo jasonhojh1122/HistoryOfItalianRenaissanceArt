@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Donatello)
 
-Belonged to the Arte di Pietra e Legname, the guild of workers in stone and wood.
+**Born**: c. 1386, Florence, Republic of Florence
+**Died**: December 13, 1466, Florence
+
+Born Donato di Niccolò di Betto Bardi, Donatello was an Italian sculptor of the Renaissance period. He studied classical sculpture and developed an Early Renaissance style. Belonged to the Arte di Pietra e Legname, the guild of workers in stone and wood. His periods in Rome, Padua, and Siena introduced his techniques to other parts of Italy.
 
 ## Artworks
 
@@ -56,3 +59,11 @@ Belonged to the Arte di Pietra e Legname, the guild of workers in stone and wood
 [Wikipedia](https://en.wikipedia.org/wiki/Penitent_Magdalene_(Donatello))
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Donatello%2C_maria_maddalena_02.JPG)
+
+### [Judith and Holofernes](../artworks/JudithAndHolofernes.md)
+- **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
+- **Medium**: Bronze
+
+[Wikipedia](https://en.wikipedia.org/wiki/Judith_and_Holofernes_(Donatello))
+
+![img](https://upload.wikimedia.org/wikipedia/commons/5/51/Giuditta_di_donatello_04.JPG)

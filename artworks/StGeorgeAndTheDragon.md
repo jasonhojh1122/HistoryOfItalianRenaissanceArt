@@ -1,9 +1,11 @@
 # St. George and the Dragon
 
+[Wikipedia](https://en.wikipedia.org/wiki/Saint_George_(Donatello))
+
 - **Artist**: [Donatello](../artists/Donatello.md)
 - **Location**: [Bargello](../locations/Bargello.md), Florence
 - **Medium**: Marble relief
-- **Date**: 1416-1417
+- **Date**: 1416–1417
 
 ## Description
 

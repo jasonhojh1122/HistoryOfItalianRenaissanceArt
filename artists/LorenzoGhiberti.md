@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lorenzo_Ghiberti)
 
-New approach to sculpt eyes: cut out the line of the cornea and dot of the pupil.
+**Born**: 1378, Florence, Republic of Florence
+**Died**: December 1, 1455, Florence
+
+Italian Renaissance sculptor, a key figure in the Early Renaissance, best known as the creator of two sets of bronze doors of the Florence Baptistery, the later one called by Michelangelo the Gates of Paradise. Trained as a goldsmith and sculptor, he established an important workshop for sculpture in metal. New approach to sculpt eyes: cut out the line of the cornea and dot of the pupil.
 
 ## Artworks
 

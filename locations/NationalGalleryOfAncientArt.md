@@ -1,6 +1,12 @@
 # National Gallery of Ancient Art
 
+[Wikipedia](https://en.wikipedia.org/wiki/Galleria_Nazionale_d%27Arte_Antica)
+
+[GoogleMap](https://maps.google.com/?q=Galleria%20Nazionale%20d%27Arte%20Antica%2C%20Rome%2C%20Italy)
+
 Rome, Italy
+
+**Type**: Museum
 
 ## Artworks
 

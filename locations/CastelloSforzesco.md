@@ -1,6 +1,13 @@
 # Castello Sforzesco
 
+[Wikipedia](https://en.wikipedia.org/wiki/Castello_Sforzesco)
+
+[GoogleMap](https://maps.google.com/?q=Castello%20Sforzesco%2C%20Milan%2C%20Italy)
+
 Milan, Italy
+
+**Type**: Castle/Museum
+**Architectural style**: Renaissance
 
 ## Artworks
 

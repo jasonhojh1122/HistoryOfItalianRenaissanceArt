@@ -1,8 +1,11 @@
 # Competition Panel (Ghiberti)
 
-- **Artist**: [Ghiberti](../artists/LorenzoGhiberti.md)
+[Wikipedia](https://en.wikipedia.org/wiki/Florence_Baptistery_competition)
+
+- **Artist**: [Lorenzo Ghiberti](../artists/LorenzoGhiberti.md)
 - **Location**: [Bargello](../locations/Bargello.md), Florence
 - **Medium**: Bronze relief
+- **Date**: 1401
 
 ## Description
 

@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Agnolo_Gaddi)
 
-Last major Florentine painter stylistically descended from Giotto.
+**Born**: c. 1350, Florence, Republic of Florence
+**Died**: 1396, Florence
+
+Italian painter, son of Taddeo Gaddi. The last major Florentine painter stylistically descended from Giotto. Known for his Legend of the True Cross frescoes in Santa Croce.
 
 ## Artworks
 

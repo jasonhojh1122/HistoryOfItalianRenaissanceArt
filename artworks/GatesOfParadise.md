@@ -1,8 +1,11 @@
 # Gates of Paradise
 
-- **Artist**: [Ghiberti](../artists/LorenzoGhiberti.md)
+[Wikipedia](https://en.wikipedia.org/wiki/Gates_of_Paradise)
+
+- **Artist**: [Lorenzo Ghiberti](../artists/LorenzoGhiberti.md)
 - **Location**: [Florence Baptistery](../locations/BaptisteryOfFlorence.md), Florence
 - **Medium**: Gilded bronze
+- **Date**: 1425–1452
 
 ## Description
 

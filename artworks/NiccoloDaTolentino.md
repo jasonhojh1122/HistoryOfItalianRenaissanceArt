@@ -1,5 +1,7 @@
 # Niccolò da Tolentino
 
+[Wikipedia](https://en.wikipedia.org/wiki/Equestrian_Monument_of_Niccolò_da_Tolentino)
+
 - **Artist**: [Andrea del Castagno](../artists/AndreaDelCastagno.md)
 - **Location**: [Florence Cathedral](../locations/FlorenceCathedral.md), Florence
 - **Medium**: Fresco

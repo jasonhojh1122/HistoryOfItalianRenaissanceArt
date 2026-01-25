@@ -1,0 +1,17 @@
+# Cestello Annunciation
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cestello_Annunciation)
+
+- **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
+- **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
+- **Medium**: Tempera on panel
+
+## Biblical Context
+
+The Annunciation depicts the moment when the Angel Gabriel announced to the Virgin Mary that she would conceive and bear the Son of God, as described in Luke 1:26-38.
+
+## Description
+
+The strong emotions and color suggest Botticelli may have been a listener to Girolamo Savonarola, a monk from Ferrara who became the prior of San Marco. Savonarola was a preacher who advocated the destruction of secular art and culture, and was later tortured and executed.
+
+![img](https://upload.wikimedia.org/wikipedia/commons/3/3d/Botticelli%2C_annunciazione_di_cestello_02.jpg)

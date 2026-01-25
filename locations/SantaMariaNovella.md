@@ -2,7 +2,12 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Santa_Maria_Novella)
 
+[GoogleMap](https://maps.google.com/?q=Santa%20Maria%20Novella%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Basilica
+**Architectural style**: Gothic, Renaissance façade
 
 Italian Gothic architecture.
 
@@ -38,6 +43,15 @@ Italian Gothic architecture.
 - **Artist**: [Paolo Uccello](../artists/PaoloUccello.md)
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/3/39/Paolo_Uccello_%E2%80%94_Flood_and_Waters_Subsiding.jpg)
+
+### Tornabuoni Chapel
+
+#### [Tornabuoni Chapel Frescoes](../artworks/TornabuoniChapelFrescoes.md)
+- **Artist**: [Domenico Ghirlandaio](../artists/DomenicoGhirlandaio.md)
+- **Medium**: Fresco and stained glass
+- Work of his whole shop including 13-year-old apprentice Michelangelo
+
+![img](https://upload.wikimedia.org/wikipedia/commons/9/9d/Domenico_Ghirlandaio_und_Werkstatt%2C_Tornabuoni-Kapelle%2C_1486%E2%80%931490%2C_Freskenzyklus%2C_Santa_Maria_Novella%2C_Florenz.jpg)
 
 ## Architecture
 

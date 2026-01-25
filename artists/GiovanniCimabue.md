@@ -1,10 +1,11 @@
 # Giovanni Cimabue
 
-Also known as Cenni di Pepi
-
 [Wikipedia](https://en.wikipedia.org/wiki/Cimabue)
 
-Last Italo-Byzantine painter.
+**Born**: c. 1240, Florence, Republic of Florence
+**Died**: c. 1302, Pisa
+
+Also known as Cenni di Pepo or Cenni di Pepi. Italian painter and designer of mosaics from Florence. The last great Italo-Byzantine painter, he is traditionally credited as Giotto's teacher.
 
 ## Artworks
 

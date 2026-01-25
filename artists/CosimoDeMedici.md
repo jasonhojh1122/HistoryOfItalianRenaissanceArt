@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Cosimo_de%27_Medici)
 
-Major patron of the arts who shaped the early Renaissance in Florence.
+**Born**: September 27, 1389, Florence
+**Died**: August 1, 1464, Careggi
+
+Known as Cosimo the Elder (Cosimo il Vecchio), he was the founder of the Medici political dynasty and the first of the Medici family to effectively rule Florence as an unofficial head of state. Major patron of the arts who shaped the early Renaissance.
 
 ## Achievements
 

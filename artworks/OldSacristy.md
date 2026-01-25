@@ -1,8 +1,11 @@
 # Old Sacristy (Sagrestia Vecchia)
 
-- **Artist**: [Brunelleschi](../artists/FilippoBrunelleschi.md)
+[Wikipedia](https://en.wikipedia.org/wiki/Old_Sacristy)
+
+- **Artist**: [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md)
 - **Location**: [San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
 - **Medium**: Architecture
+- **Date**: 1421–1428
 
 ## Description
 

@@ -1,6 +1,13 @@
 # Pitti Gallery
 
+[Wikipedia](https://en.wikipedia.org/wiki/Palazzo_Pitti)
+
+[GoogleMap](https://maps.google.com/?q=Palazzo%20Pitti%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Museum/Palace
+**Architectural style**: Renaissance
 
 ## Artworks
 

@@ -1,8 +1,11 @@
 # Funerary Monument of John Hawkwood
 
+[Wikipedia](https://en.wikipedia.org/wiki/Funerary_Monument_to_Sir_John_Hawkwood)
+
 - **Artist**: [Paolo Uccello](../artists/PaoloUccello.md)
 - **Location**: [Florence Cathedral](../locations/FlorenceCathedral.md), Florence
 - **Medium**: Fresco
+- **Date**: 1436
 
 ## Description
 

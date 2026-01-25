@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Giotto)
 
-Major figure of the Early Trecento Florentine art.
+**Born**: c. 1267, Vespignano, Republic of Florence
+**Died**: January 8, 1337, Florence
+
+Italian painter and architect from Florence during the Late Middle Ages. Giotto was "the most sovereign master of painting in his time, who drew all his figures and their postures according to nature." He is considered a major figure of the Early Trecento and Proto-Renaissance period.
 
 ## Artworks
 

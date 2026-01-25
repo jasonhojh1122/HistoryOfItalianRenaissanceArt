@@ -1,6 +1,12 @@
 # Bargello
 
+[Wikipedia](https://en.wikipedia.org/wiki/Bargello)
+
+[GoogleMap](https://maps.google.com/?q=Bargello%20Museum%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Museum
 
 ## Artworks
 
@@ -32,3 +38,14 @@ Florence, Italy
 - Pose is derived from contrapposto, left knee comes forward against the cloth
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/7/7f/Florence_-_David_by_Donatello.jpg)
+
+### [Hercules and Antaeus (Bronze)](../artworks/HerculesAndAntaeusBronze.md)
+- **Artist**: [Antonio del Pollaiuolo](../artists/AntonioDelPollaiuolo.md)
+
+### [Portrait of a Lady with Flowers](../artworks/PortraitOfALadyWithFlowers.md)
+- **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md)
+- First three-quarter-length sculpted portrait since antiquity
+
+### [David](../artworks/DavidVerrocchio.md)
+- **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md)
+- With leather cloth, smiling instead of uncertain expression

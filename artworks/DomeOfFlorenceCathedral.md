@@ -1,8 +1,11 @@
 # Dome of Florence Cathedral
 
-- **Artist**: [Brunelleschi](../artists/FilippoBrunelleschi.md)
+[Wikipedia](https://en.wikipedia.org/wiki/Dome_of_Florence_Cathedral)
+
+- **Artist**: [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md)
 - **Location**: [Florence Cathedral](../locations/FlorenceCathedral.md), Florence
 - **Medium**: Architecture (brick)
+- **Date**: 1420–1436
 
 ## Description
 

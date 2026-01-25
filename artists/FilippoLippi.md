@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Filippo_Lippi)
 
-Influenced by Masaccio.
+**Born**: c. 1406, Florence, Republic of Florence
+**Died**: October 8, 1469, Spoleto
+
+Italian Renaissance painter of the Quattrocento and a Carmelite priest. Known as Lippo Lippi, he was influenced by Masaccio. He taught many painters including Sandro Botticelli. His son Filippino Lippi also became a distinguished painter.
 
 ## Artworks
 

@@ -1,8 +1,11 @@
 # Madonna with Child with Scenes of the Life of Saint Anne (Pitti Tondo)
 
+[Wikipedia](https://en.wikipedia.org/wiki/Pitti_Tondo)
+
 - **Artist**: [Filippo Lippi](../artists/FilippoLippi.md)
 - **Location**: [Pitti Gallery](../locations/PittiGallery.md), Florence
 - **Medium**: Tempera on panel (tondo)
+- **Date**: c. 1452
 
 ## Description
 

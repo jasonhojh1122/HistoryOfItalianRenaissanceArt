@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pietro_Cavallini)
 
-Added light source to his painting.
+**Born**: c. 1250, Rome
+**Died**: c. 1330, Rome
+
+Italian artist active during the late Middle Ages. His most famous surviving works include the Last Judgment fresco at Santa Cecilia in Trastevere and the Life of the Virgin Mary mosaic cycle at Santa Maria in Trastevere. He pioneered the use of light sources in his paintings.
 
 ## Artworks
 

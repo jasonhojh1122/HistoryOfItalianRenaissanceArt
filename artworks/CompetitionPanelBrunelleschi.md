@@ -1,8 +1,11 @@
 # Competition Panel (Brunelleschi)
 
-- **Artist**: [Brunelleschi](../artists/FilippoBrunelleschi.md)
+[Wikipedia](https://en.wikipedia.org/wiki/Florence_Baptistery_competition)
+
+- **Artist**: [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md)
 - **Location**: [Bargello](../locations/Bargello.md), Florence
 - **Medium**: Bronze relief
+- **Date**: 1401
 
 ## Description
 

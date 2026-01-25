@@ -1,8 +1,11 @@
 # Enthroned Madonna and Child (Tarquinia Madonna)
 
+[Wikipedia](https://en.wikipedia.org/wiki/Enthroned_Madonna_and_Child_(Filippo_Lippi))
+
 - **Artist**: [Filippo Lippi](../artists/FilippoLippi.md)
 - **Location**: [National Gallery of Ancient Art](../locations/NationalGalleryOfAncientArt.md), Rome
 - **Medium**: Tempera on panel
+- **Date**: 1437
 
 ## Description
 

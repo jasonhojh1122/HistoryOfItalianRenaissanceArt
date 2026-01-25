@@ -2,7 +2,12 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Florence_Baptistery)
 
+[GoogleMap](https://maps.google.com/?q=Florence%20Baptistery%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Baptistery
+**Architectural style**: Romanesque
 
 Around 11th century.
 

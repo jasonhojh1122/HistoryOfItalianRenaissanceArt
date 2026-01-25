@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Gentile_da_Fabriano)
 
-Master of naturalistic landscape and atmospheric effects.
+**Born**: c. 1370, Fabriano, Papal States
+**Died**: 1427, Rome
+
+Italian painter known for his participation in the International Gothic pictorial style. Master of naturalistic landscape and atmospheric effects. Worked in various places in central Italy, mostly in Tuscany.
 
 ## Artworks
 

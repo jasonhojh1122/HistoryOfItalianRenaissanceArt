@@ -2,6 +2,11 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Jacopo_Torriti)
 
+**Born**: Unknown, Italy
+**Died**: After 1295
+
+Italian painter and mosaic maker active in the late 13th century. Known for his apse mosaics in Santa Maria Maggiore and San Giovanni in Laterano in Rome.
+
 ## Artworks
 
 ### [Mosaic in Santa Maria Maggiore](../artworks/MosaicSantaMariaMaggiore.md)

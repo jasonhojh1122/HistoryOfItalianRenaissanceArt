@@ -2,7 +2,12 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Loggia_dei_Lanzi)
 
+[GoogleMap](https://maps.google.com/?q=Loggia%20dei%20Lanzi%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Loggia/Open-air sculpture gallery
+**Architectural style**: Gothic
 
 Begun in 1376, built as a speakers' platform.
 

@@ -1,8 +1,11 @@
 # The Madonna and Child with Saints
 
+[Wikipedia](https://en.wikipedia.org/wiki/Santa_Lucia_de'_Magnoli_Altarpiece)
+
 - **Artist**: [Domenico Veneziano](../artists/DomenicoVeneziano.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Tempera on panel
+- **Date**: c. 1445–1447
 
 ## Description
 

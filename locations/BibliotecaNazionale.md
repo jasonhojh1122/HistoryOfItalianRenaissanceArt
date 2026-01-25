@@ -1,6 +1,12 @@
 # Biblioteca Nazionale
 
+[Wikipedia](https://en.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze)
+
+[GoogleMap](https://maps.google.com/?q=Biblioteca%20Nazionale%20Centrale%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Library
 
 ## Artworks
 

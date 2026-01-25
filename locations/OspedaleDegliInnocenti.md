@@ -2,7 +2,12 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ospedale_degli_Innocenti)
 
+[GoogleMap](https://maps.google.com/?q=Ospedale%20degli%20Innocenti%2C%20Florence%2C%20Italy)
+
 Florence, Italy
+
+**Type**: Historical building/Museum
+**Architectural style**: Renaissance
 
 Designed by [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md).
 

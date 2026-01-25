@@ -1,8 +1,11 @@
 # Andrea da Firenze
 
-[Wikipedia](https://en.wikipedia.org/wiki/Andreas_de_Florentia)
+[Wikipedia](https://en.wikipedia.org/wiki/Andrea_di_Bonaiuto_da_Firenze)
 
-Active during the Later Gothic period in Tuscany.
+**Born**: Unknown, Florence
+**Died**: c. 1377, Florence
+
+Also known as Andrea di Bonaiuto. Italian painter active in Florence during the Later Gothic period in Tuscany. Known for his frescoes in the Chapter House (Spanish Chapel) of Santa Maria Novella.
 
 ## Artworks
 

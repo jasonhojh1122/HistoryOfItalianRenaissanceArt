@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Fra_Angelico)
 
-Influenced by Masaccio. Known for new naturalism and harmony of figures and landscape.
+**Born**: c. 1395, Vicchio, Republic of Florence
+**Died**: February 18, 1455, Rome
+
+Born Guido di Pietro, Fra Giovanni da Fiesole was a Dominican friar and painter active during the early Florentine Renaissance. Influenced by Masaccio, he was known for new naturalism and harmony of figures and landscape. Beatified by Pope John Paul II in 1982.
 
 ## Artworks
 

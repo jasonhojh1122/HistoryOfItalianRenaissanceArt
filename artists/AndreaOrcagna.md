@@ -2,7 +2,10 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Orcagna)
 
-Active during the Later Gothic period in Tuscany.
+**Born**: c. 1308, Florence, Republic of Florence
+**Died**: c. 1368, Florence
+
+Andrea di Cione di Arcangelo, known as Orcagna, was an Italian painter, sculptor, and architect. He worked as a consultant at the Florence Cathedral and supervised construction of the façade at Orvieto Cathedral. His monumental marble tabernacle at Orsanmichele (1352–1359) was immediately praised.
 
 ## Artworks
 
