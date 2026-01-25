@@ -335,7 +335,218 @@
 
 - [Donatello](https://en.wikipedia.org/wiki/Donatello)
   - [Penitent Magdalene](https://en.wikipedia.org/wiki/Penitent_Magdalene_(Donatello)), Opera del Duomo Museum, Florence
-  - ![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Donatello%2C_maria_maddalena_02.JPG)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Donatello%2C_maria_maddalena_02.JPG)
+
+  - [Judith and Holofernes](https://en.wikipedia.org/wiki/Judith_and_Holofernes_(Donatello)), Palazzo Vecchio, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/5/51/Giuditta_di_donatello_04.JPG)
+
+- [Desiderio da Settignano](https://en.wikipedia.org/wiki/Desiderio_da_Settignano)
+  - Stonecutter
+  - Tomb of Carlo Marsuppini, Santa Croce, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/f/f9/Desiderio_da_Settignano%2C_Memorial_Tomb_for_Carlo_Marsuppini%2C_1453-55%2C_Santa_Croce%2C_Florence.jpg)
+
+- [Giuliano da Maiano](https://en.wikipedia.org/wiki/Giuliano_da_Maiano)
+
+  - Part of North Sacristy of Florence Cathedral
+    - Intarsia decoration
+    - ![img](img/NorthSacristyofFlorenceCathedral.png)
+
+- [Benedetto da Maiano](https://en.wikipedia.org/wiki/Benedetto_da_Maiano)
+
+  - [Palazzo Strozzi](https://en.wikipedia.org/wiki/Palazzo_Strozzi)
+
+- [Benozzo Gozzoli](https://en.wikipedia.org/wiki/Benozzo_Gozzoli)
+  - Procession of the Magi, Palazzo Medici Riccardi, Florence
+    - Company of the Magi: a religious organization the Medici eblonged to
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/be/Gozzoli_magi.jpg)
+
+### Art in Florence Under The Medici II
+
+- All nature, plant, animal, human are all worthy of study
+- Concern more of life of the spirit than the outer world
+- Emphazies here and now
+
+- [Antonio del Pollaiuolo](https://en.wikipedia.org/wiki/Antonio_del_Pollaiuolo)
+  - Excels in subjects of action
+  - [Hercules and the Hydra](https://en.wikipedia.org/wiki/Hercules_and_the_Hydra_(Pollaiuolo)), Uffizi Gallery, Florence
+    - First large-scale Renaissance works about mythology
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/f/f1/Antonio_del_Pollaiolo%2C_Ercole_e_l%27Idra%2C_1470-75_ca._%28Uffizi%29_02-edit.jpg)
+  - [Hercules slaying Antaeus](https://en.wikipedia.org/wiki/Hercules_Slaying_Antaeus), Uffizi Gallery, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b4/Antonio_del_Pollaiolo%2C_Ercole_e_Anteo%2C_1470-75_ca._%28Uffizi%29.jpg)
+
+  - Hercules And Antaeuos, bronze, Bargello, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b9/Antonio_del_pollaiolo%2C_ercole_e_anteo%2C_01.JPG)
+
+  - Tomb of Pope Sixtus IV, St Peter's Basilica, Rome
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/6/61/Tesoro_di_San_Pietro%2C_tomba_di_Sisto_IV_di_Antonio_del_Pollaiolo%2C_03-edit.jpg)
+
+- [Andrea del Verrocchio](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio)
+  - Teacher of Leonardo da Vinci
+  - [The Baptism of Christ](https://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Verrocchio_and_Leonardo)), Uffizi Gallery, Florence
+    - ![img](https://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Verrocchio_and_Leonardo)#/media/File:The_Baptism_of_Christ_(Verrocchio_and_Leonardo).jpg)
+
+  - [Christ and Saint Thomas](https://en.wikipedia.org/wiki/Christ_and_Saint_Thomas_(Verrocchio)), Orsanmichele, Florence
+    - ![img](https://en.wikipedia.org/wiki/Christ_and_Saint_Thomas_(Verrocchio)#/media/File:Museo_di_orsanmichele,_verrocchio,_incredulit%C3%A0_di_s._tommaso_03.JPG)
+
+  - Portrait Of A Lady With Flowers, Bargello, Florence
+    - First three-quarter-length sculpted portrait since antiquity
+    - ![img](PortraitOfALadyWithFlowers.png)
+
+  - David, Bargello, Florence
+    - With leather cloth, smiling instead of uncertain expression
+    - ![img](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio#/media/File:David,_Andrea_del_Verrocchio,_ca._1466-69,_Bargello_Florenz-01.jpg)
+
+  - [Equestrian statue of Bartolomeo Colleoni](https://en.wikipedia.org/wiki/Equestrian_statue_of_Bartolomeo_Colleoni_(Venice)), Basilica dei Santi Giovanni e Paolo, Venice
+    - [Basilica dei Santi Giovanni e Paolo](https://maps.google.com/?q=Basilica%20dei%20Santi%20Giovanni%20e%20Paolo%20church%2C%20Venice%2C%20Italy)
+
+- [Alessandro Botticelli](https://en.wikipedia.org/wiki/Sandro_Botticelli)
+  - Active in the shop of Verrocchio, along with young Leonardo da Vinci.
+  - [Adoration of the Magi](https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Botticelli)), Uffizi Gallery, Florence
+    - Cosimo was painted as the oldest magus, kneeling before the Christ.
+    - The other tow magi are Giovanni and Coriomo' son, Piero the Gouty.
+    - The left most youth may be Lorenzo.
+    - The right, dark haired youth may be Giuliano, Lorenzo's brother.
+    - The right, with gold-colored cloak is believed to be Botticelli self portrait.
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/9/9d/Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg)
+
+  - [Punishment of the Korah, Dathan and Abiram](https://en.wikipedia.org/wiki/Punishment_of_the_Sons_of_Korah), Sistine Chapel, Vatican
+  - Story narrated from left to right. In the left, ther earth opens up.
+  - In the center, figures offering false fire the the lord was consumed by the fire.
+  - In the right, Moses seeks refuge from Israelites who stoned him.
+  - Moses' forehead ray if from biblical text
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/2/2f/Botticcelli%2C_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg)
+
+  - [Youth of Moses](https://en.wikipedia.org/wiki/Youth_of_Moses), Sistine Chapel, Vatican
+    - ![img](https://en.wikipedia.org/wiki/Youth_of_Moses#/media/File:Eventos_de_la_vida_de_Mois%C3%A9s_(Sandro_Botticelli).jpg)
+
+  - [Madonna of the Magnificat](https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat), Uffizi Gallery, Florence
+    - Probably a wedding present of a gift for a birth of a child.
+    - Changing size from 33 to 46 inches is typical at the time.
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/0/04/Magnificat_Madonna_-_Botticelli_%28uffici%29_b.jpg)
+
+  - [Primavera](https://en.wikipedia.org/wiki/Primavera_(Botticelli)), Uffizi Gallery, Florence
+    - Primavera means Spring.
+    - At the right, the wind god Zephyrus pursuit the virgin nymph Chloris. Chloris then transfers into Flora, goddess of Spring, in her left.
+    - At the left, Mercury dispel the storm.
+    - At the center stands Venus, goddess of Love, Beauty and Marriage.
+    - Links to the Medici: the oranges are similar to the red palle(balls) in Medici coat of arms. Flames on Mercury and Venus neck and breasts are the fires of St. Lawrence(Lorenzo)
+      - ![MediciBall](img/MediciBall.png)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/3/3c/Botticelli-primavera.jpg)
+
+  - [Birth of Venus](https://en.wikipedia.org/wiki/The_Birth_of_Venus), Uffizi Gallery, Florence
+    - In the left are Zephyrus and a nymph.
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
+
+  - [Portrait of a Man with a Medal of Cosimo de Medici](https://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder), Uffizi Gallery, Flornce
+    - The man may be Lorenzo di Pierfrancesco
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/4/41/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder_-_Sandro_Botticelli_%28edit%29.jpg)
+
+  - [Cestello Annunciation](https://en.wikipedia.org/wiki/Cestello_Annunciation), Uffizi Gallery, Florence
+    - The strong emotions, color suggest he may be a listener to [Girolamo Savonarola](https://en.wikipedia.org/wiki/Girolamo_Savonarola), a monk from Ferrara who became the prior of San Marco. Savonarola was a preacher who advocate the destruction of secular art and culture and later tortured and executed.
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/3/3d/Botticelli%2C_annunciazione_di_cestello_02.jpg)
+
+  - [Calumny of Apelles](https://en.wikipedia.org/wiki/Calumny_of_Apelles), Uffize Gallery, Florence
+    - Maybe in defence of Girolamo Savonarola.
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/1/13/Sandro_Botticelli_La_calumnia_de_Apeles.jpg)
+
+- [Filippino Lippi](https://en.wikipedia.org/wiki/Filippino_Lippi)
+  - Son of Filippo Lippi
+
+  - Adoration of the Shephers, Uffize Gallery, Florence
+
+    - ![img](img/AdorationOfTheShephers.png)
+
+- [Domenico Ghirlandaio](https://en.wikipedia.org/wiki/Domenico_Ghirlandaio)
+  - The Last Supper, San Marco, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/0/0a/Ghirlandaio%2C_ultima_cena_di_san_marco.jpg)
+
+  - The Confirmation fo the Franciscan Rule by Pope Honorius III, Sassetti Chapel, Basilica di Santa Trinita, Florence
+    - Four portrait to the right are Antonio Pucci, Lorenzo the Magnificent, Francesco and Fegerigo Sassetti
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/d/dc/Cappella_Sassetti_Confirmation_of_the_Franciscan_Rule_2.jpg)
+
+  - Adoration of the Shepherds, Sassetti Chapel, Basilica di Santa Trinita, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/8/84/Anbetung_der_Hirten.jpg)
+
+  - Series of frescoes and stained glass in Tornabuoni Chapel, Santa Maria Novella, Florence
+    - Work of his whole shop including 13 year old apprentice Michelangelo
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/9/9d/Domenico_Ghirlandaio_und_Werkstatt%2C_Tornabuoni-Kapelle%2C_1486%E2%80%931490%2C_Freskenzyklus%2C_Santa_Maria_Novella%2C_Florenz.jpg)
+
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/9/91/Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg)
+
+
+### The Renaissance in Central Italy
+
+- [Pietro Perugino](https://en.wikipedia.org/wiki/Pietro_Perugino)
+  - Leading painter of the Perogian School
+  - Teacher of Raphael
+  - Known for his breadth and distance of his spatial backgrounds
+  - [Delivery of the Keys](https://en.wikipedia.org/wiki/Delivery_of_the_Keys), Sistine Chapel, Vatican
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b4/Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg)
+
+  - [Portrait of Francesco delle Opere](https://en.wikipedia.org/wiki/Portrait_of_Francesco_delle_Opere), Uffizi Gallery, Florence
+    - Ancestor of portraits by Raphael
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/5/5c/Pietro_Perugino_cat37.jpg)
+
+- [Melozzo da Forli](https://en.wikipedia.org/wiki/Melozzo_da_Forl%C3%AC)
+
+  - [Sixtus IV Appointing Platina as Prefect of the Vatican Library](https://en.wikipedia.org/wiki/Sixtus_IV_Appointing_Platina_as_Prefect_of_the_Vatican_Library), Pinacoteca Vaticana, Vatican
+    - First surviving papal ceremonial portrait of the Renaissance
+    - ![img](https://en.wikipedia.org/wiki/Sixtus_IV_Appointing_Platina_as_Prefect_of_the_Vatican_Library)
+
+### Gothic and Renaissance in Venice and Northern Italy
+
+- Venetian Gothic Architecture
+  - [Ca' d'Oro](https://en.wikipedia.org/wiki/Ca%27_d%27Oro), Grand Canal, Venice
+    - AKA House of Gold
+    - Best surviving palazzo in Venetian Gothic architecture
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/7/74/Ca%27_d%27Oro_facciata.jpg)
+
+- [Jacobello del Fiore](https://en.wikipedia.org/wiki/Jacobello_del_Fiore)
+  - [Justice Between the Archangels Michael and Gabriel](https://upload.wikimedia.org/wikipedia/commons/d/da/Jacobello_Del_Fiore_-_Justice_between_the_Archangels_Michael_and_Gabriel_-_WGA11888.jpg), Accademia, Venice
+
+- [Jacopo Bellini](https://en.wikipedia.org/wiki/Jacopo_Bellini)
+  - Pupil and apprentice of Gentile da Fabriano
+
+- [Andrea Mantegna](https://en.wikipedia.org/wiki/Andrea_Mantegna)
+
+  - [The Foreshortened Christ](https://en.wikipedia.org/wiki/Lamentation_of_Christ_(Mantegna)), Brera, Milan
+
+- [Gentile Bellini](https://en.wikipedia.org/wiki/Gentile_Bellini)
+
+  - Procession of the True Cross in Piazza San Marco, Accademia, Venice
+    - Painted for the scuole (school) of Venice, a religoius group
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/4/44/Accademia_-_Procession_in_piazza_San_Marco_by_Gentile_Bellini.jpg)
+
+  - [St. Mark Preaching in Alexandria](https://en.wikipedia.org/wiki/Saint_Mark_Preaching_in_Alexandria), Brera, Milan
+    - Incooperate with Giovanni Bellini
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/d/d4/Gentile_and_Giovanni_Bellini_%E2%80%94_Saint_Mark_Preaching_in_Alexandria.jpg)
+
+  - Doge Giovanni Mocenigo, Museo Correr, Venice
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/f/fe/%28Venice%29_Doge_Giovanni_Mocenigo_by_Gentile_Bellini_-_Correr_Museum.jpg)
+
+- [Giovanni Bellini](https://en.wikipedia.org/wiki/Giovanni_Bellini)
+  - Pieta, Brera, Milan
+    -![img](img/PietaGiovanniBellini.png)
+
+  - [San Giobbe Altarpiece](https://en.wikipedia.org/wiki/San_Giobbe_Altarpiece), Accademia, Venice
+
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/a/aa/Accademia_-_Pala_di_San_Giobbe_by_Giovanni_Bellini.jpg)
+
+  - [Frari Triptych](https://en.wikipedia.org/wiki/Frari_Triptych), Basilica di Santa Maria Gloriosa dei Frari, Venice
+    - Uses oil that enabled him to cast golden light to Mary
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/0/0d/Frari_%28Venice%29_-_Sacristy_-_triptych_by_Giovanni_Bellini.jpg)
+
+- [Vittore Carpaccio](https://en.wikipedia.org/wiki/Vittore_Carpaccio)
+
+  - [Legend of Saint Ursula](https://en.wikipedia.org/wiki/Legend_of_Saint_Ursula), Accademia, Venice
+    - Series of large wall painting about hte legend of saint ursula
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/9/9f/Accademia_-_Arrivo_degli_ambasciatori_inglesi_presso_il_re_di_Bretagna_di_Vittore_Carpaccio.jpg)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/c/c8/Accademia_-_Incontro_e_partenza_dei_fidanzati_-_Vittore_Carpaccio.jpg)
+
+## Part 3: The Cinquecento
+
+### The Origins of the High Renaissance
+
 ## Terms
 
 - Christus triumphans: A cross with a alive Christ
