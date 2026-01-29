@@ -1,7 +1,7 @@
 {
-  "name": "renaissance-art-generator",
+  "name": "italian-art-generator",
   "version": "1.0.0",
-  "description": "Static site generator for Italian Renaissance Art notes",
+  "description": "Static site generator for Italian Art notes",
   "type": "module",
   "scripts": {
     "build": "node src/index.js"

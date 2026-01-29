@@ -10,20 +10,20 @@ export function layoutTemplate(title, content, depth = 0) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${escapeHtml(title)} - Italian Renaissance Art</title>
+  <title>${escapeHtml(title)} - Italian Art</title>
   <link rel="stylesheet" href="${prefix}styles.css">
 </head>
 <body>
   <header>
     <nav>
-      <a href="${prefix}index.html" class="nav-home">Italian Renaissance Art</a>
+      <a href="${prefix}index.html" class="nav-home">Italian Art</a>
     </nav>
   </header>
   <main>
     ${content}
   </main>
   <footer>
-    <p>Travel notes on Italian Renaissance Art</p>
+    <p>Travel notes on Italian Art</p>
   </footer>
   <script src="${prefix}sort.js"></script>
 </body>
@@ -59,8 +59,8 @@ export function indexTemplate(artists, locationsByCity, bibleStories = []) {
   ` : '';
 
   const content = `
-    <h1>Italian Renaissance Art</h1>
-    <p class="intro">Notes for my upcoming travels through Italy, following Frederick Hartt's "History of Italian Renaissance Art".</p>
+    <h1>Italian Art</h1>
+    <p class="intro">Notes for my upcoming travels through Italy, following Frederick Hartt's "History of Italian Art".</p>
 
     <section class="index-section">
       <h2>Artists</h2>

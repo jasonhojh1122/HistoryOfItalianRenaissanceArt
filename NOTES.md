@@ -1,4 +1,4 @@
-# Italian Renaissance Art
+# Italian Art
 
 ## Part 1: The Late Middle Ages
 
