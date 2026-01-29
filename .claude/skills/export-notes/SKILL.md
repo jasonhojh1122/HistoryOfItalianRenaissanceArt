@@ -69,67 +69,11 @@ Remove articles (The, A), prepositions, and punctuation. Keep proper nouns capit
 
 ### 4. Apply Templates
 
-**Artist Template**:
-```markdown
-# Artist Name
-
-[Wikipedia](https://en.wikipedia.org/wiki/Artist_Name)
-
-**Born**: c. year, place
-**Died**: year, place
-
-Biographical context from Wikipedia summary combined with notes: guild membership, teacher/influences, distinctive style.
-
-## Artworks
-
-### [Artwork A Name](../artworks/ArtworkAFile.md)
-### [Artwork B Name](../artworks/ArtworkBFile.md)
-
-```
-
-**Location Template**:
-```markdown
-# Location Name
-
-[Wikipedia](https://en.wikipedia.org/wiki/Location_Name)
-
-[GoogleMap](url)
-
-City, Country
-
-**Type**: Basilica/Museum/Palazzo/Church
-**Architectural style**: style (if applicable)
-
-Brief description from Wikipedia.
-
-![floor plan](../img/FloorPlan.png)
-
-## Artworks
-
-### [Artwork Name](../artworks/ArtworkFile.md)
-```
-
-**Artwork Template**:
-```markdown
-# Artwork Name
-
-[Wikipedia](https://en.wikipedia.org/wiki/Artwork_Name)
-
-- **Artist**: [Artist Name](../artists/ArtistFile.md)
-- **Location**: [Location Name](../locations/LocationFile.md), City
-- **Medium**: (fresco, marble, etc.)
-- **Date**: (if known)
-
-## Biblical Context
-
-(For religious subjects only) [Story Name](../biblestories/StoryFile.md) - Brief inline description if needed.
-
-## Description
-
-Key observations and art historical significance.
-
-![img](image_url)
-```
+See [templates/](../../../templates/) for canonical file formats:
+- `templates/artwork.md` - Artwork file format
+- `templates/artist.md` - Artist file format
+- `templates/location.md` - Location file format
+- `templates/biblestory.md` - Bible story file format
 
 **Terms File** (`terms.md` in root directory):
 ```markdown
@@ -144,27 +88,6 @@ Definition or explanation.
 
 ### Term Name
 Definition or translation. Additional context if available.
-```
-
-**Bible Story Template** (`biblestories/` directory):
-```markdown
-# Story Name
-
-[Wikipedia](https://en.wikipedia.org/wiki/Story_Name)
-
-## Summary
-
-Brief narrative summary of the biblical story.
-
-## Biblical Reference
-
-**Book(s)**: Gospel of Matthew, Gospel of Luke, etc.
-**Chapters/Verses**: Matthew 1:18-25, Luke 2:1-20, etc.
-
-## Artworks Depicting This Story
-
-### [Artwork Name](../artworks/ArtworkFile.md)
-- Artist, Location, Date
 ```
 
 ### 5. Enrich Content

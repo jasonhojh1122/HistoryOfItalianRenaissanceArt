@@ -1,7 +1,5 @@
 # Florence Cathedral
 
-Cathedral of Santa Maria del Fiore (Duomo)
-
 [Wikipedia](https://en.wikipedia.org/wiki/Florence_Cathedral)
 
 [GoogleMap](https://maps.google.com/?q=Florence%20Cathedral%2C%20Florence%2C%20Italy)
@@ -10,6 +8,8 @@ Florence, Italy
 
 **Type**: Cathedral
 **Architectural style**: Gothic, Renaissance dome
+
+AKA Cathedral of Santa Maria del Fiore (Duomo)
 
 Begun in 1286, originally designed by [Arnolfo di Cambio](../artists/ArnolfoDiCambio.md).
 

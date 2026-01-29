@@ -129,10 +129,11 @@ export function artworkCardTemplate(artwork, includeArtist = false) {
   const image = meta.images[0];
 
   const artistAttr = includeArtist && meta.artist ? ` data-artist="${escapeHtml(meta.artist)}"` : '';
+  const selfResearchedBadge = meta.selfResearched ? '<span class="badge badge-researched">Self-researched</span>' : '';
 
   return `
     <article class="artwork-card" data-title="${escapeHtml(meta.title || '')}" data-date="${escapeHtml(meta.date || '')}"${artistAttr}>
-      <h3><a href="../artworks/${artwork.id}.html">${escapeHtml(meta.title)}</a></h3>
+      <h3><a href="../artworks/${artwork.id}.html">${escapeHtml(meta.title)}</a> ${selfResearchedBadge}</h3>
       <div class="artwork-meta">
         ${includeArtist && meta.artist ? `<span class="artist"><a href="../artists/${artwork.metadata.artistFile}.html">${escapeHtml(meta.artist)}</a></span>` : ''}
         ${meta.medium ? `<span class="medium">${escapeHtml(meta.medium)}</span>` : ''}
@@ -239,6 +240,11 @@ export function locationTemplate(location, artworks) {
 export function artworkTemplate(artwork) {
   const meta = artwork.metadata;
 
+  const links = [];
+  if (meta.wikipedia) {
+    links.push(`<a href="${escapeHtml(meta.wikipedia)}" target="_blank" rel="noopener noreferrer">Wikipedia</a>`);
+  }
+
   const metaItems = [];
   if (meta.artist) {
     metaItems.push(`<li><strong>Artist:</strong> <a href="../artists/${artwork.metadata.artistFile}.html">${escapeHtml(meta.artist)}</a></li>`);
@@ -268,9 +274,12 @@ export function artworkTemplate(artwork) {
     `<figure><img src="${escapeHtml(fixImagePath(img.src, 'artworks'))}" alt="${escapeHtml(img.alt || meta.title)}"></figure>`
   ).join('\n');
 
+  const selfResearchedBadge = meta.selfResearched ? '<span class="badge badge-researched">Self-researched</span>' : '';
+
   const content = `
     <article class="artwork-page">
-      <h1>${escapeHtml(meta.title)}</h1>
+      <h1>${escapeHtml(meta.title)} ${selfResearchedBadge}</h1>
+      ${links.length > 0 ? `<div class="external-links">${links.join(' ')}</div>` : ''}
       ${metaItems.length > 0 ? `<ul class="artwork-metadata">${metaItems.join('\n')}</ul>` : ''}
       ${bibleStoryHtml}
       ${meta.description ? `<div class="description">${parseMarkdown(meta.description)}</div>` : ''}
@@ -368,6 +377,11 @@ function fixImagePath(src, currentDir) {
 
   // Handle ../img/ paths - from artworks or other dirs, go up to site root then into img
   if (src.startsWith('../img/')) {
+    return src; // Keep relative path as-is, it will work from subdirectories
+  }
+
+  // Handle ../imgAutoResearch/ paths
+  if (src.startsWith('../imgAutoResearch/')) {
     return src; // Keep relative path as-is, it will work from subdirectories
   }
 

@@ -74,6 +74,7 @@ export function extractGoogleMapLink(content) {
 export function extractArtworkMetadata(content) {
   const metadata = {
     title: extractTitle(content),
+    wikipedia: extractWikipediaLink(content),
     artist: null,
     artistFile: null,
     location: null,
@@ -112,6 +113,12 @@ export function extractArtworkMetadata(content) {
   const dateMatch = content.match(/\*\*Date\*\*:\s*([^\n*]+)/);
   if (dateMatch) {
     metadata.date = dateMatch[1].trim();
+  }
+
+  // Extract source (self-researched indicator)
+  const sourceMatch = content.match(/\*\*Source\*\*:\s*([^\n*]+)/);
+  if (sourceMatch) {
+    metadata.selfResearched = sourceMatch[1].trim().toLowerCase().includes('self-researched');
   }
 
   // Extract bible story link from Biblical Context section: [Story Name](../biblestories/File.md)
