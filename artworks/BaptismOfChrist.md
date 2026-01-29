@@ -5,10 +5,11 @@
 - **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md) (with Leonardo da Vinci)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Oil and tempera on panel
+- **Date**: c. 1472–1475
 
 ## Biblical Context
 
-The Baptism of Christ depicts the moment when John the Baptist baptizes Jesus in the Jordan River. As described in Matthew 3:13-17, the heavens opened and the Spirit of God descended like a dove, while a voice from heaven declared "This is my beloved Son, in whom I am well pleased."
+[Baptism of Christ](../biblestories/BaptismOfChrist.md) - The moment when John the Baptist baptizes Jesus in the Jordan River. As described in Matthew 3:13-17, the heavens opened and the Spirit of God descended like a dove, while a voice from heaven declared "This is my beloved Son, in whom I am well pleased."
 
 ## Description
 

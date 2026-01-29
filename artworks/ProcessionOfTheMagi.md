@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Adoration of the Magi describes the visit of the three wise men (Magi) from the East who followed a star to Bethlehem to pay homage to the infant Jesus, bringing gifts of gold, frankincense, and myrrh (Matthew 2:1-12).
+[Adoration of the Magi](../biblestories/AdorationOfTheMagi.md) - The visit of the three wise men (Magi) from the East who followed a star to Bethlehem to pay homage to the infant Jesus, bringing gifts of gold, frankincense, and myrrh (Matthew 2:1-12).
 
 ## Description
 

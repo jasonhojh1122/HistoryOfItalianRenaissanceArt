@@ -3,6 +3,7 @@
 - **Artist**: [Andrea da Firenze](../artists/AndreaDaFirenze.md)
 - **Location**: [Santa Maria Novella](../locations/SantaMariaNovella.md), Florence
 - **Medium**: Fresco
+- **Date**: c. 1365–1367
 
 ## Description
 

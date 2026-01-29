@@ -5,10 +5,11 @@
 - **Artist**: [Pietro Perugino](../artists/PietroPerugino.md)
 - **Location**: [Sistine Chapel](../locations/SistineChapel.md), Vatican City
 - **Medium**: Fresco
+- **Date**: 1481–1482
 
 ## Biblical Context
 
-Depicts the moment when Christ gives the keys of heaven to Saint Peter, establishing Peter's authority as the first Pope. From Matthew 16:18-19: "I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven."
+[Delivery of the Keys](../biblestories/DeliveryOfTheKeys.md) - The moment when Christ gives the keys of heaven to Saint Peter, establishing Peter's authority as the first Pope. From Matthew 16:18-19: "I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven."
 
 ## Description
 

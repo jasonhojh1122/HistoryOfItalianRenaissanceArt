@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Story of Noah depicts scenes from Genesis 6-9, including the great flood sent by God to cleanse the earth of wickedness, Noah's construction of the ark, and the eventual receding of the waters.
+[Story of Noah](../biblestories/StoryOfNoah.md) - Scenes from Genesis 6-9, including the great flood sent by God to cleanse the earth of wickedness, Noah's construction of the ark, and the eventual receding of the waters.
 
 ## Description
 

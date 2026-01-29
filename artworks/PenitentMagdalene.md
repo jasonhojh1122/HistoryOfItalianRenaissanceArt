@@ -5,6 +5,7 @@
 - **Artist**: [Donatello](../artists/Donatello.md)
 - **Location**: [Opera del Duomo Museum](../locations/OperaDelDuomoMuseum.md), Florence
 - **Medium**: Wood (polychrome)
+- **Date**: c. 1453–1455
 
 ## Description
 

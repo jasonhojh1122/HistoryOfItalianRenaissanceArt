@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Pietà depicts the Virgin Mary mourning over the body of Christ after the Crucifixion. While not directly described in scripture, it is derived from the burial accounts and represents the sorrow of Mary.
+[Lamentation](../biblestories/Lamentation.md) - The Virgin Mary mourning over the body of Christ after the Crucifixion. While not directly described in scripture, it is derived from the burial accounts and represents the sorrow of Mary.
 
 ## Description
 

@@ -5,10 +5,11 @@
 - **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
 - **Location**: [Sistine Chapel](../locations/SistineChapel.md), Vatican City
 - **Medium**: Fresco
+- **Date**: 1481–1482
 
 ## Biblical Context
 
-The story from Numbers 16 describes the rebellion of Korah, Dathan, and Abiram against Moses and Aaron. God punished them by having the earth swallow them and fire consume those who offered false incense.
+[Punishment of Korah](../biblestories/PunishmentOfKorah.md) - The story from Numbers 16 describes the rebellion of Korah, Dathan, and Abiram against Moses and Aaron. God punished them by having the earth swallow them and fire consume those who offered false incense.
 
 ## Description
 

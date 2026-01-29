@@ -3,6 +3,7 @@
 - **Artist**: [Coppo di Marcovaldo](../artists/CoppoDiMarcovaldo.md)
 - **Location**: [Florence Baptistery](../locations/BaptisteryOfFlorence.md), Florence
 - **Medium**: Mosaic
+- **Date**: c. 1270–1300
 
 ## Description
 

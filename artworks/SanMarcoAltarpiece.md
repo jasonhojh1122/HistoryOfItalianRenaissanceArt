@@ -5,6 +5,11 @@
 - **Artist**: [Fra Angelico](../artists/FraAngelico.md)
 - **Location**: [Museo di San Marco](../locations/MuseoDiSanMarco.md), Florence
 - **Medium**: Tempera on panel
+- **Date**: c. 1438–1443
+
+## Biblical Context
+
+[Madonna and Child](../biblestories/MadonnaAndChild.md) - The Virgin Mary with the infant Jesus and saints, representing the Incarnation of God.
 
 ## Description
 

@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Holy Trinity represents the Christian doctrine of the three persons of God: the Father, Son, and Holy Spirit. The fresco depicts Christ crucified, supported by God the Father, with the Holy Spirit (as a dove) between them.
+[Holy Trinity](../biblestories/HolyTrinity.md) - The Christian doctrine of the three persons of God: the Father, Son, and Holy Spirit. The fresco depicts Christ crucified, supported by God the Father, with the Holy Spirit (as a dove) between them.
 
 ## Description
 

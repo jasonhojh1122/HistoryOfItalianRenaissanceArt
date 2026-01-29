@@ -3,6 +3,7 @@
 - **Artist**: [Andrea Pisano](../artists/AndreaPisano.md)
 - **Location**: [Florence Baptistery](../locations/BaptisteryOfFlorence.md), Florence
 - **Medium**: Bronze
+- **Date**: 1330–1336
 
 ## Description
 

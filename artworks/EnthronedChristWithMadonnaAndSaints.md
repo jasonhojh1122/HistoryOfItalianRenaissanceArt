@@ -3,6 +3,7 @@
 - **Artist**: [Andrea Orcagna](../artists/AndreaOrcagna.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Tempera on panel
+- **Date**: 1357
 
 ## Description
 

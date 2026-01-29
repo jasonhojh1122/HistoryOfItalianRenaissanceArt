@@ -195,6 +195,43 @@ ul li::before {
   border: 1px solid var(--color-border);
 }
 
+/* Sort controls */
+.sort-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: var(--spacing-unit);
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+}
+
+.sort-controls span {
+  color: var(--color-text-muted);
+}
+
+.sort-btn {
+  padding: 0.35rem 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  background: var(--color-card-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.sort-btn:hover {
+  border-color: var(--color-link);
+  color: var(--color-link);
+}
+
+.sort-btn.active {
+  background: var(--color-link);
+  border-color: var(--color-link);
+  color: #fff;
+}
+
 /* Artwork grid */
 .artwork-grid {
   display: grid;

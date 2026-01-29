@@ -3,6 +3,7 @@
 - **Artist**: [Jacopo Torriti](../artists/JacopoTorriti.md)
 - **Location**: [Santa Maria Maggiore](../locations/SantaMariaMaggiore.md), Rome
 - **Medium**: Mosaic
+- **Date**: 1295
 
 ## Description
 

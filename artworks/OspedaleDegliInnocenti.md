@@ -5,6 +5,7 @@
 - **Artist**: [Brunelleschi](../artists/FilippoBrunelleschi.md)
 - **Location**: [Ospedale degli Innocenti](../locations/OspedaleDegliInnocenti.md), Florence
 - **Medium**: Architecture
+- **Date**: 1419–1445
 
 ## Description
 

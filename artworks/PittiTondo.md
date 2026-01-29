@@ -7,6 +7,10 @@
 - **Medium**: Tempera on panel (tondo)
 - **Date**: c. 1452
 
+## Biblical Context
+
+[Madonna and Child](../biblestories/MadonnaAndChild.md) - The Virgin Mary with the infant Jesus, representing the Incarnation of God.
+
 ## Description
 
 A tondo (circular painting) depicting the Madonna and Child with scenes from the life of Saint Anne.

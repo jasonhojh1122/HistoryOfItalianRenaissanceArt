@@ -3,6 +3,11 @@
 - **Artist**: [Gentile da Fabriano](../artists/GentileDaFabriano.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Tempera on panel
+- **Date**: 1423
+
+## Biblical Context
+
+[Adoration of the Magi](../biblestories/AdorationOfTheMagi.md) - The visit of the three wise men (Magi) from the East who followed a star to Bethlehem to pay homage to the infant Jesus, bringing gifts of gold, frankincense, and myrrh (Matthew 2:1-12).
 
 ## Description
 

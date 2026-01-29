@@ -5,6 +5,7 @@
 - **Artist**: [Giovannino dei Grassi](../artists/GiovanninoDeiGrassi.md)
 - **Location**: [Biblioteca Nazionale](../locations/BibliotecaNazionale.md), Florence
 - **Medium**: Illuminated manuscript
+- **Date**: c. 1370–1395
 
 ## Description
 

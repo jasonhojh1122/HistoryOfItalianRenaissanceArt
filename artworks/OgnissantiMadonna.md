@@ -5,6 +5,11 @@
 - **Artist**: [Giotto](../artists/GiottoDiBondone.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Tempera on panel
+- **Date**: c. 1306–1310
+
+## Biblical Context
+
+[Madonna and Child](../biblestories/MadonnaAndChild.md) - The Virgin Mary with the infant Jesus, representing the Incarnation of God.
 
 ## Description
 

@@ -5,6 +5,7 @@
 - **Artist**: [Pietro Perugino](../artists/PietroPerugino.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Oil on panel
+- **Date**: 1494
 
 ## Description
 

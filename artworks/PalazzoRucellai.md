@@ -5,6 +5,7 @@
 - **Artist**: [Alberti](../artists/LeonBattistaAlberti.md)
 - **Location**: [Palazzo Rucellai](../locations/PalazzoRucellai.md), Florence
 - **Medium**: Architecture
+- **Date**: c. 1446–1451
 
 ## Description
 

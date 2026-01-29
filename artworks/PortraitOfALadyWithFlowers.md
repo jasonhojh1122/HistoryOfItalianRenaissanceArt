@@ -3,6 +3,7 @@
 - **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md)
 - **Location**: [Bargello](../locations/Bargello.md), Florence
 - **Medium**: Marble
+- **Date**: c. 1475–1480
 
 ## Description
 

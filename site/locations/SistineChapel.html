@@ -23,24 +23,34 @@
 
       <section class="artworks-section">
         <h2>Artworks</h2>
+        
+    <div class="sort-controls">
+      <span>Sort by:</span>
+      <button class="sort-btn active" data-sort="date">Date</button>
+      <button class="sort-btn" data-sort="title">Title</button>
+      <button class="sort-btn" data-sort="artist">Artist</button>
+    </div>
+  
         <div class="artwork-grid">
           
-    <article class="artwork-card">
+    <article class="artwork-card" data-title="Youth of Moses" data-date="1481–1482" data-artist="Sandro Botticelli">
       <h3><a href="../artworks/YouthOfMoses.html">Youth of Moses</a></h3>
       <div class="artwork-meta">
+        <span class="artist"><a href="../artists/SandroBotticelli.html">Sandro Botticelli</a></span>
         <span class="medium">Fresco</span>
-        
+        <span class="date">1481–1482</span>
       </div>
       <p class="description">Part of the cycle of frescoes on the walls of the Sistine Chapel.</p>
       <img src="https://en.wikipedia.org/wiki/Youth_of_Moses#/media/File:Eventos_de_la_vida_de_Mois%C3%A9s_(Sandro_Botticelli" alt="Youth of Moses" loading="lazy">
     </article>
   
 
-    <article class="artwork-card">
+    <article class="artwork-card" data-title="Punishment of the Korah, Dathan and Abiram" data-date="1481–1482" data-artist="Sandro Botticelli">
       <h3><a href="../artworks/PunishmentOfKorah.html">Punishment of the Korah, Dathan and Abiram</a></h3>
       <div class="artwork-meta">
+        <span class="artist"><a href="../artists/SandroBotticelli.html">Sandro Botticelli</a></span>
         <span class="medium">Fresco</span>
-        
+        <span class="date">1481–1482</span>
       </div>
       <p class="description">Story narrated from left to right:
 - In the left, the earth opens up to swallow the rebels
@@ -51,11 +61,12 @@
     </article>
   
 
-    <article class="artwork-card">
+    <article class="artwork-card" data-title="Delivery of the Keys" data-date="1481–1482" data-artist="Pietro Perugino">
       <h3><a href="../artworks/DeliveryOfTheKeys.html">Delivery of the Keys</a></h3>
       <div class="artwork-meta">
+        <span class="artist"><a href="../artists/PietroPerugino.html">Pietro Perugino</a></span>
         <span class="medium">Fresco</span>
-        
+        <span class="date">1481–1482</span>
       </div>
       <p class="description">Notable for Perugino&#039;s characteristic breadth and distance of spatial backgrounds.</p>
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg" alt="Delivery of the Keys" loading="lazy">
@@ -69,5 +80,6 @@
   <footer>
     <p>Travel notes on Italian Renaissance Art</p>
   </footer>
+  <script src="../sort.js"></script>
 </body>
 </html>

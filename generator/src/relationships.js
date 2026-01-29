@@ -10,6 +10,7 @@ export async function buildIndex(rootDir) {
     artists: {},
     locations: {},
     artworks: {},
+    biblestories: {},
     byCity: {}  // locations grouped by city
   };
 
@@ -20,7 +21,8 @@ export async function buildIndex(rootDir) {
     index.artworks[parsed.id] = {
       ...parsed,
       artistId: parsed.metadata.artistFile,
-      locationId: parsed.metadata.locationFile
+      locationId: parsed.metadata.locationFile,
+      bibleStoryId: parsed.metadata.bibleStoryFile
     };
   }
 
@@ -51,7 +53,17 @@ export async function buildIndex(rootDir) {
     index.byCity[city].push(parsed.id);
   }
 
-  // Build relationships from artworks to artists and locations
+  // Parse all bible stories
+  const bibleStoryFiles = await glob('biblestories/*.md', { cwd: rootDir });
+  for (const file of bibleStoryFiles) {
+    const parsed = await parseFile(path.join(rootDir, file));
+    index.biblestories[parsed.id] = {
+      ...parsed,
+      artworks: []  // Will be populated below
+    };
+  }
+
+  // Build relationships from artworks to artists, locations, and bible stories
   for (const [artworkId, artwork] of Object.entries(index.artworks)) {
     // Link artwork to artist
     if (artwork.artistId && index.artists[artwork.artistId]) {
@@ -61,6 +73,11 @@ export async function buildIndex(rootDir) {
     // Link artwork to location
     if (artwork.locationId && index.locations[artwork.locationId]) {
       index.locations[artwork.locationId].artworks.push(artworkId);
+    }
+
+    // Link artwork to bible story
+    if (artwork.bibleStoryId && index.biblestories[artwork.bibleStoryId]) {
+      index.biblestories[artwork.bibleStoryId].artworks.push(artworkId);
     }
   }
 
@@ -120,4 +137,22 @@ export function getLocationsByCity(index) {
   return Object.fromEntries(
     Object.entries(result).sort(([a], [b]) => a.localeCompare(b))
   );
+}
+
+/**
+ * Get all artworks for a bible story with full data
+ */
+export function getBibleStoryArtworks(index, bibleStoryId) {
+  const bibleStory = index.biblestories[bibleStoryId];
+  if (!bibleStory) return [];
+
+  return bibleStory.artworks.map(artworkId => index.artworks[artworkId]).filter(Boolean);
+}
+
+/**
+ * Get sorted list of bible stories by name
+ */
+export function getSortedBibleStories(index) {
+  return Object.values(index.biblestories)
+    .sort((a, b) => a.metadata.title.localeCompare(b.metadata.title));
 }

@@ -5,6 +5,11 @@
 - **Artist**: [Cimabue](../artists/GiovanniCimabue.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Tempera on panel
+- **Date**: c. 1280–1290
+
+## Biblical Context
+
+[Madonna and Child](../biblestories/MadonnaAndChild.md) - The Virgin Mary with the infant Jesus, representing the Incarnation of God.
 
 ## Description
 

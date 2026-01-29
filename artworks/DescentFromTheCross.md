@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Deposition or Descent from the Cross depicts the removal of Christ's body from the cross after the Crucifixion, as described in the Gospels (Matthew 27:57-59, Mark 15:42-46, Luke 23:50-53, John 19:38-40).
+[Deposition from the Cross](../biblestories/DepositionFromTheCross.md) - The removal of Christ's body from the cross after the Crucifixion, as described in the Gospels (Matthew 27:57-59, Mark 15:42-46, Luke 23:50-53, John 19:38-40).
 
 ## Description
 

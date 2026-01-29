@@ -6,10 +6,11 @@
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Tempera on panel
 - **Format**: Tondo (circular)
+- **Date**: c. 1481
 
 ## Biblical Context
 
-The Magnificat is the canticle of Mary found in Luke 1:46-55, her song of praise after the Annunciation: "My soul magnifies the Lord, and my spirit rejoices in God my Savior."
+[Madonna and Child](../biblestories/MadonnaAndChild.md) - The Magnificat is the canticle of Mary found in Luke 1:46-55, her song of praise after the Annunciation: "My soul magnifies the Lord, and my spirit rejoices in God my Savior."
 
 ## Description
 

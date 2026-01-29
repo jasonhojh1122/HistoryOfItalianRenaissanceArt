@@ -3,6 +3,7 @@
 - **Artist**: [Jacobello del Fiore](../artists/JacobelloDelFiore.md)
 - **Location**: [Gallerie dell'Accademia](../locations/Accademia.md), Venice
 - **Medium**: Tempera on panel
+- **Date**: 1421
 
 ## Description
 

@@ -23,11 +23,32 @@
 
       <section class="artworks-section">
         <h2>Artworks</h2>
+        
+    <div class="sort-controls">
+      <span>Sort by:</span>
+      <button class="sort-btn active" data-sort="date">Date</button>
+      <button class="sort-btn" data-sort="title">Title</button>
+      <button class="sort-btn" data-sort="artist">Artist</button>
+    </div>
+  
         <div class="artwork-grid">
           
-    <article class="artwork-card">
+    <article class="artwork-card" data-title="Justice Between the Archangels Michael and Gabriel" data-date="1421" data-artist="Jacobello del Fiore">
+      <h3><a href="../artworks/JusticeBetweenTheArchangels.html">Justice Between the Archangels Michael and Gabriel</a></h3>
+      <div class="artwork-meta">
+        <span class="artist"><a href="../artists/JacobelloDelFiore.html">Jacobello del Fiore</a></span>
+        <span class="medium">Tempera on panel</span>
+        <span class="date">1421</span>
+      </div>
+      <p class="description">A triptych depicting the personification of Justice flanked by the Archangels Michael and Gabriel.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Jacobello_Del_Fiore_-_Justice_between_the_Archangels_Michael_and_Gabriel_-_WGA11888.jpg" alt="Justice Between the Archangels Michael and Gabriel" loading="lazy">
+    </article>
+  
+
+    <article class="artwork-card" data-title="San Giobbe Altarpiece" data-date="c. 1487" data-artist="Giovanni Bellini">
       <h3><a href="../artworks/SanGiobbeAltarpiece.html">San Giobbe Altarpiece</a></h3>
       <div class="artwork-meta">
+        <span class="artist"><a href="../artists/GiovanniBellini.html">Giovanni Bellini</a></span>
         <span class="medium">Oil on panel</span>
         <span class="date">c. 1487</span>
       </div>
@@ -36,20 +57,10 @@
     </article>
   
 
-    <article class="artwork-card">
-      <h3><a href="../artworks/ProcessionOfTheTrueCross.html">Procession of the True Cross in Piazza San Marco</a></h3>
-      <div class="artwork-meta">
-        <span class="medium">Tempera on canvas</span>
-        <span class="date">c. 1496</span>
-      </div>
-      <p class="description">Painted for the scuole (school) of Venice, a religious group. Shows a procession in Piazza San Marco with remarkable architectural detail.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Accademia_-_Procession_in_piazza_San_Marco_by_Gentile_Bellini.jpg" alt="Procession of the True Cross in Piazza San Marco" loading="lazy">
-    </article>
-  
-
-    <article class="artwork-card">
+    <article class="artwork-card" data-title="Legend of Saint Ursula" data-date="1490–1495" data-artist="Vittore Carpaccio">
       <h3><a href="../artworks/LegendOfSaintUrsula.html">Legend of Saint Ursula</a></h3>
       <div class="artwork-meta">
+        <span class="artist"><a href="../artists/VittoreCarpaccio.html">Vittore Carpaccio</a></span>
         <span class="medium">Oil on canvas</span>
         <span class="date">1490–1495</span>
       </div>
@@ -58,14 +69,15 @@
     </article>
   
 
-    <article class="artwork-card">
-      <h3><a href="../artworks/JusticeBetweenTheArchangels.html">Justice Between the Archangels Michael and Gabriel</a></h3>
+    <article class="artwork-card" data-title="Procession of the True Cross in Piazza San Marco" data-date="c. 1496" data-artist="Gentile Bellini">
+      <h3><a href="../artworks/ProcessionOfTheTrueCross.html">Procession of the True Cross in Piazza San Marco</a></h3>
       <div class="artwork-meta">
-        <span class="medium">Tempera on panel</span>
-        
+        <span class="artist"><a href="../artists/GentileBellini.html">Gentile Bellini</a></span>
+        <span class="medium">Tempera on canvas</span>
+        <span class="date">c. 1496</span>
       </div>
-      <p class="description">A triptych depicting the personification of Justice flanked by the Archangels Michael and Gabriel.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Jacobello_Del_Fiore_-_Justice_between_the_Archangels_Michael_and_Gabriel_-_WGA11888.jpg" alt="Justice Between the Archangels Michael and Gabriel" loading="lazy">
+      <p class="description">Painted for the scuole (school) of Venice, a religious group. Shows a procession in Piazza San Marco with remarkable architectural detail.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Accademia_-_Procession_in_piazza_San_Marco_by_Gentile_Bellini.jpg" alt="Procession of the True Cross in Piazza San Marco" loading="lazy">
     </article>
   
         </div>
@@ -76,5 +88,6 @@
   <footer>
     <p>Travel notes on Italian Renaissance Art</p>
   </footer>
+  <script src="../sort.js"></script>
 </body>
 </html>

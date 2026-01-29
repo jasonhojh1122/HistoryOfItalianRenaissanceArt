@@ -5,6 +5,7 @@
 - **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Tempera on panel
+- **Date**: c. 1475
 
 ## Description
 

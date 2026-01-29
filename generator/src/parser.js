@@ -80,6 +80,9 @@ export function extractArtworkMetadata(content) {
     locationFile: null,
     medium: null,
     date: null,
+    bibleStory: null,
+    bibleStoryFile: null,
+    biblicalContext: '',
     description: '',
     images: []
   };
@@ -109,6 +112,19 @@ export function extractArtworkMetadata(content) {
   const dateMatch = content.match(/\*\*Date\*\*:\s*([^\n*]+)/);
   if (dateMatch) {
     metadata.date = dateMatch[1].trim();
+  }
+
+  // Extract bible story link from Biblical Context section: [Story Name](../biblestories/File.md)
+  const bibleStoryMatch = content.match(/##\s*Biblical Context\s*\n+\[([^\]]+)\]\(\.\.\/biblestories\/([^)]+)\.md\)/);
+  if (bibleStoryMatch) {
+    metadata.bibleStory = bibleStoryMatch[1];
+    metadata.bibleStoryFile = bibleStoryMatch[2];
+  }
+
+  // Extract biblical context text (after the link)
+  const biblicalContextMatch = content.match(/##\s*Biblical Context\s*\n+(?:\[[^\]]+\]\([^)]+\)\s*-?\s*)?([\s\S]*?)(?=\n##|$)/);
+  if (biblicalContextMatch) {
+    metadata.biblicalContext = biblicalContextMatch[1].trim();
   }
 
   // Extract description section
@@ -144,6 +160,64 @@ export function extractArtistMetadata(content) {
   const bioMatch = content.match(/\[Wikipedia\][^\n]*\n+([\s\S]*?)(?=\n##\s*Artworks|$)/);
   if (bioMatch) {
     metadata.bio = bioMatch[1].trim();
+  }
+
+  // Extract artwork references from ### [Artwork Name](../artworks/File.md)
+  const artworkMatches = content.matchAll(/###\s*\[([^\]]+)\]\(\.\.\/artworks\/([^)]+)\.md\)/g);
+  for (const match of artworkMatches) {
+    metadata.artworkRefs.push({
+      title: match[1],
+      file: match[2]
+    });
+  }
+
+  return metadata;
+}
+
+/**
+ * Extract metadata from bible story file
+ */
+export function extractBibleStoryMetadata(content) {
+  const metadata = {
+    title: extractTitle(content),
+    wikipedia: extractWikipediaLink(content),
+    summary: '',
+    biblicalReference: {
+      books: null,
+      verses: null
+    },
+    artworkRefs: []
+  };
+
+  // Extract Chinese/alternate name (line after title, before Wikipedia)
+  const lines = content.split('\n');
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+    if (line.startsWith('#')) continue;
+    if (line.startsWith('[Wikipedia]')) break;
+    if (line === '') continue;
+    // Chinese characters or simple text line
+    if (!line.startsWith('##') && !line.startsWith('**') && !line.startsWith('-')) {
+      metadata.alternateName = line;
+      break;
+    }
+  }
+
+  // Extract summary section
+  const summaryMatch = content.match(/##\s*Summary\s*\n+([\s\S]*?)(?=\n##|$)/);
+  if (summaryMatch) {
+    metadata.summary = summaryMatch[1].trim();
+  }
+
+  // Extract biblical reference
+  const booksMatch = content.match(/\*\*Book\(s\)\*\*:\s*([^\n]+)/);
+  if (booksMatch) {
+    metadata.biblicalReference.books = booksMatch[1].trim();
+  }
+
+  const versesMatch = content.match(/\*\*Chapters\/Verses\*\*:\s*([^\n]+)/);
+  if (versesMatch) {
+    metadata.biblicalReference.verses = versesMatch[1].trim();
   }
 
   // Extract artwork references from ### [Artwork Name](../artworks/File.md)
@@ -227,6 +301,8 @@ export async function parseFile(filePath) {
     metadata = extractArtistMetadata(content);
   } else if (type === 'locations') {
     metadata = extractLocationMetadata(content);
+  } else if (type === 'biblestories') {
+    metadata = extractBibleStoryMetadata(content);
   } else {
     metadata = { title: extractTitle(content) };
   }

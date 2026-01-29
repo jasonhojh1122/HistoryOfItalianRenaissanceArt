@@ -3,6 +3,7 @@
 - **Artist**: [Antonio del Pollaiuolo](../artists/AntonioDelPollaiuolo.md)
 - **Location**: [Bargello](../locations/Bargello.md), Florence
 - **Medium**: Bronze
+- **Date**: c. 1475
 
 ## Description
 

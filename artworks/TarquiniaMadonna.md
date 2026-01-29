@@ -7,6 +7,10 @@
 - **Medium**: Tempera on panel
 - **Date**: 1437
 
+## Biblical Context
+
+[Madonna and Child](../biblestories/MadonnaAndChild.md) - The Virgin Mary with the infant Jesus, representing the Incarnation of God.
+
 ## Description
 
 Also known as the Tarquinia Madonna.

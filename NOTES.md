@@ -383,10 +383,10 @@
 - [Andrea del Verrocchio](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio)
   - Teacher of Leonardo da Vinci
   - [The Baptism of Christ](https://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Verrocchio_and_Leonardo)), Uffizi Gallery, Florence
-    - ![img](https://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Verrocchio_and_Leonardo)#/media/File:The_Baptism_of_Christ_(Verrocchio_and_Leonardo).jpg)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Baptism_of_Christ_%28Verrocchio_and_Leonardo%29.jpg)
 
   - [Christ and Saint Thomas](https://en.wikipedia.org/wiki/Christ_and_Saint_Thomas_(Verrocchio)), Orsanmichele, Florence
-    - ![img](https://en.wikipedia.org/wiki/Christ_and_Saint_Thomas_(Verrocchio)#/media/File:Museo_di_orsanmichele,_verrocchio,_incredulit%C3%A0_di_s._tommaso_03.JPG)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/a/a9/Museo_di_orsanmichele%2C_verrocchio%2C_incredulit%C3%A0_di_s._tommaso_03.JPG)
 
   - Portrait Of A Lady With Flowers, Bargello, Florence
     - First three-quarter-length sculpted portrait since antiquity
@@ -394,7 +394,7 @@
 
   - David, Bargello, Florence
     - With leather cloth, smiling instead of uncertain expression
-    - ![img](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio#/media/File:David,_Andrea_del_Verrocchio,_ca._1466-69,_Bargello_Florenz-01.jpg)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/a/ae/David%2C_Andrea_del_Verrocchio%2C_ca._1466-69%2C_Bargello_Florenz-01.jpg)
 
   - [Equestrian statue of Bartolomeo Colleoni](https://en.wikipedia.org/wiki/Equestrian_statue_of_Bartolomeo_Colleoni_(Venice)), Basilica dei Santi Giovanni e Paolo, Venice
     - [Basilica dei Santi Giovanni e Paolo](https://maps.google.com/?q=Basilica%20dei%20Santi%20Giovanni%20e%20Paolo%20church%2C%20Venice%2C%20Italy)
@@ -417,7 +417,7 @@
     - ![img](https://upload.wikimedia.org/wikipedia/commons/2/2f/Botticcelli%2C_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg)
 
   - [Youth of Moses](https://en.wikipedia.org/wiki/Youth_of_Moses), Sistine Chapel, Vatican
-    - ![img](https://en.wikipedia.org/wiki/Youth_of_Moses#/media/File:Eventos_de_la_vida_de_Mois%C3%A9s_(Sandro_Botticelli).jpg)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/7/77/Eventos_de_la_vida_de_Mois%C3%A9s_%28Sandro_Botticelli%29.jpg)
 
   - [Madonna of the Magnificat](https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat), Uffizi Gallery, Florence
     - Probably a wedding present of a gift for a birth of a child.
@@ -491,7 +491,7 @@
 
   - [Sixtus IV Appointing Platina as Prefect of the Vatican Library](https://en.wikipedia.org/wiki/Sixtus_IV_Appointing_Platina_as_Prefect_of_the_Vatican_Library), Pinacoteca Vaticana, Vatican
     - First surviving papal ceremonial portrait of the Renaissance
-    - ![img](https://en.wikipedia.org/wiki/Sixtus_IV_Appointing_Platina_as_Prefect_of_the_Vatican_Library)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/5/56/Melozzo_da_Forl%C3%AC_001.jpg)
 
 ### Gothic and Renaissance in Venice and Northern Italy
 

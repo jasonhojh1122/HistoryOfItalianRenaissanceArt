@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Lamentation depicts the mourning over Christ's body after the Crucifixion and before his burial. While not directly described in scripture, it is derived from the burial accounts in the Gospels (Matthew 27:57-61, Mark 15:42-47, Luke 23:50-56, John 19:38-42).
+[Lamentation](../biblestories/Lamentation.md) - The mourning over Christ's body after the Crucifixion and before his burial. While not directly described in scripture, it is derived from the burial accounts in the Gospels (Matthew 27:57-61, Mark 15:42-47, Luke 23:50-56, John 19:38-42).
 
 ## Description
 

@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Crucifixion depicts the death of Jesus Christ on the cross at Golgotha, as described in all four Gospels (Matthew 27:32-56, Mark 15:21-41, Luke 23:26-49, John 19:17-37). This central event in Christian theology represents Christ's sacrifice for the redemption of humanity's sins.
+[Crucifixion](../biblestories/Crucifixion.md) - The death of Jesus Christ on the cross at Golgotha, as described in all four Gospels (Matthew 27:32-56, Mark 15:21-41, Luke 23:26-49, John 19:17-37). This central event in Christian theology represents Christ's sacrifice for the redemption of humanity's sins.
 
 ## Description
 

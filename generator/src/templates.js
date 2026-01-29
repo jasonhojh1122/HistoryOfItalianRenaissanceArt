@@ -25,6 +25,7 @@ export function layoutTemplate(title, content, depth = 0) {
   <footer>
     <p>Travel notes on Italian Renaissance Art</p>
   </footer>
+  <script src="${prefix}sort.js"></script>
 </body>
 </html>`;
 }
@@ -32,7 +33,7 @@ export function layoutTemplate(title, content, depth = 0) {
 /**
  * Index page template
  */
-export function indexTemplate(artists, locationsByCity) {
+export function indexTemplate(artists, locationsByCity, bibleStories = []) {
   const artistsList = artists.map(a =>
     `<li><a href="artists/${a.id}.html">${escapeHtml(a.metadata.title)}</a></li>`
   ).join('\n        ');
@@ -45,6 +46,17 @@ export function indexTemplate(artists, locationsByCity) {
         ).join('\n        ')}
       </ul>`
   ).join('\n');
+
+  const bibleStoriesHtml = bibleStories.length > 0 ? `
+    <section class="index-section">
+      <h2>Bible Stories</h2>
+      <ul class="bible-stories-list">
+        ${bibleStories.map(s =>
+          `<li><a href="biblestories/${s.id}.html">${escapeHtml(s.metadata.title)}</a>${s.metadata.alternateName ? ` <span class="alternate-name">(${escapeHtml(s.metadata.alternateName)})</span>` : ''}</li>`
+        ).join('\n        ')}
+      </ul>
+    </section>
+  ` : '';
 
   const content = `
     <h1>Italian Renaissance Art</h1>
@@ -61,22 +73,68 @@ export function indexTemplate(artists, locationsByCity) {
       <h2>Locations by City</h2>
       ${locationsHtml}
     </section>
+
+    ${bibleStoriesHtml}
   `;
 
   return layoutTemplate('Home', content, 0);
 }
 
 /**
- * Artwork card template (for embedding in artist/location pages)
+ * Sort controls template
+ * @param {boolean} showArtistSort - Whether to show the Artist sort button
  */
-export function artworkCardTemplate(artwork) {
+function sortControlsTemplate(showArtistSort) {
+  return `
+    <div class="sort-controls">
+      <span>Sort by:</span>
+      <button class="sort-btn active" data-sort="date">Date</button>
+      <button class="sort-btn" data-sort="title">Title</button>
+      ${showArtistSort ? '<button class="sort-btn" data-sort="artist">Artist</button>' : ''}
+    </div>
+  `;
+}
+
+/**
+ * Sort artworks by date (earliest first)
+ */
+function sortArtworksByDate(artworks) {
+  return [...artworks].sort((a, b) => {
+    const dateA = parseArtworkDate(a.metadata.date);
+    const dateB = parseArtworkDate(b.metadata.date);
+    return dateA - dateB;
+  });
+}
+
+/**
+ * Parse date string into a number for sorting
+ */
+function parseArtworkDate(dateStr) {
+  if (!dateStr) return Infinity;
+  const cleaned = dateStr.replace(/^(c\.|ca\.|circa)\s*/i, '').trim();
+  const match = cleaned.match(/\d{4}/);
+  if (match) return parseInt(match[0], 10);
+  const decadeMatch = cleaned.match(/(\d{3})0s/);
+  if (decadeMatch) return parseInt(decadeMatch[1] + '0', 10);
+  return Infinity;
+}
+
+/**
+ * Artwork card template (for embedding in artist/location pages)
+ * @param {Object} artwork - Artwork object
+ * @param {boolean} includeArtist - Whether to include artist in data attributes
+ */
+export function artworkCardTemplate(artwork, includeArtist = false) {
   const meta = artwork.metadata;
   const image = meta.images[0];
 
+  const artistAttr = includeArtist && meta.artist ? ` data-artist="${escapeHtml(meta.artist)}"` : '';
+
   return `
-    <article class="artwork-card">
+    <article class="artwork-card" data-title="${escapeHtml(meta.title || '')}" data-date="${escapeHtml(meta.date || '')}"${artistAttr}>
       <h3><a href="../artworks/${artwork.id}.html">${escapeHtml(meta.title)}</a></h3>
       <div class="artwork-meta">
+        ${includeArtist && meta.artist ? `<span class="artist"><a href="../artists/${artwork.metadata.artistFile}.html">${escapeHtml(meta.artist)}</a></span>` : ''}
         ${meta.medium ? `<span class="medium">${escapeHtml(meta.medium)}</span>` : ''}
         ${meta.date ? `<span class="date">${escapeHtml(meta.date)}</span>` : ''}
       </div>
@@ -97,9 +155,13 @@ export function artistTemplate(artist, artworks) {
     links.push(`<a href="${escapeHtml(meta.wikipedia)}" target="_blank" rel="noopener noreferrer">Wikipedia</a>`);
   }
 
-  const artworksHtml = artworks.length > 0
-    ? artworks.map(a => artworkCardTemplate(a)).join('\n')
+  // Sort artworks by date and generate cards (no artist sort for single-artist pages)
+  const sortedArtworks = sortArtworksByDate(artworks);
+  const artworksHtml = sortedArtworks.length > 0
+    ? sortedArtworks.map(a => artworkCardTemplate(a, false)).join('\n')
     : '<p class="no-artworks">No artworks documented yet.</p>';
+
+  const sortControls = sortedArtworks.length > 1 ? sortControlsTemplate(false) : '';
 
   const content = `
     <article class="artist-page">
@@ -109,6 +171,7 @@ export function artistTemplate(artist, artworks) {
 
       <section class="artworks-section">
         <h2>Artworks</h2>
+        ${sortControls}
         <div class="artwork-grid">
           ${artworksHtml}
         </div>
@@ -137,9 +200,17 @@ export function locationTemplate(location, artworks) {
     ? `<div class="floor-plan"><img src="${escapeHtml(fixImagePath(meta.floorPlan, 'locations'))}" alt="Floor plan"></div>`
     : '';
 
-  const artworksHtml = artworks.length > 0
-    ? artworks.map(a => artworkCardTemplate(a)).join('\n')
+  // Check if multiple artists are represented
+  const uniqueArtists = new Set(artworks.map(a => a.metadata.artist).filter(Boolean));
+  const hasMultipleArtists = uniqueArtists.size > 1;
+
+  // Sort artworks by date and generate cards
+  const sortedArtworks = sortArtworksByDate(artworks);
+  const artworksHtml = sortedArtworks.length > 0
+    ? sortedArtworks.map(a => artworkCardTemplate(a, hasMultipleArtists)).join('\n')
     : '<p class="no-artworks">No artworks documented yet.</p>';
+
+  const sortControls = sortedArtworks.length > 1 ? sortControlsTemplate(hasMultipleArtists) : '';
 
   const content = `
     <article class="location-page">
@@ -151,6 +222,7 @@ export function locationTemplate(location, artworks) {
 
       <section class="artworks-section">
         <h2>Artworks</h2>
+        ${sortControls}
         <div class="artwork-grid">
           ${artworksHtml}
         </div>
@@ -184,6 +256,14 @@ export function artworkTemplate(artwork) {
     metaItems.push(`<li><strong>Date:</strong> ${escapeHtml(meta.date)}</li>`);
   }
 
+  // Add bible story link with context if present
+  const bibleStoryHtml = meta.bibleStory ? `
+    <div class="biblical-context">
+      <h3>Biblical Context</h3>
+      <p><a href="../biblestories/${escapeHtml(artwork.metadata.bibleStoryFile)}.html">${escapeHtml(meta.bibleStory)}</a>${meta.biblicalContext ? ` - ${escapeHtml(meta.biblicalContext)}` : ''}</p>
+    </div>
+  ` : '';
+
   const imagesHtml = meta.images.map(img =>
     `<figure><img src="${escapeHtml(fixImagePath(img.src, 'artworks'))}" alt="${escapeHtml(img.alt || meta.title)}"></figure>`
   ).join('\n');
@@ -192,10 +272,70 @@ export function artworkTemplate(artwork) {
     <article class="artwork-page">
       <h1>${escapeHtml(meta.title)}</h1>
       ${metaItems.length > 0 ? `<ul class="artwork-metadata">${metaItems.join('\n')}</ul>` : ''}
+      ${bibleStoryHtml}
       ${meta.description ? `<div class="description">${parseMarkdown(meta.description)}</div>` : ''}
       <div class="artwork-images">
         ${imagesHtml}
       </div>
+    </article>
+  `;
+
+  return layoutTemplate(meta.title, content, 1);
+}
+
+/**
+ * Bible story page template
+ */
+export function bibleStoryTemplate(bibleStory, artworks) {
+  const meta = bibleStory.metadata;
+
+  const links = [];
+  if (meta.wikipedia) {
+    links.push(`<a href="${escapeHtml(meta.wikipedia)}" target="_blank" rel="noopener noreferrer">Wikipedia</a>`);
+  }
+
+  // Check if multiple artists are represented
+  const uniqueArtists = new Set(artworks.map(a => a.metadata.artist).filter(Boolean));
+  const hasMultipleArtists = uniqueArtists.size > 1;
+
+  // Sort artworks by date and generate cards
+  const sortedArtworks = sortArtworksByDate(artworks);
+  const artworksHtml = sortedArtworks.length > 0
+    ? sortedArtworks.map(a => artworkCardTemplate(a, hasMultipleArtists)).join('\n')
+    : '<p class="no-artworks">No artworks documented yet.</p>';
+
+  const sortControls = sortedArtworks.length > 1 ? sortControlsTemplate(hasMultipleArtists) : '';
+
+  const biblicalRefHtml = (meta.biblicalReference.books || meta.biblicalReference.verses) ? `
+      <div class="biblical-reference">
+        <h3>Biblical Reference</h3>
+        ${meta.biblicalReference.books ? `<p><strong>Book(s):</strong> ${escapeHtml(meta.biblicalReference.books)}</p>` : ''}
+        ${meta.biblicalReference.verses ? `<p><strong>Chapters/Verses:</strong> ${escapeHtml(meta.biblicalReference.verses)}</p>` : ''}
+      </div>
+  ` : '';
+
+  const content = `
+    <article class="bible-story-page">
+      <h1>${escapeHtml(meta.title)}</h1>
+      ${meta.alternateName ? `<p class="alternate-name">${escapeHtml(meta.alternateName)}</p>` : ''}
+      ${links.length > 0 ? `<div class="external-links">${links.join(' ')}</div>` : ''}
+
+      ${meta.summary ? `
+      <section class="summary-section">
+        <h2>Summary</h2>
+        <div class="summary">${parseMarkdown(meta.summary)}</div>
+      </section>
+      ` : ''}
+
+      ${biblicalRefHtml}
+
+      <section class="artworks-section">
+        <h2>Artworks Depicting This Story</h2>
+        ${sortControls}
+        <div class="artwork-grid">
+          ${artworksHtml}
+        </div>
+      </section>
     </article>
   `;
 

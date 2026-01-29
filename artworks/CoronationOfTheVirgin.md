@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Coronation of the Virgin depicts the Virgin Mary being crowned Queen of Heaven by Christ. While not directly described in scripture, this scene represents a tradition in Catholic theology following Mary's Assumption into heaven.
+[Coronation of the Virgin](../biblestories/CoronationOfTheVirgin.md) - The Virgin Mary being crowned Queen of Heaven by Christ. While not directly described in scripture, this scene represents a tradition in Catholic theology following Mary's Assumption into heaven.
 
 ## Description
 

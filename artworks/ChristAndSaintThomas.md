@@ -5,6 +5,7 @@
 - **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md)
 - **Location**: [Orsanmichele](../locations/Orsanmichele.md), Florence
 - **Medium**: Bronze
+- **Date**: 1467–1483
 
 ## Biblical Context
 

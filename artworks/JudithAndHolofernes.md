@@ -5,10 +5,11 @@
 - **Artist**: [Donatello](../artists/Donatello.md)
 - **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
 - **Medium**: Bronze
+- **Date**: c. 1457–1464
 
 ## Biblical Context
 
-The story of Judith and Holofernes comes from the deuterocanonical Book of Judith. Judith, a beautiful Jewish widow, saves her city from the Assyrian general Holofernes by entering his camp, gaining his trust, and then beheading him while he slept drunk. The story represents the triumph of virtue over tyranny and of the weak over the powerful.
+[Judith and Holofernes](../biblestories/JudithAndHolofernes.md) - Judith, a beautiful Jewish widow, saves her city from the Assyrian general Holofernes by entering his camp, gaining his trust, and then beheading him while he slept drunk. The story represents the triumph of virtue over tyranny and of the weak over the powerful.
 
 ## Description
 

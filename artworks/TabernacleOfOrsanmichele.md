@@ -3,6 +3,11 @@
 - **Artist**: [Andrea Orcagna](../artists/AndreaOrcagna.md)
 - **Location**: [Orsanmichele](../locations/Orsanmichele.md), Florence
 - **Medium**: Marble
+- **Date**: 1359
+
+## Biblical Context
+
+[Coronation of the Virgin](../biblestories/CoronationOfTheVirgin.md) - The tabernacle includes relief scenes depicting the Assumption and Coronation of the Virgin Mary.
 
 ## Description
 

@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Adoration of the Shepherds depicts the visit of the shepherds to the newborn Jesus in Bethlehem, as described in Luke 2:8-20. An angel appeared to shepherds keeping watch over their flocks and announced the birth of the Savior.
+[Adoration of the Shepherds](../biblestories/AdorationOfTheShepherds.md) - The visit of the shepherds to the newborn Jesus in Bethlehem, as described in Luke 2:8-20. An angel appeared to shepherds keeping watch over their flocks and announced the birth of the Savior.
 
 ## Description
 

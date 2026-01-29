@@ -5,6 +5,7 @@
 - **Artist**: [Melozzo da Forlì](../artists/MelozzoDaForli.md)
 - **Location**: [Pinacoteca Vaticana](../locations/PinacotecaVaticana.md), Vatican City
 - **Medium**: Fresco (transferred to canvas)
+- **Date**: 1477
 
 ## Description
 

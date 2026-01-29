@@ -5,6 +5,7 @@
 - **Artist**: [Antonio del Pollaiuolo](../artists/AntonioDelPollaiuolo.md)
 - **Location**: [Uffizi Gallery](../locations/UffiziGallery.md), Florence
 - **Medium**: Oil on panel
+- **Date**: c. 1470–1475
 
 ## Description
 

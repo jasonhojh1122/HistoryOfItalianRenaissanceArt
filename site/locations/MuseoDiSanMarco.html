@@ -23,22 +23,20 @@
 
       <section class="artworks-section">
         <h2>Artworks</h2>
+        
+    <div class="sort-controls">
+      <span>Sort by:</span>
+      <button class="sort-btn active" data-sort="date">Date</button>
+      <button class="sort-btn" data-sort="title">Title</button>
+      
+    </div>
+  
         <div class="artwork-grid">
           
-    <article class="artwork-card">
-      <h3><a href="../artworks/SanMarcoAltarpiece.html">San Marco Altarpiece</a></h3>
-      <div class="artwork-meta">
-        <span class="medium">Tempera on panel</span>
-        
-      </div>
-      <p class="description">Major altarpiece for the church of San Marco in Florence.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Fra_Angelico_%E2%80%94_San_Marco_Altarpiece.jpg" alt="San Marco Altarpiece" loading="lazy">
-    </article>
-  
-
-    <article class="artwork-card">
+    <article class="artwork-card" data-title="Descent from the Cross" data-date="1432–1434">
       <h3><a href="../artworks/DescentFromTheCross.html">Descent from the Cross</a></h3>
       <div class="artwork-meta">
+        
         <span class="medium">Tempera on panel</span>
         <span class="date">1432–1434</span>
       </div>
@@ -47,9 +45,22 @@
     </article>
   
 
-    <article class="artwork-card">
+    <article class="artwork-card" data-title="San Marco Altarpiece" data-date="c. 1438–1443">
+      <h3><a href="../artworks/SanMarcoAltarpiece.html">San Marco Altarpiece</a></h3>
+      <div class="artwork-meta">
+        
+        <span class="medium">Tempera on panel</span>
+        <span class="date">c. 1438–1443</span>
+      </div>
+      <p class="description">Major altarpiece for the church of San Marco in Florence.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Fra_Angelico_%E2%80%94_San_Marco_Altarpiece.jpg" alt="San Marco Altarpiece" loading="lazy">
+    </article>
+  
+
+    <article class="artwork-card" data-title="Annunciation" data-date="c. 1440–1445">
       <h3><a href="../artworks/AnnunciationFraAngelico.html">Annunciation</a></h3>
       <div class="artwork-meta">
+        
         <span class="medium">Fresco</span>
         <span class="date">c. 1440–1445</span>
       </div>
@@ -65,5 +76,6 @@
   <footer>
     <p>Travel notes on Italian Renaissance Art</p>
   </footer>
+  <script src="../sort.js"></script>
 </body>
 </html>

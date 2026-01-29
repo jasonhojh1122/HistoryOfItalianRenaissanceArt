@@ -5,6 +5,7 @@
 - **Artist**: [Alberti](../artists/LeonBattistaAlberti.md)
 - **Location**: [Santa Maria Novella](../locations/SantaMariaNovella.md), Florence
 - **Medium**: Architecture (marble)
+- **Date**: 1456–1470
 
 ## Description
 

@@ -5,6 +5,7 @@
 - **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md)
 - **Location**: [Basilica dei Santi Giovanni e Paolo](../locations/SantiGiovanniEPaolo.md), Venice
 - **Medium**: Bronze
+- **Date**: 1480–1488
 
 ## Description
 

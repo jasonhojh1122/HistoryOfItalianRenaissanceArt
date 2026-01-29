@@ -5,10 +5,11 @@
 - **Artist**: [Sandro Botticelli](../artists/SandroBotticelli.md)
 - **Location**: [Sistine Chapel](../locations/SistineChapel.md), Vatican City
 - **Medium**: Fresco
+- **Date**: 1481–1482
 
 ## Biblical Context
 
-Depicts events from the early life of Moses, including his time in Egypt and his calling at the burning bush (Exodus 2-3).
+[Life of Moses](../biblestories/LifeOfMoses.md) - Events from the early life of Moses, including his time in Egypt and his calling at the burning bush (Exodus 2-3).
 
 ## Description
 

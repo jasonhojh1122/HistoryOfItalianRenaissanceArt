@@ -3,6 +3,7 @@
 - **Artist**: [Desiderio da Settignano](../artists/DesiderioDaSettignano.md)
 - **Location**: [Santa Croce](../locations/SantaCroce.md), Florence
 - **Medium**: Marble
+- **Date**: 1453–1455
 
 ## Description
 

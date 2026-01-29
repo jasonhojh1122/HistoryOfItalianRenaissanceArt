@@ -3,6 +3,7 @@
 - **Artist**: [Maso di Banco](../artists/MasoDiBanco.md)
 - **Location**: [Santa Croce](../locations/SantaCroce.md), Florence
 - **Medium**: Fresco
+- **Date**: c. 1340
 
 ## Description
 

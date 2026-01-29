@@ -3,6 +3,7 @@
 - **Artist**: Bonino da Campione
 - **Location**: [Castello Sforzesco](../locations/CastelloSforzesco.md), Milan
 - **Medium**: Marble
+- **Date**: c. 1363
 
 ## Description
 

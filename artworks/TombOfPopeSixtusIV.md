@@ -3,6 +3,7 @@
 - **Artist**: [Antonio del Pollaiuolo](../artists/AntonioDelPollaiuolo.md)
 - **Location**: [St. Peter's Basilica](../locations/StPetersBasilica.md), Vatican City
 - **Medium**: Bronze
+- **Date**: 1484–1493
 
 ## Description
 

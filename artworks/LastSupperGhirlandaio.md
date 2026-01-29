@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Last Supper depicts Jesus's final meal with his twelve disciples before his crucifixion, during which he instituted the Eucharist (Matthew 26:17-30, Mark 14:12-26, Luke 22:7-38, John 13:1-17:26).
+[Last Supper](../biblestories/LastSupper.md) - Jesus's final meal with his twelve disciples before his crucifixion, during which he instituted the Eucharist (Matthew 26:17-30, Mark 14:12-26, Luke 22:7-38, John 13:1-17:26).
 
 ## Description
 

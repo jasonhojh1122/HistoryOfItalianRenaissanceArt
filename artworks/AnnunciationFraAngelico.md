@@ -9,7 +9,7 @@
 
 ## Biblical Context
 
-The Annunciation depicts the moment when the Angel Gabriel announced to the Virgin Mary that she would conceive and bear the Son of God, as described in Luke 1:26-38.
+[Annunciation](../biblestories/Annunciation.md) - The moment when the Angel Gabriel announced to the Virgin Mary that she would conceive and bear the Son of God, as described in Luke 1:26-38.
 
 ## Description
 

@@ -5,14 +5,17 @@ import {
   buildIndex,
   getArtistArtworks,
   getLocationArtworks,
+  getBibleStoryArtworks,
   getSortedArtists,
+  getSortedBibleStories,
   getLocationsByCity
 } from './relationships.js';
 import {
   indexTemplate,
   artistTemplate,
   locationTemplate,
-  artworkTemplate
+  artworkTemplate,
+  bibleStoryTemplate
 } from './templates.js';
 
 /**
@@ -29,6 +32,7 @@ export async function generateSite(rootDir, outputDir) {
   await fs.mkdir(path.join(outputDir, 'artists'), { recursive: true });
   await fs.mkdir(path.join(outputDir, 'locations'), { recursive: true });
   await fs.mkdir(path.join(outputDir, 'artworks'), { recursive: true });
+  await fs.mkdir(path.join(outputDir, 'biblestories'), { recursive: true });
 
   // Build content index
   console.log('\nIndexing content...');
@@ -36,12 +40,14 @@ export async function generateSite(rootDir, outputDir) {
   console.log(`  Found ${Object.keys(index.artists).length} artists`);
   console.log(`  Found ${Object.keys(index.locations).length} locations`);
   console.log(`  Found ${Object.keys(index.artworks).length} artworks`);
+  console.log(`  Found ${Object.keys(index.biblestories).length} bible stories`);
 
   // Generate index page
   console.log('\nGenerating pages...');
   const artists = getSortedArtists(index);
   const locationsByCity = getLocationsByCity(index);
-  const indexHtml = indexTemplate(artists, locationsByCity);
+  const bibleStories = getSortedBibleStories(index);
+  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories);
   await fs.writeFile(path.join(outputDir, 'index.html'), indexHtml);
   console.log('  Generated index.html');
 
@@ -68,6 +74,14 @@ export async function generateSite(rootDir, outputDir) {
   }
   console.log(`  Generated ${Object.keys(index.artworks).length} artwork pages`);
 
+  // Generate bible story pages
+  for (const [bibleStoryId, bibleStory] of Object.entries(index.biblestories)) {
+    const artworks = getBibleStoryArtworks(index, bibleStoryId);
+    const html = bibleStoryTemplate(bibleStory, artworks);
+    await fs.writeFile(path.join(outputDir, 'biblestories', `${bibleStoryId}.html`), html);
+  }
+  console.log(`  Generated ${Object.keys(index.biblestories).length} bible story pages`);
+
   // Copy static assets
   console.log('\nCopying assets...');
   await copyStaticAssets(rootDir, outputDir);
@@ -77,19 +91,23 @@ export async function generateSite(rootDir, outputDir) {
 }
 
 /**
- * Copy static assets (CSS and images)
+ * Copy static assets (CSS, JS, and images)
  */
 async function copyStaticAssets(rootDir, outputDir) {
-  // Copy CSS from generator/static/
+  // Copy all files from generator/static/
   const generatorDir = path.dirname(import.meta.url.replace('file://', ''));
-  const cssSource = path.join(generatorDir, '..', 'static', 'styles.css');
-  const cssDest = path.join(outputDir, 'styles.css');
+  const staticDir = path.join(generatorDir, '..', 'static');
 
   try {
-    await fs.copyFile(cssSource, cssDest);
-    console.log('  Copied styles.css');
+    const staticFiles = await glob('*', { cwd: staticDir, nodir: true });
+    for (const file of staticFiles) {
+      const src = path.join(staticDir, file);
+      const dest = path.join(outputDir, file);
+      await fs.copyFile(src, dest);
+    }
+    console.log(`  Copied ${staticFiles.length} static files (${staticFiles.join(', ')})`);
   } catch (err) {
-    console.error('  Warning: Could not copy styles.css:', err.message);
+    console.error('  Warning: Could not copy static files:', err.message);
   }
 
   // Copy local images from img/

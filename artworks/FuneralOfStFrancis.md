@@ -3,6 +3,7 @@
 - **Artist**: [Giotto](../artists/GiottoDiBondone.md)
 - **Location**: [Santa Croce](../locations/SantaCroce.md), Florence
 - **Medium**: Fresco
+- **Date**: c. 1325–1328
 
 ## Description
 
