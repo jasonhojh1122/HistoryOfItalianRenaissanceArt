@@ -95,3 +95,15 @@ Florence, Italy
 
 ### [Portrait of Francesco delle Opere](../artworks/PortraitOfFrancescoDelleOpere.md)
 - **Artist**: [Pietro Perugino](../artists/PietroPerugino.md)
+
+### [Annunciation](../artworks/AnnunciationLeonardo.md)
+- **Artist**: [Leonardo da Vinci](../artists/LeonardoDaVinci.md)
+- **Date**: c. 1472–1476
+
+### [Adoration of the Magi](../artworks/AdorationOfTheMagiLeonardo.md)
+- **Artist**: [Leonardo da Vinci](../artists/LeonardoDaVinci.md)
+- **Date**: c. 1481–1482 (unfinished)
+
+### [Landscape of the Arno Valley](../artworks/LandscapeOfTheArnoValley.md)
+- **Artist**: [Leonardo da Vinci](../artists/LeonardoDaVinci.md)
+- **Date**: 1473

@@ -33,6 +33,22 @@
 
 - [Castello Sforzesco](locations/CastelloSforzesco.md)
 - [Milan Cathedral](locations/MilanCathedral.md)
+- [Santa Maria delle Grazie](locations/SantaMariaDelleGrazie.md)
+- [Brera](locations/Brera.md)
+
+#### Venice
+
+- [Gallerie dell'Accademia](locations/Accademia.md)
+- [Museo Correr](locations/MuseoCorrer.md)
+- [Basilica di Santa Maria Gloriosa dei Frari](locations/BasilicaDeiFrari.md)
+- [Basilica dei Santi Giovanni e Paolo](locations/SantiGiovanniEPaolo.md)
+- [Ca' d'Oro](locations/CaDOro.md)
+
+#### Vatican City
+
+- [Sistine Chapel](locations/SistineChapel.md)
+- [Pinacoteca Vaticana](locations/PinacotecaVaticana.md)
+- [St. Peter's Basilica](locations/StPetersBasilica.md)
 
 ### Artists
 
@@ -79,6 +95,27 @@
 - [Paolo Uccello](artists/PaoloUccello.md)
 - [Domenico Veneziano](artists/DomenicoVeneziano.md)
 - [Andrea del Castagno](artists/AndreaDelCastagno.md)
+- [Desiderio da Settignano](artists/DesiderioDaSettignano.md)
+- [Giuliano da Maiano](artists/GiulianoDaMaiano.md)
+- [Benedetto da Maiano](artists/BenedettoDaMaiano.md)
+- [Benozzo Gozzoli](artists/BenozzoGozzoli.md)
+- [Antonio del Pollaiuolo](artists/AntonioDelPollaiuolo.md)
+- [Andrea del Verrocchio](artists/AndreaDelVerrocchio.md)
+- [Sandro Botticelli](artists/SandroBotticelli.md)
+- [Filippino Lippi](artists/FilippinoLippi.md)
+- [Domenico Ghirlandaio](artists/DomenicoGhirlandaio.md)
+- [Pietro Perugino](artists/PietroPerugino.md)
+- [Melozzo da Forlì](artists/MelozzoDaForli.md)
+- [Jacobello del Fiore](artists/JacobelloDelFiore.md)
+- [Jacopo Bellini](artists/JacopoBellini.md)
+- [Andrea Mantegna](artists/AndreaMantegna.md)
+- [Gentile Bellini](artists/GentileBellini.md)
+- [Giovanni Bellini](artists/GiovanniBellini.md)
+- [Vittore Carpaccio](artists/VittoreCarpaccio.md)
+
+#### Cinquecento (1500s)
+
+- [Leonardo da Vinci](artists/LeonardoDaVinci.md)
 
 #### Patrons
 
@@ -114,6 +151,21 @@
 - [Paolo Uccello](artists/PaoloUccello.md)
 - [Domenico Veneziano](artists/DomenicoVeneziano.md)
 - [Andrea del Castagno](artists/AndreaDelCastagno.md)
+- [Benozzo Gozzoli](artists/BenozzoGozzoli.md)
+- [Antonio del Pollaiuolo](artists/AntonioDelPollaiuolo.md)
+- [Andrea del Verrocchio](artists/AndreaDelVerrocchio.md)
+- [Sandro Botticelli](artists/SandroBotticelli.md)
+- [Filippino Lippi](artists/FilippinoLippi.md)
+- [Domenico Ghirlandaio](artists/DomenicoGhirlandaio.md)
+- [Pietro Perugino](artists/PietroPerugino.md)
+- [Melozzo da Forlì](artists/MelozzoDaForli.md)
+- [Jacobello del Fiore](artists/JacobelloDelFiore.md)
+- [Jacopo Bellini](artists/JacopoBellini.md)
+- [Andrea Mantegna](artists/AndreaMantegna.md)
+- [Gentile Bellini](artists/GentileBellini.md)
+- [Giovanni Bellini](artists/GiovanniBellini.md)
+- [Vittore Carpaccio](artists/VittoreCarpaccio.md)
+- [Leonardo da Vinci](artists/LeonardoDaVinci.md)
 
 #### Sculpture
 
@@ -122,6 +174,9 @@
 - [Donatello](artists/Donatello.md)
 - [Nanni di Banco](artists/NanniDiBanco.md)
 - [Luca della Robbia](artists/LucaDellaRobbia.md)
+- [Desiderio da Settignano](artists/DesiderioDaSettignano.md)
+- [Antonio del Pollaiuolo](artists/AntonioDelPollaiuolo.md)
+- [Andrea del Verrocchio](artists/AndreaDelVerrocchio.md)
 
 #### Architecture
 
@@ -142,3 +197,4 @@
 - **Tabernacle** - [Orsanmichele](locations/Orsanmichele.md) - Orcagna's ornate marble shrine
 - **Battle of San Romano** - [Uffizi Gallery](locations/UffiziGallery.md) - Uccello's perspective tour de force
 - **South Door** - [Baptistery of Florence](locations/BaptisteryOfFlorence.md) - Andrea Pisano's bronze panels
+- **The Last Supper** - [Santa Maria delle Grazie](locations/SantaMariaDelleGrazie.md) - Leonardo da Vinci's masterpiece

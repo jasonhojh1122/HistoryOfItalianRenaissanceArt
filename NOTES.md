@@ -248,7 +248,7 @@
 
 - [Fra Angelico](https://en.wikipedia.org/wiki/Fra_Angelico)
   - Descent from the Cross, Museo di San Marco, Florence
-    ![img](https://upload.wikimedia.org/wikipedia/commons/c/c9/Deposition_of_Christ%2C_Fra_Angelico_fter_restoration_of_2025.jpg)
+    ![img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fuploads4.wikiart.org%2Fimages%2Ffra-angelico%2Fdeposition-from-the-cross-1440.jpg&f=1&nofb=1&ipt=6fa1b02967e832cca230e815ff38f6097824559f6397b27819d5c3181cc628f6)
     - New naturalism, harmony of figures and landscape
 
   - [San Marco Altarpiece](https://en.wikipedia.org/wiki/San_Marco_Altarpiece), Museo di San Marco, Florence

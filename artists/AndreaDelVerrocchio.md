@@ -5,7 +5,7 @@
 **Born**: c. 1435, Florence
 **Died**: 1488, Venice
 
-Italian sculptor, painter and goldsmith who was a master of a workshop in Florence. He was the teacher of Leonardo da Vinci, with whom he painted the Baptism of Christ.
+Italian sculptor, painter and goldsmith who was a master of a workshop in Florence. He was the teacher of [Leonardo da Vinci](LeonardoDaVinci.md), with whom he painted the Baptism of Christ.
 
 ## Artworks
 

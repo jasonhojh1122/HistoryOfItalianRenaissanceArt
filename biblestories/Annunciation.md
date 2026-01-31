@@ -23,3 +23,6 @@ The Annunciation depicts the announcement by the Angel Gabriel to the Virgin Mar
 
 ### [Cestello Annunciation](../artworks/CestelloAnnunciation.md)
 - Sandro Botticelli, Uffizi Gallery, Florence
+
+### [Annunciation](../artworks/AnnunciationLeonardo.md)
+- Leonardo da Vinci, Uffizi Gallery, Florence, c. 1472–1476

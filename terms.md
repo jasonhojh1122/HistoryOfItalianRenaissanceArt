@@ -15,3 +15,10 @@ A circular painting or relief sculpture. The term comes from the Italian word "r
 
 ### Francesco
 方濟各 - Francis (as in St. Francis of Assisi).
+
+## Materials
+
+### Pietra serena
+[Wikipedia](https://en.wikipedia.org/wiki/Pietra_serena)
+
+Blue-gray sandstone used extensively in Renaissance Florence for architectural elements.

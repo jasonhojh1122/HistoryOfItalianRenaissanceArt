@@ -21,3 +21,6 @@ The Adoration of the Magi describes the visit of the three wise men (Magi) from 
 
 ### [Procession of the Magi](../artworks/ProcessionOfTheMagi.md)
 - Benozzo Gozzoli, Palazzo Medici Riccardi, c. 1459
+
+### [Adoration of the Magi](../artworks/AdorationOfTheMagiLeonardo.md)
+- Leonardo da Vinci, Uffizi Gallery, Florence, c. 1481–1482 (unfinished)

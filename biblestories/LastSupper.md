@@ -21,3 +21,6 @@ The Last Supper depicts Jesus's final meal with his twelve disciples before his 
 
 ### [Last Supper](../artworks/LastSupperCastagno.md)
 - Andrea del Castagno, Sant'Apollonia, 1445–1450
+
+### [The Last Supper](../artworks/LastSupperLeonardo.md)
+- Leonardo da Vinci, Santa Maria delle Grazie, Milan, c. 1495–1498

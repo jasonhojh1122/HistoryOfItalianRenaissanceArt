@@ -9,4 +9,4 @@
 
 First three-quarter-length sculpted portrait since antiquity. A landmark in Renaissance portraiture.
 
-![img](PortraitOfALadyWithFlowers.png)
+![img](../img/PortraitOfALadyWithFlowers.png)
