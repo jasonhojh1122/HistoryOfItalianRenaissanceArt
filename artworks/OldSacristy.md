@@ -11,4 +11,4 @@
 
 One of the earliest Renaissance interiors. Commissioned by Giovanni di Bicci de' Medici as a new sacristy for the old church of San Lorenzo.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/e/e4/Sagrestia_vecchia%2C_veduta_00.jpg)
+![img](../img/Sagrestia_vecchia__veduta_00_e7dcf90e.jpg)

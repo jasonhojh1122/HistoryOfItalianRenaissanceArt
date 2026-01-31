@@ -15,4 +15,4 @@
 
 Located in the refectory of the former convent of Sant'Apollonia. Judas is depicted sitting separately on the near side of the table.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/0/00/Andrea_del_Castagno_001.jpg)
+![img](../img/Andrea_del_Castagno_001_04c67387.jpg)

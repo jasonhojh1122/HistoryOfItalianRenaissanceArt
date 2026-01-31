@@ -9,4 +9,4 @@
 
 Part of the ceiling of the Baptistery of Florence, representing the Italo-Byzantine style of the Duecento.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/c/c3/Florence_baptistery_ceiling_mosaic_14493px.jpg)
+![img](../img/Florence_baptistery_ceiling_mosaic_14493px_ce2fe5ab.jpg)

@@ -15,4 +15,4 @@
 
 An early work by Leonardo showing the angel Gabriel appearing to the Virgin Mary. The painting demonstrates Leonardo's early mastery of perspective and atmospheric effects.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/9/9f/Annunciation_%28Leonardo_c._1472%E2%80%931476%29.jpg)
+![img](../img/Annunciation__Leonardo_c__1472_1476__5752c796.jpg)

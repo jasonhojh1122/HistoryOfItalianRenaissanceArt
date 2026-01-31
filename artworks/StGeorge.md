@@ -11,4 +11,4 @@
 
 Originally part of the sculptural program at Orsanmichele, now in the Bargello.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/d/d8/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-03.jpg)
+![img](../img/St__Georg__Donatello__1416-17__Bargello_Florenz-03_74e3723a.jpg)

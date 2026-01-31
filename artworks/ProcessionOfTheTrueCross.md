@@ -11,4 +11,4 @@
 
 Painted for the scuole (school) of Venice, a religious group. Shows a procession in Piazza San Marco with remarkable architectural detail.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/4/44/Accademia_-_Procession_in_piazza_San_Marco_by_Gentile_Bellini.jpg)
+![img](../img/Accademia_-_Procession_in_piazza_San_Marco_by_Gent_273496e2.jpg)

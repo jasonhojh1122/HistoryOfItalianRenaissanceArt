@@ -11,4 +11,4 @@
 
 Considered an ancestor of portraits by Raphael, Perugino's most famous pupil.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/5/5c/Pietro_Perugino_cat37.jpg)
+![img](../img/Pietro_Perugino_cat37_2270c7d2.jpg)

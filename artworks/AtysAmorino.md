@@ -11,4 +11,4 @@
 
 Bronze sculpture combining attributes of Eros and Attis.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/c/c0/Amor-Attys.Donatello.P1151420.jpg)
+![img](../img/Amor-Attys_Donatello_P1151420_e4cec112.jpg)

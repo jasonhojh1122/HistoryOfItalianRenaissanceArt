@@ -11,4 +11,4 @@
 
 Four portraits on the right side of the composition are Antonio Pucci, Lorenzo the Magnificent, Francesco and Federigo Sassetti.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/d/dc/Cappella_Sassetti_Confirmation_of_the_Franciscan_Rule_2.jpg)
+![img](../img/Cappella_Sassetti_Confirmation_of_the_Franciscan_R_69a2d8db.jpg)

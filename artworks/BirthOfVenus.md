@@ -11,4 +11,4 @@
 
 Depicts the goddess Venus emerging from the sea as a fully grown woman. In the left are Zephyrus (the wind god) and a nymph.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
+![img](../img/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google__530afc12.jpg)

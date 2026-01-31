@@ -13,4 +13,4 @@
 
 Relief sculpture depicting the Creation of Adam.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/6/67/Andrea_Pisano%2C_The_Creation_of_Adam_and_Eve%2C_1334-43%2C_Museo_dell%27Opera_del_Duomo%2C_Florence.jpg)
+![img](../img/Andrea_Pisano__The_Creation_of_Adam_and_Eve__1334-_ce0dbb10.jpg)

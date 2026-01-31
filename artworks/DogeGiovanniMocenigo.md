@@ -11,4 +11,4 @@
 
 Portrait of the Doge Giovanni Mocenigo. Gentile Bellini was the official portrait artist for the Doges of Venice from 1474.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/f/fe/%28Venice%29_Doge_Giovanni_Mocenigo_by_Gentile_Bellini_-_Correr_Museum.jpg)
+![img](../img/_Venice__Doge_Giovanni_Mocenigo_by_Gentile_Bellini_ec8ed6be.jpg)

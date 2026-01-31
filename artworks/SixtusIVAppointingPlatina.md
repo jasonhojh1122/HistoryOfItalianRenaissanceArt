@@ -11,4 +11,4 @@
 
 First surviving papal ceremonial portrait of the Renaissance. Notable for Melozzo's characteristic use of foreshortening.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/5/56/Melozzo_da_Forl%C3%AC_001.jpg)
+![img](../img/Melozzo_da_Forl__001_42a3a237.jpg)

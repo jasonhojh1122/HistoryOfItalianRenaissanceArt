@@ -20,4 +20,4 @@ Notable for including portraits of the Medici family:
 - The right, dark haired youth may be Giuliano, Lorenzo's brother
 - The figure with gold-colored cloak on the right is believed to be Botticelli's self-portrait
 
-![img](https://upload.wikimedia.org/wikipedia/commons/9/9d/Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg)
+![img](../img/Botticelli_-_Adoration_of_the_Magi__Zanobi_Altar___f67614af.jpg)

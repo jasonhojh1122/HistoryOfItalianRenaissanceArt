@@ -11,4 +11,4 @@
 
 Illuminated book of hours created for Gian Galeazzo Visconti, the first Duke of Milan.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/2/22/46v.jpg)
+![img](../img/46v_ff9d7405.jpg)

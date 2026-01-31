@@ -15,4 +15,4 @@ David, the young shepherd who slew the giant Goliath with a stone from his sling
 
 First large-scale nude sculpture since antiquity. The first unsupported standing work of bronze cast during the Renaissance, and the first freestanding nude male sculpture made since antiquity. The pose is derived from contrapposto, with the left knee coming forward against the cloth. David is depicted with an enigmatic smile, posed with his foot on Goliath's severed head.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/7/7f/Florence_-_David_by_Donatello.jpg)
+![img](../img/Florence_-_David_by_Donatello_1c8b0da3.jpg)

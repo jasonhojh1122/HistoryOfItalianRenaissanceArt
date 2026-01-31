@@ -9,4 +9,4 @@
 
 Bronze sculpture depicting Hercules wrestling with the giant Antaeus. Shows Pollaiuolo's mastery of depicting dynamic action in three dimensions.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/b/b9/Antonio_del_pollaiolo%2C_ercole_e_anteo%2C_01.JPG)
+![img](../img/Antonio_del_pollaiolo__ercole_e_anteo__01_ba3a75a5.JPG)

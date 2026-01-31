@@ -11,4 +11,4 @@
 
 Depicts the mythological battle between Hercules and the giant Antaeus, who gained strength from contact with the earth. Hercules defeats him by lifting him off the ground.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/b/b4/Antonio_del_Pollaiolo%2C_Ercole_e_Anteo%2C_1470-75_ca._%28Uffizi%29.jpg)
+![img](../img/Antonio_del_Pollaiolo__Ercole_e_Anteo__1470-75_ca__6e9a5deb.jpg)

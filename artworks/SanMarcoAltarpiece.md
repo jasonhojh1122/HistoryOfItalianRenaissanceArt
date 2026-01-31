@@ -15,4 +15,4 @@
 
 Major altarpiece for the church of San Marco in Florence.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/3/32/Fra_Angelico_%E2%80%94_San_Marco_Altarpiece.jpg)
+![img](../img/Fra_Angelico___San_Marco_Altarpiece_36b58db5.jpg)

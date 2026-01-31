@@ -11,4 +11,4 @@
 
 First large-scale nude sculpture since antiquity.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/e/e6/Donatello%2C_David%2C_1408-9%2C_1416%2C_Florence%2C_Bargello.jpg)
+![img](../img/Donatello__David__1408-9__1416__Florence__Bargello_bdf9cb59.jpg)

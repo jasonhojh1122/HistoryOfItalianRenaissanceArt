@@ -15,4 +15,4 @@
 
 The strong emotions and color suggest Botticelli may have been a listener to Girolamo Savonarola, a monk from Ferrara who became the prior of San Marco. Savonarola was a preacher who advocated the destruction of secular art and culture, and was later tortured and executed.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/3/3d/Botticelli%2C_annunciazione_di_cestello_02.jpg)
+![img](../img/Botticelli__annunciazione_di_cestello_02_6f233779.jpg)

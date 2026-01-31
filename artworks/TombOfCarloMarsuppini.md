@@ -9,4 +9,4 @@
 
 Monument tomb created by the stonecutter Desiderio da Settignano for the humanist scholar and Chancellor of Florence Carlo Marsuppini.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/f/f9/Desiderio_da_Settignano%2C_Memorial_Tomb_for_Carlo_Marsuppini%2C_1453-55%2C_Santa_Croce%2C_Florence.jpg)
+![img](../img/Desiderio_da_Settignano__Memorial_Tomb_for_Carlo_M_bd0a8b28.jpg)

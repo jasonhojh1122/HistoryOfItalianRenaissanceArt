@@ -9,4 +9,4 @@
 
 Monumental bronze tomb for Pope Sixtus IV, now in the Treasury of St. Peter's Basilica.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/6/61/Tesoro_di_San_Pietro%2C_tomba_di_Sisto_IV_di_Antonio_del_Pollaiolo%2C_03-edit.jpg)
+![img](../img/Tesoro_di_San_Pietro__tomba_di_Sisto_IV_di_Antonio_55d24eaf.jpg)

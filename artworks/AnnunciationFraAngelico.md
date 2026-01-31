@@ -15,4 +15,4 @@
 
 One of Fra Angelico's most famous frescoes, located in the dormitory corridor of San Marco. This is the most well known of all the frescos at the convent.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/b/bc/Fra_Angelico_-_Annunciation.jpg)
+![img](../img/Fra_Angelico_-_Annunciation_c8f3585b.jpg)

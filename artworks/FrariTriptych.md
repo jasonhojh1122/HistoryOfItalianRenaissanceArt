@@ -11,4 +11,4 @@
 
 Uses oil that enabled Bellini to cast golden light onto Mary. A triptych altarpiece still in its original location in the sacristy of the Frari.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/0/0d/Frari_%28Venice%29_-_Sacristy_-_triptych_by_Giovanni_Bellini.jpg)
+![img](../img/Frari__Venice__-_Sacristy_-_triptych_by_Giovanni_B_4512a5d5.jpg)

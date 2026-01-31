@@ -19,4 +19,4 @@ Story narrated from left to right:
 - In the right, Moses seeks refuge from Israelites who stoned him
 - Moses' forehead ray is from biblical text (Exodus 34:29-35)
 
-![img](https://upload.wikimedia.org/wikipedia/commons/2/2f/Botticcelli%2C_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg)
+![img](../img/Botticcelli__Sandro_-_The_Punishment_of_Korah_and__48673591.jpg)

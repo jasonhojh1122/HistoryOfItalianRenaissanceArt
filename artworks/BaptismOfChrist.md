@@ -15,4 +15,4 @@
 
 Painted primarily by Verrocchio, but the leftmost angel, the water and rocks behind the angel are attributed to his young apprentice [Leonardo da Vinci](../artists/LeonardoDaVinci.md).
 
-![img](https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Baptism_of_Christ_%28Verrocchio_and_Leonardo%29.jpg)
+![img](../img/The_Baptism_of_Christ__Verrocchio_and_Leonardo__5d268526.jpg)

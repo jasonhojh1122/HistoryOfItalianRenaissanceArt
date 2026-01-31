@@ -15,4 +15,4 @@
 
 The earliest known artwork by Giotto. Revolutionary in its naturalistic depiction of Christ's suffering body, departing from the rigid Byzantine tradition.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg)
+![img](../img/Giotto__the-crucifix-1290-1300_Florence__Santa_Mar_27d78c30.jpg)

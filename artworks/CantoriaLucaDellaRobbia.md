@@ -11,4 +11,4 @@
 
 Singing gallery (cantoria) originally made for Florence Cathedral.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/d/d3/Cantoria_of_Luca_della_Robbia_2009.JPG)
+![img](../img/Cantoria_of_Luca_della_Robbia_2009_5120ce77.JPG)

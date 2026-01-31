@@ -11,4 +11,4 @@
 
 Fresco cycle in the apse of Santa Croce. Agnolo Gaddi was the last major Florentine painter stylistically descended from Giotto.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/a/a8/Florence%2C_Santa_Croce%2C_apse%2C_Legend_of_the_True_Cross%2C_frescoe_cycle_by_Agnolo_Gaddi%2C_1385-1387_north.jpg)
+![img](../img/Florence__Santa_Croce__apse__Legend_of_the_True_Cr_43378d0f.jpg)

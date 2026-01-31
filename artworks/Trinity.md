@@ -15,4 +15,4 @@
 
 A revolutionary work demonstrating Brunelleschi's principles of linear perspective. One of the first monumental Renaissance paintings to utilize linear perspective. The donors are shown kneeling on either side of the holy scene.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/d/d2/Masaccio_trinity.jpg)
+![img](../img/Masaccio_trinity_d6f543ca.jpg)

@@ -11,4 +11,4 @@
 
 Renaissance palace designed by Leon Battista Alberti for the Rucellai family.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/0/0b/Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg)
+![img](../img/Via_della_Vigna_Nuova_18__palazzo_rucellai__02_0_37424cc8.jpg)

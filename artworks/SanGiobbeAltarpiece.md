@@ -11,4 +11,4 @@
 
 A sacra conversazione (sacred conversation) altarpiece showing the Madonna and Child with saints.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/a/aa/Accademia_-_Pala_di_San_Giobbe_by_Giovanni_Bellini.jpg)
+![img](../img/Accademia_-_Pala_di_San_Giobbe_by_Giovanni_Bellini_f61dfdd3.jpg)

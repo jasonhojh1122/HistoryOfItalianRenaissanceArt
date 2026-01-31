@@ -15,4 +15,4 @@
 
 Annunciation scene created for the Martelli family.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/d/dd/Lippi%2C_annunciazione_Martelli.jpg)
+![img](../img/Lippi__annunciazione_Martelli_e8619d6c.jpg)

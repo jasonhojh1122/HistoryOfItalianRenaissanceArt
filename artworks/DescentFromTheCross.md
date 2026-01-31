@@ -15,4 +15,4 @@
 
 Also known as the Santa Trinita Altarpiece. Notable for its new naturalism and harmony of figures and landscape.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/c/c9/Deposition_of_Christ%2C_Fra_Angelico_fter_restoration_of_2025.jpg)
+![img](../img/_0eb3e03f.jpg)

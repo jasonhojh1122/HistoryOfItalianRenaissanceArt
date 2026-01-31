@@ -15,4 +15,4 @@
 
 Series of murals in the Magi Chapel depicting festive, vibrant processions with fine attention to detail. The Company of the Magi was a religious organization to which the Medici belonged.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/b/be/Gozzoli_magi.jpg)
+![img](../img/Gozzoli_magi_84498cdd.jpg)

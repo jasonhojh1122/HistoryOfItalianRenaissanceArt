@@ -15,4 +15,4 @@
 
 Altarpiece for the Sassetti Chapel.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/8/84/Anbetung_der_Hirten.jpg)
+![img](../img/Anbetung_der_Hirten_63974e9c.jpg)

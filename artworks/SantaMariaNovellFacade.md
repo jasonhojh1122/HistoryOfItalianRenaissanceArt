@@ -11,4 +11,4 @@
 
 The facade of Santa Maria Novella, designed by Alberti. The only green and white marble structure in Florence.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg)
+![img](../img/Florence__Santa_Maria_Novella__facade_09a0bbe0.jpg)

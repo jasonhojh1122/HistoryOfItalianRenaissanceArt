@@ -15,4 +15,4 @@
 
 Also known as the Santa Trinita Maestà. Cimabue was the last great Italo-Byzantine painter.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/b/be/Cimabue_Trinita_Madonna.jpg)
+![img](../img/Cimabue_Trinita_Madonna_2723046c.jpg)

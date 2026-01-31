@@ -18,7 +18,7 @@ An unfinished painting showing Leonardo's innovative compositional approach:
 - Madonna and the Child as the apex of a stable pyramid
 - Started with a dark wash that created the areas of shadow, then defined edges with brush
 
-![img](https://upload.wikimedia.org/wikipedia/commons/2/29/Adoration_of_the_Magi_%28Leonardo%29.jpg)
+![img](../img/Adoration_of_the_Magi__Leonardo__a66a1e9b.jpg)
 
 ### Perspective Study
-![img](https://upload.wikimedia.org/wikipedia/commons/e/ee/Leonardo_study_AdorationofMagi.JPG)
+![img](../img/Leonardo_study_AdorationofMagi_3bb3761c.JPG)

@@ -15,4 +15,4 @@
 
 Notable for Perugino's characteristic breadth and distance of spatial backgrounds.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/b/b4/Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg)
+![img](../img/Entrega_de_las_llaves_a_San_Pedro__Perugino__d223cddc.jpg)

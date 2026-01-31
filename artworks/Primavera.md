@@ -18,4 +18,4 @@ Links to the Medici: the oranges are similar to the red palle (balls) in the Med
 
 ![MediciBall](../img/MediciBall.png)
 
-![img](https://upload.wikimedia.org/wikipedia/commons/3/3c/Botticelli-primavera.jpg)
+![img](../img/Botticelli-primavera_9d51412b.jpg)

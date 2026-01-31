@@ -11,4 +11,4 @@
 
 Part of the sculptural program at Orsanmichele. Features four Roman sculptors who were martyred for refusing to make a pagan idol.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/e/e0/FirenzeOrsanmichele03.jpg)
+![img](../img/FirenzeOrsanmichele03_1e8f7255.jpg)

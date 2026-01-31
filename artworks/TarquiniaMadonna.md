@@ -15,4 +15,4 @@
 
 Also known as the Tarquinia Madonna.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/7/7f/Lippi_Madonna_Tarquinia.jpg)
+![img](../img/Lippi_Madonna_Tarquinia_248289d7.jpg)

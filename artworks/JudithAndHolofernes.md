@@ -15,4 +15,4 @@
 
 Bronze sculpture by Donatello depicting the climactic moment of the biblical narrative.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/5/51/Giuditta_di_donatello_04.JPG)
+![img](../img/Giuditta_di_donatello_04_a34dbccc.JPG)

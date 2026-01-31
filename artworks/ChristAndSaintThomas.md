@@ -15,4 +15,4 @@ Depicts the moment when the apostle Thomas, who had doubted the resurrection, to
 
 Bronze sculpture group at Orsanmichele.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/a/a9/Museo_di_orsanmichele%2C_verrocchio%2C_incredulit%C3%A0_di_s._tommaso_03.JPG)
+![img](../img/Museo_di_orsanmichele__verrocchio__incredulit__di__4f74b3c6.JPG)

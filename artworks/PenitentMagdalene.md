@@ -11,4 +11,4 @@
 
 Late work by Donatello depicting Mary Magdalene as an emaciated penitent, demonstrating his expressive late style.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Donatello%2C_maria_maddalena_02.JPG)
+![img](../img/Donatello__maria_maddalena_02_081bacfd.JPG)

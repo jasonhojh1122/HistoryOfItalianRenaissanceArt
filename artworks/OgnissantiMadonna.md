@@ -15,4 +15,4 @@
 
 One of Giotto's masterpieces, showing his revolutionary approach to naturalism and three-dimensionality.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/5/57/Giotto%2C_1267_Around-1337_-_Maest%C3%A0_-_Google_Art_Project.jpg)
+![img](../img/Giotto__1267_Around-1337_-_Maest__-_Google_Art_Pro_e6763ed5.jpg)

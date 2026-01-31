@@ -15,4 +15,4 @@
 
 Fresco by Ghirlandaio at San Marco, Florence.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/0/0a/Ghirlandaio%2C_ultima_cena_di_san_marco.jpg)
+![img](../img/Ghirlandaio__ultima_cena_di_san_marco_a704deaa.jpg)

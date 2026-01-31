@@ -16,4 +16,4 @@
 
 Probably a wedding present or a gift for a birth of a child. The circular format (tondo) was popular for domestic devotional images. Changing size from 33 to 46 inches was typical at the time.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/0/04/Magnificat_Madonna_-_Botticelli_%28uffici%29_b.jpg)
+![img](../img/Magnificat_Madonna_-_Botticelli__uffici__b_35edb145.jpg)

@@ -13,6 +13,6 @@
 
 An elaborate marble tabernacle housing the miraculous image of the Madonna.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/5/52/Tabernakel%2C_Andrea_di_Cione%2C_1359%2C_Orsanmichele_Florenz-01-185.jpg)
+![img](../img/Tabernakel__Andrea_di_Cione__1359__Orsanmichele_Fl_bc6af238.jpg)
 
-![img2](https://upload.wikimedia.org/wikipedia/commons/3/35/Andrea_orcagna%2C_tabernacolo_di_orsanmichele%2C_1359%2C_dormitio_e_assunta_04.jpg)
+![img2](../img/Andrea_orcagna__tabernacolo_di_orsanmichele__1359__58963c1c.jpg)

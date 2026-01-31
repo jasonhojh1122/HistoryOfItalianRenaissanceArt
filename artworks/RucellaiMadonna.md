@@ -13,4 +13,4 @@
 
 A masterpiece of Sienese painting from the early Trecento.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/f/f0/Duccio_-_Rucellai_Madonna.jpg)
+![img](../img/Duccio_-_Rucellai_Madonna_5bf07380.jpg)

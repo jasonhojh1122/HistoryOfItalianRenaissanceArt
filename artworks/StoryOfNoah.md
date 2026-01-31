@@ -15,4 +15,4 @@
 
 Fresco depicting scenes from the Story of Noah in the Chiostro Verde (Green Cloister), demonstrating Uccello's fascination with perspective.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/3/39/Paolo_Uccello_%E2%80%94_Flood_and_Waters_Subsiding.jpg)
+![img](../img/Paolo_Uccello___Flood_and_Waters_Subsiding_b93dca2a.jpg)

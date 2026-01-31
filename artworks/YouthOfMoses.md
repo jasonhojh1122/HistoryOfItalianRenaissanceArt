@@ -15,4 +15,4 @@
 
 Part of the cycle of frescoes on the walls of the Sistine Chapel.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/7/77/Eventos_de_la_vida_de_Mois%C3%A9s_%28Sandro_Botticelli%29.jpg)
+![img](../img/Eventos_de_la_vida_de_Mois_s__Sandro_Botticelli__42730504.jpg)

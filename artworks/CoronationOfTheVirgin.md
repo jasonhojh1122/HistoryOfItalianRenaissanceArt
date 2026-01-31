@@ -15,4 +15,4 @@
 
 A masterpiece of the International Gothic style. Originally in the Camaldolese monastery of Santa Maria degli Angeli.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/2/2a/Monaco_coronation.jpg)
+![img](../img/Monaco_coronation_44ee5cb1.jpg)

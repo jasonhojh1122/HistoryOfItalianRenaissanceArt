@@ -9,4 +9,4 @@
 
 Equestrian monument of Bernabò Visconti, Lord of Milan.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/8/83/Milano_-_Castello_sforzesco_-_Bonino_da_Campione_%28sec._XIV%29_-_Tomba_Bernab%C3%B2_Visconti_-_Foto_Giovanni_Dall%27Orto_-_6-1-2007_-_08.jpg)
+![img](../img/Milano_-_Castello_sforzesco_-_Bonino_da_Campione___472165d1.jpg)

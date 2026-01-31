@@ -11,4 +11,4 @@
 
 The man may be Lorenzo di Pierfrancesco, holding a medal depicting Cosimo de' Medici.
 
-![img](https://upload.wikimedia.org/wikipedia/commons/4/41/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder_-_Sandro_Botticelli_%28edit%29.jpg)
+![img](../img/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder_a6ca36c2.jpg)
