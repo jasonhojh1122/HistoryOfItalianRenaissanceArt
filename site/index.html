@@ -17,10 +17,16 @@
     <h1>Italian Art</h1>
     <p class="intro">Notes for my upcoming travels through Italy, following Frederick Hartt's "History of Italian Art".</p>
 
-    <section class="index-section">
-      <h2>Artists</h2>
-      <ul class="artist-list">
-        <li><a href="artists/AgnoloGaddi.html">Agnolo Gaddi</a></li>
+    <div class="tab-navigation">
+      <button class="tab-btn active" data-tab="artists">Artists</button>
+      <button class="tab-btn" data-tab="locations">Locations</button>
+      <button class="tab-btn" data-tab="biblestories">Bible Stories</button>
+    </div>
+
+    <div class="tab-content">
+      <section class="tab-panel active" data-tab="artists">
+        <ul class="artist-list">
+          <li><a href="artists/AgnoloGaddi.html">Agnolo Gaddi</a></li>
         <li><a href="artists/AndreaDaFirenze.html">Andrea da Firenze</a></li>
         <li><a href="artists/AndreaDelCastagno.html">Andrea del Castagno</a></li>
         <li><a href="artists/AndreaDelVerrocchio.html">Andrea del Verrocchio</a></li>
@@ -73,14 +79,29 @@
         <li><a href="artists/SandroBotticelli.html">Sandro Botticelli</a></li>
         <li><a href="artists/TaddeoGaddi.html">Taddeo Gaddi</a></li>
         <li><a href="artists/VittoreCarpaccio.html">Vittore Carpaccio</a></li>
-      </ul>
-    </section>
+        </ul>
+      </section>
 
-    <section class="index-section">
-      <h2>Locations by City</h2>
-      
-      <h3>Florence, Italy</h3>
-      <ul>
+      <section class="tab-panel" data-tab="locations">
+        
+      <h3>Milan</h3>
+      <ul class="location-list">
+        <li><a href="locations/CastelloSforzesco.html">Castello Sforzesco</a></li>
+        <li><a href="locations/MilanCathedral.html">Milan Cathedral</a></li>
+        <li><a href="locations/Brera.html">Pinacoteca di Brera</a></li>
+      </ul>
+
+      <h3>Venice</h3>
+      <ul class="location-list">
+        <li><a href="locations/SantiGiovanniEPaolo.html">Basilica dei Santi Giovanni e Paolo</a></li>
+        <li><a href="locations/BasilicaDeiFrari.html">Basilica di Santa Maria Gloriosa dei Frari</a></li>
+        <li><a href="locations/CaDOro.html">Ca&#039; d&#039;Oro</a></li>
+        <li><a href="locations/Accademia.html">Gallerie dell&#039;Accademia</a></li>
+        <li><a href="locations/MuseoCorrer.html">Museo Correr</a></li>
+      </ul>
+
+      <h3>Florence</h3>
+      <ul class="location-list">
         <li><a href="locations/BaptisteryOfFlorence.html">Baptistery of Florence</a></li>
         <li><a href="locations/Bargello.html">Bargello</a></li>
         <li><a href="locations/BasilicaDiSantaTrinita.html">Basilica di Santa Trinita</a></li>
@@ -104,47 +125,30 @@
         <li><a href="locations/UffiziGallery.html">Uffizi Gallery</a></li>
       </ul>
 
-      <h3>Milan, Italy</h3>
-      <ul>
-        <li><a href="locations/CastelloSforzesco.html">Castello Sforzesco</a></li>
-        <li><a href="locations/MilanCathedral.html">Milan Cathedral</a></li>
-        <li><a href="locations/Brera.html">Pinacoteca di Brera</a></li>
-      </ul>
-
-      <h3>Pompeii, Italy</h3>
-      <ul>
-        <li><a href="locations/Pompeii.html">Pompeii Archaeological Park</a></li>
-        <li><a href="locations/SuburbanBathsPompeii.html">Suburban Baths (Terme Suburbane)</a></li>
-      </ul>
-
-      <h3>Rome, Italy</h3>
-      <ul>
-        <li><a href="locations/NationalGalleryOfAncientArt.html">National Gallery of Ancient Art</a></li>
-        <li><a href="locations/SantaCeciliaInTrastevere.html">Santa Cecilia in Trastevere</a></li>
-        <li><a href="locations/SantaMariaMaggiore.html">Santa Maria Maggiore</a></li>
-      </ul>
-
       <h3>Vatican City</h3>
-      <ul>
+      <ul class="location-list">
         <li><a href="locations/PinacotecaVaticana.html">Pinacoteca Vaticana</a></li>
         <li><a href="locations/SistineChapel.html">Sistine Chapel</a></li>
         <li><a href="locations/StPetersBasilica.html">St. Peter&#039;s Basilica</a></li>
       </ul>
 
-      <h3>Venice, Italy</h3>
-      <ul>
-        <li><a href="locations/SantiGiovanniEPaolo.html">Basilica dei Santi Giovanni e Paolo</a></li>
-        <li><a href="locations/BasilicaDeiFrari.html">Basilica di Santa Maria Gloriosa dei Frari</a></li>
-        <li><a href="locations/CaDOro.html">Ca&#039; d&#039;Oro</a></li>
-        <li><a href="locations/Accademia.html">Gallerie dell&#039;Accademia</a></li>
-        <li><a href="locations/MuseoCorrer.html">Museo Correr</a></li>
+      <h3>Rome</h3>
+      <ul class="location-list">
+        <li><a href="locations/NationalGalleryOfAncientArt.html">National Gallery of Ancient Art</a></li>
+        <li><a href="locations/SantaCeciliaInTrastevere.html">Santa Cecilia in Trastevere</a></li>
+        <li><a href="locations/SantaMariaMaggiore.html">Santa Maria Maggiore</a></li>
       </ul>
-    </section>
 
-    
-    <section class="index-section">
-      <h2>Bible Stories</h2>
-      <ul class="bible-stories-list">
+      <h3>Pompeii</h3>
+      <ul class="location-list">
+        <li><a href="locations/Pompeii.html">Pompeii Archaeological Park</a></li>
+        <li><a href="locations/SuburbanBathsPompeii.html">Suburban Baths (Terme Suburbane)</a></li>
+      </ul>
+      </section>
+
+      <section class="tab-panel" data-tab="biblestories">
+        <ul class="bible-stories-list">
+          
         <li><a href="biblestories/AdorationOfTheMagi.html">Adoration of the Magi</a></li>
         <li><a href="biblestories/AdorationOfTheShepherds.html">Adoration of the Shepherds</a></li>
         <li><a href="biblestories/Annunciation.html">Annunciation</a></li>
@@ -166,14 +170,16 @@
         <li><a href="biblestories/PresentationInTheTemple.html">Presentation in the Temple</a></li>
         <li><a href="biblestories/PunishmentOfKorah.html">Punishment of Korah</a></li>
         <li><a href="biblestories/StoryOfNoah.html">Story of Noah</a></li>
-      </ul>
-    </section>
   
+        </ul>
+      </section>
+    </div>
   
   </main>
   <footer>
     <p>Travel notes on Italian Art</p>
   </footer>
   <script src="./sort.js"></script>
+  <script src="./tabs.js"></script>
 </body>
 </html>

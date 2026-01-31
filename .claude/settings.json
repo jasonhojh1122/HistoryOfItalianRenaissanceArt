@@ -2,6 +2,9 @@
   "skills": [
     ".claude/skills/wikipedia-search",
     ".claude/skills/google-map-search",
-    ".claude/skills/export-notes"
+    ".claude/skills/export-notes",
+    "~/.claude/plugins/cache/anthropic-agent-skills/example-skills/69c0b1a06741",
+    "~/.claude/plugins/cache/claude-plugins-official/frontend-design/d49ad3558669",
+    "~/.claude/plugins/cache/claude-plugins-official/feature-dev/d49ad3558669"
   ]
 }

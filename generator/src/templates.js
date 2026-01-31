@@ -26,6 +26,7 @@ export function layoutTemplate(title, content, depth = 0) {
     <p>Travel notes on Italian Art</p>
   </footer>
   <script src="${prefix}sort.js"></script>
+  <script src="${prefix}tabs.js"></script>
 </body>
 </html>`;
 }
@@ -40,41 +41,46 @@ export function indexTemplate(artists, locationsByCity, bibleStories = []) {
 
   const locationsHtml = Object.entries(locationsByCity).map(([city, locations]) => `
       <h3>${escapeHtml(city)}</h3>
-      <ul>
+      <ul class="location-list">
         ${locations.map(l =>
           `<li><a href="locations/${l.id}.html">${escapeHtml(l.metadata.title)}</a></li>`
         ).join('\n        ')}
       </ul>`
   ).join('\n');
 
-  const bibleStoriesHtml = bibleStories.length > 0 ? `
-    <section class="index-section">
-      <h2>Bible Stories</h2>
-      <ul class="bible-stories-list">
+  const bibleStoriesListHtml = bibleStories.length > 0 ? `
         ${bibleStories.map(s =>
           `<li><a href="biblestories/${s.id}.html">${escapeHtml(s.metadata.title)}</a>${s.metadata.alternateName ? ` <span class="alternate-name">(${escapeHtml(s.metadata.alternateName)})</span>` : ''}</li>`
         ).join('\n        ')}
-      </ul>
-    </section>
   ` : '';
 
   const content = `
     <h1>Italian Art</h1>
     <p class="intro">Notes for my upcoming travels through Italy, following Frederick Hartt's "History of Italian Art".</p>
 
-    <section class="index-section">
-      <h2>Artists</h2>
-      <ul class="artist-list">
-        ${artistsList}
-      </ul>
-    </section>
+    <div class="tab-navigation">
+      <button class="tab-btn active" data-tab="artists">Artists</button>
+      <button class="tab-btn" data-tab="locations">Locations</button>
+      <button class="tab-btn" data-tab="biblestories">Bible Stories</button>
+    </div>
 
-    <section class="index-section">
-      <h2>Locations by City</h2>
-      ${locationsHtml}
-    </section>
+    <div class="tab-content">
+      <section class="tab-panel active" data-tab="artists">
+        <ul class="artist-list">
+          ${artistsList}
+        </ul>
+      </section>
 
-    ${bibleStoriesHtml}
+      <section class="tab-panel" data-tab="locations">
+        ${locationsHtml}
+      </section>
+
+      <section class="tab-panel" data-tab="biblestories">
+        <ul class="bible-stories-list">
+          ${bibleStoriesListHtml}
+        </ul>
+      </section>
+    </div>
   `;
 
   return layoutTemplate('Home', content, 0);

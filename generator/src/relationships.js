@@ -124,18 +124,39 @@ export function getSortedLocations(index) {
  * Get locations grouped by city
  */
 export function getLocationsByCity(index) {
+  // Geographic order from north to south
+  const cityOrder = [
+    'Milan',
+    'Venice',
+    'Florence',
+    'Vatican City',
+    'Rome',
+    'Naples',
+    'Pompeii'
+  ];
+
   const result = {};
 
   for (const [city, locationIds] of Object.entries(index.byCity)) {
-    result[city] = locationIds
+    // Remove ", Italy" suffix from city name
+    const cleanCity = city.replace(/, Italy$/, '');
+    result[cleanCity] = locationIds
       .map(id => index.locations[id])
       .filter(Boolean)
       .sort((a, b) => a.metadata.title.localeCompare(b.metadata.title));
   }
 
-  // Sort cities alphabetically
+  // Sort cities by geographic order (north to south)
   return Object.fromEntries(
-    Object.entries(result).sort(([a], [b]) => a.localeCompare(b))
+    Object.entries(result).sort(([a], [b]) => {
+      const indexA = cityOrder.indexOf(a);
+      const indexB = cityOrder.indexOf(b);
+      // Put unknown cities at the end
+      if (indexA === -1 && indexB === -1) return a.localeCompare(b);
+      if (indexA === -1) return 1;
+      if (indexB === -1) return -1;
+      return indexA - indexB;
+    })
   );
 }
 

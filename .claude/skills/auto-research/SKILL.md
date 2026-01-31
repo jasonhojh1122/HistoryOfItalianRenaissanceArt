@@ -1,11 +1,11 @@
 ---
 name: auto-research
-description: Research and document notable artworks at a museum, church, or other location. Creates artwork, artist, and bible story markdown files marked as self-researched.
+description: Research and document notable artworks at a museum, church, or other location. Creates artwork, artist, and bible story markdown files marked as self-researched. Use when user wants to research artworks at a specific place.
 ---
 
 # Auto-Research
 
-Automatically research and document notable artworks at a given location (museum, church, city).
+Research and document notable artworks at a given location.
 
 ## Usage
 
@@ -13,65 +13,104 @@ Automatically research and document notable artworks at a given location (museum
 /auto-research <place name>
 ```
 
-### Examples
-
-```
-/auto-research Galleria dell'Accademia Florence
-/auto-research Santa Maria Novella
-/auto-research San Marco Venice
-```
-
 ## Workflow
 
-### Step 1: Search for Notable Artworks
+### Step 1: Research Location on Wikipedia
 
-Use WebSearch to find the most notable/must-see artworks at the location:
+Use the wikipedia-search skill to get authoritative info about the location:
+
+```bash
+python3 .claude/skills/wikipedia-search/scripts/wiki_search.py "<Location Name>" --json
+```
+
+This establishes the canonical location name and provides context about its collection.
+
+### Step 2: Search for Notable Artworks
+
+Search for artworks specifically mentioning the location:
 
 ```
-WebSearch: "most famous artworks at [location name]" OR "[location name] notable paintings sculptures"
+WebSearch: "famous artworks" "<exact location name>" site:wikipedia.org
 ```
 
-Identify 5-10 key artworks that are highlights of the collection.
+Collect 5-10 candidate artworks. For each, note the artwork name and claimed location.
 
-### Step 2: For Each Artwork Found
+### Step 3: Verify Each Artwork's Location
 
-1. **Check if artwork already exists**: Look in `artworks/` directory
-2. **If not exists, research it**:
-   - Use `python3 scripts/wiki_search.py "[Artwork Name]" --json` to get Wikipedia info
-   - Extract: title, url, summary, image_url
-3. **Create artwork markdown file** with `- **Source**: Self-researched` field
+**Critical**: Before creating any file, verify the artwork is actually at this location.
 
-### Step 3: Create Supporting Files
+For each candidate artwork:
+```bash
+python3 .claude/skills/wikipedia-search/scripts/wiki_search.py "<Artwork Name>" --json
+```
 
-For each artwork:
-1. **Check if artist exists** in `artists/` - create if missing using wikipedia-search
-2. **Check if bible story exists** in `biblestories/` (for religious subjects) - create if missing
-3. **Check if location exists** in `locations/` - create if missing
+Read the summary carefully. Only proceed if:
+- The summary explicitly states the artwork is at this location, OR
+- The summary mentions the location as current home (not "formerly at" or "originally from")
 
-### Step 4: Update Location File
+**Skip** artworks where:
+- Location is ambiguous or not mentioned
+- Artwork has moved to a different museum
+- Multiple versions exist in different locations (unless you can identify which version)
 
-If the location file exists in `locations/`, append newly found artworks to its `## Artworks` section.
+### Step 4: Validate Image URLs
 
-## File Templates
+For each verified artwork, validate the image URL works:
 
-See [templates/](../../../templates/) for canonical file formats:
-- `templates/artwork.md` - Artwork file format (include `- **Source**: Self-researched`)
-- `templates/artist.md` - Artist file format
-- `templates/location.md` - Location file format (include `**Source**: Self-researched`)
-- `templates/biblestory.md` - Bible story file format
+```bash
+python3 .claude/skills/auto-research/scripts/validate_image.py "<image_url>"
+```
 
-## File Naming Convention
+If invalid:
+- Try the wikipedia-search again with slightly different search terms
+- If still no valid image, omit the image line rather than include a broken URL
 
-Convert artwork/artist/location names to PascalCase without spaces:
-- "Birth of Venus" → `BirthOfVenus.md`
-- "Sandro Botticelli" → `SandroBotticelli.md`
-- "Santa Maria Novella" → `SantaMariaNovella.md`
+### Step 5: Create Artwork Files
 
-## Notes
+For each verified artwork, check if `artworks/<PascalCaseName>.md` exists. If not, create it:
 
-- Always include `- **Source**: Self-researched` for auto-researched artworks
-- Always include `**Source**: Self-researched` for auto-researched locations
-- This field triggers the "Self-researched" badge in the generated site
-- Skip artworks that already have markdown files
-- Update existing location files rather than creating duplicates
-- Use the wikipedia-search script for consistent data retrieval
+```markdown
+# <Artwork Name>
+
+[Wikipedia](<url>)
+
+- **Artist**: [<Artist Name>](../artists/<ArtistFile>.md)
+- **Location**: [<Location Name>](../locations/<LocationFile>.md), <City>
+- **Medium**: <medium>
+- **Date**: <date>
+- **Source**: Self-researched
+
+## Description
+
+<2-3 sentences from Wikipedia summary about the artwork>
+
+![img](<validated_image_url>)
+```
+
+### Step 6: Create Supporting Files
+
+For each artwork, create missing support files:
+
+**Artist** (if not in `artists/`):
+```bash
+python3 .claude/skills/wikipedia-search/scripts/wiki_search.py "<Artist Name>" --summary-length medium --json
+```
+
+**Bible Story** (if religious subject, not in `biblestories/`):
+```bash
+python3 .claude/skills/wikipedia-search/scripts/wiki_search.py "<Story Name> Bible" --json
+```
+
+**Location** (if not in `locations/`): Create with `**Source**: Self-researched`
+
+### Step 7: Update Location File
+
+If `locations/<LocationName>.md` exists, append new artworks to its `## Artworks` section.
+
+## File Naming
+
+Convert names to PascalCase: "Birth of Venus" → `BirthOfVenus.md`
+
+## Templates
+
+See `templates/` directory for file formats. Always include `- **Source**: Self-researched` for auto-researched content.
