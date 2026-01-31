@@ -12,3 +12,5 @@ Venice, Italy
 The Ca' d'Oro, or Palazzo Santa Sofia, is a palace on the Grand Canal in Venice. Ca' d'Oro translates to "House of Gold" or "Golden House" because of the gilt and polychrome external decorations that once adorned its walls. It was designed by Marino Contarini and later restored by Baron Giorgio Franchetti. In 1927, the building was converted into a museum (Galleria Giorgio Franchetti alla Ca' d'Oro).
 
 Best surviving palazzo in Venetian Gothic architecture.
+
+## Artworks

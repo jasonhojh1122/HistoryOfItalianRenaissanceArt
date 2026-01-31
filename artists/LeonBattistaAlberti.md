@@ -24,3 +24,5 @@ Italian Renaissance humanist author, artist, architect, poet, priest, linguist, 
 [Wikipedia](https://en.wikipedia.org/wiki/Santa_Maria_Novella)
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg)
+
+## Artworks

@@ -8,7 +8,8 @@ import {
   getBibleStoryArtworks,
   getSortedArtists,
   getSortedBibleStories,
-  getLocationsByCity
+  getLocationsByCity,
+  getArtworksGroupedByCentury
 } from './relationships.js';
 import {
   indexTemplate,
@@ -47,7 +48,8 @@ export async function generateSite(rootDir, outputDir) {
   const artists = getSortedArtists(index);
   const locationsByCity = getLocationsByCity(index);
   const bibleStories = getSortedBibleStories(index);
-  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories);
+  const artworksByCentury = getArtworksGroupedByCentury(index);
+  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, artworksByCentury);
   await fs.writeFile(path.join(outputDir, 'index.html'), indexHtml);
   console.log('  Generated index.html');
 

@@ -18,3 +18,5 @@ Italian architect and sculptor of the Duecento. He began as a lead assistant to 
 - **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
 - **Begun**: 1299
 - Original designer
+
+## Artworks

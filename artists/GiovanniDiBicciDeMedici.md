@@ -12,3 +12,5 @@ Italian banker and founder of the Medici Bank. His founding of the family bank t
 ### New Sacristy for San Lorenzo
 - **Location**: [Basilica of San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
 - One of the earliest Renaissance interiors
+
+## Artworks

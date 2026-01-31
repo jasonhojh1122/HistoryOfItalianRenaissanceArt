@@ -9,4 +9,4 @@
 
 Intarsia decoration in the North Sacristy of Florence Cathedral. Intarsia is a form of wood inlaying using variously colored pieces of wood to create images.
 
-![img](img/NorthSacristyofFlorenceCathedral.png)
+![img](../img/NorthSacristyofFlorenceCathedral.png)

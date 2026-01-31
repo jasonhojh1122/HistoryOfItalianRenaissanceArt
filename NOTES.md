@@ -383,6 +383,7 @@
 - [Andrea del Verrocchio](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio)
   - Teacher of Leonardo da Vinci
   - [The Baptism of Christ](https://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Verrocchio_and_Leonardo)), Uffizi Gallery, Florence
+    - The left angel was painted by da Vinci
     - ![img](https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Baptism_of_Christ_%28Verrocchio_and_Leonardo%29.jpg)
 
   - [Christ and Saint Thomas](https://en.wikipedia.org/wiki/Christ_and_Saint_Thomas_(Verrocchio)), Orsanmichele, Florence
@@ -547,6 +548,48 @@
 
 ### The Origins of the High Renaissance
 
+- (Leonardo da Vinci)[https://en.wikipedia.org/wiki/Leonardo_da_Vinci]
+  - Born in a small village near Florence
+  - Stayed in Milan for almost twenty years
+
+  - [The Baptism of Christ](https://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Verrocchio_and_Leonardo)), Uffizi Gallery, Florence
+    - The left angel, the water and rocks behind the angel, was painted by da Vinci
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Baptism_of_Christ_%28Verrocchio_and_Leonardo%29.jpg)
+
+  - [Annunciation](https://en.wikipedia.org/wiki/Annunciation_(Leonardo)), Uffizi Gallery, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/9/9f/Annunciation_%28Leonardo_c._1472%E2%80%931476%29.jpg)
+
+  - [Adoration of the Magi](https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Leonardo)), Uffizi Gallery, Florence
+    - Energic horses, like rushing water
+    - Madonna and the Child as the apex of a stable pyramid
+    - Started with a dark wash that created the ares of shadow, then define edges with brush
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/2/29/Adoration_of_the_Magi_%28Leonardo%29.jpg)
+
+  - Perspective study of Adoration of the Magi, Uffizi Gallery, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/e/ee/Leonardo_study_AdorationofMagi.JPG)
+
+  - Landscape of the Arno Valley, Uffizi Gallery, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b6/Paisagem_do_Arno_-_Leonardo_da_Vinci.jpg)
+
+  - Study of Composition of Last Supper, Accademia, Venice
+    - Judas was placed at our side of the table, which is not the case in the final artwork
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/8/87/Stiudium_do_Ostatniej_Wieczerzy.jpg)
+
+  - [The Last Supper](https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)), Santa Maria delle Grazie, Milan
+    - Poor condition is due to Leonardo's way to paint, in 1566 it was already in a bad state
+    - Repainted twice in eighteenth century, suffered from Napoleonic soldires and monks
+    - Repainted again in nineteenth century, the building was bombed by Allied
+    - Placed Judas amond the loyal disciples
+    - The Gospel of St. John (13:26) states that Christ identified the betrayer by handing him a piece of bread dipped in wine
+    - The Gospels of Matthew and Mark, Christ indicated, "He who dippeth with me in the dish,"
+    - In Luke, "He whose hand is with me on the table"
+    - In Matthew, Mark and Luke, "Verily I say unto you, that one of you shall betray me. And they were exceeding sorrowful, and began every one to say unto him, Lord, is it I"
+    - Judas is the only apostle who need not protest, the only one reaches for food, the only one recoil from Christ, the only one whose face is not in the light
+    - Christ turns from Judas
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg)
+
+
+
 ## Terms
 
 - Christus triumphans: A cross with a alive Christ
@@ -556,3 +599,4 @@
 - Flight into Egypt
 - Presentation in the Temple
 - Francesco: 方濟各
+- [Pietra srena](https://en.wikipedia.org/wiki/Pietra_serena): blue-gray sandstone used extensively in Renaissance Florence

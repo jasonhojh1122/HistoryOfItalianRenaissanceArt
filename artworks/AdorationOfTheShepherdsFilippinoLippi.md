@@ -15,4 +15,4 @@
 
 Painting by Filippino Lippi, son of Filippo Lippi.
 
-![img](img/AdorationOfTheShephers.png)
+![img](../img/AdorationOfTheShephers.png)

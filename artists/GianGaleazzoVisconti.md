@@ -7,7 +7,7 @@
 
 First duke of Milan (1395), ruling just before the dawn of the Renaissance. He was the founding patron of the Certosa di Pavia, completed the Visconti Castle at Pavia, and furthered work on the Duomo of Milan. Major patron of the arts.
 
-## Associated Artworks
+## Artworks
 
 ### Hours of Gian Galeazzo Visconti
 - **Location**: [Biblioteca Nazionale](../locations/BibliotecaNazionale.md), Florence

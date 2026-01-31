@@ -12,3 +12,5 @@ Milan, Italy
 Started by [Gian Galeazzo Visconti](../artists/GianGaleazzoVisconti.md).
 
 ![plan](../img/MilanCathedral1391Plan.png)
+
+## Artworks

@@ -13,3 +13,5 @@ Known as Cosimo the Elder (Cosimo il Vecchio), he was the founder of the Medici 
 - Built the first Renaissance palace
 - Built the first Renaissance monastery
 - Sponsored numerous artists
+
+## Artworks

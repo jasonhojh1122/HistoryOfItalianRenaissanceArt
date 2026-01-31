@@ -15,4 +15,4 @@
 
 An intimate depiction of the dead Christ supported by the Virgin Mary.
 
-![img](img/PietaGiovanniBellini.png)
+![img](../img/PietaGiovanniBellini.png)

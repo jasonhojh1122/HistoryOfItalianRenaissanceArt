@@ -38,3 +38,5 @@ Italian architect, designer, goldsmith, and sculptor. Considered a founding fath
 - Each figure was cast individually
 
 ![img](../img/BrunelleschiVersusGhiberti.png)
+
+## Artworks

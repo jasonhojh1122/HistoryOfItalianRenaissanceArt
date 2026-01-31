@@ -7,7 +7,7 @@
 
 Italian soldier and statesman who was Lord of Milan. Along with his brothers Matteo and Galeazzo II, he inherited the lordship of Milan from his uncle Giovanni. A major patron of the arts.
 
-## Associated Artworks
+## Artworks
 
 ### Equestrian statue of Bernabò Visconti
 - **Location**: [Castello Sforzesco](../locations/CastelloSforzesco.md), Milan
