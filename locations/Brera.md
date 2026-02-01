@@ -12,5 +12,6 @@ The Pinacoteca di Brera is the main public gallery for paintings in Milan. It co
 
 ## Artworks
 
+### [The Marriage of the Virgin](../artworks/MarriageOfTheVirgin.md)
 ### [The Foreshortened Christ (Lamentation of Christ)](../artworks/LamentationOfChristMantegna.md)
 ### [St. Mark Preaching in Alexandria](../artworks/StMarkPreachingInAlexandria.md)

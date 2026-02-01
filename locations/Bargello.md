@@ -49,3 +49,7 @@ Florence, Italy
 ### [David](../artworks/DavidVerrocchio.md)
 - **Artist**: [Andrea del Verrocchio](../artists/AndreaDelVerrocchio.md)
 - With leather cloth, smiling instead of uncertain expression
+
+### [Bacchus](../artworks/BacchusMichelangelo.md)
+- **Artist**: [Michelangelo](../artists/Michelangelo.md)
+- God of wine, nude with vine leaves and grapes

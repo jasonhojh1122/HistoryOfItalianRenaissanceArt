@@ -18,3 +18,6 @@ The Lamentation (also known as Pietà when focused on Mary alone with Christ's b
 
 ### [The Foreshortened Christ (Lamentation of Christ)](../artworks/LamentationOfChristMantegna.md)
 - Andrea Mantegna, Pinacoteca di Brera, c. 1480
+
+### [Pietà](../artworks/PietaMichelangelo.md)
+- Michelangelo, St. Peter's Basilica, 1498-1499

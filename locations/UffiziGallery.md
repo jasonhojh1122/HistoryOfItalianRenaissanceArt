@@ -107,3 +107,19 @@ Florence, Italy
 ### [Landscape of the Arno Valley](../artworks/LandscapeOfTheArnoValley.md)
 - **Artist**: [Leonardo da Vinci](../artists/LeonardoDaVinci.md)
 - **Date**: 1473
+
+### [The Doni Tondo](../artworks/DoniTondo.md)
+- **Artist**: [Michelangelo](../artists/Michelangelo.md)
+- The only preserved panel painting of Michelangelo
+
+### [Portrait of Agnolo Doni](../artworks/PortraitOfAgnoloDoni.md)
+- **Artist**: [Raphael](../artists/Raphael.md)
+
+### [Portrait of Maddalena Doni](../artworks/PortraitOfMaddalenaDoni.md)
+- **Artist**: [Raphael](../artists/Raphael.md)
+
+### [Portrait of Leo X](../artworks/PortraitOfLeoX.md)
+- **Artist**: [Raphael](../artists/Raphael.md)
+
+### [The Vision of Saint Bernard](../artworks/VisionOfSaintBernard.md)
+- **Artist**: [Fra Bartolommeo](../artists/FraBartolommeo.md)

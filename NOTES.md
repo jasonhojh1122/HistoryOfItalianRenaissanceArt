@@ -731,6 +731,69 @@
     - ![img](img/Michelangelo_s_Moses__Rome__b8c08dee.jpg)
 
 - Raphael in Rome
+  - While Michelangelo was working on the first campaign of the Sistine Ceiling, Raphael arrived in Rome
+
+  - [Philosophy](https://en.wikipedia.org/wiki/The_School_of_Athens), Apostolic Palace, Vatican
+    - The building is not a real one but a invention
+    - The statues in the left and right are Apollo and Minerva, gods of the arts and wisdom
+    - In the center stand Plato and Aristotle
+    - Aristotle holds his Nichomachean Ethics, which stresses the rational nature of humanity and the need for moral behavior. His hand is placed horizontally to indicate the earth is the source for his observation
+    - Plato holds his Timaeus, in which he describes the origin of the universe. He points upward to indicate that his ideas come from the realm of the mind
+    - Socrates is in a green robe at the left of Plato
+    - At the lower left Pythagoras(畢達哥拉斯) demonstrates his system of proportions
+    - At the extreme right Ptolemy contemplates a celestial globe
+    - At the left of Ptolemy, Euclid bends down to draw a circle, which is a portrait of Bramante
+    - At the extreme right Raphael painted a self-portrait looking out
+    - In the foreground sits a lonely man with 16th century stone cutter boots, which is the portrait of Michelangelo
+    - ![img](img/_The_School_of_Athens__by_Raffaello_Sanzio_da_Urbi_ca55ac08.jpg)
+
+  - Cartoon for Philosophy, Pinacoteca Ambrosiana, Milan
+    - ![img](img/CartoonForPhilosopy.png)
+
+  - [Disputa](https://en.wikipedia.org/wiki/Disputation_of_the_Holy_Sacrament), Apostolic Palace, Vatican
+    - ![img](img/Disputa_del_Sacramento__Rafael__444cc08f.jpg)
+
+  - [The Cardinal Virtues](https://en.wikipedia.org/wiki/Cardinal_and_Theological_Virtues_(Raphael)), Apostolic Palace, Vatican
+    - Three of the cardinal virtues, Fortitude, Prudence and Temperance, are personified as statuesque women seated in a bucolic landscape
+    - The theological virtues, Charity, Hope, and Faith, are depicted by putti
+    - Michelangelo's style but less tension
+    - ![img](img/Virt__e_due_scene_02_6f35cb7a.jpg)
+
+  - [Poetry](https://en.wikipedia.org/wiki/The_Parnassus), Apostolic Palace, Vatican
+    - Apollo in the center leading a band of writers that includes Dante, Homer, and Sappho
+    - ![img](img/Rafael_-_El_Parnaso__Estancia_del_Sello__Roma__151_053687d0.jpg)
+
+  - [The Mass at Bolsena](https://en.wikipedia.org/wiki/The_Mass_at_Bolsena)
+    - A Bohemian priest who doubted the doctrine of transubstantiation was celebrating mass at Bolsena, when the bread began to bleed in the shape of a cross
+    - Below kneel the officers of the Swiss troops
+    - ![img](img/Raphael_-_The_Mass_at_Bolsena_dbefbbf4.jpg)
+
+  - [The Expulsion of Heliodorus from the Temple](https://en.wikipedia.org/wiki/The_Expulsion_of_Heliodorus_from_the_Temple)
+    - ![img](img/Raphael_-_The_Expulsion_of_Heliodorus_from_the_Tem_3e73ef13.jpg)
+
+  - [Liberation of Saint Peter](https://en.wikipedia.org/wiki/Liberation_of_Saint_Peter_(Raphael))
+    - Peter is a portrait of Julius II
+    - ![img](img/13_Estancia_de_Heliodoro__Liberaci_n_de_San_Pedro__0d7cb806.jpg)
+
+  - [The Meeting of Leo the Great and Attila](https://en.wikipedia.org/wiki/The_Meeting_of_Leo_the_Great_and_Attila)
+    - Depicts the meeting between the Pope Leo I and Attila the Hun, which took place in 452 in northern Italy
+    - Saints Peter and Paul are the ones flying
+    - ![img](img/Raphael_-_The_Meeting_of_Leo_the_Great_and_Attila_320f6e36.jpg)
+
+  - [La velata](https://en.wikipedia.org/wiki/La_velata), Pitti, Florence
+    - The rich color in the painting suggests his interest in the colorism of Venice
+    - ![img](img/La_donna_velata_v2_e3961a99.jpg)
+
+  - [Portrait of Leo X](https://en.wikipedia.org/wiki/Portrait_of_Leo_X), Uffizi Gallery, Florence
+    - Leo X did't like Michelangelo so Rapheal rose to a level of power and wealth so high no other Italian artists have ever met
+    - Rapheal became the papal architect
+    - ![img](img/Portrait_of_Pope_Leo_X__Raphael__-_brightened_84d9bd49.jpg)
+
+  - [Transfiguration](https://en.wikipedia.org/wiki/Transfiguration_(Raphael)), Vatican Museums, Vatican
+
+    - ![img](img/Transfiguration_Raphael_1df26bad.jpg)
+
+### New developments
 
 ## Terms
 

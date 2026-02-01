@@ -17,4 +17,8 @@ The Papal Basilica of Saint Peter in the Vatican is a church of the Italian High
 
 ## Artworks
 
+### [Pietà](../artworks/PietaMichelangelo.md)
+- **Artist**: [Michelangelo](../artists/Michelangelo.md)
+- Created when Michelangelo was 23
+
 ### [Tomb of Pope Sixtus IV](../artworks/TombOfPopeSixtusIV.md)

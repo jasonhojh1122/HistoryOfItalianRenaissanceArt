@@ -15,3 +15,6 @@ The young shepherd David, armed only with a sling and stones, defeats the giant 
 
 ### [David and Goliath](../artworks/DavidAndGoliathMichelangelo.md)
 - Michelangelo, Sistine Chapel, 1509
+
+### [David](../artworks/DavidMichelangelo.md)
+- Michelangelo, Galleria dell'Accademia, 1501-1504

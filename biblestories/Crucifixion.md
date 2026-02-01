@@ -18,3 +18,6 @@ The Crucifixion depicts the death of Jesus Christ on the cross at Golgotha (also
 
 ### [Trinity](../artworks/Trinity.md)
 - Masaccio, Santa Maria Novella, c. 1427
+
+### [Crucifix](../artworks/CrucifixMichelangelo.md)
+- Michelangelo, Santo Spirito, c. 1492
