@@ -1,6 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { glob } from 'glob';
+import { fileURLToPath } from 'url';
 import {
   buildIndex,
   getArtistArtworks,
@@ -18,6 +19,9 @@ import {
   artworkTemplate,
   bibleStoryTemplate
 } from './templates.js';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 /**
  * Generate the complete static site
@@ -43,13 +47,37 @@ export async function generateSite(rootDir, outputDir) {
   console.log(`  Found ${Object.keys(index.artworks).length} artworks`);
   console.log(`  Found ${Object.keys(index.biblestories).length} bible stories`);
 
+  // Load coordinates for map
+  let coordinates = {};
+  try {
+    const coordPath = path.join(__dirname, '..', 'data', 'coordinates.json');
+    coordinates = JSON.parse(await fs.readFile(coordPath, 'utf-8'));
+  } catch (err) {
+    console.warn('  Warning: Could not load coordinates.json:', err.message);
+  }
+
   // Generate index page
   console.log('\nGenerating pages...');
   const artists = getSortedArtists(index);
   const locationsByCity = getLocationsByCity(index);
   const bibleStories = getSortedBibleStories(index);
   const artworksByCentury = getArtworksGroupedByCentury(index);
-  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, artworksByCentury);
+
+  // Build map locations array with coordinates
+  const mapLocations = Object.entries(index.locations).map(([id, location]) => {
+    const artworks = getLocationArtworks(index, id);
+    const coord = coordinates[id] || null;
+    return {
+      id,
+      title: location.metadata.title,
+      city: location.metadata.city || '',
+      artworkCount: artworks.length,
+      lat: coord?.lat,
+      lng: coord?.lng
+    };
+  }).filter(loc => loc.lat && loc.lng);
+
+  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, artworksByCentury, mapLocations);
   await fs.writeFile(path.join(outputDir, 'index.html'), indexHtml);
   console.log('  Generated index.html');
 

@@ -3,8 +3,10 @@ import { parseMarkdown } from './parser.js';
 /**
  * Base HTML layout wrapper
  */
-export function layoutTemplate(title, content, depth = 0) {
+export function layoutTemplate(title, content, depth = 0, options = {}) {
   const prefix = depth > 0 ? '../'.repeat(depth) : './';
+  const extraHead = options.extraHead || '';
+  const extraScripts = options.extraScripts || '';
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +14,7 @@ export function layoutTemplate(title, content, depth = 0) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeHtml(title)} - Italian Art</title>
   <link rel="stylesheet" href="${prefix}styles.css">
+${extraHead}
 </head>
 <body>
   <header>
@@ -28,6 +31,7 @@ export function layoutTemplate(title, content, depth = 0) {
   <script src="${prefix}sort.js"></script>
   <script src="${prefix}tabs.js"></script>
   <script src="${prefix}search.js"></script>
+${extraScripts}
 </body>
 </html>`;
 }
@@ -81,7 +85,7 @@ function fixImagePathForIndex(src) {
 /**
  * Index page template
  */
-export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}) {
+export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}, mapLocations = []) {
   const artistsList = artists.map(a => {
     const count = a.artworks?.length || 0;
     const countBadge = count > 0 ? `<span class="artwork-count">${count}</span>` : '';
@@ -136,6 +140,7 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
       <button class="tab-btn" data-tab="locations">Locations</button>
       <button class="tab-btn" data-tab="biblestories">Bible Stories</button>
       <button class="tab-btn" data-tab="timeline">Timeline</button>
+      <button class="tab-btn" data-tab="map">Map</button>
     </div>
 
     <div class="tab-content">
@@ -160,10 +165,19 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
           ${timelineHtml}
         </div>
       </section>
+
+      <section class="tab-panel" data-tab="map">
+        <div id="map-container" class="map-container"></div>
+        <script type="application/json" id="map-locations-data">${JSON.stringify(mapLocations)}</script>
+      </section>
     </div>
   `;
 
-  return layoutTemplate('Home', content, 0);
+  const leafletHead = `  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">`;
+  const leafletScripts = `  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="./map.js"></script>`;
+
+  return layoutTemplate('Home', content, 0, { extraHead: leafletHead, extraScripts: leafletScripts });
 }
 
 /**

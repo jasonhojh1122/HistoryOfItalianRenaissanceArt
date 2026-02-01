@@ -1,11 +1,11 @@
 ---
 name: embed-images
-description: Download all external image links in NOTES.md, save them under ./img, and update the links to reference the local files. Use when needing to embed remote images locally for offline access or to preserve images.
+description: Download all external image links in NOTES.md and AUTO_RESEARCH_NOTES.md, save them under ./img, and update the links to reference the local files. Use when needing to embed remote images locally for offline access or to preserve images.
 ---
 
 # Embed Images
 
-Download all external images referenced in NOTES.md and update the markdown to use local paths.
+Download all external images referenced in NOTES.md and AUTO_RESEARCH_NOTES.md and update the markdown to use local paths.
 
 ## Usage
 
@@ -15,14 +15,17 @@ Run the embed script:
 python3 scripts/embed_images.py
 ```
 
+This processes both `NOTES.md` and `AUTO_RESEARCH_NOTES.md` by default.
+
 ### Options
 
 ```bash
 # Dry run - show what would be downloaded without making changes
 python3 scripts/embed_images.py --dry-run
 
-# Specify a different source file
-python3 scripts/embed_images.py --source path/to/file.md
+# Specify specific source file(s)
+python3 scripts/embed_images.py --source NOTES.md
+python3 scripts/embed_images.py --source NOTES.md AUTO_RESEARCH_NOTES.md
 
 # Specify a different image directory
 python3 scripts/embed_images.py --img-dir path/to/images
@@ -30,19 +33,19 @@ python3 scripts/embed_images.py --img-dir path/to/images
 
 ## What It Does
 
-1. Scans NOTES.md for image links with external URLs (http/https)
+1. Scans NOTES.md and AUTO_RESEARCH_NOTES.md for image links with external URLs (http/https)
 2. Downloads each image to the `./img` folder
 3. Generates unique filenames based on the URL (sanitized, with hash suffix)
-4. Updates NOTES.md to reference the local image paths
+4. Updates the source files to reference the local image paths
 5. Skips images that already point to local paths (e.g., `img/...`)
 
 ## Output
 
 The script reports:
-- Number of external images found
+- Number of external images found in each file
 - Download progress for each image
 - Any errors encountered
-- Summary of changes made
+- Summary of changes made across all files
 
 ## Example
 
@@ -58,8 +61,10 @@ After:
 
 ## Notes
 
+- By default, processes both `NOTES.md` and `AUTO_RESEARCH_NOTES.md`
+- Missing source files are skipped with a note (not an error)
 - Only processes URLs starting with `http://` or `https://`
 - Preserves the original alt text in image links
 - Creates unique filenames using a hash of the URL to avoid conflicts
 - Existing local images are not re-downloaded
-- The script creates a backup of NOTES.md before making changes
+- The script creates a backup of each source file before making changes

@@ -597,7 +597,75 @@
   - Works in Ghirlandaio's study in year 13, and be invited into the house of Lorenzo the Magnificent a year later
 
   - Madonna of the Stairs, Casa Buonarroti, Florence
+    - Extraordinary muscular back and right arm of the Christ Child
     - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b2/Buonarotti-scala.jpg)
+
+  - [Battle of the Centaurs](https://en.wikipedia.org/wiki/Battle_of_the_Centaurs_(Michelangelo)), Casa Buonarroti, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/3/39/Michelangelo%2C_centauromachia%2C_1492_ca._01.JPG)
+
+  - [Crucifix](https://en.wikipedia.org/wiki/Crucifix_(Michelangelo)), Santo Spirito, Florence
+    - The only wood work we know for Michelangelo
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/0/04/Santo_Spirito%2C_sagrestia%2C_crocifisso_di_michelangelo_04.JPG)
+
+  - [Bacchus](https://en.wikipedia.org/wiki/Bacchus_(Michelangelo)), Bargello, Florence
+    - Michelangelo was paid 160 florins
+    - God of wine, nude with vine leaes and grapes, affected by alcohol
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/2/2d/Michelangelo_Bacchus.jpg)
+
+  - [Pietà](https://en.wikipedia.org/wiki/Piet%C3%A0_(Michelangelo)), Sanit Peter's Basilica, Vatican
+    - Work when he was 23
+    - Designed to be palced on or near the floor, so the viewer can see the christ face better
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/6/65/Pieta_de_Michelangelo_-_Vaticano.jpg)
+
+  - [The Dono Madonna](https://en.wikipedia.org/wiki/Doni_Tondo), Uffizi Gallery, Florence
+    - The only preserved panel painting of Michelangelo
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Tondo_Doni%2C_por_Miguel_%C3%81ngel.jpg)
+
+  - [David](https://en.wikipedia.org/wiki/David_(Michelangelo)), Galleria dell'Accademia, Florence
+    - The David's commision for Florentine cathedral was originally assinged to Agostino di Duccio with a designed by Donatello. When Donatello died, the stone was assigned to Michelangelo. The stone was tall but shallow and some works from Agostino has been done already.
+    - The statue was designed to be placed on the Florence cathedral's buttress pedestals(扶壁), on which the boy can look out over the city, gazing to the north.
+    - The statue was ultimately placed in front of Palazzo dei Priori.
+    - THe left arm and hand was damaged in 1527, preserved by Vasari and Grancesco Salviati
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg)
+
+  - [Saint Matthew](https://en.wikipedia.org/wiki/Saint_Matthew_(Michelangelo)), Galleria dell'Accademia, Florence
+    - One of a series of 12 apostle for the interior of the Duomo that was even begun
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/9/95/%27St_Matthew%27_by_Michelangelo_-_JBU_02.jpg)
+
+- [Raphael](https://en.wikipedia.org/wiki/Raphael) in Florence
+
+  - [The Marriage of the Virgin](https://en.wikipedia.org/wiki/The_Marriage_of_the_Virgin_(Raphael)), Brera, Milan
+    - Shows large influence from his teacher Perugino, see Perugino's Delivery of the Keys, which has similar figures, ground and archietecture.
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/0/06/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg)
+
+  - [Portrait of Agnolo and Maddalena Doni](https://en.wikipedia.org/wiki/Portrait_of_Agnolo_Doni), Uffizi Gallery, Florence
+    - The composition of the portraits resembles that of the Mona Lisa, but with more details on the material of cloth and jewels
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/a/a5/Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg)
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/2/27/Ritratto_di_maddalena_strozzi.jpg)
+
+- [Fra Bartolommeo](https://en.wikipedia.org/wiki/Fra_Bartolomeo)
+  - [The Vision of Saint Bernard](https://en.wikipedia.org/wiki/The_Vision_of_Saint_Bernard_(Fra_Bartolomeo)), Uffize Gallery, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/c/c6/Fra_bartolomeo_02_Vision_of_St_Bernard_with_Sts_Benedict_and_John_the_Evangelist.jpg)
+
+### The High Renaissance In Rome
+
+- [Pope Julius II](https://en.wikipedia.org/wiki/Pope_Julius_II)
+  - Dominated the high Renaissance in Rome
+
+- [Donato Bramante](https://en.wikipedia.org/wiki/Donato_Bramante)
+  - Started as painter and appears as an architect in Milan
+  - [Chiesa di Santa Maria](https://en.wikipedia.org/wiki/Santa_Maria_presso_San_Satiro)
+    - A carefully calculated illusion choir
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b6/SanSatiroInteriors.jpg), interior view
+    - [Map](https://maps.app.goo.gl/DCNVR31bGVSKaSfx8)
+
+  - [Santa Maria della Grazie](https://en.wikipedia.org/wiki/Santa_Maria_delle_Grazie%2C_Milan)
+    - Influenced by Leonardo da Vinci's permutations of geometric
+    - [Map](https://maps.app.goo.gl/xfasRHmFNoBYCyXb9)
+
+  - [Tempietto](https://en.wikipedia.org/wiki/Tempietto_del_Bramante)
+    - Marks the start of high Renaissance in Rome
+    - [Map](https://maps.app.goo.gl/BhFnALmMJR9Qz7yYA)
 
 ## Terms
 

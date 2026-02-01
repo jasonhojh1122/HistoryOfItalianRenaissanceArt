@@ -1,17 +1,19 @@
 ---
 name: export-notes
-description: Export notes from NOTES.md to individual markdown files for artists, locations, artworks, bible stories, and terms with automatic enrichment from Wikipedia and Google Maps. Use when you need to sync reading notes to the structured article format.
+description: Export notes from NOTES.md and AUTO_RESEARCH_NOTES.md to individual markdown files for artists, locations, artworks, bible stories, and terms with automatic enrichment from Wikipedia and Google Maps. Use when you need to sync reading notes to the structured article format.
 ---
 
 # Export Notes
 
-Export reading notes from `NOTES.md` to individual markdown files in `artists/`, `locations/`, `artworks/`, and `biblestories/` directories, plus a `terms.md` glossary file.
+Export reading notes from `NOTES.md` and auto-researched notes from `AUTO_RESEARCH_NOTES.md` to individual markdown files in `artists/`, `locations/`, `artworks/`, and `biblestories/` directories, plus a `terms.md` glossary file.
 
 ## Workflow
 
-### 1. Read and Parse NOTES.md
+### 1. Read and Parse Both Source Files
 
-Read `NOTES.md` and identify:
+Read both source files and identify entities:
+
+**NOTES.md** (organized by time period/medium):
 - **Artists**: Lines with `[Artist Name](wikipedia_link)` format, or the first level indent under h3, usually followed by artworks
 - **Artworks**: Indented items under artists with artwork names and details
 - **Locations**: Architecture sections with location links, or location lists after artwork name
@@ -19,6 +21,13 @@ Read `NOTES.md` and identify:
 - **Bible Stories**: Identified from two sources:
   1. Items under `## Terms` section that are biblical/religious narratives (Annunciation, Nativity, Crucifixion, etc.)
   2. Auto-detected from artwork names/context that depict religious subjects (e.g., "Adoration of the Magi", "Last Supper", "Baptism of Christ")
+
+**AUTO_RESEARCH_NOTES.md** (organized by location):
+- **Locations**: Level 2 headers (`## Location Name, City`)
+- **Artworks**: Items under `### Artworks` subsections
+- **Artists**: Items under `### Artists` subsections
+- **Bible Stories**: Items under `### Bible Stories` subsections
+- **Terms**: Items under `## Terms` section at the end
 
 ### 2. Extract Entity Information
 
@@ -55,6 +64,21 @@ For each entity, extract:
 - Bible section (book, chapter, verse references)
 - Wikipedia URL (if found)
 - List of artworks depicting this story
+
+### 2.5. Merge and Deduplicate Entities
+
+When an entity appears in both files:
+
+| Scenario | Action |
+|----------|--------|
+| Entity only in NOTES.md | Use as-is (no source marker) |
+| Entity only in AUTO_RESEARCH_NOTES.md | Mark with `**Source**: Self-researched` |
+| Entity in both files | Use NOTES.md content as primary, supplement missing fields from AUTO_RESEARCH_NOTES.md (no source marker) |
+
+**Merge rules**:
+- NOTES.md content takes precedence for all fields
+- Artwork lists are merged (union of both sources)
+- If an entity was previously marked `Self-researched` but now appears in NOTES.md, remove the source marker
 
 ### 3. Generate File Names
 
@@ -124,26 +148,78 @@ Ensure bidirectional linking:
 ### 7. Handle Updates
 
 When updating existing files:
-- Preserve existing content not in NOTES.md
+- Preserve existing content not in source files
 - Add new artworks to existing artist/location files
 - Update artwork details if changed in notes
+- **Source tracking**: If an entity previously had `**Source**: Self-researched` but now appears in NOTES.md, remove the source marker (it's no longer self-researched)
 
 ## Usage
 
 When the user asks to export notes:
 
-1. Read `NOTES.md` to get current notes
+1. Read both `NOTES.md` and `AUTO_RESEARCH_NOTES.md` to get all notes
 2. Identify which sections/artists to export (or all if not specified)
-3. For each artist found:
+3. Merge entities from both files (NOTES.md takes precedence)
+4. For each artist found:
    - Create/update the artist file in `artists/`
    - Create/update artwork files in `artworks/` for each artwork
    - Create/update location files in `locations/` for each location mentioned
-4. For each bible story found (from Terms section or detected from artworks):
+   - Mark AUTO_RESEARCH_NOTES.md-only entities with `**Source**: Self-researched`
+5. For each bible story found (from Terms section or detected from artworks):
    - Create/update bible story files in `biblestories/`
    - Migrate religious narrative terms from `terms.md` to `biblestories/`
    - Keep only art technique terms (Christus triumphans, Christus patiens, tondo, etc.) in `terms.md`
-5. If `## Terms` section exists, create/update `terms.md` in the root directory (art techniques only)
-6. Report what was created/updated
+6. If `## Terms` section exists in either file, create/update `terms.md` in the root directory (art techniques only)
+7. Report what was created/updated, noting which items came from auto-research
+
+## Parsing AUTO_RESEARCH_NOTES.md
+
+The auto-research file has a specific structure:
+
+```markdown
+# Auto-Researched Notes
+
+## Location Name, City
+<!-- Last updated: YYYY-MM-DD -->
+
+- [Location Name](wikipedia_url)
+  - **Type**: Museum/Church/etc.
+  - **Description**: Brief description...
+
+### Artworks
+
+- [Artwork Name](wikipedia_url)
+  - **Artist**: [Artist Name](wikipedia_url)
+  - **Medium**: Medium type
+  - **Date**: Date or date range
+  - **Description**: Description text...
+  ![img](image_url)
+
+### Artists
+
+- [Artist Name](wikipedia_url)
+  - **Born**: Date, Place
+  - **Died**: Date, Place
+  - Biography text...
+
+### Bible Stories
+
+- [Story Name](wikipedia_url)
+  - **Book(s)**: Book names
+  - **Chapters/Verses**: References
+  - Summary text...
+
+## Terms
+
+- **Term Name**: Definition
+```
+
+**Parsing rules**:
+- Location sections start with `## ` followed by location name
+- Subsections (`### Artworks`, `### Artists`, `### Bible Stories`) contain the entities
+- Entity names are in markdown link format: `[Name](url)`
+- Fields are on indented lines with `**Field**: Value` format
+- Images are on their own indented line: `![img](url)`
 
 ## Example
 
@@ -156,9 +232,23 @@ If NOTES.md contains:
     - Earliest artwork by Giotto
 ```
 
+And AUTO_RESEARCH_NOTES.md contains:
+
+```
+## Bargello, Florence
+
+### Artworks
+
+- [Bacchus](https://en.wikipedia.org/wiki/Bacchus_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: 1496-1497
+  - **Description**: Early sculpture by Michelangelo...
+```
+
 Generate (with enrichment from Wikipedia and Google Maps):
 
-**artists/GiottoDiBondone.md**:
+**artists/GiottoDiBondone.md** (from NOTES.md, no source marker):
 ```markdown
 # Giotto di Bondone
 
@@ -172,6 +262,25 @@ Italian painter and architect from Florence who worked during the Late Middle Ag
 ## Artworks
 
 ### [Crucifix](../artworks/CrucifixGiotto.md)
+```
+
+**artworks/Bacchus.md** (from AUTO_RESEARCH_NOTES.md only, has source marker):
+```markdown
+# Bacchus
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bacchus_(Michelangelo))
+
+- **Artist**: [Michelangelo](../artists/Michelangelo.md)
+- **Location**: [Bargello](../locations/Bargello.md), Florence
+- **Medium**: Marble
+- **Date**: 1496-1497
+- **Source**: Self-researched
+
+## Description
+
+Early sculpture by Michelangelo...
+
+![img](image_url)
 ```
 
 **artworks/CrucifixGiotto.md**:
