@@ -458,7 +458,7 @@
     - ![img](img/AdorationOfTheShephers.png)
 
 - [Domenico Ghirlandaio](https://en.wikipedia.org/wiki/Domenico_Ghirlandaio)
-  - The Last Supper, San Marco, Florence
+    - The Last Supper, San Marco, Florence
     - ![img](img/Ghirlandaio__ultima_cena_di_san_marco_a704deaa.jpg)
 
   - The Confirmation fo the Franciscan Rule by Pope Honorius III, Sassetti Chapel, Basilica di Santa Trinita, Florence
@@ -588,7 +588,16 @@
     - Christ turns from Judas
     - ![img](img/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolut_c6e37759.jpg)
 
+- [Michelangelo Buonarroti](https://en.wikipedia.org/wiki/Michelangelo) to 1505
+  - Leonardo: Skeptical | Michelangelo: Believed
+  - Leonardo: Apolitical | Michelangelo: Loyal Florentine
+  - Leonardo: Looked on the world and humanity with detachment | Michelangelo: Obsessed by guilt
+  - Leonardo: Intellectually and physically charming but cared little for those he attracted | Michelangelo: Spare, taciturn, and irascible, yet consumed with a deep love for others that only in his old age was requited by the adoring reverence of his pupils
+  - Leonardo: Absorbed in the mysteries of nature | Michelangelo: Scorned landscape
+  - Works in Ghirlandaio's study in year 13, and be invited into the house of Lorenzo the Magnificent a year later
 
+  - Madonna of the Stairs, Casa Buonarroti, Florence
+    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b2/Buonarotti-scala.jpg)
 
 ## Terms
 

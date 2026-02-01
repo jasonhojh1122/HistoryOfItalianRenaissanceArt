@@ -27,6 +27,7 @@ export function layoutTemplate(title, content, depth = 0) {
   </footer>
   <script src="${prefix}sort.js"></script>
   <script src="${prefix}tabs.js"></script>
+  <script src="${prefix}search.js"></script>
 </body>
 </html>`;
 }
@@ -81,16 +82,20 @@ function fixImagePathForIndex(src) {
  * Index page template
  */
 export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}) {
-  const artistsList = artists.map(a =>
-    `<li><a href="artists/${a.id}.html">${escapeHtml(a.metadata.title)}</a></li>`
-  ).join('\n        ');
+  const artistsList = artists.map(a => {
+    const count = a.artworks?.length || 0;
+    const countBadge = count > 0 ? `<span class="artwork-count">${count}</span>` : '';
+    return `<li><a href="artists/${a.id}.html">${escapeHtml(a.metadata.title)}</a>${countBadge}</li>`;
+  }).join('\n        ');
 
   const locationsHtml = Object.entries(locationsByCity).map(([city, locations]) => `
       <h3>${escapeHtml(city)}</h3>
       <ul class="location-list">
-        ${locations.map(l =>
-          `<li><a href="locations/${l.id}.html">${escapeHtml(l.metadata.title)}</a></li>`
-        ).join('\n        ')}
+        ${locations.map(l => {
+          const count = l.artworks?.length || 0;
+          const countBadge = count > 0 ? `<span class="artwork-count">${count}</span>` : '';
+          return `<li><a href="locations/${l.id}.html">${escapeHtml(l.metadata.title)}</a>${countBadge}</li>`;
+        }).join('\n        ')}
       </ul>`
   ).join('\n');
 
@@ -116,6 +121,15 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
   const content = `
     <h1>Italian Art</h1>
     <p class="intro">Notes for my upcoming travels through Italy, following Frederick Hartt's "History of Italian Art".</p>
+
+    <div class="search-container">
+      <input type="search" id="index-search" class="search-input"
+             placeholder="Search artists, locations, stories..."
+             autocomplete="off" aria-label="Search index">
+      <span class="search-icon" aria-hidden="true"></span>
+      <button class="search-clear" type="button" aria-label="Clear search" hidden>&times;</button>
+    </div>
+    <p class="search-results-count" hidden></p>
 
     <div class="tab-navigation">
       <button class="tab-btn active" data-tab="artists">Artists</button>
