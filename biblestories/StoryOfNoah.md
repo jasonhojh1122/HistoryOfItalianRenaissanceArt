@@ -15,3 +15,6 @@ The Story of Noah recounts the great flood sent by God to cleanse the earth of w
 
 ### [Story of Noah](../artworks/StoryOfNoah.md)
 - Paolo Uccello, Santa Maria Novella, c. 1447
+
+### [The Flood](../artworks/FloodMichelangelo.md)
+- Michelangelo, Sistine Chapel, 1508-1509

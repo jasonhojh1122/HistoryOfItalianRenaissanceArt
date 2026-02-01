@@ -15,3 +15,12 @@ The Creation of Adam depicts God creating the first man. According to Genesis, G
 
 ### [Creation of Adam](../artworks/CreationOfAdam.md)
 - Andrea Pisano, Opera del Duomo Museum, Florence, 1334–1343
+
+### [Creation of Adam](../artworks/CreationOfAdamMichelangelo.md)
+- Michelangelo, Sistine Chapel, 1508-1512
+
+### [Creation of Sun, Moon and Plants](../artworks/CreationOfSunMoonAndPlants.md)
+- Michelangelo, Sistine Chapel, 1511
+
+### [Separation of Light from Darkness](../artworks/SeparationOfLightFromDarkness.md)
+- Michelangelo, Sistine Chapel, 1512

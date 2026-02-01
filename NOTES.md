@@ -598,54 +598,54 @@
 
   - Madonna of the Stairs, Casa Buonarroti, Florence
     - Extraordinary muscular back and right arm of the Christ Child
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b2/Buonarotti-scala.jpg)
+    - ![img](img/Buonarotti-scala_2b44397c.jpg)
 
   - [Battle of the Centaurs](https://en.wikipedia.org/wiki/Battle_of_the_Centaurs_(Michelangelo)), Casa Buonarroti, Florence
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/3/39/Michelangelo%2C_centauromachia%2C_1492_ca._01.JPG)
+    - ![img](img/Michelangelo__centauromachia__1492_ca__01_15c56a8e.JPG)
 
   - [Crucifix](https://en.wikipedia.org/wiki/Crucifix_(Michelangelo)), Santo Spirito, Florence
     - The only wood work we know for Michelangelo
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/0/04/Santo_Spirito%2C_sagrestia%2C_crocifisso_di_michelangelo_04.JPG)
+    - ![img](img/Santo_Spirito__sagrestia__crocifisso_di_michelange_f5fc68d2.JPG)
 
   - [Bacchus](https://en.wikipedia.org/wiki/Bacchus_(Michelangelo)), Bargello, Florence
     - Michelangelo was paid 160 florins
     - God of wine, nude with vine leaes and grapes, affected by alcohol
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/2/2d/Michelangelo_Bacchus.jpg)
+    - ![img](img/Michelangelo_Bacchus_4f32cc7a.jpg)
 
   - [Pietà](https://en.wikipedia.org/wiki/Piet%C3%A0_(Michelangelo)), Sanit Peter's Basilica, Vatican
     - Work when he was 23
     - Designed to be palced on or near the floor, so the viewer can see the christ face better
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/6/65/Pieta_de_Michelangelo_-_Vaticano.jpg)
+    - ![img](img/Pieta_de_Michelangelo_-_Vaticano_c3c47b3a.jpg)
 
   - [The Dono Madonna](https://en.wikipedia.org/wiki/Doni_Tondo), Uffizi Gallery, Florence
     - The only preserved panel painting of Michelangelo
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Tondo_Doni%2C_por_Miguel_%C3%81ngel.jpg)
+    - ![img](img/Tondo_Doni__por_Miguel__ngel_8f26b2c7.jpg)
 
   - [David](https://en.wikipedia.org/wiki/David_(Michelangelo)), Galleria dell'Accademia, Florence
     - The David's commision for Florentine cathedral was originally assinged to Agostino di Duccio with a designed by Donatello. When Donatello died, the stone was assigned to Michelangelo. The stone was tall but shallow and some works from Agostino has been done already.
     - The statue was designed to be placed on the Florence cathedral's buttress pedestals(扶壁), on which the boy can look out over the city, gazing to the north.
     - The statue was ultimately placed in front of Palazzo dei Priori.
     - THe left arm and hand was damaged in 1527, preserved by Vasari and Grancesco Salviati
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg)
+    - ![img](img/_David__by_Michelangelo_Fir_JBU004_4eb4c27b.jpg)
 
   - [Saint Matthew](https://en.wikipedia.org/wiki/Saint_Matthew_(Michelangelo)), Galleria dell'Accademia, Florence
     - One of a series of 12 apostle for the interior of the Duomo that was even begun
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/9/95/%27St_Matthew%27_by_Michelangelo_-_JBU_02.jpg)
+    - ![img](img/_St_Matthew__by_Michelangelo_-_JBU_02_de0ef4ae.jpg)
 
 - [Raphael](https://en.wikipedia.org/wiki/Raphael) in Florence
 
   - [The Marriage of the Virgin](https://en.wikipedia.org/wiki/The_Marriage_of_the_Virgin_(Raphael)), Brera, Milan
     - Shows large influence from his teacher Perugino, see Perugino's Delivery of the Keys, which has similar figures, ground and archietecture.
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/0/06/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg)
+    - ![img](img/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art_efa39db6.jpg)
 
   - [Portrait of Agnolo and Maddalena Doni](https://en.wikipedia.org/wiki/Portrait_of_Agnolo_Doni), Uffizi Gallery, Florence
     - The composition of the portraits resembles that of the Mona Lisa, but with more details on the material of cloth and jewels
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/a/a5/Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg)
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/2/27/Ritratto_di_maddalena_strozzi.jpg)
+    - ![img](img/Agnolo_Doni_s_portrait_paintings_by_Raffaello_Sanz_5f7afb76.jpg)
+    - ![img](img/Ritratto_di_maddalena_strozzi_96786950.jpg)
 
 - [Fra Bartolommeo](https://en.wikipedia.org/wiki/Fra_Bartolomeo)
   - [The Vision of Saint Bernard](https://en.wikipedia.org/wiki/The_Vision_of_Saint_Bernard_(Fra_Bartolomeo)), Uffize Gallery, Florence
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/c/c6/Fra_bartolomeo_02_Vision_of_St_Bernard_with_Sts_Benedict_and_John_the_Evangelist.jpg)
+    - ![img](img/Fra_bartolomeo_02_Vision_of_St_Bernard_with_Sts_Be_8952876c.jpg)
 
 ### The High Renaissance In Rome
 
@@ -656,7 +656,7 @@
   - Started as painter and appears as an architect in Milan
   - [Chiesa di Santa Maria](https://en.wikipedia.org/wiki/Santa_Maria_presso_San_Satiro)
     - A carefully calculated illusion choir
-    - ![img](https://upload.wikimedia.org/wikipedia/commons/b/b6/SanSatiroInteriors.jpg), interior view
+    - ![img](img/SanSatiroInteriors_21976350.jpg), interior view
     - [Map](https://maps.app.goo.gl/DCNVR31bGVSKaSfx8)
 
   - [Santa Maria della Grazie](https://en.wikipedia.org/wiki/Santa_Maria_delle_Grazie%2C_Milan)
@@ -666,6 +666,71 @@
   - [Tempietto](https://en.wikipedia.org/wiki/Tempietto_del_Bramante)
     - Marks the start of high Renaissance in Rome
     - [Map](https://maps.app.goo.gl/BhFnALmMJR9Qz7yYA)
+
+  - [St Peter's Basilica](https://en.wikipedia.org/wiki/St._Peter%27s_Basilica)
+    - 12 architects and 22 popes later, the building was finally completed, but with Michelangelesque shell and Baroque extensions, the original design is barely recognizable.
+    - When Raphael took over as architect in 1514 he commented "the greatest building work ever seen would cost more than a million gold"
+    - To finance the construction the Vatican encouraged the sale of indulgences
+    - The area around the dome was built largely as Bramante planned it
+    - [Map](https://maps.app.goo.gl/nhdaXZjiHTRQugZj8)
+
+- Michelangelo from 1505 to 1516
+
+  - [The Sistine Chapel](https://en.wikipedia.org/wiki/Sistine_Chapel)
+    - To view the elemtns correctly, a viewer must face each of the four walls in turn, and in order to read the narrative scens right side up, we must start at the entrance and move toward the altar. This means that the narrative sequence must be read backward
+    - Reading backward, we pass through the sin of drunken Noah, the sin of Adam and Eve, to scenes that emphasize God's titanic power as he creates human and matter.
+    - ![CeilingPlans](img/Sistine_Chapel_ceiling_diagram_overlay_composite_28c2a57a.png)
+
+  - The Flood, Sistine Chapel, Vatican
+    - Completed in 29 days
+    - The father carries the body of his drowned son
+    - ![img](img/Deluge__Michelangelo_02d9ab82.png)
+
+  - Isaiah, Sistine Chapel, Vatican
+    - The first prophet to be painted
+    - He turns away from the Flood, which is above and to his left, as if in answer to God's promise: "For to Me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth. So I have sworn that I will not be angry with you or rebuke you." (Isaiah 54:9)
+    - ![img](img/_Isaiah_Sistine_Chapel_ceiling__by_Michelangelo_JB_c188d5d4.jpg)
+
+  - Fall of Adam and Eve and Expulsion, Sistine Chapel, Vatican
+    - Completed in 13 days
+    - Previously Temptation and Expulsion has been depicted separately, but Michelangelo united them in the same fresco
+    - ![img](img/Expulsion_del_para_so_d4131efd.jpg)
+
+  - [Creation of Adam](https://en.wikipedia.org/wiki/The_Creation_of_Adam), Sistine Chapel, Vatican
+    - Completed in 17 day
+    - Painted after the successes of Juliu's army. Increase in figure size
+    - God, absent from the first four scenes, stood on the earth in creation of Eve, now moves through heaven in the last four scenes
+    - ![img](img/Michelangelo_-_Creation_of_Adam__cropped__1685ad38.jpg)
+
+  - Creation of Sun, Moon and Plants, Sistine Chapel, Vatican
+    - Completed in 7 day
+    - ![img](img/The_Creation_of_the_Sun_and_the_Moon__Michelangelo_26d9fe07.jpg)
+
+  - Seperation of Light from Darkness, Sistine Chapel, Vatican
+    - Completed in 1 day
+    - The only scene that is presented as if is viewed from below
+    - ![img](img/Vaticano_2011__52__f2def0c2.JPG)
+
+  - Libyan Sibyl, Sistine Chapel, Vatican
+    - The light from seperation of light from darkness fall onto the pages of the open book
+    - ![img](img/Michelangelo_the_libyan_5b02d99b.jpg)
+
+  - David And Goliath, Sistine Chapel, Vatican
+    - Central interlocked figures create a clear narractive event
+    - ![img](img/David_and_Goliath__1__b00f2fd6.png)
+
+  - The Brazen Serpent, Sistine Chapel, Vatican
+    - One of the last of Michelangelo's works on the ceiling
+    - More complex groupings of interlocking figures
+    - ![img](img/The_Brazen_Serpent__1__a6ce3e66.png)
+
+  - [Moses](https://en.wikipedia.org/wiki/Moses_(Michelangelo)), Basilica of San Pietro in Vincoli, Rome
+    - Moses holds the Tablet of the Law
+    - The left arm repeats almost the same as Cumaean Sibyl in Sistine Chapel
+    - The face looks alike from the Gods in Creation fo Sun, Moon and Plants in Sistine Chapel
+    - ![img](img/Michelangelo_s_Moses__Rome__b8c08dee.jpg)
+
+- Raphael in Rome
 
 ## Terms
 

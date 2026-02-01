@@ -14,3 +14,4 @@ The public museums of the Vatican City, displaying works from the immense collec
 ## Artworks
 
 ### [Laocoön and His Sons](../artworks/LaocoonAndHisSons.md)
+### [Belvedere Torso](../artworks/BelvedereTorso.md)

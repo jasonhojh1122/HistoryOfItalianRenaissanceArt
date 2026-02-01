@@ -32,7 +32,8 @@ export async function buildIndex(rootDir) {
     const parsed = await parseFile(path.join(rootDir, file));
     index.artists[parsed.id] = {
       ...parsed,
-      artworks: []  // Will be populated below
+      artworks: [],           // Will be populated below
+      architecturalWorks: []  // Will be populated below (locations designed by this artist)
     };
   }
 
@@ -81,6 +82,16 @@ export async function buildIndex(rootDir) {
     }
   }
 
+  // Build relationships from locations to architects
+  for (const [locationId, location] of Object.entries(index.locations)) {
+    const architectIds = location.metadata.architectIds || [];
+    for (const architectId of architectIds) {
+      if (index.artists[architectId]) {
+        index.artists[architectId].architecturalWorks.push(locationId);
+      }
+    }
+  }
+
   return index;
 }
 
@@ -92,6 +103,16 @@ export function getArtistArtworks(index, artistId) {
   if (!artist) return [];
 
   return artist.artworks.map(artworkId => index.artworks[artworkId]).filter(Boolean);
+}
+
+/**
+ * Get all architectural works (locations) for an artist with full data
+ */
+export function getArtistArchitecturalWorks(index, artistId) {
+  const artist = index.artists[artistId];
+  if (!artist) return [];
+
+  return artist.architecturalWorks.map(locationId => index.locations[locationId]).filter(Boolean);
 }
 
 /**

@@ -1,5 +1,43 @@
 import { parseMarkdown } from './parser.js';
 
+// Build timestamp - set once when module loads
+const BUILD_TIMESTAMP = new Date().toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+
+/**
+ * Parse a markdown table into an array of row objects
+ */
+function parseMarkdownTable(markdown) {
+  const lines = markdown.trim().split('\n').filter(line => line.trim());
+  if (lines.length < 2) return [];
+
+  // Find the header line (first line with |)
+  const headerIdx = lines.findIndex(line => line.includes('|'));
+  if (headerIdx === -1) return [];
+
+  const headerLine = lines[headerIdx];
+  const headers = headerLine.split('|').map(h => h.trim()).filter(Boolean);
+
+  // Skip the separator line (contains dashes)
+  const rows = [];
+  for (let i = headerIdx + 2; i < lines.length; i++) {
+    const line = lines[i];
+    if (!line.includes('|')) continue;
+    const cells = line.split('|').map(c => c.trim()).filter(Boolean);
+    if (cells.length === headers.length) {
+      const row = {};
+      headers.forEach((h, idx) => {
+        row[h] = cells[idx];
+      });
+      rows.push(row);
+    }
+  }
+  return rows;
+}
+
 /**
  * Base HTML layout wrapper
  */
@@ -26,7 +64,8 @@ ${extraHead}
     ${content}
   </main>
   <footer>
-    <p>Travel notes on Italian Art</p>
+    <p>Travel notes on Italian Art · <a href="${prefix}credits.html">Image Credits</a></p>
+    <p class="last-updated">Last updated: ${BUILD_TIMESTAMP}</p>
   </footer>
   <script src="${prefix}sort.js"></script>
   <script src="${prefix}tabs.js"></script>
@@ -246,15 +285,53 @@ export function artworkCardTemplate(artwork, includeArtist = false) {
 }
 
 /**
+ * Location card template (for embedding in artist pages for architectural works)
+ */
+export function locationCardTemplate(location) {
+  const meta = location.metadata;
+  const image = meta.images?.[0];
+
+  const metaItems = [];
+  if (meta.city) {
+    metaItems.push(`<span class="city">${escapeHtml(meta.city.replace(/, Italy$/, ''))}</span>`);
+  }
+  if (meta.architecturalStyle) {
+    metaItems.push(`<span class="style">${escapeHtml(meta.architecturalStyle)}</span>`);
+  }
+
+  return `
+    <article class="location-card">
+      <h3><a href="../locations/${location.id}.html">${escapeHtml(meta.title)}</a></h3>
+      <div class="location-card-meta">${metaItems.join('')}</div>
+      ${image ? `<img src="${escapeHtml(fixImagePath(image.src, 'locations'))}" alt="${escapeHtml(meta.title)}" loading="lazy">` : ''}
+    </article>
+  `;
+}
+
+/**
  * Artist page template
  */
-export function artistTemplate(artist, artworks) {
+export function artistTemplate(artist, artworks, architecturalWorks = []) {
   const meta = artist.metadata;
 
   const links = [];
   if (meta.wikipedia) {
     links.push(`<a href="${escapeHtml(meta.wikipedia)}" target="_blank" rel="noopener noreferrer">Wikipedia</a>`);
   }
+
+  // Generate architectural works section (if any)
+  const architecturalWorksHtml = architecturalWorks.length > 0
+    ? architecturalWorks.map(l => locationCardTemplate(l)).join('\n')
+    : '';
+
+  const architecturalWorksSection = architecturalWorks.length > 0 ? `
+      <section class="architectural-works-section">
+        <h2>Architectural Works</h2>
+        <div class="location-grid">
+          ${architecturalWorksHtml}
+        </div>
+      </section>
+  ` : '';
 
   // Sort artworks by date and generate cards (no artist sort for single-artist pages)
   const sortedArtworks = sortArtworksByDate(artworks);
@@ -269,7 +346,7 @@ export function artistTemplate(artist, artworks) {
       <h1>${escapeHtml(meta.title)}</h1>
       ${links.length > 0 ? `<div class="external-links">${links.join(' ')}</div>` : ''}
       ${meta.bio ? `<div class="bio">${parseMarkdown(meta.bio)}</div>` : ''}
-
+      ${architecturalWorksSection}
       <section class="artworks-section">
         <h2>Artworks</h2>
         ${sortControls}
@@ -449,6 +526,51 @@ export function bibleStoryTemplate(bibleStory, artworks) {
   `;
 
   return layoutTemplate(meta.title, content, 1);
+}
+
+/**
+ * Credits page template
+ */
+export function creditsTemplate(creditMarkdown) {
+  const rows = parseMarkdownTable(creditMarkdown);
+
+  const tableRows = rows.map(row => {
+    const localFile = row['Local File'] || '';
+    const originalUrl = row['Original URL'] || '';
+    const source = row['Source'] || '';
+
+    // Clean up backticks from local file name
+    const cleanFileName = localFile.replace(/`/g, '');
+
+    return `
+      <tr>
+        <td><code>${escapeHtml(cleanFileName)}</code></td>
+        <td><a href="${escapeHtml(originalUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(originalUrl.length > 60 ? originalUrl.substring(0, 60) + '...' : originalUrl)}</a></td>
+        <td>${escapeHtml(source)}</td>
+      </tr>
+    `;
+  }).join('\n');
+
+  const content = `
+    <article class="credits-page">
+      <h1>Image Credits</h1>
+      <p>All images used in this project are sourced from Wikimedia Commons and are used under their respective licenses.</p>
+      <table class="credits-table">
+        <thead>
+          <tr>
+            <th>Local File</th>
+            <th>Original URL</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${tableRows}
+        </tbody>
+      </table>
+    </article>
+  `;
+
+  return layoutTemplate('Image Credits', content, 0);
 }
 
 /**

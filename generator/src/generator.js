@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 import {
   buildIndex,
   getArtistArtworks,
+  getArtistArchitecturalWorks,
   getLocationArtworks,
   getBibleStoryArtworks,
   getSortedArtists,
@@ -17,7 +18,8 @@ import {
   artistTemplate,
   locationTemplate,
   artworkTemplate,
-  bibleStoryTemplate
+  bibleStoryTemplate,
+  creditsTemplate
 } from './templates.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -84,7 +86,8 @@ export async function generateSite(rootDir, outputDir) {
   // Generate artist pages
   for (const [artistId, artist] of Object.entries(index.artists)) {
     const artworks = getArtistArtworks(index, artistId);
-    const html = artistTemplate(artist, artworks);
+    const architecturalWorks = getArtistArchitecturalWorks(index, artistId);
+    const html = artistTemplate(artist, artworks, architecturalWorks);
     await fs.writeFile(path.join(outputDir, 'artists', `${artistId}.html`), html);
   }
   console.log(`  Generated ${Object.keys(index.artists).length} artist pages`);
@@ -111,6 +114,19 @@ export async function generateSite(rootDir, outputDir) {
     await fs.writeFile(path.join(outputDir, 'biblestories', `${bibleStoryId}.html`), html);
   }
   console.log(`  Generated ${Object.keys(index.biblestories).length} bible story pages`);
+
+  // Generate credits page
+  try {
+    const creditPath = path.join(rootDir, 'CREDIT.md');
+    const creditMarkdown = await fs.readFile(creditPath, 'utf-8');
+    const creditsHtml = creditsTemplate(creditMarkdown);
+    await fs.writeFile(path.join(outputDir, 'credits.html'), creditsHtml);
+    console.log('  Generated credits.html');
+  } catch (err) {
+    if (err.code !== 'ENOENT') {
+      console.warn('  Warning: Could not generate credits page:', err.message);
+    }
+  }
 
   // Copy static assets
   console.log('\nCopying assets...');

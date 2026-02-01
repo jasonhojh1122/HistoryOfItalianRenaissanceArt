@@ -250,8 +250,39 @@ export function extractLocationMetadata(content) {
     city: '',
     architecturalStyle: null,
     floorPlan: null,
+    architects: [],      // Array of architect names
+    architectIds: [],    // Array of architect file IDs (without .md)
+    images: [],          // Array of images {alt, src}
     artworkRefs: []
   };
+
+  // Extract architect(s) - Pattern 1: **Architect**: [Name](../artists/File.md)
+  const architectMatch = content.match(/\*\*Architect\*\*:\s*\[([^\]]+)\]\(\.\.\/artists\/([^)]+)\.md\)/);
+  if (architectMatch) {
+    metadata.architects.push(architectMatch[1]);
+    metadata.architectIds.push(architectMatch[2]);
+  }
+
+  // Extract architect(s) - Pattern 2: **Architects**: [Name1](path1), [Name2](path2)
+  const architectsMatch = content.match(/\*\*Architects\*\*:\s*(.+)/);
+  if (architectsMatch) {
+    const architectsLine = architectsMatch[1];
+    const architectLinks = architectsLine.matchAll(/\[([^\]]+)\]\(\.\.\/artists\/([^)]+)\.md\)/g);
+    for (const match of architectLinks) {
+      metadata.architects.push(match[1]);
+      metadata.architectIds.push(match[2]);
+    }
+  }
+
+  // Fallback pattern: Designed by [Name](../artists/File.md)
+  // Also matches "originally designed by", "begun... designed by", etc.
+  if (metadata.architects.length === 0) {
+    const designedByMatches = content.matchAll(/designed by \[([^\]]+)\]\(\.\.\/artists\/([^)]+)\.md\)/gi);
+    for (const match of designedByMatches) {
+      metadata.architects.push(match[1]);
+      metadata.architectIds.push(match[2]);
+    }
+  }
 
   // Extract city (line after links, before architectural style)
   const lines = content.split('\n');
@@ -286,6 +317,20 @@ export function extractLocationMetadata(content) {
     metadata.artworkRefs.push({
       title: match[1],
       file: match[2]
+    });
+  }
+
+  // Extract images (excluding floor plans which are already captured separately)
+  const imageMatches = content.matchAll(/!\[([^\]]*)\]\(([^)]+)\)/g);
+  for (const match of imageMatches) {
+    const alt = match[1].toLowerCase();
+    const src = match[2].toLowerCase();
+    // Skip floor plan images (check both alt text and filename)
+    if (alt.includes('floor plan') || alt.includes('floorplan') ||
+        src.includes('plan') || src.includes('floorplan')) continue;
+    metadata.images.push({
+      alt: match[1],
+      src: match[2]
     });
   }
 

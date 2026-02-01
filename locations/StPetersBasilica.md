@@ -11,6 +11,10 @@ Vatican City
 
 The Papal Basilica of Saint Peter in the Vatican is a church of the Italian High Renaissance located in Vatican City. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great.
 
+[Donato Bramante](../artists/DonatoBramante.md) was the original architect. 12 architects and 22 popes later, the building was finally completed, but with Michelangelesque shell and Baroque extensions, the original design is barely recognizable. When Raphael took over as architect in 1514 he commented "the greatest building work ever seen would cost more than a million gold." To finance the construction the Vatican encouraged the sale of indulgences. The area around the dome was built largely as Bramante planned it.
+
+[GoogleMap](https://maps.app.goo.gl/nhdaXZjiHTRQugZj8)
+
 ## Artworks
 
 ### [Tomb of Pope Sixtus IV](../artworks/TombOfPopeSixtusIV.md)

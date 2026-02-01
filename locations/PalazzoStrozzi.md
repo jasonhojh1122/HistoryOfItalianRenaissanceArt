@@ -8,6 +8,6 @@ Florence, Italy
 
 **Type**: Palazzo
 
-Palazzo Strozzi is a palace in Florence located in the historic centre between Via Strozzi, Piazza Strozzi, and Via Tornabuoni. Designed by Benedetto da Maiano.
+Palazzo Strozzi is a palace in Florence located in the historic centre between Via Strozzi, Piazza Strozzi, and Via Tornabuoni. Designed by [Benedetto da Maiano](../artists/BenedettoDaMaiano.md).
 
 ## Artworks

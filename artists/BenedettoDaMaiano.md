@@ -8,7 +8,3 @@
 Italian Early Renaissance sculptor and architect. Brother of Giuliano da Maiano.
 
 ## Artworks
-
-## Architecture
-
-### [Palazzo Strozzi](../locations/PalazzoStrozzi.md)

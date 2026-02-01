@@ -9,7 +9,9 @@ Milan, Italy
 **Type**: Church and Dominican convent
 **Architectural style**: Gothic, Renaissance
 
-A UNESCO World Heritage Site, famous for housing Leonardo da Vinci's mural of The Last Supper in its refectory.
+A UNESCO World Heritage Site, famous for housing Leonardo da Vinci's mural of The Last Supper in its refectory. The tribune was designed by [Donato Bramante](../artists/DonatoBramante.md), influenced by Leonardo da Vinci's permutations of geometric forms.
+
+[GoogleMap](https://maps.app.goo.gl/xfasRHmFNoBYCyXb9)
 
 ## Artworks
 

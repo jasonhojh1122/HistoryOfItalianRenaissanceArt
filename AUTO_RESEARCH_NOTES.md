@@ -17,14 +17,14 @@
   - **Medium**: Marble
   - **Date**: c. 40-30 BC (or possibly later Roman copy of earlier Greek bronze)
   - **Description**: One of the most famous ancient sculptures, excavated in Rome in 1506 and displayed in the Vatican since then. The nearly life-sized group (over 2m high) depicts the Trojan priest Laocoön and his sons Antiphantes and Thymbraeus being attacked by sea serpents. Praised by Pliny the Elder as superior to any work of painting or sculpture.
-  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg)
+  ![img](img/Laoco_n_and_his_sons_group_0159ccaf.jpg)
 
 - [Belvedere Torso](https://en.wikipedia.org/wiki/Belvedere_Torso)
   - **Artist**: Apollonios, son of Nestor (Athenian sculptor)
   - **Medium**: Marble
   - **Date**: 1st century BC (likely a copy of an earlier 2nd century BC Greek bronze)
   - **Description**: A 1.59-metre-tall fragmentary marble statue of a seated male nude, known to be in Rome since the 1430s. The identity of the figure remains debated—traditionally identified as Hercules seated on the lion skin, though recent scholarship suggests Ajax contemplating suicide. The statue profoundly influenced Renaissance artists, particularly Michelangelo, who called it his "teacher" and used it as inspiration for figures on the Sistine Chapel ceiling. When Pope Julius II asked Michelangelo to complete the statue with limbs and a head, he refused, declaring it too beautiful to alter.
-  ![img](https://upload.wikimedia.org/wikipedia/commons/0/07/Torso_del_belvedere%2C_forse_aiace_telamonio_che_medita_suicidio%2C_I_sec._ac._di_apollonios%2C_forse_da_bronzo_greco_del_200-150_ac._ca_01.JPG)
+  ![img](img/Torso_del_belvedere__forse_aiace_telamonio_che_med_802b8fde.JPG)
 
 ### Artists
 
