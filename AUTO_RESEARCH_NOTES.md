@@ -771,6 +771,151 @@ Over 11,000 graffiti samples have been uncovered in the excavations of Pompeii, 
 
 ---
 
+## Roman Forum, Rome
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Roman Forum](https://en.wikipedia.org/wiki/Roman_Forum)
+  - **Type**: Archaeological Site
+  - **Description**: The Roman Forum, also known by its Latin name Forum Romanum, is a rectangular plaza surrounded by the ruins of several important ancient government buildings at the centre of Rome. For centuries it was the center of day-to-day life in Rome: the site of triumphal processions and elections, public speeches, criminal trials, and gladiatorial matches. The heart of ancient Rome, it has been called the most celebrated meeting place in the world and in all history.
+
+### Monuments
+
+- [Arch of Titus](https://en.wikipedia.org/wiki/Arch_of_Titus)
+  - **Type**: Triumphal Arch
+  - **Date**: c. 81 AD
+  - **Description**: A 1st-century AD honorific arch located on the Via Sacra, just to the south-east of the Roman Forum. Constructed by Emperor Domitian shortly after the death of his older brother Titus to commemorate Titus's official deification and the victory over the Jewish rebellion in Judaea. The inner panels contain famous reliefs depicting the spoils of Jerusalem, including the Menorah being carried in triumph. It served as the model for many later triumphal arches including the Arc de Triomphe in Paris.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/30/Arch_of_Titus_%28Roma%29.jpg)
+
+- [Arch of Septimius Severus](https://en.wikipedia.org/wiki/Arch_of_Septimius_Severus)
+  - **Type**: Triumphal Arch
+  - **Date**: 203 AD
+  - **Description**: A white marble triumphal arch at the northwestern end of the Roman Forum, dedicated to commemorate the Parthian victories of Emperor Septimius Severus and his two sons, Caracalla and Geta. Standing about 23 meters high and 25 meters wide, it features elaborate relief panels depicting battle scenes. After Caracalla had Geta assassinated, Geta's image and inscriptions were removed from the arch in an act of damnatio memoriae.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/da/Arch_of_Septimius_Severus_East.jpg)
+
+- [Temple of Saturn](https://en.wikipedia.org/wiki/Temple_of_Saturn)
+  - **Type**: Temple
+  - **Date**: Originally dedicated 497 BC; current ruins from 42 BC reconstruction
+  - **Description**: An ancient Roman temple to the god Saturn, standing at the foot of the Capitoline Hill at the western end of the Roman Forum. Eight impressive columns and part of the entablature remain standing. The temple housed the state treasury (aerarium) and was the focus of the Saturnalia festival, one of the most popular Roman holidays.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/15/Foro_romano_tempio_Saturno_09feb08_01.jpg)
+
+- [Temple of Antoninus and Faustina](https://en.wikipedia.org/wiki/Temple_of_Antoninus_and_Faustina)
+  - **Type**: Temple / Church
+  - **Date**: 141 AD
+  - **Description**: An ancient Roman temple located on the Via Sacra, opposite the Regia. Built by Emperor Antoninus Pius in honor of his deified wife Faustina the Elder, and later also dedicated to the deified Antoninus. Later converted into the Roman Catholic church of San Lorenzo in Miranda, resulting in an exceptionally preserved temple front with massive columns and a complete entablature bearing the original Latin dedication.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/fa/Temple_of_Antoninus_and_Faustina_3D.jpg)
+
+- [Temple of Vesta](https://en.wikipedia.org/wiki/Temple_of_Vesta)
+  - **Type**: Temple
+  - **Date**: 7th century BC (rebuilt multiple times; current partial reconstruction from early 20th century)
+  - **Description**: An ancient circular temple (tholos) located near the Regia and the House of the Vestal Virgins. The temple housed Vesta's sacred fire, which was a symbol of Rome's safety and prosperity and was tended by the Vestal Virgins. The fire was never allowed to go out; its extinction was seen as a portent of disaster for Rome.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/2/2f/Temple_of_Vesta_%28Rome%29.jpg)
+
+- [Column of Phocas](https://en.wikipedia.org/wiki/Column_of_Phocas)
+  - **Type**: Monumental Column
+  - **Date**: 608 AD
+  - **Description**: A Roman monumental column, the last monument erected in the Roman Forum. Built when Rome was part of the Eastern Roman Empire after its reconquest from the Ostrogoths. The column was dedicated to the Byzantine Emperor Phocas by the exarch Smaragdus, possibly in gratitude for Phocas's gift of the Pantheon to Pope Boniface IV.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/d7/Colonna_di_Foca_Forum_Romanum_Rome.jpg)
+
+- [Temple of Vespasian and Titus](https://en.wikipedia.org/wiki/Temple_of_Vespasian_and_Titus)
+  - **Type**: Temple
+  - **Date**: 79-87 AD
+  - **Description**: Located at the western end of the Roman Forum between the Temple of Concordia and the Temple of Saturn. Dedicated to the deified Vespasian, it was begun by Titus after Vespasian's death and completed by Domitian. Three elegant Corinthian columns still stand, supporting a section of the ornate entablature with a frieze depicting sacrificial instruments.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a0/RomaForoRomanoTempioVespasiano.JPG)
+
+- [Temple of Castor and Pollux](https://en.wikipedia.org/wiki/Temple_of_Castor_and_Pollux)
+  - **Type**: Temple
+  - **Date**: Originally 495 BC; current ruins from 6 AD reconstruction
+  - **Description**: An ancient temple originally built in gratitude for victory at the Battle of Lake Regillus (496 BC), where the divine twins Castor and Pollux were said to have appeared and fought alongside the Romans. Three elegant Corinthian columns remain standing, among the most iconic images of the Roman Forum. The temple served as a meeting place for the Roman Senate and as a depository for weights and measures.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/3d/Dioskurernas_tempel.jpg)
+
+- [House of the Vestals](https://en.wikipedia.org/wiki/House_of_the_Vestals)
+  - **Type**: Residence
+  - **Date**: Roman Republic to Late Empire
+  - **Description**: The residence of the Vestal Virgins, located behind the circular Temple of Vesta at the eastern edge of the Roman Forum. The complex includes a large central courtyard (atrium) surrounded by a two-story colonnade, with statues of senior Vestals lining the court. The Vestals were among the most powerful women in Rome, enjoying privileges denied to other women.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4a/House_of_the_Vestal_Virgins%2C_Roman_Forum._Viewed_from_the_Palatine_Hill._Rome._-_Flickr_-_Andy_Montgomery.jpg)
+
+- [Curia Julia](https://en.wikipedia.org/wiki/Curia_Julia)
+  - **Type**: Senate House
+  - **Date**: 44 BC (begun by Julius Caesar); completed by Augustus
+  - **Description**: The third named curia, or senate house, in ancient Rome. Julius Caesar began construction to replace the earlier Curia Cornelia as part of his redesign of the Forum. The building's remarkably well-preserved brick exterior survives because it was converted into the church of Sant'Adriano al Foro in the 7th century. The interior retains its original marble floor in opus sectile and contains the Plutei of Trajan, important relief sculptures.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4b/Curia_Julia.jpg)
+
+- [Basilica Julia](https://en.wikipedia.org/wiki/Basilica_Julia)
+  - **Type**: Civil Basilica
+  - **Date**: Begun 46 BC by Julius Caesar; completed by Augustus 12 AD
+  - **Description**: A large civil basilica that served as the headquarters for the centumviri, a judicial court dealing with matters of inheritance. The three-story marble structure was one of the largest buildings in the Forum. Today only the foundations, steps, and a few column bases and brick piers remain. Game boards scratched into the marble steps by bored Romans can still be seen.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/de/Basilica_Julia.jpg)
+
+- [Basilica Aemilia](https://en.wikipedia.org/wiki/Basilica_Aemilia)
+  - **Type**: Civil Basilica
+  - **Date**: 179 BC (original); 34 BC (rebuilt by Paullus Aemilius Lepidus)
+  - **Description**: A civil basilica on the northeast side of the Roman Forum, described by Pliny as one of the most beautiful buildings in Rome. Used for business and banking. Coins melted into the floor during the sack of Rome by Alaric in 410 AD are still visible. A sculptural frieze depicting scenes from early Roman history survives and is displayed in the Antiquarium of the Forum.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/67/Basilica_Aemilia_3D.jpg)
+
+- [Temple of Concord](https://en.wikipedia.org/wiki/Temple_of_Concord)
+  - **Type**: Temple
+  - **Date**: 367 BC (traditional); rebuilt 121 BC and again 7 BC-10 AD by Tiberius
+  - **Description**: A series of temples dedicated to the Roman goddess Concordia, located at the western end of the Roman Forum beneath the Capitoline Hill. The final version rebuilt by Tiberius housed an important collection of Greek art. Only the platform and fragments remain today, but the temple's unusual wider-than-deep floor plan is visible.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/6a/Temple_of_Concord.jpg)
+
+- [Temple of Caesar](https://en.wikipedia.org/wiki/Temple_of_Caesar)
+  - **Type**: Temple
+  - **Date**: 29 BC
+  - **Description**: Also known as the Temple of Divus Iulius, this temple was dedicated to the deified Julius Caesar. Built on the spot where Caesar's body was cremated after his assassination in 44 BC. The altar marks where Mark Antony delivered his famous funeral oration. Romans still leave flowers on the altar today in tribute to Caesar.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/40/Temple_of_Caesar_3D.jpg)
+
+- [Via Sacra](https://en.wikipedia.org/wiki/Via_Sacra)
+  - **Type**: Street
+  - **Date**: Roman Kingdom through Empire
+  - **Description**: The main street of ancient Rome, leading from the top of the Capitoline Hill, through the Forum, to the Colosseum. Roman generals celebrated triumphs along this route, processing through the Forum to the Temple of Jupiter on the Capitoline. The original basalt paving stones are still visible in many sections.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/2/22/Ct-viasacra1.jpg)
+
+- [Rostra](https://en.wikipedia.org/wiki/Rostra)
+  - **Type**: Speakers' Platform
+  - **Date**: Various dates; main platform moved to current location 44 BC by Julius Caesar
+  - **Description**: A large platform from which orators addressed the Roman people. The name comes from the ships' prows (rostra) that decorated the front after a naval victory. Cicero delivered many of his famous speeches here, and after his murder, his head and hands were displayed on the Rostra. Mark Antony's funeral oration for Caesar was likely delivered from here.
+
+- [Lapis Niger](https://en.wikipedia.org/wiki/Lapis_Niger)
+  - **Type**: Ancient Shrine
+  - **Date**: 7th-6th century BC
+  - **Description**: An ancient shrine marked by black marble paving stones, among the oldest monuments in the Forum. The site contains one of the oldest known Latin inscriptions (Cippus of the Lapis Niger), dating to the 6th or 5th century BC. The shrine was considered sacred even in ancient times, and its original purpose was obscure even to the Romans.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/32/Lapis_Niger_top.jpg)
+
+- [Regia](https://en.wikipedia.org/wiki/Regia)
+  - **Type**: Royal/Religious Building
+  - **Date**: 8th century BC (original); multiple rebuildings
+  - **Description**: A two-part structure along the Via Sacra that originally served as the residence or headquarters of the Roman kings, later becoming the office of the pontifex maximus (chief priest). Only foundations remain. Archaeological excavations have revealed multiple layers of rebuilding, making this one of the most important sites for understanding early Roman history.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/72/Regia_pano.jpg)
+
+### Terms
+
+- **[Damnatio Memoriae](https://en.wikipedia.org/wiki/Damnatio_memoriae)**: A Roman practice of erasing a person from official history, including removing their name from inscriptions and destroying their images. Applied to Geta after his murder by Caracalla, visible on the Arch of Septimius Severus where Geta's name was chiseled away.
+
+- **[Vestal Virgin](https://en.wikipedia.org/wiki/Vestal_Virgin)**: Priestesses of Vesta, goddess of the hearth, who tended the sacred fire in the Temple of Vesta. They served for 30 years and took a vow of chastity. Breaking this vow was punishable by being buried alive. Vestals enjoyed privileges unusual for Roman women, including the right to own property and freedom from their father's control.
+
+- **[Aerarium](https://en.wikipedia.org/wiki/Aerarium)**: The public treasury of ancient Rome, located in the Temple of Saturn. It held the state's reserves of gold and silver, as well as important documents including laws engraved on bronze tablets.
+
+- **[Curia](https://en.wikipedia.org/wiki/Curia)**: The meeting house of the Roman Senate. The Curia Julia, built by Julius Caesar and Augustus, is the third and best-preserved of Rome's senate houses.
+
+- **[Basilica](https://en.wikipedia.org/wiki/Basilica)**: In Roman architecture, a large public building used for legal and commercial business. The form, with a central nave flanked by aisles, was later adopted for Christian churches.
+
+- **[Triumphal Arch](https://en.wikipedia.org/wiki/Triumphal_arch)**: A monumental structure in the shape of an archway, typically celebrating a military victory. The Roman Forum contains some of the earliest and most influential examples, including the Arch of Titus and Arch of Septimius Severus.
+
+- **[Saturnalia](https://en.wikipedia.org/wiki/Saturnalia)**: An ancient Roman festival in honor of Saturn, held in December. A time of feasting, gift-giving, and temporary social role reversal. The Temple of Saturn in the Forum was the center of this celebration.
+
+### Historical Context
+
+- [Sack of Rome (410)](https://en.wikipedia.org/wiki/Sack_of_Rome_(410))
+  - **Date**: August 24, 410 AD
+  - **Description**: The Visigoths under King Alaric I sacked Rome for three days. This was the first time in almost 800 years that Rome had been taken by a foreign enemy. Evidence of the destruction is visible in the Basilica Aemilia, where coins melted into the floor during fires.
+
+- [Siege of Jerusalem (70 AD)](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_AD))
+  - **Date**: 70 AD
+  - **Description**: The siege and conquest of Jerusalem by Roman forces led by the future Emperor Titus. The city and the Second Temple were destroyed. The famous reliefs inside the Arch of Titus depict the triumphal procession displaying spoils from the Temple, including the Menorah.
+
+---
+
 ## Florence Cathedral, Florence
 
 <!-- Last updated: 2026-02-04 -->

@@ -143,3 +143,52 @@ A chariot drawn by four horses, often depicted in ancient Roman triumphal art. T
 [Wikipedia](https://en.wikipedia.org/wiki/Cotton_Genesis)
 
 A Greek illuminated manuscript of the Book of Genesis, one of the oldest illustrated biblical codices to survive to the modern period. Brought from Constantinople, it heavily influenced the design of the [Genesis Cupola Mosaics](artworks/GenesisCupolaMosaics.md) in the narthex of Saint Mark's Basilica.
+
+## Roman Law and Practice
+
+### Damnatio Memoriae
+[Wikipedia](https://en.wikipedia.org/wiki/Damnatio_memoriae)
+
+A Roman practice of erasing a person from official history, including removing their name from inscriptions and destroying their images. Applied to Geta after his murder by Caracalla, visible on the [Arch of Septimius Severus](artworks/ArchOfSeptimiusSeverus.md) where Geta's name was chiseled away.
+
+### Vestal Virgin
+[Wikipedia](https://en.wikipedia.org/wiki/Vestal_Virgin)
+
+Priestesses of Vesta, goddess of the hearth, who tended the sacred fire in the [Temple of Vesta](artworks/TempleOfVesta.md). They served for 30 years and took a vow of chastity. Breaking this vow was punishable by being buried alive. Vestals enjoyed privileges unusual for Roman women, including the right to own property and freedom from their father's control.
+
+### Aerarium
+[Wikipedia](https://en.wikipedia.org/wiki/Aerarium)
+
+The public treasury of ancient Rome, located in the [Temple of Saturn](artworks/TempleOfSaturn.md). It held the state's reserves of gold and silver, as well as important documents including laws engraved on bronze tablets.
+
+### Curia
+[Wikipedia](https://en.wikipedia.org/wiki/Curia)
+
+The meeting house of the Roman Senate. The [Curia Julia](artworks/CuriaJulia.md), built by Julius Caesar and Augustus, is the third and best-preserved of Rome's senate houses.
+
+### Basilica
+[Wikipedia](https://en.wikipedia.org/wiki/Basilica)
+
+In Roman architecture, a large public building used for legal and commercial business. The form, with a central nave flanked by aisles, was later adopted for Christian churches. Examples in the Roman Forum include the [Basilica Julia](artworks/BasilicaJulia.md) and [Basilica Aemilia](artworks/BasilicaAemilia.md).
+
+### Triumphal Arch
+[Wikipedia](https://en.wikipedia.org/wiki/Triumphal_arch)
+
+A monumental structure in the shape of an archway, typically celebrating a military victory. The Roman Forum contains some of the earliest and most influential examples, including the [Arch of Titus](artworks/ArchOfTitus.md) and [Arch of Septimius Severus](artworks/ArchOfSeptimiusSeverus.md).
+
+### Saturnalia
+[Wikipedia](https://en.wikipedia.org/wiki/Saturnalia)
+
+An ancient Roman festival in honor of Saturn, held in December. A time of feasting, gift-giving, and temporary social role reversal. The [Temple of Saturn](artworks/TempleOfSaturn.md) in the Forum was the center of this celebration.
+
+## Historical Events (Roman)
+
+### Sack of Rome (410)
+[Wikipedia](https://en.wikipedia.org/wiki/Sack_of_Rome_(410))
+
+The Visigoths under King Alaric I sacked Rome for three days on August 24, 410 AD. This was the first time in almost 800 years that Rome had been taken by a foreign enemy. Evidence of the destruction is visible in the [Basilica Aemilia](artworks/BasilicaAemilia.md), where coins melted into the floor during fires.
+
+### Siege of Jerusalem (70 AD)
+[Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_AD))
+
+The siege and conquest of Jerusalem by Roman forces led by the future Emperor Titus in 70 AD. The city and the Second Temple were destroyed. The famous reliefs inside the [Arch of Titus](artworks/ArchOfTitus.md) depict the triumphal procession displaying spoils from the Temple, including the Menorah.
