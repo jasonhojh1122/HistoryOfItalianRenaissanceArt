@@ -517,6 +517,41 @@
   - **Description**: An archaeological site containing the plaster casts of 13 victims of the eruption of Mount Vesuvius in 79 AD. The casts were made by pouring plaster into the cavities left in the volcanic ash where the victims' bodies had decomposed, preserving their final moments in haunting detail.
   ![img](https://upload.wikimedia.org/wikipedia/commons/9/9b/Orto_dei_Fuggiaschi_01.jpg)
 
+### Graffiti
+
+Over 11,000 graffiti samples have been uncovered in the excavations of Pompeii, providing an unparalleled window into daily Roman life. The inscriptions—scratched or painted on walls of houses, taverns, brothels, and public buildings—range from love declarations and political slogans to literary quotations, advertisements, and crude humor. These texts offer examples of Vulgar Latin as it was actually spoken, contrasting with the formal language of classical writers.
+
+- [CIL 4.5296](https://en.wikipedia.org/wiki/CIL_4.5296)
+  - **Location**: Hallway wall in Pompeii
+  - **Date**: Before 79 AD
+  - **Description**: One of the longest and most elaborate surviving graffiti texts from Pompeii, discovered in 1888. This nine-verse love poem may be the only known love poem from one woman to another from the Latin world. Written in the voice of a woman addressing another woman as "pupula" (my little darling), it represents a rare intimate glimpse into female relationships in antiquity.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/38/Cil_4_5296.jpg)
+
+- [Lupanar Graffiti](https://en.wikipedia.org/wiki/Lupanar)
+  - **Location**: Lupanar brothel, Pompeii
+  - **Date**: 1st century AD
+  - **Description**: Over 150 graffiti inscriptions have been transcribed from Pompeii's most famous brothel. The texts include greetings, boasts, poems, death notices, and compliments in Latin, Greek, and native Oscan. The presence of graffiti served as one of the criteria for identifying the building as a brothel. These inscriptions provide insight into the multilingual nature of Roman Pompeii and the demographics of those who frequented such establishments.
+
+- Virgil Quotations
+  - **Location**: Various walls throughout Pompeii
+  - **Date**: Before 79 AD
+  - **Description**: More than fifty examples of graffiti referring to Virgil have been found in Pompeii, with the majority quoting the opening lines of Book 1 or Book 2 of the Aeneid. Scholar Mary Beard suggests these lines may have been widely known in the same way "To be, or not to be" is recognized today—evidence of basic literacy and cultural education among ordinary Romans.
+
+- "Quisquis Amat" Inscription
+  - **Location**: Wall in Pompeii
+  - **Date**: Before 79 AD
+  - **Description**: A famous inscription lamenting frustrated love: "Quisquis amat valeat, pereat qui nescit amare, bis tanto pereat quisquis amare vetat" ("Whoever loves, let him flourish; let him perish who knows not love; let him perish twice over whoever forbids love"). This graffito captures the passionate sentiments of ancient Romans.
+
+- Basilica Graffiti
+  - **Location**: Basilica, Pompeii
+  - **Date**: Before 79 AD
+  - **Description**: The Basilica, Pompeii's main judicial and commercial building, contained numerous graffiti including the crude inscription "Lucilla made money from her body." Such graffiti demonstrates that Romans from all social classes participated in wall writing, using public spaces to spread gossip, insults, and commentary.
+
+- Ovid's Heroides Reference
+  - **Location**: Near a painting in Pompeii
+  - **Date**: Before 79 AD
+  - **Description**: An unusual literary inscription referencing Ovid's Heroides 4, the poem about Phaedra falling in love with her stepson Hippolytus. This graffito was found near a painting, suggesting an educated viewer engaged with the artwork through literary association—evidence of sophisticated cultural dialogue in ancient Pompeii.
+
 ### Terms
 
 - **Pompeian Styles**: Four periods distinguished in ancient Roman mural painting, originally delineated by German archaeologist August Mau from excavations at Pompeii:
@@ -528,6 +563,12 @@
 - **Dionysian Mysteries**: A ritual of ancient Greece and Rome, sometimes using trance-inducing techniques. The cult of Dionysus (Bacchus) provided liberation for marginalized groups. The mysteries are depicted in the famous frescoes of the Villa of the Mysteries.
 
 - **Cave Canem**: Latin for "Beware of the Dog," a warning phrase found on mosaic floors in Roman houses, most famously at the House of the Tragic Poet in Pompeii.
+
+- **Graffito**: In an archaeological context, a deliberate mark made by scratching or engraving on a large surface such as a wall. The marks may form an image or writing. Distinguished from painted inscriptions (dipinti), which were typically used for public notices.
+
+- **[Vulgar Latin](https://en.wikipedia.org/wiki/Vulgar_Latin)**: The non-formal registers of Latin spoken from the Late Roman Republic onward, as opposed to Classical Latin used in formal writing. The graffiti of Pompeii provides invaluable evidence of how ordinary Romans actually spoke, preserving colloquialisms, slang, and regional variations lost from literary sources.
+
+- **[Corpus Inscriptionum Latinarum](https://en.wikipedia.org/wiki/Corpus_Inscriptionum_Latinarum) (CIL)**: A comprehensive collection of ancient Latin inscriptions forming the authoritative source for documenting Roman epigraphy. Volume 4 of the CIL is dedicated to Pompeii and Herculaneum inscriptions, with graffiti numbered sequentially (e.g., CIL 4.5296).
 
 ### Historical Context
 

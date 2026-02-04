@@ -42,6 +42,23 @@ A ritual of ancient Greece and Rome, sometimes using trance-inducing techniques.
 ### Cave Canem
 Latin for "Beware of the Dog," a warning phrase found on mosaic floors in Roman houses, most famously at the [House of the Tragic Poet](artworks/HouseOfTheTragicPoet.md) in Pompeii.
 
+## Archaeological Terms
+
+### Graffito
+In an archaeological context, a deliberate mark made by scratching or engraving on a large surface such as a wall. The marks may form an image or writing. Distinguished from painted inscriptions (dipinti), which were typically used for public notices.
+
+### Corpus Inscriptionum Latinarum (CIL)
+[Wikipedia](https://en.wikipedia.org/wiki/Corpus_Inscriptionum_Latinarum)
+
+A comprehensive collection of ancient Latin inscriptions forming the authoritative source for documenting Roman epigraphy. Volume 4 of the CIL is dedicated to Pompeii and Herculaneum inscriptions, with graffiti numbered sequentially (e.g., CIL 4.5296).
+
+## Linguistics
+
+### Vulgar Latin
+[Wikipedia](https://en.wikipedia.org/wiki/Vulgar_Latin)
+
+The non-formal registers of Latin spoken from the Late Roman Republic onward, as opposed to Classical Latin used in formal writing. The graffiti of Pompeii provides invaluable evidence of how ordinary Romans actually spoke, preserving colloquialisms, slang, and regional variations lost from literary sources.
+
 ## Historical Events
 
 ### Battle of Issus
