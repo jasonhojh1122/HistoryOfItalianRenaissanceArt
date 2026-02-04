@@ -439,7 +439,7 @@
 
 ## Pompeii Archaeological Park, Campania
 
-<!-- Last updated: 2026-02-04 -->
+<!-- Last updated: 2026-02-04 (erotic frescoes added) -->
 
 - [Pompeii](https://en.wikipedia.org/wiki/Pompeii)
   - **Type**: Archaeological Site / UNESCO World Heritage Site
@@ -502,6 +502,27 @@
   - **Date**: 1st century AD
   - **Description**: The Lupanar is the most famous ancient Roman brothel in Pompeii, known for the erotic paintings on its walls above each of the five doorways on the ground floor. These frescoes may have served as a menu of services or simply as decoration. Pompeii was closely associated with Venus, goddess of love.
   ![img](https://upload.wikimedia.org/wikipedia/commons/3/37/Pompei_5234.jpg)
+
+- [Priapus Fresco (House of the Vettii)](https://en.wikipedia.org/wiki/Priapus)
+  - **Artist**: Unknown Roman painter
+  - **Medium**: Fresco
+  - **Date**: After 62 AD
+  - **Description**: Located in the vestibule of the House of the Vettii, this famous fresco depicts Priapus, the god of fertility, weighing his oversized phallus against a bag of gold coins. The Romans believed Priapus served as a talisman protecting the riches of the house. The fresco was covered with plaster and only rediscovered in 1998 due to rainfall.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4f/Casa_dei_vettii%2C_vestibolo%2C_priapo_che_poggia_il_fallo_sulla_bilancia_01.jpg)
+
+- [Suburban Baths Erotic Frescoes](https://en.wikipedia.org/wiki/Suburban_Baths_(Pompeii))
+  - **Artist**: Unknown Roman painters
+  - **Medium**: Fresco
+  - **Date**: 62-79 AD
+  - **Description**: Located in the apodyterium (dressing room) of the Suburban Baths near Porta Marina, these are the only set of erotic wall paintings found in a public Roman bath house. Seven sexual scenes and one figure with an enlarged scrotum are depicted above numbered boxes, possibly serving as a humorous method for reminding bathers where they left their clothes. Discovered in 1986.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/ae/Porta_Marina_%287238835816%29.jpg)
+
+- [Erotic Art in Pompeii and Herculaneum](https://en.wikipedia.org/wiki/Erotic_art_in_Pompeii_and_Herculaneum)
+  - **Artist**: Various Roman artists
+  - **Medium**: Frescoes, sculpture, household items
+  - **Date**: 1st century BC - 1st century AD
+  - **Description**: The excavations of Pompeii and Herculaneum revealed cities rich in erotic artifacts including statues, frescoes, and household items decorated with sexual themes. The ubiquity of such imagery indicates that Roman attitudes toward sexual iconography were more relaxed than in modern Western culture. Much erotic art was also associated with fertility and religious practices related to Venus, the divine protector of Pompeii.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/8/89/Pan_copulating_with_goat_2.JPG)
 
 - [Amphitheatre of Pompeii](https://en.wikipedia.org/wiki/Amphitheatre_of_Pompeii)
   - **Artist**: Roman architects
@@ -569,6 +590,15 @@ Over 11,000 graffiti samples have been uncovered in the excavations of Pompeii, 
 - **[Vulgar Latin](https://en.wikipedia.org/wiki/Vulgar_Latin)**: The non-formal registers of Latin spoken from the Late Roman Republic onward, as opposed to Classical Latin used in formal writing. The graffiti of Pompeii provides invaluable evidence of how ordinary Romans actually spoke, preserving colloquialisms, slang, and regional variations lost from literary sources.
 
 - **[Corpus Inscriptionum Latinarum](https://en.wikipedia.org/wiki/Corpus_Inscriptionum_Latinarum) (CIL)**: A comprehensive collection of ancient Latin inscriptions forming the authoritative source for documenting Roman epigraphy. Volume 4 of the CIL is dedicated to Pompeii and Herculaneum inscriptions, with graffiti numbered sequentially (e.g., CIL 4.5296).
+
+- **[Priapus](https://en.wikipedia.org/wiki/Priapus)**: A minor rustic fertility god in Greek and Roman mythology, protector of livestock, fruit plants, gardens, and male genitalia. Marked by his oversized, permanent erection (giving rise to the medical term priapism). He became a popular figure in Roman erotic art and Latin literature, and was often depicted at house entrances as a protective talisman.
+
+- **[Spintria](https://en.wikipedia.org/wiki/Spintria)**: Small bronze or brass Roman tokens (about 24mm diameter) with erotic imagery on one side and Roman numerals I-XVI on the other. One theory suggests they were used as locker tokens in bath houses like the Suburban Baths, where the sexual scenes matched wall paintings above numbered storage boxes.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/2/26/Die_Erotik_der_Antike_in_Kleinkunst_und_Keramik_by_Gaston_Vorberg_-_Plate_no._112_-_Detail_10.jpg)
+
+- **Apodyterium**: The dressing room of a Roman bath house where bathers would undress and store their clothes in numbered cubby holes or boxes. The apodyterium of the Suburban Baths at Pompeii is famous for its erotic frescoes.
+
+- **[Secret Museum, Naples](https://en.wikipedia.org/wiki/Secret_Museum%2C_Naples)**: Also called the Secret Cabinet (Gabinetto Segreto), this collection at the National Archaeological Museum of Naples houses 1st-century Roman erotic art found at Pompeii and Herculaneum. The collection was repeatedly opened and closed to the public between 1819 and 2000 due to changing attitudes toward sexuality. Since 2005, visitors must be at least 14 years old to enter.
 
 ### Historical Context
 

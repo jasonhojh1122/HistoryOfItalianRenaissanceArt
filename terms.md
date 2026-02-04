@@ -34,6 +34,11 @@ Four periods distinguished in ancient Roman mural painting, originally delineate
 
 ## Religious and Ritual
 
+### Priapus
+[Wikipedia](https://en.wikipedia.org/wiki/Priapus)
+
+A minor rustic fertility god in Greek and Roman mythology, protector of livestock, fruit plants, gardens, and male genitalia. Marked by his oversized, permanent erection (giving rise to the medical term priapism). He became a popular figure in Roman erotic art and Latin literature, and was often depicted at house entrances as a protective talisman.
+
 ### Dionysian Mysteries
 A ritual of ancient Greece and Rome, sometimes using trance-inducing techniques. The cult of Dionysus (Bacchus) provided liberation for marginalized groups. The mysteries are depicted in the famous frescoes of the [Villa of the Mysteries](artworks/VillaOfTheMysteriesFrescoes.md).
 
@@ -44,6 +49,9 @@ Latin for "Beware of the Dog," a warning phrase found on mosaic floors in Roman 
 
 ## Archaeological Terms
 
+### Apodyterium
+The dressing room of a Roman bath house where bathers would undress and store their clothes in numbered cubby holes or boxes. The apodyterium of the Suburban Baths at Pompeii is famous for its erotic frescoes.
+
 ### Graffito
 In an archaeological context, a deliberate mark made by scratching or engraving on a large surface such as a wall. The marks may form an image or writing. Distinguished from painted inscriptions (dipinti), which were typically used for public notices.
 
@@ -51,6 +59,20 @@ In an archaeological context, a deliberate mark made by scratching or engraving 
 [Wikipedia](https://en.wikipedia.org/wiki/Corpus_Inscriptionum_Latinarum)
 
 A comprehensive collection of ancient Latin inscriptions forming the authoritative source for documenting Roman epigraphy. Volume 4 of the CIL is dedicated to Pompeii and Herculaneum inscriptions, with graffiti numbered sequentially (e.g., CIL 4.5296).
+
+### Spintria
+[Wikipedia](https://en.wikipedia.org/wiki/Spintria)
+
+Small bronze or brass Roman tokens (about 24mm diameter) with erotic imagery on one side and Roman numerals I-XVI on the other. One theory suggests they were used as locker tokens in bath houses like the Suburban Baths, where the sexual scenes matched wall paintings above numbered storage boxes.
+
+![img](https://upload.wikimedia.org/wikipedia/commons/2/26/Die_Erotik_der_Antike_in_Kleinkunst_und_Keramik_by_Gaston_Vorberg_-_Plate_no._112_-_Detail_10.jpg)
+
+## Museums
+
+### Secret Museum, Naples
+[Wikipedia](https://en.wikipedia.org/wiki/Secret_Museum%2C_Naples)
+
+Also called the Secret Cabinet (Gabinetto Segreto), this collection at the National Archaeological Museum of Naples houses 1st-century Roman erotic art found at Pompeii and Herculaneum. The collection was repeatedly opened and closed to the public between 1819 and 2000 due to changing attitudes toward sexuality. Since 2005, visitors must be at least 14 years old to enter.
 
 ## Linguistics
 

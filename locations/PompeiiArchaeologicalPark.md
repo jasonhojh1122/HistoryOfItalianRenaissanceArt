@@ -29,6 +29,12 @@ An ancient Roman city near Naples buried under 4-6 meters of volcanic ash and pu
 
 ### [Lupanar Frescoes](../artworks/LupanarFrescoes.md)
 
+### [Priapus Fresco (House of the Vettii)](../artworks/PriapusFresco.md)
+
+### [Suburban Baths Erotic Frescoes](../artworks/SuburbanBathsEroticFrescoes.md)
+
+### [Erotic Art in Pompeii and Herculaneum](../artworks/EroticArtInPompeiiAndHerculaneum.md)
+
 ### [Amphitheatre of Pompeii](../artworks/AmphitheatreOfPompeii.md)
 
 ### [Garden of the Fugitives](../artworks/GardenOfTheFugitives.md)
