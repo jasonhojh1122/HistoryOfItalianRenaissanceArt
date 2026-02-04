@@ -104,3 +104,31 @@ The non-formal registers of Latin spoken from the Late Roman Republic onward, as
 [Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Issus)
 
 A battle in southern Anatolia on 5 November 333 BC between the Hellenic League led by Alexander the Great and the Achaemenid Empire led by Darius III. Alexander's victory forced Darius to flee, leaving behind his family and treasury. This battle is the subject of the famous [Alexander Mosaic](artworks/AlexanderMosaic.md) found in the House of the Faun.
+
+### Fourth Crusade
+[Wikipedia](https://en.wikipedia.org/wiki/Fourth_Crusade)
+
+A Latin Christian armed expedition (1202-1204) that culminated in the 1204 sack of Constantinople rather than the intended conquest of Egypt. The Venetians, who provided the fleet, gained enormous amounts of treasure including the Horses of Saint Mark, the Portrait of the Four Tetrarchs, the Madonna Nicopeia icon, and countless items now in the Treasury of [Saint Mark's Basilica](locations/SaintMarksBasilica.md).
+
+## Byzantine and Venetian Terms
+
+### Nicopeia
+From Greek meaning "bringer of victory." A title of the Virgin Mary and a type of Byzantine icon showing Mary frontally holding the Christ Child. The Madonna Nicopeia in St Mark's was believed to bring victory to Byzantine emperors who carried it into battle.
+
+### Tetrarchy
+[Wikipedia](https://en.wikipedia.org/wiki/Tetrarchy)
+
+The system instituted by Roman emperor Diocletian (AD 293-324) to govern the Roman Empire by dividing it between two senior emperors (augusti) and two junior colleagues (caesares). The [Portrait of the Four Tetrarchs](artworks/PortraitOfTheFourTetrarchs.md) on Saint Mark's Basilica depicts this system.
+
+### Translatio
+The term for the ceremonial transfer of relics from one location to another. The translatio of Saint Mark's relics from Alexandria to Venice in 828 is depicted in mosaics on the basilica's facade.
+
+### Quadriga
+A chariot drawn by four horses, often depicted in ancient Roman triumphal art. The [Horses of Saint Mark](artworks/HorsesOfSaintMark.md) originally formed part of a quadriga monument, possibly from a Roman triumphal arch or hippodrome.
+
+## Manuscripts
+
+### Cotton Genesis
+[Wikipedia](https://en.wikipedia.org/wiki/Cotton_Genesis)
+
+A Greek illuminated manuscript of the Book of Genesis, one of the oldest illustrated biblical codices to survive to the modern period. Brought from Constantinople, it heavily influenced the design of the [Genesis Cupola Mosaics](artworks/GenesisCupolaMosaics.md) in the narthex of Saint Mark's Basilica.

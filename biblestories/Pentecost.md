@@ -17,3 +17,6 @@ The descent of the Holy Spirit upon the apostles fifty days after Easter, enabli
 
 ### [The Pentecost](../artworks/PentecostTitian.md)
 - Titian, Santa Maria della Salute, c. 1545
+
+### [Pentecost Cupola Mosaic](../artworks/PentecostCupolaMosaic.md)
+- Byzantine and Venetian mosaicists, Saint Mark's Basilica, 12th century

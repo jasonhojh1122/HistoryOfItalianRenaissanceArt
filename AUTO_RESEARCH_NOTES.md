@@ -155,7 +155,7 @@
 
 ## Saint Mark's Basilica, Venice
 
-<!-- Last updated: 2026-02-04 -->
+<!-- Last updated: 2026-02-04 (expanded with additional artworks and context) -->
 
 - [St Mark's Basilica](https://en.wikipedia.org/wiki/St_Mark's_Basilica)
   - **Type**: Cathedral / Basilica
@@ -183,11 +183,98 @@
   - **Date**: 11th-13th century (and later)
   - **Description**: The basilica features 8,000 square meters of mosaics illuminating the interior. The oldest surviving mosaic, depicting Saint Alipio, dates to 1260 and shows the translation of Saint Mark's relics from Alexandria, with merchants hiding the body beneath pork to avoid Muslim inspection.
 
+- [Portrait of the Four Tetrarchs](https://en.wikipedia.org/wiki/Portrait_of_the_Four_Tetrarchs)
+  - **Artist**: Unknown Roman sculptor
+  - **Medium**: Porphyry sculpture
+  - **Date**: c. 300 AD
+  - **Description**: A sculpture group of four Roman emperors dating from the Tetrarchy period. Fixed to the southwest corner of the basilica's facade since the Middle Ages, it was probably looted from the Philadelphion in Constantinople during the Fourth Crusade in 1204. The embracing figures represent the unity of the tetrarchs who ruled the Roman Empire together.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/67/Venice_%E2%80%93_The_Tetrarchs_03.jpg)
+
+- [Treasury of St Mark's Basilica](https://en.wikipedia.org/wiki/Treasury_of_St_Mark's_Basilica)
+  - **Artist**: Various Byzantine craftsmen
+  - **Medium**: Metalwork, enamels, reliquaries
+  - **Date**: Various (6th-14th century)
+  - **Description**: The single best collection of Byzantine metalwork and enamels that survives, many items looted during the Fourth Crusade of 1204. Contains sacred objects including the Votive Crown of Leo VI, chalices, patens, and reliquaries holding fragments purportedly of the True Cross and other sacred relics.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a6/Votive_crown_of_Leo_VI.jpg)
+
+- Madonna Nicopeia Icon
+  - **Artist**: Unknown Byzantine iconographer
+  - **Medium**: Tempera on wood with enamel frame
+  - **Date**: 10th-11th century (frame 14th century)
+  - **Description**: A revered Byzantine icon of the Virgin and Child, originally from Constantinople, brought to Venice after the Fourth Crusade of 1204. The name "Nicopeia" means "bringer of victory" and was once carried into battle by Byzantine emperors. Now displayed in the Cappella della Madonna Nicopeia on the north side of the transept.
+
+- [Lion of Saint Mark](https://en.wikipedia.org/wiki/Lion_of_Saint_Mark)
+  - **Artist**: Unknown
+  - **Medium**: Various (bronze, stone, mosaic)
+  - **Date**: Medieval
+  - **Description**: The winged lion symbol of Saint Mark the Evangelist and the city of Venice. Appears prominently throughout the basilica, including a golden lion surmounting the pinnacle holding a Bible. Derived from the Tetramorph vision in Ezekiel and Revelation where Mark is represented as a lion.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/3c/Courtyard_of_the_Doge%27s_Palace_%28Venice%29_-_Scala_dei_giganti_-_Lion_of_Saint_Mark.jpg)
+
+- Genesis Cupola Mosaics
+  - **Artist**: Venetian mosaicists
+  - **Medium**: Gold and glass mosaic
+  - **Date**: c. 1215-1235
+  - **Description**: Located in the south cupola of the west narthex, these mosaics depict the Creation story from Genesis. The designs were influenced by the Cotton Genesis, a 4th-5th century illuminated manuscript brought from Constantinople. The cycle continues with scenes of Noah, Abraham, Joseph, and Moses in adjacent cupolas.
+
+- Ascension Cupola Mosaic
+  - **Artist**: Byzantine and Venetian mosaicists
+  - **Medium**: Gold and glass mosaic
+  - **Date**: 12th-13th century
+  - **Description**: The central dome of the basilica depicting Christ's Ascension into heaven. The composition shows Christ in glory surrounded by angels, with the Virgin Mary and the Apostles below. One of the finest examples of Byzantine-influenced mosaic art in the Western world.
+
+- Pentecost Cupola Mosaic
+  - **Artist**: Byzantine and Venetian mosaicists
+  - **Medium**: Gold and glass mosaic
+  - **Date**: 12th century
+  - **Description**: The westernmost dome of the nave depicting the descent of the Holy Spirit upon the Apostles at Pentecost. Flames descend from a central dove representing the Holy Spirit, with the Apostles arranged in a radial composition below.
+
+### Artists
+
+- [Mark the Evangelist](https://en.wikipedia.org/wiki/Mark_the_Evangelist)
+  - **Born**: c. 5 AD, Cyrene (modern Libya)
+  - **Died**: c. 68 AD, Alexandria
+  - The patron saint of Venice, traditionally ascribed as the author of the Gospel of Mark. According to Church tradition, he founded the episcopal see of Alexandria. His relics were brought to Venice in 828, and the basilica was built to house them. His symbol is the winged lion.
+
 ### Bible Stories
 
 - [Translation of Relics](https://en.wikipedia.org/wiki/Translation_(relics))
   - **Book(s)**: Church tradition
   - **Description**: The mosaic over the first portal depicts the legendary theft of Saint Mark's body from Alexandria in 828 by Venetian merchants Rustico and Bruno, who hid it beneath pork to avoid Muslim guards.
+
+- [Ascension of Jesus](https://en.wikipedia.org/wiki/Ascension_of_Jesus)
+  - **Book(s)**: Luke, Acts
+  - **Chapters/Verses**: Luke 24:50-53, Acts 1:9-11
+  - **Description**: The Christian belief that Jesus ascended bodily to Heaven forty days after his Resurrection. Depicted in the central dome of the basilica, showing Christ in glory rising to heaven while the Apostles watch from below.
+
+- [Pentecost](https://en.wikipedia.org/wiki/Pentecost)
+  - **Book(s)**: Acts of the Apostles
+  - **Chapters/Verses**: Acts 2:1-31
+  - **Description**: The descent of the Holy Spirit upon the Apostles fifty days after Easter, enabling them to speak in tongues and marking the birth of the Church. Depicted in the westernmost dome of the nave.
+
+- [Tetramorph](https://en.wikipedia.org/wiki/Tetramorph)
+  - **Book(s)**: Ezekiel, Revelation
+  - **Chapters/Verses**: Ezekiel 1:10, Revelation 4:7
+  - **Description**: The four living creatures described in the visions of Ezekiel and Revelation, traditionally associated with the four Evangelists. Mark is represented as a winged lion, which became the symbol of Venice.
+
+### Historical Context
+
+- [Fourth Crusade](https://en.wikipedia.org/wiki/Fourth_Crusade)
+  - **Date**: 1202-1204
+  - **Description**: A Latin Christian armed expedition that culminated in the 1204 sack of Constantinople rather than the intended conquest of Egypt. The Venetians, who provided the fleet, gained enormous amounts of treasure including the Horses of Saint Mark, the Portrait of the Four Tetrarchs, the Madonna Nicopeia icon, and countless items now in the Treasury.
+
+- [Cotton Genesis](https://en.wikipedia.org/wiki/Cotton_Genesis)
+  - **Date**: 4th-5th century
+  - **Description**: A Greek illuminated manuscript of the Book of Genesis, one of the oldest illustrated biblical codices to survive to the modern period. Brought from Constantinople, it heavily influenced the design of the Genesis cupola mosaics in the narthex of St Mark's Basilica.
+
+### Terms
+
+- **Nicopeia**: From Greek meaning "bringer of victory." A title of the Virgin Mary and a type of Byzantine icon showing Mary frontally holding the Christ Child. The Madonna Nicopeia in St Mark's was believed to bring victory to Byzantine emperors who carried it into battle.
+
+- **[Tetrarchy](https://en.wikipedia.org/wiki/Tetrarchy)**: The system instituted by Roman emperor Diocletian (AD 293-324) to govern the Roman Empire by dividing it between two senior emperors (augusti) and two junior colleagues (caesares). The Portrait of the Four Tetrarchs on the basilica depicts this system.
+
+- **Translatio**: The term for the ceremonial transfer of relics from one location to another. The translatio of Saint Mark's relics from Alexandria to Venice in 828 is depicted in mosaics on the basilica's facade.
+
+- **Quadriga**: A chariot drawn by four horses, often depicted in ancient Roman triumphal art. The Horses of Saint Mark originally formed part of a quadriga monument, possibly from a Roman triumphal arch or hippodrome.
 
 ---
 
