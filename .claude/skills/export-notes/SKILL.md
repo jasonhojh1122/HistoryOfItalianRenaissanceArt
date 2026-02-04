@@ -1,6 +1,6 @@
 ---
 name: export-notes
-description: Export notes from NOTES.md and AUTO_RESEARCH_NOTES.md to individual markdown files for artists, locations, artworks, bible stories, and terms with automatic enrichment from Wikipedia and Google Maps. Use when you need to sync reading notes to the structured article format.
+description: Export notes from NOTES.md and AUTO_RESEARCH_NOTES.md to individual markdown files for artists, locations, artworks, bible stories, and terms with automatic enrichment from Wikipedia and Google Maps. Uses git to focus only on changed content. Use when you need to sync reading notes to the structured article format.
 ---
 
 # Export Notes
@@ -9,9 +9,56 @@ Export reading notes from `NOTES.md` and auto-researched notes from `AUTO_RESEAR
 
 ## Workflow
 
-### 1. Read and Parse Both Source Files
+### 0. Detect Changes Using Git
 
-Read both source files and identify entities:
+Before parsing, use git to identify what has changed:
+
+```bash
+# Check if source files have uncommitted changes
+git status --porcelain NOTES.md AUTO_RESEARCH_NOTES.md
+
+# Get the diff for changed files (staged and unstaged)
+git diff HEAD -- NOTES.md AUTO_RESEARCH_NOTES.md
+```
+
+**Change Detection Strategy**:
+
+| Git Status | Action |
+|------------|--------|
+| No changes to either file | Report "No changes to export" and exit |
+| Only NOTES.md changed | Parse only NOTES.md diff, export affected entities |
+| Only AUTO_RESEARCH_NOTES.md changed | Parse only AUTO_RESEARCH_NOTES.md diff, export affected entities |
+| Both files changed | Parse both diffs, merge and export affected entities |
+
+**Parsing the Diff**:
+- Look for added lines (`+`) in the diff output
+- Identify which sections/entities the changes belong to:
+  - New artist: `+- [Artist Name](url)` at appropriate indent level
+  - New artwork: `+  - Artwork Name, Location` under an artist
+  - New location section: `+## Location Name, City`
+  - New terms: `+- **Term**: Definition` under Terms section
+- Extract the parent context (artist name, location name) for nested changes
+- Build a list of affected entities to export
+
+**Example Diff Parsing**:
+```diff
+ ### Painting
+
+ - [Giotto di Bondone](https://en.wikipedia.org/wiki/Giotto)
++  - Lamentation, Scrovegni Chapel, Padua
++    ![img](url)
++    - Intense emotional scene
++- [Duccio di Buoninsegna](https://en.wikipedia.org/wiki/Duccio)
++  - Maestà, Museo dell'Opera, Siena
+```
+
+This diff indicates:
+- Giotto: new artwork "Lamentation" added → export/update Giotto and Lamentation
+- Duccio: entirely new artist with artwork → export Duccio and Maestà
+
+### 1. Read and Parse Changed Sections
+
+After identifying changed sections from git diff, read and parse only those sections:
 
 **NOTES.md** (organized by time period/medium):
 - **Artists**: Lines with `[Artist Name](wikipedia_link)` format, or the first level indent under h3, usually followed by artworks
@@ -71,14 +118,14 @@ When an entity appears in both files:
 
 | Scenario | Action |
 |----------|--------|
-| Entity only in NOTES.md | Use as-is (no source marker) |
-| Entity only in AUTO_RESEARCH_NOTES.md | Mark with `**Source**: Self-researched` |
-| Entity in both files | Use NOTES.md content as primary, supplement missing fields from AUTO_RESEARCH_NOTES.md (no source marker) |
+| Entity only in NOTES.md | Mark with `**Source**: my-study |
+| Entity only in AUTO_RESEARCH_NOTES.md | Mark with `**Source**: self-research |
+| Entity in both files | Use NOTES.md content as primary, supplement missing fields from AUTO_RESEARCH_NOTES.md, mark with `**Source**: my-study, self-research |
 
 **Merge rules**:
 - NOTES.md content takes precedence for all fields
 - Artwork lists are merged (union of both sources)
-- If an entity was previously marked `Self-researched` but now appears in NOTES.md, remove the source marker
+- Update source markers when entities appear in new sources (e.g., if previously `self-research` and now also in NOTES.md, change to `my-study, self-research`)
 
 ### 3. Generate File Names
 
@@ -151,26 +198,81 @@ When updating existing files:
 - Preserve existing content not in source files
 - Add new artworks to existing artist/location files
 - Update artwork details if changed in notes
-- **Source tracking**: If an entity previously had `**Source**: Self-researched` but now appears in NOTES.md, remove the source marker (it's no longer self-researched)
+- **Source tracking**: Update source markers when entities appear in new sources (e.g., `self-research` → `my-study, self-research` when also found in NOTES.md)
 
 ## Usage
 
 When the user asks to export notes:
 
-1. Read both `NOTES.md` and `AUTO_RESEARCH_NOTES.md` to get all notes
-2. Identify which sections/artists to export (or all if not specified)
-3. Merge entities from both files (NOTES.md takes precedence)
-4. For each artist found:
+1. **Check git for changes**:
+   ```bash
+   git status --porcelain NOTES.md AUTO_RESEARCH_NOTES.md
+   git diff HEAD -- NOTES.md AUTO_RESEARCH_NOTES.md
+   ```
+
+2. **If no changes detected**:
+   - Report "No changes to export - both source files are unchanged"
+   - Offer to run a full export if the user wants to regenerate all files
+
+3. **If changes detected**, parse the diff to identify affected entities:
+   - New/modified artists
+   - New/modified artworks
+   - New/modified locations
+   - New/modified terms
+   - New/modified bible stories
+
+4. **For each affected artist**:
    - Create/update the artist file in `artists/`
-   - Create/update artwork files in `artworks/` for each artwork
-   - Create/update location files in `locations/` for each location mentioned
-   - Mark AUTO_RESEARCH_NOTES.md-only entities with `**Source**: Self-researched`
-5. For each bible story found (from Terms section or detected from artworks):
+   - Create/update artwork files in `artworks/` for each of their artworks in the diff
+   - Create/update location files in `locations/` for locations mentioned in the diff
+   - Mark entities with appropriate source: `my-study`, `self-research`, or `my-study, self-research`
+
+5. **For each affected bible story** (from Terms section or detected from artworks):
    - Create/update bible story files in `biblestories/`
    - Migrate religious narrative terms from `terms.md` to `biblestories/`
-   - Keep only art technique terms (Christus triumphans, Christus patiens, tondo, etc.) in `terms.md`
-6. If `## Terms` section exists in either file, create/update `terms.md` in the root directory (art techniques only)
-7. Report what was created/updated, noting which items came from auto-research
+   - Keep only art technique terms in `terms.md`
+
+6. **If Terms section changed**, update `terms.md` in the root directory
+
+7. **Report summary**:
+   - List what was created/updated
+   - Note which items came from auto-research
+   - Show git diff summary of source file changes
+
+### Force Full Export
+
+If the user explicitly requests a full export (e.g., "export all notes", "regenerate all files"), skip the git check and process both files completely as in the original workflow.
+
+### Comparing Against a Specific Reference
+
+By default, changes are detected against `HEAD` (the last commit). You can also compare against:
+
+**A specific commit**:
+```bash
+git diff <commit-sha> -- NOTES.md AUTO_RESEARCH_NOTES.md
+```
+
+**Since a tag** (useful for tracking export points):
+```bash
+git diff last-export -- NOTES.md AUTO_RESEARCH_NOTES.md
+```
+
+**Creating export tags**:
+After a successful export, optionally create a tag to mark the export point:
+```bash
+git tag -f last-export HEAD
+```
+
+This allows future exports to detect only changes since the last export, even if there have been intermediate commits.
+
+### Export with Staged Changes
+
+To include only staged (but not yet committed) changes:
+```bash
+git diff --cached -- NOTES.md AUTO_RESEARCH_NOTES.md
+```
+
+This is useful when you want to preview what will be exported before committing.
 
 ## Parsing AUTO_RESEARCH_NOTES.md
 
@@ -248,7 +350,7 @@ And AUTO_RESEARCH_NOTES.md contains:
 
 Generate (with enrichment from Wikipedia and Google Maps):
 
-**artists/GiottoDiBondone.md** (from NOTES.md, no source marker):
+**artists/GiottoDiBondone.md** (from NOTES.md only):
 ```markdown
 # Giotto di Bondone
 
@@ -256,6 +358,7 @@ Generate (with enrichment from Wikipedia and Google Maps):
 
 **Born**: c. 1267, Vespignano, Republic of Florence
 **Died**: January 8, 1337, Florence
+**Source**: my-study
 
 Italian painter and architect from Florence who worked during the Late Middle Ages. Considered the first of the great Italian masters, he initiated the decisive break with the Byzantine style and laid the foundation for the Renaissance.
 
@@ -264,7 +367,7 @@ Italian painter and architect from Florence who worked during the Late Middle Ag
 ### [Crucifix](../artworks/CrucifixGiotto.md)
 ```
 
-**artworks/Bacchus.md** (from AUTO_RESEARCH_NOTES.md only, has source marker):
+**artworks/Bacchus.md** (from AUTO_RESEARCH_NOTES.md only):
 ```markdown
 # Bacchus
 
@@ -274,7 +377,7 @@ Italian painter and architect from Florence who worked during the Late Middle Ag
 - **Location**: [Bargello](../locations/Bargello.md), Florence
 - **Medium**: Marble
 - **Date**: 1496-1497
-- **Source**: Self-researched
+- **Source**: self-research
 
 ## Description
 
@@ -283,7 +386,7 @@ Early sculpture by Michelangelo...
 ![img](image_url)
 ```
 
-**artworks/CrucifixGiotto.md**:
+**artworks/CrucifixGiotto.md** (from NOTES.md only):
 ```markdown
 # Crucifix
 
@@ -293,6 +396,7 @@ Early sculpture by Michelangelo...
 - **Location**: [Santa Maria Novella](../locations/SantaMariaNovella.md), Florence
 - **Medium**: Tempera on wood
 - **Date**: c. 1290
+- **Source**: my-study
 
 ## Biblical Context
 
@@ -305,11 +409,13 @@ Earliest artwork by Giotto. Revolutionary in its naturalistic depiction of Chris
 ![img](image_url)
 ```
 
-**biblestories/Crucifixion.md**:
+**biblestories/Crucifixion.md** (from NOTES.md only):
 ```markdown
 # Crucifixion
 
 [Wikipedia](https://en.wikipedia.org/wiki/Crucifixion_of_Jesus)
+
+**Source**: my-study
 
 ## Summary
 
@@ -326,7 +432,7 @@ The Crucifixion depicts the death of Jesus Christ on the cross at Golgotha. This
 - Giotto di Bondone, Santa Maria Novella, c. 1290
 ```
 
-**locations/SantaMariaNovella.md** (add to existing or create):
+**locations/SantaMariaNovella.md** (from NOTES.md only):
 ```markdown
 # Santa Maria Novella
 
@@ -338,6 +444,7 @@ Florence, Italy
 
 **Type**: Basilica
 **Architectural style**: Gothic, Renaissance façade
+**Source**: my-study
 
 The first great basilica in Florence and the city's principal Dominican church. The façade was completed by Leon Battista Alberti in 1470.
 

@@ -8,9 +8,15 @@ Venice, Italy
 
 **Type**: Basilica
 **Architectural style**: Gothic
+**Source**: my-study, self-research
 
-The Basilica di Santa Maria Gloriosa dei Frari, commonly abbreviated to the Frari, is a church located in the Campo dei Frari at the heart of the San Polo district of Venice. It is one of the largest churches in the city and it has the status of a minor basilica. The church is dedicated to the Assumption of Mary.
+Commonly known as the Frari, this church is located in the Campo dei Frari at the heart of the San Polo district. One of the largest churches in Venice and one of the few surviving Gothic churches. Dedicated to the Assumption of Mary. Contains masterpieces by Titian, Giovanni Bellini, and Donatello in their original settings.
 
 ## Artworks
 
+### [Assumption of the Virgin](../artworks/AssumptionOfTheVirginTitian.md)
+### [Pesaro Madonna](../artworks/PesaroMadonna.md)
 ### [Frari Triptych](../artworks/FrariTriptych.md)
+### [Saint John the Baptist](../artworks/SaintJohnTheBaptistDonatello.md)
+### [Monument to Titian](../artworks/MonumentToTitian.md)
+### [Tomb of Antonio Canova](../artworks/TombOfAntonioCanova.md)

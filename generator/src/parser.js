@@ -115,10 +115,16 @@ export function extractArtworkMetadata(content) {
     metadata.date = dateMatch[1].trim();
   }
 
-  // Extract source (self-researched indicator)
+  // Extract source tags
   const sourceMatch = content.match(/\*\*Source\*\*:\s*([^\n*]+)/);
   if (sourceMatch) {
-    metadata.selfResearched = sourceMatch[1].trim().toLowerCase().includes('self-researched');
+    const sourceValue = sourceMatch[1].trim().toLowerCase();
+    metadata.source = {
+      myStudy: sourceValue.includes('my-study'),
+      selfResearch: sourceValue.includes('self-research')
+    };
+    // Keep selfResearched for backward compatibility
+    metadata.selfResearched = metadata.source.selfResearch && !metadata.source.myStudy;
   }
 
   // Extract bible story link from Biblical Context section: [Story Name](../biblestories/File.md)
@@ -162,6 +168,16 @@ export function extractArtistMetadata(content) {
     bio: '',
     artworkRefs: []
   };
+
+  // Extract source tags
+  const sourceMatch = content.match(/\*\*Source\*\*:\s*([^\n*]+)/);
+  if (sourceMatch) {
+    const sourceValue = sourceMatch[1].trim().toLowerCase();
+    metadata.source = {
+      myStudy: sourceValue.includes('my-study'),
+      selfResearch: sourceValue.includes('self-research')
+    };
+  }
 
   // Extract bio (content between Wikipedia link and ## Artworks)
   const bioMatch = content.match(/\[Wikipedia\][^\n]*\n+([\s\S]*?)(?=\n##\s*Artworks|$)/);
@@ -255,6 +271,16 @@ export function extractLocationMetadata(content) {
     images: [],          // Array of images {alt, src}
     artworkRefs: []
   };
+
+  // Extract source tags
+  const sourceMatch = content.match(/\*\*Source\*\*:\s*([^\n*]+)/);
+  if (sourceMatch) {
+    const sourceValue = sourceMatch[1].trim().toLowerCase();
+    metadata.source = {
+      myStudy: sourceValue.includes('my-study'),
+      selfResearch: sourceValue.includes('self-research')
+    };
+  }
 
   // Extract architect(s) - Pattern 1: **Architect**: [Name](../artists/File.md)
   const architectMatch = content.match(/\*\*Architect\*\*:\s*\[([^\]]+)\]\(\.\.\/artists\/([^)]+)\.md\)/);

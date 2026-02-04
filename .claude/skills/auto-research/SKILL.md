@@ -20,10 +20,10 @@ Research and document notable artworks at a given location, writing results to `
 Use the wikipedia-search skill to get authoritative info about the location:
 
 ```bash
-python3 .claude/skills/wikipedia-search/scripts/wiki_search.py "<Location Name>" --json
+python3 .claude/skills/wikipedia-search/scripts/wiki_search.py "<Location Name>" --summary-length medium --json
 ```
 
-This establishes the canonical location name and provides context about its collection.
+This establishes the canonical location name and provides context about its collection. **Important**: Extract a 2-3 sentence description of the location from the Wikipedia summary to include in the location header section.
 
 ### Step 1.5: Check for Existing Research
 
@@ -35,31 +35,52 @@ Read `AUTO_RESEARCH_NOTES.md` if it exists and check if this location has alread
 
 ### Step 2: Search for Notable Artworks
 
-Search for artworks specifically mentioning the location:
+**2a. Extract from Wikipedia page directly:**
+
+Using the Wikipedia URL obtained in Step 1, fetch the full page content:
+
+```
+WebFetch: <wikipedia_url>
+Prompt: "Extract all notable artworks mentioned on this page. For each artwork, list: artwork name, artist name, date/period if mentioned, and any description. Focus on paintings, sculptures, frescoes, and other significant works housed at this location."
+```
+
+This often yields the most accurate list since museum/church Wikipedia pages typically have dedicated sections listing their collections.
+
+**2b. Supplement with web search:**
+
+Search for additional artworks that may not be on the main Wikipedia page:
 
 ```
 WebSearch: "famous artworks" "<exact location name>" site:wikipedia.org
 ```
 
-Collect 5-10 candidate artworks. For each, note the artwork name and claimed location.
+**2c. Combine results:**
 
-### Step 3: Verify Each Artwork's Location
+Merge findings from both sources, collecting 5-10 candidate artworks. For each, note the artwork name and claimed location. Prefer information from the direct Wikipedia page extraction (2a) when there are conflicts.
 
-**Critical**: Before documenting any artwork, verify it is actually at this location.
+### Step 3: Research Each Artwork on Wikipedia
 
-For each candidate artwork:
+For each candidate artwork, search Wikipedia:
+
 ```bash
 python3 .claude/skills/wikipedia-search/scripts/wiki_search.py "<Artwork Name>" --json
 ```
 
-Read the summary carefully. Only proceed if:
-- The summary explicitly states the artwork is at this location, OR
-- The summary mentions the location as current home (not "formerly at" or "originally from")
+**If Wikipedia page EXISTS:**
+1. Verify the artwork is at this location (check summary for location mention)
+2. Extract the Wikipedia URL from the search results
+3. Extract the image URL from the search results
+4. Document with link format: `- [Artwork Name](wikipedia_url)`
+5. Include the `![img](image_url)` line
 
-**Skip** artworks where:
-- Location is ambiguous or not mentioned
-- Artwork has moved to a different museum
-- Multiple versions exist in different locations (unless you can identify which version)
+**If Wikipedia page DOES NOT EXIST:**
+1. Try alternate search terms (e.g., add artist name: `"<Artwork Name> <Artist Name>"`)
+2. If still no results, document WITHOUT link: `- Artwork Name`
+3. Do NOT include an image line
+
+**Skip artworks where:**
+- Location is ambiguous or artwork has moved elsewhere
+- Multiple versions exist and you can't identify which
 
 ### Step 4: Validate Image URLs
 
@@ -74,6 +95,13 @@ If invalid:
 - If still no valid image, omit the image line rather than include a broken URL
 
 ### Step 5: Write to AUTO_RESEARCH_NOTES.md
+
+**Before writing each artwork entry, verify:**
+- [ ] Wikipedia was searched for this artwork
+- [ ] If Wikipedia page exists: URL is included in `[Name](url)` format
+- [ ] If Wikipedia page exists: Image URL is included as `![img](url)`
+- [ ] If no Wikipedia page: Name is plain text (no link brackets)
+- [ ] If no Wikipedia page: No image line included
 
 Append findings to `AUTO_RESEARCH_NOTES.md` following the format documented below.
 
@@ -124,23 +152,32 @@ The file is organized by location:
 
 - [Gallerie dell'Accademia](https://en.wikipedia.org/wiki/...)
   - **Type**: Museum
-  - **Description**: Brief description...
+  - **Description**: The Gallerie dell'Accademia is a museum gallery of pre-19th-century art in Venice, housed in the former Santa Maria della Carità complex. It contains the most comprehensive collection of Venetian paintings from the Byzantine and Gothic periods through the Renaissance.
 
 ### Artworks
 
-- [San Giobbe Altarpiece](https://en.wikipedia.org/wiki/...)
-  - **Artist**: [Giovanni Bellini](https://en.wikipedia.org/wiki/...)
+<!-- Artwork WITH Wikipedia page - MUST include link AND image -->
+- [San Giobbe Altarpiece](https://en.wikipedia.org/wiki/San_Giobbe_Altarpiece)
+  - **Artist**: [Giovanni Bellini](https://en.wikipedia.org/wiki/Giovanni_Bellini)
   - **Medium**: Oil on panel
   - **Date**: c. 1487
   - **Description**: 2-3 sentences...
-  ![img](https://upload.wikimedia.org/...)
+  ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/...)
 
-- [Tempest](https://en.wikipedia.org/wiki/...)
-  - **Artist**: [Giorgione](https://en.wikipedia.org/wiki/...)
+<!-- Artwork WITHOUT Wikipedia page - NO link brackets, NO image line -->
+- Madonna with Saints
+  - **Artist**: [Giovanni Bellini](https://en.wikipedia.org/wiki/Giovanni_Bellini)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1490
+  - **Description**: 2-3 sentences...
+
+<!-- Another artwork WITH Wikipedia page - MUST include link AND image -->
+- [Tempest](https://en.wikipedia.org/wiki/The_Tempest_(Giorgione))
+  - **Artist**: [Giorgione](https://en.wikipedia.org/wiki/Giorgione)
   - **Medium**: Oil on canvas
   - **Date**: c. 1508
   - **Description**: 2-3 sentences...
-  ![img](https://upload.wikimedia.org/...)
+  ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/...)
 
 ### Artists
 

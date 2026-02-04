@@ -1,40 +1,374 @@
 {
-  "Accademia": { "lat": 45.4314, "lng": 12.3286 },
-  "BaptisteryOfFlorence": { "lat": 43.7732, "lng": 11.2541 },
-  "Bargello": { "lat": 43.7702, "lng": 11.2580 },
-  "BasilicaDeiFrari": { "lat": 45.4369, "lng": 12.3264 },
-  "BasilicaDiSantaTrinita": { "lat": 43.7697, "lng": 11.2498 },
-  "BasilicaOfSanLorenzo": { "lat": 43.7750, "lng": 11.2537 },
-  "BibliotecaNazionale": { "lat": 45.4644, "lng": 9.1879 },
-  "Brera": { "lat": 45.4719, "lng": 9.1880 },
-  "CaDOro": { "lat": 45.4409, "lng": 12.3345 },
-  "CastelloSforzesco": { "lat": 45.4705, "lng": 9.1793 },
-  "FlorenceCathedral": { "lat": 43.7731, "lng": 11.2560 },
-  "LoggiaDeiLanzi": { "lat": 43.7693, "lng": 11.2555 },
-  "MilanCathedral": { "lat": 45.4641, "lng": 9.1919 },
-  "MuseoCorrer": { "lat": 45.4339, "lng": 12.3379 },
-  "MuseoDiSanMarco": { "lat": 43.7782, "lng": 11.2589 },
-  "NationalGalleryOfAncientArt": { "lat": 41.9038, "lng": 12.4897 },
-  "OperaDelDuomoMuseum": { "lat": 43.7732, "lng": 11.2578 },
-  "Orsanmichele": { "lat": 43.7710, "lng": 11.2551 },
-  "OspedaleDegliInnocenti": { "lat": 43.7773, "lng": 11.2622 },
-  "PalazzoMediciRiccardi": { "lat": 43.7754, "lng": 11.2554 },
-  "PalazzoRucellai": { "lat": 43.7714, "lng": 11.2484 },
-  "PalazzoStrozzi": { "lat": 43.7710, "lng": 11.2509 },
-  "PalazzoVecchio": { "lat": 43.7693, "lng": 11.2562 },
-  "PinacotecaVaticana": { "lat": 41.9057, "lng": 12.4531 },
-  "PittiGallery": { "lat": 43.7653, "lng": 11.2500 },
-  "Pompeii": { "lat": 40.7508, "lng": 14.4867 },
-  "SanMarco": { "lat": 45.4345, "lng": 12.3396 },
-  "SantaCeciliaInTrastevere": { "lat": 41.8889, "lng": 12.4760 },
-  "SantaCroce": { "lat": 43.7685, "lng": 11.2625 },
-  "SantaMariaDelleGrazie": { "lat": 45.4659, "lng": 9.1711 },
-  "SantaMariaMaggiore": { "lat": 41.8976, "lng": 12.4984 },
-  "SantaMariaNovella": { "lat": 43.7746, "lng": 11.2494 },
-  "SantApollonia": { "lat": 43.7783, "lng": 11.2565 },
-  "SantiGiovanniEPaolo": { "lat": 45.4402, "lng": 12.3428 },
-  "SistineChapel": { "lat": 41.9029, "lng": 12.4545 },
-  "StPetersBasilica": { "lat": 41.9022, "lng": 12.4539 },
-  "SuburbanBathsPompeii": { "lat": 40.7500, "lng": 14.4850 },
-  "UffiziGallery": { "lat": 43.7687, "lng": 11.2551 }
+  "Accademia": {
+    "lat": 45.4314,
+    "lng": 12.3286
+  },
+  "ApostolicPalace": {
+    "lat": 41.9033,
+    "lng": 12.4568
+  },
+  "ArchOfConstantine": {
+    "lat": 41.8897622,
+    "lng": 12.4906668
+  },
+  "BaptisteryOfFlorence": {
+    "lat": 43.7732,
+    "lng": 11.2541
+  },
+  "Bargello": {
+    "lat": 43.7702,
+    "lng": 11.258
+  },
+  "BasilicaDeiFrari": {
+    "lat": 45.4369,
+    "lng": 12.3264
+  },
+  "BasilicaDiSantaTrinita": {
+    "lat": 43.7697,
+    "lng": 11.2498
+  },
+  "BasilicaOfSanLorenzo": {
+    "lat": 43.775,
+    "lng": 11.2537
+  },
+  "BathsOfCaracalla": {
+    "lat": 41.8788285,
+    "lng": 12.4924737
+  },
+  "BathsOfDiocletian": {
+    "lat": 41.9036847,
+    "lng": 12.4978515
+  },
+  "BibliotecaNazionale": {
+    "lat": 45.4644,
+    "lng": 9.1879
+  },
+  "BoboliGardens": {
+    "lat": 43.7632781,
+    "lng": 11.2498992
+  },
+  "Brera": {
+    "lat": 45.4719,
+    "lng": 9.188
+  },
+  "BridgeOfSighs": {
+    "lat": 45.4340597,
+    "lng": 12.3408609
+  },
+  "CaDOro": {
+    "lat": 45.4409,
+    "lng": 12.3345
+  },
+  "CasaBuonarroti": {
+    "lat": 43.7698959,
+    "lng": 11.2636201
+  },
+  "CastelloSforzesco": {
+    "lat": 45.4705,
+    "lng": 9.1793
+  },
+  "CatacombeDiSanCallisto": {
+    "lat": 41.8589008,
+    "lng": 12.5107533
+  },
+  "CatacombsOfDomitilla": {
+    "lat": 41.8556,
+    "lng": 12.5108
+  },
+  "ChiesaDiSantaMaria": {
+    "lat": 45.5586634,
+    "lng": 9.1386316
+  },
+  "ChiesaDiSantIgnazioDiLoyola": {
+    "lat": 41.8989,
+    "lng": 12.4797
+  },
+  "Colosseum": {
+    "lat": 41.8909421,
+    "lng": 12.491903
+  },
+  "DogesPalace": {
+    "lat": 45.4342108,
+    "lng": 12.340592
+  },
+  "FlorenceCathedral": {
+    "lat": 43.7731,
+    "lng": 11.256
+  },
+  "GalleriaBorghese": {
+    "lat": 41.9141133,
+    "lng": 12.4921053
+  },
+  "GalleriaDellAccademia": {
+    "lat": 43.7769174,
+    "lng": 11.2587579
+  },
+  "GalleriaNazionaleDArteAntica": {
+    "lat": 41.9033252,
+    "lng": 12.4898746
+  },
+  "GalleriaVittorioEmanueleII": {
+    "lat": 45.4656113,
+    "lng": 9.1900062
+  },
+  "GallerieDellAccademia": {
+    "lat": 45.4313662,
+    "lng": 12.3280919
+  },
+  "GiardinoDegliAranci": {
+    "lat": 41.8849256,
+    "lng": 12.480451
+  },
+  "GiottosCampanile": {
+    "lat": 43.7729,
+    "lng": 11.2554
+  },
+  "LaRinascente": {
+    "lat": 45.4649632,
+    "lng": 9.1919118
+  },
+  "LoggiaDeiLanzi": {
+    "lat": 43.7693,
+    "lng": 11.2555
+  },
+  "MilanCathedral": {
+    "lat": 45.4641,
+    "lng": 9.1919
+  },
+  "MuseoCasaDiDante": {
+    "lat": 43.7710921,
+    "lng": 11.2570496
+  },
+  "MuseoCorrer": {
+    "lat": 45.4339,
+    "lng": 12.3379
+  },
+  "MuseoDelDuomoDiMilano": {
+    "lat": 45.4634273,
+    "lng": 9.1919874
+  },
+  "MuseoDiSanMarco": {
+    "lat": 43.7782,
+    "lng": 11.2589
+  },
+  "MuseoECriptaDeiCappuccini": {
+    "lat": 41.9044,
+    "lng": 12.4888
+  },
+  "NationalGalleryOfAncientArt": {
+    "lat": 41.9038,
+    "lng": 12.4897
+  },
+  "OperaDelDuomoMuseum": {
+    "lat": 43.7732,
+    "lng": 11.2578
+  },
+  "OpificioDelePietreDure": {
+    "lat": 43.7778,
+    "lng": 11.2621
+  },
+  "Orsanmichele": {
+    "lat": 43.771,
+    "lng": 11.2551
+  },
+  "OspedaleDegliInnocenti": {
+    "lat": 43.7773,
+    "lng": 11.2622
+  },
+  "PalatineHill": {
+    "lat": 41.8893064,
+    "lng": 12.4871093
+  },
+  "PalazzoBarberini": {
+    "lat": 41.9034733,
+    "lng": 12.4901355
+  },
+  "PalazzoContariniDelBovolo": {
+    "lat": 45.4348475,
+    "lng": 12.334215
+  },
+  "PalazzoMediciRiccardi": {
+    "lat": 43.7754,
+    "lng": 11.2554
+  },
+  "PalazzoRucellai": {
+    "lat": 43.7714,
+    "lng": 11.2484
+  },
+  "PalazzoStrozzi": {
+    "lat": 43.771,
+    "lng": 11.2509
+  },
+  "PalazzoVecchio": {
+    "lat": 43.7693,
+    "lng": 11.2562
+  },
+  "Pantheon": {
+    "lat": 41.898616,
+    "lng": 12.4768334
+  },
+  "PiazzaDellaSignoria": {
+    "lat": 43.7695737,
+    "lng": 11.2558641
+  },
+  "PiazzaleMichelangelo": {
+    "lat": 43.7628279,
+    "lng": 11.2649932
+  },
+  "PiazzaNavona": {
+    "lat": 41.8989282,
+    "lng": 12.4731178
+  },
+  "PiazzaSanMarco": {
+    "lat": 45.4342571,
+    "lng": 12.3386717
+  },
+  "PinacotecaAmbrosiana": {
+    "lat": 45.4636401,
+    "lng": 9.1860073
+  },
+  "PinacotecaVaticana": {
+    "lat": 41.9057,
+    "lng": 12.4531
+  },
+  "PittiGallery": {
+    "lat": 43.7653,
+    "lng": 11.25
+  },
+  "Pompeii": {
+    "lat": 40.7508,
+    "lng": 14.4867
+  },
+  "PompeiiArchaeologicalPark": {
+    "lat": 40.7508,
+    "lng": 14.4867
+  },
+  "PonteSantAngelo": {
+    "lat": 41.9019247,
+    "lng": 12.4664612
+  },
+  "RomanForum": {
+    "lat": 41.8916414,
+    "lng": 12.4867296
+  },
+  "SaintMarksBasilica": {
+    "lat": 45.4345,
+    "lng": 12.3396
+  },
+  "SanGottardoInCorte": {
+    "lat": 45.4627953,
+    "lng": 9.1919391
+  },
+  "SanMarco": {
+    "lat": 45.4345,
+    "lng": 12.3396
+  },
+  "SanPietroInVincoli": {
+    "lat": 41.893851,
+    "lng": 12.4931577
+  },
+  "SantaCeciliaInTrastevere": {
+    "lat": 41.8889,
+    "lng": 12.476
+  },
+  "SantaCroce": {
+    "lat": 43.7685,
+    "lng": 11.2625
+  },
+  "SantAgneseInAgone": {
+    "lat": 41.8987574,
+    "lng": 12.472556
+  },
+  "SantaMariaDellaSalute": {
+    "lat": 45.4305726,
+    "lng": 12.3347318
+  },
+  "SantaMariaDelleGrazie": {
+    "lat": 45.4659,
+    "lng": 9.1711
+  },
+  "SantaMariaInCosmedin": {
+    "lat": 41.888229,
+    "lng": 12.4815989
+  },
+  "SantaMariaMaggiore": {
+    "lat": 41.8976,
+    "lng": 12.4984
+  },
+  "SantaMariaNovella": {
+    "lat": 43.7746,
+    "lng": 11.2494
+  },
+  "SantaMariaSopraMinerva": {
+    "lat": 41.8979835,
+    "lng": 12.4783622
+  },
+  "SantApollonia": {
+    "lat": 43.7783,
+    "lng": 11.2565
+  },
+  "SantiGiovanniEPaolo": {
+    "lat": 45.4402,
+    "lng": 12.3428
+  },
+  "SantoSpirito": {
+    "lat": 43.7654235,
+    "lng": 11.2475861
+  },
+  "SistineChapel": {
+    "lat": 41.9029,
+    "lng": 12.4545
+  },
+  "SpanishSteps": {
+    "lat": 41.9058611,
+    "lng": 12.482752
+  },
+  "StMarksBasilica": {
+    "lat": 45.4345,
+    "lng": 12.339
+  },
+  "StMarksCampanile": {
+    "lat": 45.4341,
+    "lng": 12.3389
+  },
+  "StPetersBasilica": {
+    "lat": 41.9022,
+    "lng": 12.4539
+  },
+  "SuburbanBathsPompeii": {
+    "lat": 40.75,
+    "lng": 14.485
+  },
+  "TeatroAllaScala": {
+    "lat": 45.4676041,
+    "lng": 9.1891136
+  },
+  "Tempietto": {
+    "lat": 41.8887379,
+    "lng": 12.4663934
+  },
+  "TempleOfHadrian": {
+    "lat": 41.8997563,
+    "lng": 12.479657
+  },
+  "TreviFountain": {
+    "lat": 41.9009778,
+    "lng": 12.4832848
+  },
+  "UffiziGallery": {
+    "lat": 43.7687,
+    "lng": 11.2551
+  },
+  "VasariCorridor": {
+    "lat": 43.7674583,
+    "lng": 11.2528939
+  },
+  "VaticanMuseums": {
+    "lat": 41.9065,
+    "lng": 12.4536
+  },
+  "ViaAppiaAntica": {
+    "lat": 41.8493768,
+    "lng": 12.5236851
+  }
 }

@@ -268,11 +268,11 @@ export function artworkCardTemplate(artwork, includeArtist = false) {
   const image = meta.images[0];
 
   const artistAttr = includeArtist && meta.artist ? ` data-artist="${escapeHtml(meta.artist)}"` : '';
-  const selfResearchedBadge = meta.selfResearched ? '<span class="badge badge-researched">Self-researched</span>' : '';
+  const badges = sourceBadges(meta.source);
 
   return `
     <article class="artwork-card" data-title="${escapeHtml(meta.title || '')}" data-date="${escapeHtml(meta.date || '')}"${artistAttr}>
-      <h3><a href="../artworks/${artwork.id}.html">${escapeHtml(meta.title)}</a> ${selfResearchedBadge}</h3>
+      <h3><a href="../artworks/${artwork.id}.html">${escapeHtml(meta.title)}</a> ${badges}</h3>
       <div class="artwork-meta">
         ${includeArtist && meta.artist ? `<span class="artist"><a href="../artists/${artwork.metadata.artistFile}.html">${escapeHtml(meta.artist)}</a></span>` : ''}
         ${meta.medium ? `<span class="medium">${escapeHtml(meta.medium)}</span>` : ''}
@@ -340,10 +340,11 @@ export function artistTemplate(artist, artworks, architecturalWorks = []) {
     : '<p class="no-artworks">No artworks documented yet.</p>';
 
   const sortControls = sortedArtworks.length > 1 ? sortControlsTemplate(false) : '';
+  const badges = sourceBadges(meta.source);
 
   const content = `
     <article class="artist-page">
-      <h1>${escapeHtml(meta.title)}</h1>
+      <h1>${escapeHtml(meta.title)} ${badges}</h1>
       ${links.length > 0 ? `<div class="external-links">${links.join(' ')}</div>` : ''}
       ${meta.bio ? `<div class="bio">${parseMarkdown(meta.bio)}</div>` : ''}
       ${architecturalWorksSection}
@@ -389,10 +390,11 @@ export function locationTemplate(location, artworks) {
     : '<p class="no-artworks">No artworks documented yet.</p>';
 
   const sortControls = sortedArtworks.length > 1 ? sortControlsTemplate(hasMultipleArtists) : '';
+  const badges = sourceBadges(meta.source);
 
   const content = `
     <article class="location-page">
-      <h1>${escapeHtml(meta.title)}</h1>
+      <h1>${escapeHtml(meta.title)} ${badges}</h1>
       ${meta.city ? `<p class="city">${escapeHtml(meta.city)}</p>` : ''}
       ${links.length > 0 ? `<div class="external-links">${links.join(' ')}</div>` : ''}
       ${meta.architecturalStyle ? `<p class="architectural-style"><strong>Architectural style:</strong> ${escapeHtml(meta.architecturalStyle)}</p>` : ''}
@@ -451,11 +453,11 @@ export function artworkTemplate(artwork) {
     `<figure><img src="${escapeHtml(fixImagePath(img.src, 'artworks'))}" alt="${escapeHtml(img.alt || meta.title)}"></figure>`
   ).join('\n');
 
-  const selfResearchedBadge = meta.selfResearched ? '<span class="badge badge-researched">Self-researched</span>' : '';
+  const badges = sourceBadges(meta.source);
 
   const content = `
     <article class="artwork-page">
-      <h1>${escapeHtml(meta.title)} ${selfResearchedBadge}</h1>
+      <h1>${escapeHtml(meta.title)} ${badges}</h1>
       ${links.length > 0 ? `<div class="external-links">${links.join(' ')}</div>` : ''}
       ${metaItems.length > 0 ? `<ul class="artwork-metadata">${metaItems.join('\n')}</ul>` : ''}
       ${bibleStoryHtml}
@@ -584,6 +586,23 @@ function escapeHtml(text) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#039;');
+}
+
+/**
+ * Generate source badge(s) based on source metadata
+ */
+function sourceBadges(source) {
+  if (!source) return '';
+  const badges = [];
+  if (source.myStudy && source.selfResearch) {
+    badges.push('<span class="badge badge-study">My Study</span>');
+    badges.push('<span class="badge badge-researched">Self-researched</span>');
+  } else if (source.myStudy) {
+    badges.push('<span class="badge badge-study">My Study</span>');
+  } else if (source.selfResearch) {
+    badges.push('<span class="badge badge-researched">Self-researched</span>');
+  }
+  return badges.join(' ');
 }
 
 /**

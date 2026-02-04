@@ -21,6 +21,7 @@ import {
   bibleStoryTemplate,
   creditsTemplate
 } from './templates.js';
+import { updateCoordinates } from './geocoder.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -49,13 +50,13 @@ export async function generateSite(rootDir, outputDir) {
   console.log(`  Found ${Object.keys(index.artworks).length} artworks`);
   console.log(`  Found ${Object.keys(index.biblestories).length} bible stories`);
 
-  // Load coordinates for map
+  // Update coordinates for map (geocodes any missing locations)
+  console.log('\nUpdating coordinates...');
   let coordinates = {};
   try {
-    const coordPath = path.join(__dirname, '..', 'data', 'coordinates.json');
-    coordinates = JSON.parse(await fs.readFile(coordPath, 'utf-8'));
+    coordinates = await updateCoordinates(index);
   } catch (err) {
-    console.warn('  Warning: Could not load coordinates.json:', err.message);
+    console.warn('  Warning: Could not update coordinates:', err.message);
   }
 
   // Generate index page

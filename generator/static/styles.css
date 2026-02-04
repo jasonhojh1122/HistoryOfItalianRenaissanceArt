@@ -968,7 +968,7 @@ ul li::before {
   border-radius: var(--radius-md);
 }
 
-/* ===== Self-researched Badge ===== */
+/* ===== Source Badges ===== */
 .badge {
   display: inline-flex;
   align-items: center;
@@ -987,6 +987,12 @@ ul li::before {
   background: linear-gradient(135deg, #E8F0E4 0%, #D4E5CC 100%);
   color: #3A5F35;
   border: 1px solid #B8D4AD;
+}
+
+.badge-study {
+  background: linear-gradient(135deg, #E4ECF0 0%, #CCD9E5 100%);
+  color: #2B4A5F;
+  border: 1px solid #A8C4D4;
 }
 
 /* ===== Footer ===== */

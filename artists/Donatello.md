@@ -67,3 +67,7 @@ Born Donato di Niccolò di Betto Bardi, Donatello was an Italian sculptor of the
 [Wikipedia](https://en.wikipedia.org/wiki/Judith_and_Holofernes_(Donatello))
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/5/51/Giuditta_di_donatello_04.JPG)
+
+### [Saint John the Baptist](../artworks/SaintJohnTheBaptistDonatello.md)
+- **Location**: [Basilica di Santa Maria Gloriosa dei Frari](../locations/BasilicaDeiFrari.md), Venice
+- **Medium**: Painted wood

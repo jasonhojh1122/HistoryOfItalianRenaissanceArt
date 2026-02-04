@@ -24,3 +24,6 @@ The Last Supper depicts Jesus's final meal with his twelve disciples before his 
 
 ### [The Last Supper](../artworks/LastSupperLeonardo.md)
 - Leonardo da Vinci, Santa Maria delle Grazie, Milan, c. 1495–1498
+
+### [The Feast in the House of Levi](../artworks/FeastInTheHouseOfLevi.md)
+- Paolo Veronese, Gallerie dell'Accademia, 1573 (originally intended as a Last Supper)
