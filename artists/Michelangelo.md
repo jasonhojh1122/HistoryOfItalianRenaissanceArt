@@ -57,6 +57,24 @@ Worked in Ghirlandaio's study at age 13, and was invited into the house of Loren
 
 ### [Moses](../artworks/MosesMichelangelo.md)
 
+### Prisoners (for Tomb of Julius II)
+
+### [Atlas Slave](../artworks/AtlasSlave.md)
+- **Location**: [Galleria dell'Accademia](../locations/GalleriaDellAccademia.md), Florence
+- One of the unfinished 'Prisoners' series, appears burdened by a massive weight
+
+### [Awakening Slave](../artworks/AwakeningSlave.md)
+- **Location**: [Galleria dell'Accademia](../locations/GalleriaDellAccademia.md), Florence
+- Figure struggles to emerge from the stone
+
+### [Young Slave](../artworks/YoungSlave.md)
+- **Location**: [Galleria dell'Accademia](../locations/GalleriaDellAccademia.md), Florence
+- Youthful figure partially trapped in marble
+
+### [Bearded Slave](../artworks/BeardedSlave.md)
+- **Location**: [Galleria dell'Accademia](../locations/GalleriaDellAccademia.md), Florence
+- The most finished of the Florentine Prisoners
+
 ### Medici Chapels Works
 
 ### [Medici Chapels](../artworks/MediciChapels.md)
@@ -89,3 +107,7 @@ Worked in Ghirlandaio's study at age 13, and was invited into the house of Loren
 - **Location**: [Museo dell'Opera del Duomo](../locations/OperaDelDuomoMuseum.md), Florence
 - Originally intended for Michelangelo's own tomb
 - Said to include a self-portrait as Nicodemus
+
+### [Palestrina Pietà](../artworks/PalestrinaPieta.md)
+- **Location**: [Galleria dell'Accademia](../locations/GalleriaDellAccademia.md), Florence
+- Attribution disputed, possibly completed by another sculptor

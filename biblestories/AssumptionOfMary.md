@@ -16,3 +16,6 @@ The belief that Mary, mother of Jesus, was assumed bodily into Heaven at the end
 
 ### [Assumption of the Virgin](../artworks/AssumptionOfTheVirginTitian.md)
 - Titian, Basilica dei Frari, 1515-1518
+
+### [Vallombrosa Altarpiece](../artworks/VallombrosaAltarpiece.md)
+- Pietro Perugino, Galleria dell'Accademia, 1500-1501

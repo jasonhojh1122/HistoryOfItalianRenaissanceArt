@@ -6,6 +6,7 @@
 - **Location**: [Galleria dell'Accademia](../locations/GalleriaDellAccademia.md), Florence
 - **Medium**: Marble
 - **Date**: 1501-1504
+- **Source**: my-study, self-research
 
 ## Biblical Context
 

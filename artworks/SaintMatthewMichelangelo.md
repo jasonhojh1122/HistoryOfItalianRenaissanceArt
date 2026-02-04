@@ -5,7 +5,8 @@
 - **Artist**: [Michelangelo](../artists/Michelangelo.md)
 - **Location**: [Galleria dell'Accademia](../locations/GalleriaDellAccademia.md), Florence
 - **Medium**: Marble (unfinished)
-- **Date**: c. 1505-1506
+- **Date**: c. 1506
+- **Source**: my-study, self-research
 
 ## Description
 

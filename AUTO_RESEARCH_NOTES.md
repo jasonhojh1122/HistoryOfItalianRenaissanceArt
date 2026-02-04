@@ -1578,3 +1578,84 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Born**: 1452, Vinci
   - **Died**: 1519, Amboise, France
   - Italian polymath of the High Renaissance, active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. His notebooks contain thousands of pages of inventions, scientific observations, and artistic studies that form the basis for this museum's reconstructions.
+
+---
+
+## Galleria dell'Accademia, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Galleria dell'Accademia](https://en.wikipedia.org/wiki/Galleria_dell'Accademia)
+  - **Type**: Art Museum
+  - **Description**: An art museum in Florence best known as the home of Michelangelo's sculpture David. Founded in 1784 by Pietro Leopoldo, Grand Duke of Tuscany, it also houses other sculptures by Michelangelo and a large collection of paintings by Florentine artists, mostly from 1300–1600. It is the second-most-visited art museum in Italy after the Uffizi.
+
+### Artworks
+
+- [David](https://en.wikipedia.org/wiki/David_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: 1501-1504
+  - **Description**: A masterpiece of Italian Renaissance sculpture standing 5.17 metres tall, the first colossal marble statue made in the High Renaissance. Originally commissioned for the roofline of Florence Cathedral, it was instead placed in Piazza della Signoria and moved to the Accademia in 1873. The figure depicts the Biblical hero David before his battle with Goliath.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg)
+
+- [Saint Matthew](https://en.wikipedia.org/wiki/Saint_Matthew_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: c. 1506
+  - **Description**: An unfinished marble sculpture of Matthew the Apostle, intended for a series of twelve apostles for the choir niches of Florence Cathedral. Left incomplete in 1506 when Michelangelo moved to Rome to work for Pope Julius II. The figure appears to emerge from the stone, exemplifying Michelangelo's concept of sculpture as liberating forms trapped within the marble.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/95/%27St_Matthew%27_by_Michelangelo_-_JBU_02.jpg)
+
+- [Atlas Slave](https://en.wikipedia.org/wiki/Atlas_Slave)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: c. 1525-1530
+  - **Description**: A 2.77m high unfinished marble statue, one of the 'Prisoners' series originally intended for the tomb of Pope Julius II. The figure appears burdened by a massive weight on his head, giving the sculpture its name. After Michelangelo's death, it was given to Grand Duke Cosimo I and installed in the Boboli Gardens until 1909.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/97/Michelangelo_-_Atlas.jpg)
+
+- [Awakening Slave](https://en.wikipedia.org/wiki/Awakening_Slave)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: c. 1525-1530
+  - **Description**: A 2.67m high unfinished marble statue, one of the 'Prisoners' series for the tomb of Pope Julius II. The figure appears to be struggling to emerge from the stone, dramatically illustrating Michelangelo's belief that the sculptor's task was to liberate the figure already present within the marble block.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/0b/Michelangelo_-_Awakening_slave.jpg)
+
+- [Young Slave](https://en.wikipedia.org/wiki/Young_Slave)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: c. 1525-1530
+  - **Description**: An unfinished marble sculpture from the 'Prisoners' series intended for the Tomb of Julius II. The youthful figure appears partially trapped in the marble, exemplifying the dramatic tension between form and material that characterizes Michelangelo's unfinished works.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/ad/%27Young_Slave%27_by_Michelangelo_-_JBU_02.jpg)
+
+- [Bearded Slave](https://en.wikipedia.org/wiki/Bearded_Slave)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: c. 1525-1530
+  - **Description**: The most finished of the Florentine Prisoners, named for the thick, curly beard covering the figure's face. Part of the unfinished series intended for the Tomb of Pope Julius II. The clearly defined muscles of the torso reveal Michelangelo's deep study of human anatomy.
+
+- [Palestrina Pietà](https://en.wikipedia.org/wiki/Palestrina_Piet%C3%A0)
+  - **Artist**: Attributed to [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo) (disputed)
+  - **Medium**: Marble
+  - **Date**: c. 1555
+  - **Description**: A marble sculpture depicting the dead Christ supported by the Virgin Mary and another figure. Formerly attributed to Michelangelo, but now considered to have possibly been completed by someone else, such as Niccolò Menghini or Gian Lorenzo Bernini. The attribution remains controversial.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/e2/Michelangelo_Piet%C3%A0_Palestri.jpg)
+
+- [Vallombrosa Altarpiece](https://en.wikipedia.org/wiki/Vallombrosa_Altarpiece)
+  - **Artist**: [Pietro Perugino](https://en.wikipedia.org/wiki/Pietro_Perugino)
+  - **Medium**: Oil on panel
+  - **Date**: 1500-1501
+  - **Description**: Also known as the Assumption of the Virgin, this glittering altarpiece features a three-layered composition with God the Father at the top surrounded by cherubs and angels, the Virgin Mary ascending in the middle, and saints below. One of Perugino's major works.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/e4/Perugino%2C_pala_di_vallombrosa.jpg)
+
+### Artists
+
+- [Pietro Perugino](https://en.wikipedia.org/wiki/Pietro_Perugino)
+  - **Born**: c. 1446-1452, Città della Pieve, Umbria
+  - **Died**: 1523, Fontignano (plague)
+  - Italian Renaissance painter of the Umbrian school who developed qualities that found classic expression in the High Renaissance. Trained under Piero della Francesca and Andrea Verrocchio alongside Leonardo da Vinci. Called to Rome by Sixtus IV to paint frescoes in the Sistine Chapel. Raphael became his most famous pupil, and Perugino's use of space and perspective influenced many Renaissance artists.
+
+### Bible Stories
+
+- [David](https://en.wikipedia.org/wiki/David)
+  - **Book(s)**: 1 Samuel, 2 Samuel
+  - **Chapters/Verses**: 1 Samuel 16-31, 2 Samuel 1-24
+  - King of ancient Israel and Judah according to the Hebrew Bible. As a young shepherd, he defeated the Philistine giant Goliath with a sling and stone (1 Samuel 17). Michelangelo's David depicts the moment before this battle, showing tense anticipation rather than triumphant victory.
