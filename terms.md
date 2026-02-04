@@ -32,6 +32,23 @@ Four periods distinguished in ancient Roman mural painting, originally delineate
 - **Third Style** (Ornamental, c. 20 BC-50 AD): Delicate, decorative motifs
 - **Fourth Style** (Intricate, c. 50-79 AD): Combines elements of previous styles
 
+## Mythology
+
+### Ariadne
+[Wikipedia](https://en.wikipedia.org/wiki/Ariadne)
+
+Cretan princess, daughter of King Minos. She helped Theseus escape from the Minotaur's labyrinth but was abandoned by him on the island of Naxos. There, the god Dionysus (Bacchus) found her sleeping, fell in love with her, and made her his wife, throwing her jeweled crown into the sky to create the constellation Corona Borealis.
+
+### Europa
+[Wikipedia](https://en.wikipedia.org/wiki/Europa_(consort_of_Zeus))
+
+Phoenician princess from Tyre and mother of King Minos of Crete. Zeus, disguised as a beautiful white bull, approached Europa while she gathered flowers by the sea. When she climbed onto his back, he swam to Crete. The continent of Europe is named after her.
+
+### Three Graces
+[Wikipedia](https://en.wikipedia.org/wiki/Charites)
+
+In Greek mythology, the Charites (or Graces in Roman mythology) were three goddesses of charm, beauty, nature, human creativity, goodwill, and fertility. Traditionally named Aglaea (Splendor), Euphrosyne (Mirth), and Thalia (Good Cheer), they were attendants of Aphrodite/Venus.
+
 ## Religious and Ritual
 
 ### Priapus

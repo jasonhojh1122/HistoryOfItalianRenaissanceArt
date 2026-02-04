@@ -63,6 +63,49 @@
   - **Date**: 1553-1554
   - **Description**: Located in the Council of Ten Room, this ceiling painting shows the goddess Juno bestowing gifts upon the personification of Venice, symbolizing the city's prosperity and divine favor.
 
+- [Bacchus, Venus and Ariadne](https://en.wikipedia.org/wiki/Bacchus%2C_Venus_and_Ariadne_(Tintoretto))
+  - **Artist**: [Tintoretto](https://en.wikipedia.org/wiki/Tintoretto)
+  - **Medium**: Oil on canvas
+  - **Date**: 1576-1577
+  - **Description**: One of four mythological paintings in the Sala dell'Anticollegio, originally commissioned to celebrate the government of Doge Girolamo Priuli. The painting depicts Bacchus crowning Ariadne with a ring of stars while Venus watches, symbolizing Venice's heavenly gifts and beauty.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/60/Jacopo_Tintoretto_-_Bacchus%2C_Venus_and_Ariadne_-_WGA22618.jpg)
+
+- Mercury and the Three Graces
+  - **Artist**: [Tintoretto](https://en.wikipedia.org/wiki/Tintoretto)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1578
+  - **Description**: One of four mythological allegories in the Sala dell'Anticollegio representing the virtues of the Venetian Republic. Mercury, messenger of the gods, is surrounded by the Three Graces who personify beauty, charm, and joy. Originally in the Atrio Quadrato, moved to the Anticollegio in 1713.
+
+- The Forge of Vulcan
+  - **Artist**: [Tintoretto](https://en.wikipedia.org/wiki/Tintoretto)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1578
+  - **Description**: Part of the four mythological paintings in the Sala dell'Anticollegio. Depicts the god Vulcan at his forge, symbolizing industry and craftsmanship. One of the allegories of the virtues of Venice's good government.
+
+- Minerva Protecting Peace and Abundance from Mars
+  - **Artist**: [Tintoretto](https://en.wikipedia.org/wiki/Tintoretto)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1578
+  - **Description**: Also called "Pallas Pushes Mars Away." Part of the Sala dell'Anticollegio cycle, this allegory shows Minerva (goddess of wisdom) defending Peace and Prosperity from Mars (god of war), symbolizing Venice's wise governance that maintains peace and plenty.
+
+- Jacob's Return to Canaan
+  - **Artist**: [Jacopo Bassano](https://en.wikipedia.org/wiki/Jacopo_Bassano)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1580
+  - **Description**: Located in the Sala dell'Anticollegio alongside works by Tintoretto and Veronese. Depicts the biblical patriarch Jacob returning to Canaan with his family and flocks. Bassano's characteristic treatment of pastoral and rural scenes is evident in this work.
+
+- Triumph of Venice
+  - **Artist**: [Palma il Giovane](https://en.wikipedia.org/wiki/Palma_il_Giovane)
+  - **Medium**: Oil on canvas (ceiling)
+  - **Date**: 1582
+  - **Description**: A ceiling painting in the Chamber of the Great Council showing Venice crowned by Victory. Part of the decorative program celebrating Venice's glory, executed after the devastating fire of 1577.
+
+- Mars and Neptune
+  - **Artist**: [Jacopo Sansovino](https://en.wikipedia.org/wiki/Jacopo_Sansovino)
+  - **Medium**: Marble sculpture
+  - **Date**: 1567
+  - **Description**: Two colossal statues guarding the Giants' Staircase (Scala dei Giganti). Mars represents Venice's power by land, Neptune her power by sea. The statues flank the staircase where doges were crowned.
+
 ### Artists
 
 - [Tintoretto](https://en.wikipedia.org/wiki/Tintoretto)
@@ -74,6 +117,39 @@
   - **Born**: 1528, Verona
   - **Died**: 1588, Venice
   - Italian Renaissance painter based in Venice, known for extremely large history paintings of religion and mythology. With Titian and Tintoretto, Veronese is one of the "great trio that dominated Venetian painting of the cinquecento." Known as a supreme colorist who developed a naturalist style influenced by Titian.
+
+- [Jacopo Bassano](https://en.wikipedia.org/wiki/Jacopo_Bassano)
+  - **Born**: c. 1510, Bassano del Grappa
+  - **Died**: 1592, Bassano del Grappa
+  - Italian painter who took his surname from his birthplace near Venice. Trained by his father, he painted mostly religious paintings, landscapes, and genre scenes. Known for treating biblical themes as rural genre scenes, representing peasants, animals, and the agrarian landscape with great acuity.
+
+- [Palma il Giovane](https://en.wikipedia.org/wiki/Palma_il_Giovane)
+  - **Born**: 1548/1550, Venice
+  - **Died**: 1628, Venice
+  - Italian Mannerist painter and a notable exponent of the Venetian school. Real name Iacopo Negretti, he was the great-nephew of Palma il Vecchio. He completed Titian's final painting, the Pietà, after the master's death. One of the most prolific painters in Venice after the deaths of Tintoretto and Veronese.
+
+- [Jacopo Sansovino](https://en.wikipedia.org/wiki/Jacopo_Sansovino)
+  - **Born**: 1486, Florence
+  - **Died**: 1570, Venice
+  - Italian Renaissance sculptor and architect, best known for his works around the Piazza San Marco in Venice. Andrea Palladio considered his Biblioteca Marciana the best building erected since antiquity. His Mars and Neptune statues guard the Giants' Staircase at the Doge's Palace.
+
+### Bible Stories
+
+- [Jacob](https://en.wikipedia.org/wiki/Jacob)
+  - **Book(s)**: Genesis
+  - **Chapters/Verses**: Genesis 25-50
+  - **Description**: Jacob, later named Israel, was a Hebrew patriarch who deceived his father Isaac to receive his brother Esau's blessing. After years in exile working for his father-in-law Laban, he returned to Canaan with his large family and flocks. The subject of Bassano's painting in the Sala dell'Anticollegio.
+
+### Mythology
+
+- [Ariadne](https://en.wikipedia.org/wiki/Ariadne)
+  - **Description**: Cretan princess, daughter of King Minos. She helped Theseus escape from the Minotaur's labyrinth but was abandoned by him on the island of Naxos. There, the god Dionysus (Bacchus) found her sleeping, fell in love with her, and made her his wife, throwing her jeweled crown into the sky to create the constellation Corona Borealis.
+
+- [Europa](https://en.wikipedia.org/wiki/Europa_(consort_of_Zeus))
+  - **Description**: Phoenician princess from Tyre and mother of King Minos of Crete. Zeus, disguised as a beautiful white bull, approached Europa while she gathered flowers by the sea. When she climbed onto his back, he swam to Crete. The continent of Europe is named after her.
+
+- [Three Graces](https://en.wikipedia.org/wiki/Charites)
+  - **Description**: In Greek mythology, the Charites (or Graces in Roman mythology) were three goddesses of charm, beauty, nature, human creativity, goodwill, and fertility. Traditionally named Aglaea (Splendor), Euphrosyne (Mirth), and Thalia (Good Cheer), they were attendants of Aphrodite/Venus.
 
 ---
 

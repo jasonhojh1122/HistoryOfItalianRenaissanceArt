@@ -12,3 +12,7 @@ Jacopo Robusti, known as Tintoretto, was an Italian Renaissance painter of the V
 
 ### [Il Paradiso](../artworks/IlParadiso.md)
 ### [Marriage at Cana](../artworks/MarriageAtCanaTintoretto.md)
+### [Bacchus, Venus and Ariadne](../artworks/BacchusVenusAndAriadne.md)
+### [Mercury and the Three Graces](../artworks/MercuryAndTheThreeGraces.md)
+### [The Forge of Vulcan](../artworks/TheForgeOfVulcan.md)
+### [Minerva Protecting Peace and Abundance from Mars](../artworks/MinervaProtectingPeaceAndAbundanceFromMars.md)
