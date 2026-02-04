@@ -121,123 +121,525 @@ def run_pipeline(target=None):
         current_job["log"].append(f"[Error: {str(e)}]")
 
 
-# HTML template for web interface
+# HTML template for web interface — Renaissance aesthetic matching the static site
 HTML_TEMPLATE = '''<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Art Research Pipeline</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Spectral:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap" rel="stylesheet">
     <style>
-        * { box-sizing: border-box; }
+        :root {
+            --color-ivory: #FAF6F0;
+            --color-parchment: #F5EDE3;
+            --color-warm-white: #FFFDF9;
+            --color-terracotta: #B85C38;
+            --color-terracotta-deep: #8B3A2F;
+            --color-sienna: #A0522D;
+            --color-umber: #5D4037;
+            --color-gold: #C7A66B;
+            --color-gold-muted: #B8976B;
+            --color-ink: #2C2418;
+            --color-ink-soft: #4A4035;
+            --color-stone: #8D8477;
+            --color-border: #E3DCD0;
+            --color-border-dark: #C9C0B0;
+            --font-display: 'Cormorant Garamond', 'Palatino Linotype', serif;
+            --font-body: 'Spectral', 'Georgia', serif;
+            --shadow-soft: 0 2px 20px rgba(44, 36, 24, 0.06);
+            --shadow-card: 0 4px 30px rgba(44, 36, 24, 0.08);
+            --shadow-elevated: 0 12px 40px rgba(44, 36, 24, 0.12);
+            --transition-base: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        html {
+            font-size: 17px;
+            scroll-behavior: smooth;
+            -webkit-font-smoothing: antialiased;
+        }
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            max-width: 800px;
+            font-family: var(--font-body);
+            background: var(--color-ivory);
+            color: var(--color-ink);
+            line-height: 1.75;
+            min-height: 100vh;
+            position: relative;
+        }
+
+        /* Subtle grain texture overlay */
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            opacity: 0.025;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+            z-index: 1000;
+        }
+
+        .container {
+            max-width: 860px;
             margin: 0 auto;
-            padding: 20px;
-            background: #1a1a2e;
-            color: #eee;
+            padding: 2.5rem 2rem;
         }
-        h1 { color: #e94560; margin-bottom: 5px; }
-        .subtitle { color: #888; margin-bottom: 20px; }
+
+        /* Header */
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--color-border);
+            position: relative;
+        }
+
+        header::after {
+            content: '';
+            position: absolute;
+            bottom: -1px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 3px;
+            background: linear-gradient(to right, var(--color-terracotta), var(--color-gold));
+        }
+
+        h1 {
+            font-family: var(--font-display);
+            font-size: clamp(2.2rem, 5vw, 3rem);
+            font-weight: 500;
+            letter-spacing: -0.01em;
+            color: var(--color-ink);
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            font-family: var(--font-display);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-stone);
+            letter-spacing: 0.02em;
+        }
+
+        /* Cards */
         .card {
-            background: #16213e;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
+            background: var(--color-warm-white);
+            border: 1px solid var(--color-border);
+            border-radius: 5px;
+            padding: 1.75rem;
+            margin-bottom: 1.5rem;
+            position: relative;
+            box-shadow: var(--shadow-soft);
+            transition: box-shadow var(--transition-base), border-color var(--transition-base);
         }
-        .card h2 { margin-top: 0; color: #e94560; font-size: 1.1em; }
-        input[type="text"], textarea {
-            width: 100%;
-            padding: 12px;
-            border: 1px solid #333;
-            border-radius: 6px;
-            background: #0f0f23;
-            color: #eee;
-            font-size: 16px;
-            margin-bottom: 10px;
+
+        .card:hover {
+            box-shadow: var(--shadow-card);
+            border-color: var(--color-border-dark);
         }
-        textarea { min-height: 80px; resize: vertical; font-family: inherit; }
-        button {
-            background: #e94560;
-            color: white;
-            border: none;
-            padding: 12px 24px;
-            border-radius: 6px;
-            cursor: pointer;
-            font-size: 16px;
-            margin-right: 10px;
-            margin-bottom: 10px;
+
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(to bottom, var(--color-terracotta), var(--color-gold));
+            border-radius: 5px 0 0 5px;
+            opacity: 0;
+            transition: opacity var(--transition-base);
         }
-        button:hover { background: #ff6b6b; }
-        button:disabled { background: #555; cursor: not-allowed; }
-        button.secondary { background: #0f3460; }
-        button.secondary:hover { background: #1a4a7a; }
-        .status {
+
+        .card:hover::before {
+            opacity: 1;
+        }
+
+        .card h2 {
+            font-family: var(--font-display);
+            font-size: 1.35rem;
+            font-weight: 600;
+            color: var(--color-ink);
+            margin-bottom: 1rem;
+            position: relative;
             display: inline-block;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.9em;
-            font-weight: bold;
         }
-        .status.running { background: #f39c12; color: #000; }
-        .status.idle { background: #27ae60; }
-        .status.error { background: #e74c3c; }
+
+        .card h2::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 40px;
+            height: 2px;
+            background: linear-gradient(to right, var(--color-terracotta), var(--color-gold));
+        }
+
+        /* Status Badge */
+        .status-row {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .status {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.4rem 1rem;
+            border-radius: 999px;
+            font-family: var(--font-body);
+            font-size: 0.85rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+
+        .status::before {
+            content: '';
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+
+        .status.idle {
+            background: linear-gradient(135deg, #E8F0E4 0%, #D4E5CC 100%);
+            color: #3A5F35;
+            border: 1px solid #B8D4AD;
+        }
+
+        .status.idle::before {
+            background: #4A7C43;
+        }
+
+        .status.running {
+            background: linear-gradient(135deg, #FFF4E0 0%, #FFE7C4 100%);
+            color: #8B5A00;
+            border: 1px solid #E5C896;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        .status.running::before {
+            background: #D4940A;
+            animation: blink 1s ease-in-out infinite;
+        }
+
+        .status.error {
+            background: linear-gradient(135deg, #FDEAEA 0%, #F9D6D6 100%);
+            color: #8B3A2F;
+            border: 1px solid #E5B3AD;
+        }
+
+        .status.error::before {
+            background: #B85C38;
+        }
+
+        @keyframes pulse {
+            0%, 100% { box-shadow: 0 0 0 0 rgba(212, 148, 10, 0.3); }
+            50% { box-shadow: 0 0 0 8px rgba(212, 148, 10, 0); }
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+        .job-info {
+            font-family: var(--font-body);
+            font-size: 0.9rem;
+            color: var(--color-stone);
+            font-style: italic;
+        }
+
+        /* Log Display */
         #log {
-            background: #0f0f23;
-            border-radius: 6px;
-            padding: 15px;
-            font-family: "SF Mono", Monaco, monospace;
-            font-size: 13px;
-            line-height: 1.5;
-            max-height: 400px;
+            background: var(--color-parchment);
+            border: 1px solid var(--color-border);
+            border-radius: 3px;
+            padding: 1.25rem;
+            font-family: "SF Mono", "Menlo", "Monaco", "Consolas", monospace;
+            font-size: 0.8rem;
+            line-height: 1.7;
+            max-height: 380px;
             overflow-y: auto;
             white-space: pre-wrap;
             word-wrap: break-word;
+            color: var(--color-ink-soft);
+            position: relative;
         }
-        .meta { color: #888; font-size: 0.85em; margin-top: 10px; }
-        .quick-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px; }
-        .quick-actions button { margin: 0; padding: 8px 16px; font-size: 14px; }
-        @media (max-width: 600px) {
-            body { padding: 10px; }
-            button { width: 100%; margin-right: 0; }
+
+        #log::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        #log::-webkit-scrollbar-track {
+            background: var(--color-border);
+            border-radius: 3px;
+        }
+
+        #log::-webkit-scrollbar-thumb {
+            background: var(--color-stone);
+            border-radius: 3px;
+        }
+
+        .meta {
+            font-family: var(--font-body);
+            font-size: 0.8rem;
+            color: var(--color-stone);
+            margin-top: 0.75rem;
+            font-style: italic;
+        }
+
+        /* Form Elements */
+        input[type="text"], textarea {
+            width: 100%;
+            padding: 0.85rem 1rem;
+            border: 1px solid var(--color-border);
+            border-radius: 3px;
+            background: var(--color-warm-white);
+            color: var(--color-ink);
+            font-family: var(--font-body);
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+            transition: all var(--transition-base);
+        }
+
+        input[type="text"]::placeholder, textarea::placeholder {
+            color: var(--color-stone);
+            font-style: italic;
+        }
+
+        input[type="text"]:focus, textarea:focus {
+            outline: none;
+            border-color: var(--color-terracotta);
+            box-shadow: 0 0 0 3px rgba(184, 92, 56, 0.1);
+        }
+
+        textarea {
+            min-height: 90px;
+            resize: vertical;
+            line-height: 1.6;
+        }
+
+        /* Buttons */
+        button {
+            font-family: var(--font-body);
+            font-size: 0.9rem;
+            font-weight: 500;
+            padding: 0.75rem 1.5rem;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: all var(--transition-base);
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin-right: 0.75rem;
+            margin-bottom: 0.75rem;
+        }
+
+        button.primary {
+            background: linear-gradient(135deg, var(--color-terracotta) 0%, var(--color-sienna) 100%);
+            color: var(--color-warm-white);
+            border: none;
+            box-shadow: 0 2px 8px rgba(184, 92, 56, 0.3);
+        }
+
+        button.primary:hover {
+            background: linear-gradient(135deg, var(--color-terracotta-deep) 0%, var(--color-terracotta) 100%);
+            box-shadow: 0 4px 12px rgba(184, 92, 56, 0.4);
+            transform: translateY(-1px);
+        }
+
+        button.primary:active {
+            transform: translateY(0);
+        }
+
+        button.primary:disabled {
+            background: var(--color-border-dark);
+            color: var(--color-stone);
+            cursor: not-allowed;
+            box-shadow: none;
+            transform: none;
+        }
+
+        button.secondary {
+            background: var(--color-warm-white);
+            color: var(--color-ink-soft);
+            border: 1px solid var(--color-border);
+        }
+
+        button.secondary:hover {
+            border-color: var(--color-gold);
+            color: var(--color-umber);
+            background: var(--color-parchment);
+        }
+
+        button.secondary:disabled {
+            background: var(--color-parchment);
+            color: var(--color-stone);
+            border-color: var(--color-border);
+            cursor: not-allowed;
+        }
+
+        /* Quick Actions */
+        .quick-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1.25rem;
+            padding-top: 1.25rem;
+            border-top: 1px solid var(--color-border);
+        }
+
+        .quick-actions-label {
+            width: 100%;
+            font-family: var(--font-body);
+            font-size: 0.75rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--color-stone);
+            margin-bottom: 0.5rem;
+        }
+
+        .quick-actions button {
+            margin: 0;
+            padding: 0.5rem 1rem;
+            font-size: 0.8rem;
+        }
+
+        /* Pipeline Card Special Styling */
+        .pipeline-card {
+            background: linear-gradient(135deg, var(--color-parchment) 0%, var(--color-ivory) 100%);
+            border-left: 4px solid var(--color-gold);
+        }
+
+        .pipeline-card::before {
+            display: none;
+        }
+
+        .pipeline-steps {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px dashed var(--color-border);
+        }
+
+        .pipeline-step {
+            font-family: var(--font-body);
+            font-size: 0.75rem;
+            padding: 0.35rem 0.75rem;
+            background: var(--color-warm-white);
+            border: 1px solid var(--color-border);
+            border-radius: 999px;
+            color: var(--color-stone);
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .pipeline-step::after {
+            content: '→';
+            color: var(--color-border-dark);
+        }
+
+        .pipeline-step:last-child::after {
+            display: none;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 2rem;
+            border-top: 1px solid var(--color-border);
+            margin-top: 2rem;
+        }
+
+        footer p {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-style: italic;
+            color: var(--color-stone);
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            .container {
+                padding: 1.5rem 1rem;
+            }
+
+            h1 {
+                font-size: 1.85rem;
+            }
+
+            .card {
+                padding: 1.25rem;
+            }
+
+            button {
+                width: 100%;
+                margin-right: 0;
+            }
+
+            .quick-actions button {
+                flex: 1;
+                min-width: calc(50% - 0.25rem);
+            }
+
+            .status-row {
+                flex-direction: column;
+                align-items: flex-start;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>Art Research Pipeline</h1>
-    <p class="subtitle">Italian Renaissance Art Project</p>
+    <div class="container">
+        <header>
+            <h1>Art Research Pipeline</h1>
+        </header>
 
-    <div class="card">
-        <h2>Status</h2>
-        <p>
-            <span id="status" class="status idle">Idle</span>
-            <span id="job-info" style="margin-left: 10px; color: #888;"></span>
-        </p>
-        <div id="log">Waiting for activity...</div>
-        <p class="meta">
-            <span id="timing"></span>
-        </p>
-    </div>
-
-    <div class="card">
-        <h2>Run Claude Command</h2>
-        <textarea id="prompt" placeholder="Enter any instruction for Claude..."></textarea>
-        <button onclick="runCommand()" id="run-btn">Run Command</button>
-        <button onclick="runCommand('/export-notes')" class="secondary">Export Notes</button>
-
-        <div class="quick-actions">
-            <button class="secondary" onclick="runCommand('/auto-research Galleria Borghese')">Borghese</button>
-            <button class="secondary" onclick="runCommand('/auto-research Uffizi Gallery')">Uffizi</button>
-            <button class="secondary" onclick="runCommand('/auto-research Vatican Museums')">Vatican</button>
+        <div class="card">
+            <h2>Status</h2>
+            <div class="status-row">
+                <span id="status" class="status idle">Idle</span>
+                <span id="job-info" class="job-info"></span>
+            </div>
+            <div id="log">Awaiting your command...</div>
+            <p class="meta">
+                <span id="timing"></span>
+            </p>
         </div>
-    </div>
 
-    <div class="card">
-        <h2>Full Pipeline</h2>
-        <input type="text" id="target" placeholder="Research target (optional, e.g., 'Galleria Borghese')">
-        <button onclick="runPipeline()" id="pipeline-btn">Run Full Pipeline</button>
-        <p class="meta">Runs: research (if target) → export → generate site → publish → git push</p>
+        <div class="card pipeline-card">
+            <h2>Full Pipeline</h2>
+            <input type="text" id="target" placeholder="Research target (optional, e.g., 'Galleria Borghese')">
+            <button onclick="runPipeline()" id="pipeline-btn" class="primary">Run Full Pipeline</button>
+            <div class="pipeline-steps">
+                <span class="pipeline-step">Research</span>
+                <span class="pipeline-step">Export</span>
+                <span class="pipeline-step">Generate</span>
+                <span class="pipeline-step">Publish</span>
+                <span class="pipeline-step">Git Push</span>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Run Claude Command</h2>
+            <textarea id="prompt" placeholder="Enter any instruction for Claude..."></textarea>
+            <button onclick="runCommand()" id="run-btn" class="primary">Run Command</button>
+        </div>
+
+        <footer>
+            <p>A digital atelier for Renaissance art scholarship</p>
+        </footer>
     </div>
 
     <script>

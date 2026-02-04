@@ -53,7 +53,11 @@ log "Step 4: Publish completed"
 # Step 5: Commit and push main repo
 log "Step 5: Committing main repo..."
 git add -A
-git commit -m "Auto-update: $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in main repo"
+if [ -n "$RESEARCH_TARGET" ]; then
+    git commit -m "Auto-update ($RESEARCH_TARGET): $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in main repo"
+else
+    git commit -m "Auto-update: $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in main repo"
+fi
 git push origin main || log "Push failed or nothing to push in main repo"
 log "Step 5: Main repo commit completed"
 
@@ -61,7 +65,11 @@ log "Step 5: Main repo commit completed"
 log "Step 6: Pushing GitHub Pages..."
 cd "$GITHUB_PAGES_DIR"
 git add -A
-git commit -m "Site update: $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in GitHub Pages"
+if [ -n "$RESEARCH_TARGET" ]; then
+    git commit -m "Site update ($RESEARCH_TARGET): $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in GitHub Pages"
+else
+    git commit -m "Site update: $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in GitHub Pages"
+fi
 git push origin master || log "Push failed or nothing to push in GitHub Pages"
 log "Step 6: GitHub Pages commit completed"
 

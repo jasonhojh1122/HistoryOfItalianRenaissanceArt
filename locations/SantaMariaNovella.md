@@ -55,6 +55,20 @@ Italian Gothic architecture.
 
 ## Architecture
 
+### [Brunelleschi Crucifix](../artworks/BrunelleschiCrucifix.md)
+- **Artist**: [Filippo Brunelleschi](../artists/FilippoBrunelleschi.md)
+- **Medium**: Polychrome painted pearwood
+- **Date**: c. 1410-1415
+- Located in the Gondi Chapel, this is the only surviving wooden sculpture by Brunelleschi. Described as "probably the first Renaissance work in the history of art."
+
+![img](https://upload.wikimedia.org/wikipedia/commons/1/17/Crocifisso_di_brunelleschi%2C_1410-15_02.JPG)
+
+### Strozzi Chapel Frescoes
+- **Artist**: [Filippino Lippi](../artists/FilippinoLippi.md)
+- **Medium**: Fresco
+- **Date**: 1487-1502
+- Located in the right transept, depicting the lives of Saints Philip and John the Evangelist.
+
 ### [Facade](../artworks/SantaMariaNovellFacade.md)
 - **Architect**: [Leon Battista Alberti](../artists/LeonBattistaAlberti.md)
 - The only green and white marble structure in Florence

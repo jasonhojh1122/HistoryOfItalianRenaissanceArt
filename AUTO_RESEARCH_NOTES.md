@@ -1066,3 +1066,515 @@ Over 11,000 graffiti samples have been uncovered in the excavations of Pompeii, 
 - **Capomaestro**: Italian term meaning "head master" or "chief master," referring to the lead architect or master builder in charge of a major construction project such as a cathedral.
 
 - **Opera del Duomo**: The institution responsible for the building and maintenance of Florence Cathedral. Founded in 1296, it supervised the construction and continues to maintain the cathedral complex today. The term literally means "Works of the Cathedral."
+
+## Basilica di San Lorenzo, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Basilica of San Lorenzo, Florence](https://en.wikipedia.org/wiki/Basilica_of_San_Lorenzo%2C_Florence)
+  - **Type**: Church
+  - **Description**: One of the largest churches of Florence, situated at the centre of the main market district. It is the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III. One of several churches that claim to be the oldest in Florence, having been consecrated in 393 AD.
+
+### Artworks
+
+- [Medici Chapels](https://en.wikipedia.org/wiki/Medici_Chapels)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo) (Sagrestia Nuova)
+  - **Medium**: Architecture and marble sculpture
+  - **Date**: 1520-1534
+  - **Description**: Two chapels built as an extension to the basilica. The Sagrestia Nuova (New Sacristy) was designed by Michelangelo, who served as both architect and sculptor. Contains the celebrated Medici tombs with their allegorical figures.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/fb/Medicibib.jpg)
+
+- [Tomb of Giuliano de' Medici, Duke of Nemours](https://en.wikipedia.org/wiki/Portrait_of_Giuliano_de'_Medici%2C_Duke_of_Nemours)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: 1526-1534
+  - **Description**: Features an idealized seated portrait of Giuliano with the allegorical figures of Night and Day reclining on the sarcophagus below. Night is represented as a sleeping female figure, while Day is a muscular male figure turning away.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/31/Grabmal_von_Giuliano_II._de_Medici_%28Michelangelo%29_Cappelle_Medicee_Florenz-4.jpg)
+
+- Tomb of Lorenzo de' Medici, Duke of Urbino
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: 1524-1534
+  - **Description**: Features a contemplative seated figure of Lorenzo (known as "Il Pensieroso") with the allegorical figures of Dawn and Dusk reclining on the sarcophagus. Dawn is a female figure awakening, while Dusk is a weary male figure.
+
+- [Laurentian Library](https://en.wikipedia.org/wiki/Laurentian_Library)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Architecture
+  - **Date**: 1525-1571
+  - **Description**: A historic library containing more than 11,000 manuscripts and 4,500 early printed books. The building is renowned for its Mannerist architecture designed by Michelangelo, featuring a dramatic vestibule with a revolutionary staircase.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/fb/Medicibib.jpg)
+
+- Old Sacristy (Sagrestia Vecchia)
+  - **Artist**: [Filippo Brunelleschi](https://en.wikipedia.org/wiki/Filippo_Brunelleschi) (architecture), [Donatello](https://en.wikipedia.org/wiki/Donatello) (decoration)
+  - **Medium**: Architecture with bronze doors and stucco reliefs
+  - **Date**: 1421-1440
+  - **Description**: Brunelleschi's first major architectural commission, featuring Donatello's bronze reliefs of the Apostles and Martyrs on two doors, eight stucco tondi depicting the Evangelists and scenes from the life of St. John, and the burial place of Cosimo de' Medici and Donatello himself.
+
+- Bronze Pulpits
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Bronze
+  - **Date**: c. 1460-1466
+  - **Description**: Donatello's final works, depicting scenes from the Passion and Resurrection of Christ. The two pulpits in the nave show remarkable emotional intensity and were completed by his workshop after his death.
+
+### Artists
+
+- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Born**: 1475, Caprese
+  - **Died**: 1564, Rome
+  - Italian sculptor, painter, architect, and poet of the High Renaissance. His work at San Lorenzo includes the New Sacristy with its Medici tombs, the Laurentian Library, and an unexecuted façade design. One of the best-documented artists of the 16th century.
+
+- [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Born**: c. 1386, Florence
+  - **Died**: 1466, Florence
+  - Italian sculptor who developed an Early Renaissance style of sculpture. His work at San Lorenzo includes the bronze pulpits, the Old Sacristy decorations, and he is buried here next to Cosimo de' Medici. His David was the first freestanding nude male sculpture since antiquity.
+
+- [Filippo Brunelleschi](https://en.wikipedia.org/wiki/Filippo_Brunelleschi)
+  - **Born**: 1377, Florence
+  - **Died**: 1446, Florence
+  - Italian architect, designer, goldsmith, and sculptor considered a founding father of Renaissance architecture. Designed the Old Sacristy at San Lorenzo and the overall church plan. Most famous for designing the dome of Florence Cathedral.
+
+## Museo Nazionale del Bargello, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Bargello](https://en.wikipedia.org/wiki/Bargello)
+  - **Type**: Museum
+  - **Description**: The oldest public building in Florence, built beginning in 1255. Originally the Palazzo del Podestà, it later housed the bargello (police chief). Since 1865 it has housed the Museo Nazionale del Bargello, showcasing the most important collection of Italian Renaissance sculpture in the world.
+
+### Artworks
+
+- [David (bronze)](https://en.wikipedia.org/wiki/David_(Donatello%2C_bronze))
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Bronze
+  - **Date**: c. 1440s
+  - **Description**: The first unsupported standing work of bronze cast during the Renaissance, and the first freestanding nude male sculpture since antiquity. Depicts a youthful David standing over Goliath's severed head, nude except for boots and a laurel-topped hat.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/f7/Donatello%2C_David%2C_bronze%2C_1435-40%2C_Florence%2C_Bargello%2C_detail.jpg)
+
+- [David (marble)](https://en.wikipedia.org/wiki/David_(Donatello%2C_marble))
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Marble
+  - **Date**: 1408-1409
+  - **Description**: An early work by Donatello, originally commissioned for Florence Cathedral. Shows a clothed, youthful David with Goliath's head at his feet. Later moved to the Palazzo della Signoria before coming to the Bargello.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/e6/Donatello%2C_David%2C_1408-9%2C_1416%2C_Florence%2C_Bargello.jpg)
+
+- [Saint George](https://en.wikipedia.org/wiki/Saint_George_(Donatello))
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Marble
+  - **Date**: c. 1415-1417
+  - **Description**: Originally made for the niche of the Armourers' Guild at Orsanmichele. The base features a pioneering relief of St. George and the Dragon in schiacciato (very low relief), one of the earliest examples of central-point perspective in sculpture.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/5f/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg)
+
+- [Bacchus](https://en.wikipedia.org/wiki/Bacchus_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: 1496-1497
+  - **Description**: A somewhat over life-size statue representing Bacchus, the Roman god of wine, in a reeling pose suggestive of drunkenness. One of only two surviving sculptures from Michelangelo's first period in Rome, along with the Vatican Pietà.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/2/2d/Michelangelo_Bacchus.jpg)
+
+- [Pitti Tondo](https://en.wikipedia.org/wiki/Pitti_Tondo)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble relief
+  - **Date**: 1503-1504
+  - **Description**: An unfinished marble relief of the Virgin and Child in round (tondo) form. Shows the Virgin Mary with the Christ Child and the infant St. John the Baptist, with remarkably deep carving creating dramatic shadows.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/07/Michelangelo%2C_tondo_pitti.jpg)
+
+- [Brutus](https://en.wikipedia.org/wiki/Brutus_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble bust
+  - **Date**: c. 1539-1540
+  - **Description**: A marble bust of Marcus Junius Brutus, the only bust Michelangelo ever made. Commissioned after the assassination of Duke Alessandro de' Medici, it may represent a republican ideal.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bruto_Miguel_%C3%81ngel_02_%28cropped%29.JPG/3456px-Bruto_Miguel_%C3%81ngel_02_%28cropped%29.JPG)
+
+- [David](https://en.wikipedia.org/wiki/David_(Verrocchio))
+  - **Artist**: [Andrea del Verrocchio](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio)
+  - **Medium**: Bronze
+  - **Date**: c. 1473-1475
+  - **Description**: A bronze statue commissioned by the Medici family. Sometimes claimed to be modeled after Verrocchio's pupil Leonardo da Vinci. Shows a confident young David in contemporary dress.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/ae/David%2C_Andrea_del_Verrocchio%2C_ca._1466-69%2C_Bargello_Florenz-01.jpg)
+
+- [Marzocco](https://en.wikipedia.org/wiki/Marzocco)
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Sandstone (pietra serena)
+  - **Date**: 1419-1420
+  - **Description**: The heraldic lion symbol of Florence, originally placed in the Piazza della Signoria. This iconic representation of Florentine civic pride holds a shield bearing the lily emblem of Florence.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/b/b3/Marzocco.jpg)
+
+### Artists
+
+- [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Born**: c. 1386, Florence
+  - **Died**: 1466, Florence
+  - Italian sculptor of the Renaissance period. The Bargello houses many of his masterpieces including both David statues, Saint George, and the Marzocco. His bronze David was the first freestanding nude male sculpture since antiquity.
+
+- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Born**: 1475, Caprese
+  - **Died**: 1564, Rome
+  - Italian sculptor, painter, architect, and poet of the High Renaissance. The Bargello displays his Bacchus, Pitti Tondo, Brutus, and David-Apollo. Considered one of the greatest artists of all time.
+
+- [Andrea del Verrocchio](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio)
+  - **Born**: 1435, Florence
+  - **Died**: 1488, Venice
+  - Italian sculptor, painter and goldsmith who was a master of a workshop in Florence. He was the teacher of Leonardo da Vinci. His bronze David and Lady with Flowers bust are among the Bargello's treasures.
+
+- [Benvenuto Cellini](https://en.wikipedia.org/wiki/Benvenuto_Cellini)
+  - **Born**: 1500, Florence
+  - **Died**: 1571, Florence
+  - Italian goldsmith, sculptor, and author. The Bargello houses several of his works. Best known for the Cellini Salt Cellar and the sculpture of Perseus with the Head of Medusa in the Loggia dei Lanzi.
+
+- [Giambologna](https://en.wikipedia.org/wiki/Giambologna)
+  - **Born**: 1529, Douai, Flanders
+  - **Died**: 1608, Florence
+  - The last significant Italian Renaissance sculptor, with a large workshop producing works in bronze and marble in a late Mannerist style. Several of his works are in the Bargello collection.
+
+## Church & Museum of Orsanmichele, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Orsanmichele](https://en.wikipedia.org/wiki/Orsanmichele)
+  - **Type**: Church and Museum
+  - **Description**: A communal building and church unique for its multifunctionality as grain market, granary and oratory. The exterior niches contain patron saints of the major Florentine guilds, creating an extraordinary gallery of Renaissance sculpture. Original sculptures are now in the upper floor museum.
+
+### Artworks
+
+- [Saint George](https://en.wikipedia.org/wiki/Saint_George_(Donatello))
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Marble
+  - **Date**: c. 1415-1417
+  - **Description**: Commissioned by the guild of armorers and sword makers. The elegant St. George and the Dragon relief on the statue's base, executed in schiacciato (very low bas-relief), is one of the first examples of central-point perspective in sculpture. Original now in the Bargello.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/5f/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-01.jpg)
+
+- [Saint Mark](https://en.wikipedia.org/wiki/Saint_Mark_(Donatello))
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Marble
+  - **Date**: 1411-1413
+  - **Description**: A marble statue standing approximately 7 ft 9 in (2.36 m) high, commissioned by the linen-drapers' guild. Depicts Mark the Evangelist with extraordinary naturalism in the drapery and pose. Original now in the museum.
+
+- [Saint John the Baptist](https://en.wikipedia.org/wiki/Saint_John_the_Baptist_(Ghiberti))
+  - **Artist**: [Lorenzo Ghiberti](https://en.wikipedia.org/wiki/Lorenzo_Ghiberti)
+  - **Medium**: Bronze
+  - **Date**: 1412-1416
+  - **Description**: Commissioned by the cloth merchant's guild (Arte di Calimala). The first life-sized bronze cast in the Renaissance and the first bronze statue of its size to be cast in a single piece for several hundred years in Italy. Shows International Gothic influence in its elegant curves.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/68/StJohntheBaptistGhiberti.JPG)
+
+- [Christ and Saint Thomas](https://en.wikipedia.org/wiki/Christ_and_Saint_Thomas_(Verrocchio))
+  - **Artist**: [Andrea del Verrocchio](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio)
+  - **Medium**: Bronze
+  - **Date**: 1467-1483
+  - **Description**: Shows the Incredulity of Saint Thomas, with Thomas reaching to feel Christ's wounds. The niche was originally designed by Donatello for his Saint Louis of Toulouse. A masterpiece of bronze casting and compositional arrangement.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a9/Museo_di_orsanmichele%2C_verrocchio%2C_incredulit%C3%A0_di_s._tommaso_03.JPG)
+
+- [Four Crowned Martyrs](https://en.wikipedia.org/wiki/Four_Crowned_Martyrs)
+  - **Artist**: [Nanni di Banco](https://en.wikipedia.org/wiki/Nanni_di_Banco)
+  - **Medium**: Marble
+  - **Date**: c. 1409-1417
+  - **Description**: Commissioned by the guild of stone and wood workers. Shows four Early Christian sculptors who refused to carve a pagan idol. Remarkable for its classical Roman influence and group composition within a single niche.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/e0/FirenzeOrsanmichele03.jpg)
+
+- Tabernacle of Orcagna
+  - **Artist**: [Orcagna](https://en.wikipedia.org/wiki/Orcagna)
+  - **Medium**: Marble, mosaic, gold
+  - **Date**: 1352-1359
+  - **Description**: Called the high point of Italian Gothic sculpture, this monumental marble tabernacle was commissioned to protect a miraculous image of the Madonna. Includes 117 figural sculptures or reliefs as part of a domed structure adorned with mosaics and gilding.
+
+### Artists
+
+- [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Born**: c. 1386, Florence
+  - **Died**: 1466, Florence
+  - Italian sculptor of the Renaissance. Created the St. George, St. Mark, and St. Louis of Toulouse for Orsanmichele niches. His innovative schiacciato relief technique is demonstrated in the St. George base.
+
+- [Lorenzo Ghiberti](https://en.wikipedia.org/wiki/Lorenzo_Ghiberti)
+  - **Born**: 1378, Pelago
+  - **Died**: 1455, Florence
+  - Italian Renaissance sculptor best known for the Florence Baptistery doors. His St. John the Baptist and St. Stephen for Orsanmichele were pioneering bronze castings.
+
+- [Andrea del Verrocchio](https://en.wikipedia.org/wiki/Andrea_del_Verrocchio)
+  - **Born**: 1435, Florence
+  - **Died**: 1488, Venice
+  - Italian sculptor, painter and goldsmith, teacher of Leonardo da Vinci. His Christ and Saint Thomas at Orsanmichele is considered one of the greatest Renaissance bronze groups.
+
+- [Nanni di Banco](https://en.wikipedia.org/wiki/Nanni_di_Banco)
+  - **Born**: c. 1384, Florence
+  - **Died**: 1421, Florence
+  - Italian Renaissance sculptor contemporary with Donatello. His Four Crowned Martyrs shows remarkable classical influence and was influential in the development of Renaissance sculpture.
+
+- [Orcagna](https://en.wikipedia.org/wiki/Orcagna)
+  - **Born**: c. 1308, Florence
+  - **Died**: 1368, Florence
+  - Italian painter, sculptor, and architect. His tabernacle at Orsanmichele is considered the masterpiece of Italian Gothic sculpture.
+
+### Bible Stories
+
+- [Incredulity of Saint Thomas](https://en.wikipedia.org/wiki/Doubting_Thomas)
+  - **Book(s)**: Gospel of John
+  - **Chapters/Verses**: John 20:24-29
+  - **Description**: The resurrected Jesus appeared to the disciples, but Thomas was absent. He refused to believe until he could see and touch Christ's wounds. A week later, Jesus appeared again and invited Thomas to touch his wounds, leading to Thomas's declaration of faith.
+
+## Casa Buonarroti, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Casa Buonarroti](https://en.wikipedia.org/wiki/Casa_Buonarroti)
+  - **Type**: Museum
+  - **Description**: A museum situated on property owned by Michelangelo that he left to his nephew Leonardo Buonarroti. The complex was converted into a museum by his great nephew, Michelangelo Buonarroti the Younger. Houses two of Michelangelo's earliest marble sculptures and an extensive archive.
+
+### Artworks
+
+- [Madonna of the Stairs](https://en.wikipedia.org/wiki/Madonna_of_the_Stairs)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble relief
+  - **Date**: c. 1490
+  - **Description**: A relief sculpture created when Michelangelo was about fifteen years old. Shows the Virgin Mary nursing the Christ Child in a technique influenced by Donatello's schiacciato. Despite its small size, the composition feels monumental.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7b/Michelangelo%2C_madonna_della_scala%2C_1491_ca%2C_01.JPG)
+
+- [Battle of the Centaurs](https://en.wikipedia.org/wiki/Battle_of_the_Centaurs_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble relief
+  - **Date**: c. 1492
+  - **Description**: The last work Michelangelo created while under the patronage of Lorenzo de' Medici. Represents the mythic battle between the Lapiths and Centaurs, suggested by the poet Poliziano. Though unfinished, it demonstrates his fascination with movement and human anatomy.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/39/Michelangelo%2C_centauromachia%2C_1492_ca._01.JPG)
+
+### Artists
+
+- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Born**: 1475, Caprese
+  - **Died**: 1564, Rome
+  - Italian sculptor, painter, architect, and poet of the High Renaissance. The Madonna of the Stairs and Battle of the Centaurs are his two earliest known sculptures, created when he was 15-17 years old while studying under the patronage of Lorenzo de' Medici.
+
+### Bible Stories
+
+- [Madonna and Child](https://en.wikipedia.org/wiki/Madonna_and_Child)
+  - **Book(s)**: Gospels of Matthew, Luke
+  - **Chapters/Verses**: Matthew 1-2, Luke 1-2
+  - **Description**: Depictions of the Virgin Mary with the infant Jesus, one of the most common subjects in Christian art. The Madonna of the Stairs shows Mary nursing the Christ Child in a contemplative pose.
+
+## Cenacolo di Sant'Apollonia, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Sant'Apollonia](https://en.wikipedia.org/wiki/Sant'Apollonia)
+  - **Type**: Museum (former convent)
+  - **Description**: A former Benedictine convent founded in 1339, north of the center of Florence. Now houses the Museo di Cenacolo di Sant'Apollonia, featuring Andrea del Castagno's masterful Last Supper fresco. Free admission.
+
+### Artworks
+
+- [Last Supper](https://en.wikipedia.org/wiki/Last_Supper_(Castagno))
+  - **Artist**: [Andrea del Castagno](https://en.wikipedia.org/wiki/Andrea_del_Castagno)
+  - **Medium**: Fresco
+  - **Date**: 1445-1450
+  - **Description**: Considered the first "Last Supper" of the Renaissance in Florence. Located in the refectory, it shows Jesus and the Apostles with Judas sitting separately on the near side of the table. Notable for its perspective illusion, naturalistic detail, and highly detailed marble walls recalling Roman wall paintings. May have influenced Leonardo da Vinci's later version.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/9e/Cenacolo_di_sant%27apollonia%2C_interno_01.JPG)
+
+- Passion Cycle Frescoes
+  - **Artist**: [Andrea del Castagno](https://en.wikipedia.org/wiki/Andrea_del_Castagno)
+  - **Medium**: Fresco
+  - **Date**: 1445-1450
+  - **Description**: Above the Last Supper, Castagno painted scenes of the Passion: the Crucifixion, Entombment, and Resurrection. These are now damaged but remain visible. The entire program was hidden behind plaster for over a century.
+
+### Artists
+
+- [Andrea del Castagno](https://en.wikipedia.org/wiki/Andrea_del_Castagno)
+  - **Born**: c. 1421, Castagno
+  - **Died**: 1457, Florence
+  - Italian Renaissance painter influenced by Masaccio and Giotto. His Last Supper at Sant'Apollonia was unknown until the convent was suppressed in 1866, as the cloistered nature of the nunnery kept it hidden from art historians including Vasari.
+
+### Bible Stories
+
+- [Last Supper](https://en.wikipedia.org/wiki/Last_Supper)
+  - **Book(s)**: Gospels of Matthew, Mark, Luke, John
+  - **Chapters/Verses**: Matthew 26:17-30, Mark 14:12-26, Luke 22:7-38, John 13:1-30
+  - **Description**: The final meal Jesus shared with his disciples before his crucifixion. During this meal, Jesus instituted the Eucharist and predicted his betrayal by Judas. A popular subject in refectory decoration.
+
+## Piazzale Michelangelo, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Piazzale Michelangelo](https://en.wikipedia.org/wiki/Piazzale_Michelangelo)
+  - **Type**: Public square/viewpoint
+  - **Description**: A square with a panoramic view of Florence, located in the Oltrarno district on the south bank of the Arno. Designed by architect Giuseppe Poggi in 1869 during the urban renewal when Florence was the capital of Italy.
+
+### Artworks
+
+- Bronze copies of Michelangelo's works
+  - **Artist**: After [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Bronze
+  - **Date**: 1873
+  - **Description**: The piazzale features bronze copies of some of Michelangelo's famous works, including a copy of the David at the center and copies of the four allegorical figures (Dawn, Dusk, Day, Night) from the Medici Chapels.
+
+### Artists
+
+- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Born**: 1475, Caprese
+  - **Died**: 1564, Rome
+  - Italian sculptor, painter, architect, and poet of the High Renaissance. The piazzale is named in his honor and displays bronze copies of his most famous Florentine works.
+
+## Palazzo Medici Riccardi, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Palazzo Medici Riccardi](https://en.wikipedia.org/wiki/Palazzo_Medici_Riccardi)
+  - **Type**: Palace/Museum
+  - **Description**: A 15th-century Renaissance palace built for the Medici family, who dominated the politics of the Republic of Florence. Designed by Michelozzo. Now the seat of the Metropolitan City of Florence administration and a museum.
+
+### Artworks
+
+- [Magi Chapel](https://en.wikipedia.org/wiki/Magi_Chapel)
+  - **Artist**: [Benozzo Gozzoli](https://en.wikipedia.org/wiki/Benozzo_Gozzoli)
+  - **Medium**: Fresco
+  - **Date**: c. 1459
+  - **Description**: A private chapel whose walls are almost entirely covered by a famous fresco cycle depicting the Journey of the Magi. The procession incorporates portraits of the Medici family, their allies, and figures from the Council of Florence (1438-1439), including 32 realistic portraits.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/52/Altar_wall%2C_Chapel_of_the_Magi%2C_Florence..jpg)
+
+- Procession of the Magi (East Wall - Young Magus)
+  - **Artist**: [Benozzo Gozzoli](https://en.wikipedia.org/wiki/Benozzo_Gozzoli)
+  - **Medium**: Fresco
+  - **Date**: c. 1459
+  - **Description**: The youngest Magus, shown as an idealized portrait thought to represent Lorenzo de' Medici, leads a glittering cavalcade through a rocky landscape. Gozzoli included his own self-portrait among the crowd.
+
+- Angels in Adoration
+  - **Artist**: [Benozzo Gozzoli](https://en.wikipedia.org/wiki/Benozzo_Gozzoli)
+  - **Medium**: Fresco
+  - **Date**: c. 1459
+  - **Description**: Located in the rectangular apse of the chapel, this fresco depicts angels kneeling in adoration, complementing the Procession of the Magi on the main walls.
+
+### Artists
+
+- [Benozzo Gozzoli](https://en.wikipedia.org/wiki/Benozzo_Gozzoli)
+  - **Born**: c. 1421, Florence
+  - **Died**: 1497, Pistoia
+  - Italian Renaissance painter and former assistant of Fra Angelico. Best known for the Magi Chapel frescoes at Palazzo Medici Riccardi, which display festive, vibrant processions with fine attention to detail and a pronounced International Gothic influence.
+
+### Bible Stories
+
+- [Biblical Magi](https://en.wikipedia.org/wiki/Biblical_Magi)
+  - **Book(s)**: Gospel of Matthew
+  - **Chapters/Verses**: Matthew 2:1-12
+  - **Description**: Wise men from the East who followed a star to Bethlehem to visit the newborn Jesus, bringing gifts of gold, frankincense, and myrrh. Their journey to worship Christ became a popular subject in Renaissance art.
+
+## Officina Profumo-Farmaceutica di Santa Maria Novella, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Officina Profumo-Farmaceutica di Santa Maria Novella](https://en.wikipedia.org/wiki/Officina_Profumo-Farmaceutica_di_Santa_Maria_Novella)
+  - **Type**: Historic perfumery/shop
+  - **Description**: A perfumery and herbalist shop in Florence, sometimes described as "the oldest pharmacy in the world." Founded by Dominican friars when they arrived in Florence in 1221, it began selling products to the public in 1612. The historic interior features Renaissance frescoes and furnishings.
+
+### Historical Context
+
+The Officina is primarily a historic commercial establishment rather than an art museum, but its interiors preserve elements of Renaissance and later decoration associated with the adjacent Santa Maria Novella complex.
+
+## Basilica of Santa Maria Novella, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Santa Maria Novella](https://en.wikipedia.org/wiki/Santa_Maria_Novella)
+  - **Type**: Church
+  - **Description**: A Dominican church considered the most important Romano-Gothic church in Tuscany and a World Heritage Site. Construction started in 1290 and it took almost 200 years to complete. The façade, completed by Leon Battista Alberti, is one of the most important examples of Renaissance architecture.
+
+### Artworks
+
+- [Holy Trinity](https://en.wikipedia.org/wiki/Holy_Trinity_(Masaccio))
+  - **Artist**: [Masaccio](https://en.wikipedia.org/wiki/Masaccio)
+  - **Medium**: Fresco
+  - **Date**: 1425-1427
+  - **Description**: Widely considered the first successful application of linear perspective in painting, fundamentally altering the course of Western art. Shows God the Father supporting the crucified Christ with the Holy Spirit as a dove, flanked by the Virgin Mary, Saint John, and two donors.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/d2/Masaccio%2C_trinit%C3%A0.jpg)
+
+- [Crucifix](https://en.wikipedia.org/wiki/Giotto's_Crucifix_at_Santa_Maria_Novella)
+  - **Artist**: [Giotto](https://en.wikipedia.org/wiki/Giotto)
+  - **Medium**: Tempera and gold on wood panel
+  - **Date**: c. 1290-1295
+  - **Description**: One of Giotto's earliest known works, measuring 578 x 406 cm. Marks a break from Byzantine tradition with a more naturalistic depiction of Christ's suffering body. Hangs at the center of the nave.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg)
+
+- [Tornabuoni Chapel Frescoes](https://en.wikipedia.org/wiki/Tornabuoni_Chapel)
+  - **Artist**: [Domenico Ghirlandaio](https://en.wikipedia.org/wiki/Domenico_Ghirlandaio) and workshop
+  - **Medium**: Fresco
+  - **Date**: 1485-1490
+  - **Description**: The main chapel (chancel) features one of the most complete fresco cycles in Florence, depicting scenes from the lives of the Virgin Mary and St. John the Baptist. Particularly valued for showing characters in typical Florentine dress of the late 15th century. The young Michelangelo was an apprentice in Ghirlandaio's workshop during this project.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/9d/Domenico_Ghirlandaio_und_Werkstatt%2C_Tornabuoni-Kapelle%2C_1486%E2%80%931490%2C_Freskenzyklus%2C_Santa_Maria_Novella%2C_Florenz.jpg)
+
+- [Brunelleschi Crucifix](https://en.wikipedia.org/wiki/Brunelleschi_Crucifix)
+  - **Artist**: [Filippo Brunelleschi](https://en.wikipedia.org/wiki/Filippo_Brunelleschi)
+  - **Medium**: Polychrome painted pearwood
+  - **Date**: c. 1410-1415
+  - **Description**: Located in the Gondi Chapel, this is the only surviving wooden sculpture by Brunelleschi. Described as "probably the first Renaissance work in the history of art," representing a definitive turn from Gothic stylization to classical naturalism.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/17/Crocifisso_di_brunelleschi%2C_1410-15_02.JPG)
+
+- Strozzi Chapel Frescoes
+  - **Artist**: [Filippino Lippi](https://en.wikipedia.org/wiki/Filippino_Lippi)
+  - **Medium**: Fresco
+  - **Date**: 1487-1502
+  - **Description**: Located in the right transept, these frescoes depict the lives of Saints Philip and John the Evangelist. Completed over an extended period, they show Filippino Lippi's mature style with rich colors and complex compositions.
+
+### Artists
+
+- [Masaccio](https://en.wikipedia.org/wiki/Masaccio)
+  - **Born**: 1401, Castel San Giovanni
+  - **Died**: 1428, Rome
+  - Italian painter regarded as the first great Italian painter of the Quattrocento. His Holy Trinity at Santa Maria Novella pioneered the use of linear perspective, fundamentally influencing all subsequent Western art.
+
+- [Giotto](https://en.wikipedia.org/wiki/Giotto)
+  - **Born**: c. 1267, near Florence
+  - **Died**: 1337, Florence
+  - Italian painter and architect from Florence during the Late Middle Ages. Described by Vasari as initiating "the great art of painting as we know it today." His Crucifix at Santa Maria Novella is one of his earliest known works.
+
+- [Domenico Ghirlandaio](https://en.wikipedia.org/wiki/Domenico_Ghirlandaio)
+  - **Born**: 1449, Florence
+  - **Died**: 1494, Florence
+  - Italian Renaissance painter of the "third generation" of the Florentine Renaissance. His workshop trained the young Michelangelo. The Tornabuoni Chapel frescoes are his masterwork.
+
+- [Filippo Brunelleschi](https://en.wikipedia.org/wiki/Filippo_Brunelleschi)
+  - **Born**: 1377, Florence
+  - **Died**: 1446, Florence
+  - Italian architect and sculptor considered a founding father of Renaissance architecture. His wooden Crucifix at Santa Maria Novella may be "the first Renaissance work in the history of art."
+
+- [Filippino Lippi](https://en.wikipedia.org/wiki/Filippino_Lippi)
+  - **Born**: c. 1457, Prato
+  - **Died**: 1504, Florence
+  - Italian Renaissance painter, son of Fra Filippo Lippi. His Strozzi Chapel frescoes at Santa Maria Novella demonstrate his mature style.
+
+### Bible Stories
+
+- [Holy Trinity](https://en.wikipedia.org/wiki/Trinity)
+  - **Book(s)**: Throughout New Testament
+  - **Description**: The Christian doctrine that God exists as three persons—Father, Son, and Holy Spirit—yet is one God. Masaccio's fresco depicts this through God the Father supporting the crucified Christ, with the Holy Spirit as a dove.
+
+## Mercato Centrale, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Mercato Centrale (Florence)](https://en.wikipedia.org/wiki/Mercato_Centrale_(Florence))
+  - **Type**: Market
+  - **Description**: A covered food market located in the San Lorenzo district. Built during the risanamento period when Florence was the capital of Italy in the late nineteenth century. Designed by Giuseppe Mengoni, the same architect who conceived the Galleria Vittorio Emanuele II in Milan.
+
+### Historical Context
+
+The Mercato Centrale is primarily a historic market building rather than an art venue, but its cast-iron and glass architecture from the 1870s represents an important example of 19th-century industrial design in Florence.
+
+## Leonardo Interactive Museum, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- Leonardo Interactive Museum
+  - **Type**: Museum
+  - **Description**: A fully interactive museum in the heart of Florence's historic center dedicated to Leonardo da Vinci. Located at Via dei Servi 66/r, near the Accademia Gallery and Florence Cathedral. Features life-sized working models of Leonardo's inventions built from his Codex drawings.
+
+### Artworks/Exhibits
+
+- Leonardo's Machine Models
+  - **After**: Leonardo da Vinci
+  - **Medium**: Wood and metal reconstructions
+  - **Description**: Full-scale working reproductions of machines designed by Leonardo, organized into four sections: earth, water, air, and fire. Visitors can interact with many machines including the tank, catapult, worm screw, hydraulic saw, and printing press.
+
+- Flying Machine Models
+  - **After**: Leonardo da Vinci
+  - **Medium**: Wood and fabric reconstructions
+  - **Description**: Reconstructions of Leonardo's various flying machine designs representing his ambitious dream of human flight, including ornithopters and gliders based on his studies of bird flight.
+
+### Historical Context
+
+- [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+  - **Born**: 1452, Vinci
+  - **Died**: 1519, Amboise, France
+  - Italian polymath of the High Renaissance, active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. His notebooks contain thousands of pages of inventions, scientific observations, and artistic studies that form the basis for this museum's reconstructions.

@@ -22,6 +22,11 @@
 - [Pitti Gallery](locations/PittiGallery.md)
 - [Palazzo Rucellai](locations/PalazzoRucellai.md)
 - [Sant'Apollonia](locations/SantApollonia.md)
+- [Casa Buonarroti](locations/CasaBuonarroti.md)
+- [Piazzale Michelangelo](locations/PiazzaleMichelangelo.md)
+- [Officina Profumo-Farmaceutica](locations/OfficinaProfumoFarmaceutica.md)
+- [Mercato Centrale](locations/MercatoCentrale.md)
+- [Leonardo Interactive Museum](locations/LeonardoInteractiveMuseum.md)
 
 #### Rome
 

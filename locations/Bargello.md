@@ -53,3 +53,25 @@ Florence, Italy
 ### [Bacchus](../artworks/BacchusMichelangelo.md)
 - **Artist**: [Michelangelo](../artists/Michelangelo.md)
 - God of wine, nude with vine leaves and grapes
+
+### [Pitti Tondo](../artworks/PittiTondo.md)
+- **Artist**: [Michelangelo](../artists/Michelangelo.md)
+- **Medium**: Marble relief
+- **Date**: 1503-1504
+- An unfinished marble relief of the Virgin and Child in round (tondo) form with remarkably deep carving.
+
+![img](https://upload.wikimedia.org/wikipedia/commons/0/07/Michelangelo%2C_tondo_pitti.jpg)
+
+### [Brutus](../artworks/BrutusMichelangelo.md)
+- **Artist**: [Michelangelo](../artists/Michelangelo.md)
+- **Medium**: Marble bust
+- **Date**: c. 1539-1540
+- The only bust Michelangelo ever made, representing Marcus Junius Brutus.
+
+### [Marzocco](../artworks/Marzocco.md)
+- **Artist**: [Donatello](../artists/Donatello.md)
+- **Medium**: Sandstone (pietra serena)
+- **Date**: 1419-1420
+- The heraldic lion symbol of Florence, originally placed in the Piazza della Signoria.
+
+![img](https://upload.wikimedia.org/wikipedia/commons/b/b3/Marzocco.jpg)

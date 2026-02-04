@@ -71,3 +71,13 @@ Born Donato di Niccolò di Betto Bardi, Donatello was an Italian sculptor of the
 ### [Saint John the Baptist](../artworks/SaintJohnTheBaptistDonatello.md)
 - **Location**: [Basilica di Santa Maria Gloriosa dei Frari](../locations/BasilicaDeiFrari.md), Venice
 - **Medium**: Painted wood
+
+### [Marzocco](../artworks/Marzocco.md)
+- **Location**: [Bargello](../locations/Bargello.md), Florence
+- **Medium**: Sandstone (pietra serena)
+- Heraldic lion symbol of Florence
+
+### [Bronze Pulpits](../artworks/BronzePulpits.md)
+- **Location**: [Basilica of San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
+- **Medium**: Bronze
+- Donatello's final works, completed by his workshop after his death

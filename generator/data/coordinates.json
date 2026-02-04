@@ -127,9 +127,17 @@
     "lat": 45.4649632,
     "lng": 9.1919118
   },
+  "LeonardoInteractiveMuseum": {
+    "lat": 43.7749655,
+    "lng": 11.2590086
+  },
   "LoggiaDeiLanzi": {
     "lat": 43.7693,
     "lng": 11.2555
+  },
+  "MercatoCentrale": {
+    "lat": 43.7765847,
+    "lng": 11.2532087
   },
   "MilanCathedral": {
     "lat": 45.4641,
@@ -158,6 +166,10 @@
   "NationalGalleryOfAncientArt": {
     "lat": 41.9038,
     "lng": 12.4897
+  },
+  "OfficinaProfumoFarmaceutica": {
+    "lat": 43.7741387,
+    "lng": 11.2477788
   },
   "OperaDelDuomoMuseum": {
     "lat": 43.7732,

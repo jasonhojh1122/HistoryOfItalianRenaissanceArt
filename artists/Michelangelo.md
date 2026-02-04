@@ -57,6 +57,32 @@ Worked in Ghirlandaio's study at age 13, and was invited into the house of Loren
 
 ### [Moses](../artworks/MosesMichelangelo.md)
 
+### Medici Chapels Works
+
+### [Medici Chapels](../artworks/MediciChapels.md)
+- **Location**: [Basilica of San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
+- Michelangelo's first architectural realization
+
+### [Tomb of Giuliano de' Medici, Duke of Nemours](../artworks/TombOfGiulianoDeMedici.md)
+- **Location**: [Basilica of San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
+- Allegorical figures of Night and Day
+
+### [Tomb of Lorenzo de' Medici, Duke of Urbino](../artworks/TombOfLorenzoDeMedici.md)
+- **Location**: [Basilica of San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
+- Allegorical figures of Dawn and Dusk
+
+### [Laurentian Library](../artworks/LaurentianLibrary.md)
+- **Location**: [Basilica of San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
+- Mannerist architectural masterpiece
+
+### [Pitti Tondo](../artworks/PittiTondo.md)
+- **Location**: [Bargello](../locations/Bargello.md), Florence
+- Unfinished marble relief of Virgin and Child
+
+### [Brutus](../artworks/BrutusMichelangelo.md)
+- **Location**: [Bargello](../locations/Bargello.md), Florence
+- The only bust Michelangelo ever made
+
 ### Later Works
 
 ### [The Deposition (Florentine Pietà)](../artworks/FlorentinePieta.md)
