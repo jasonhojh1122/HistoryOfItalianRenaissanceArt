@@ -21,3 +21,6 @@ The Lamentation (also known as Pietà when focused on Mary alone with Christ's b
 
 ### [Pietà](../artworks/PietaMichelangelo.md)
 - Michelangelo, St. Peter's Basilica, 1498-1499
+
+### [The Deposition (Florentine Pietà)](../artworks/FlorentinePieta.md)
+- Michelangelo, Museo dell'Opera del Duomo, 1547-1555

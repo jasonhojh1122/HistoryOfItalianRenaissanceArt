@@ -768,3 +768,156 @@ Over 11,000 graffiti samples have been uncovered in the excavations of Pompeii, 
 - [Battle of Issus](https://en.wikipedia.org/wiki/Battle_of_Issus)
   - **Date**: 5 November 333 BC
   - **Description**: A battle in southern Anatolia between the Hellenic League led by Alexander the Great and the Achaemenid Empire led by Darius III. Alexander's victory forced Darius to flee, leaving behind his family and treasury. This battle is the subject of the famous Alexander Mosaic found in the House of the Faun.
+
+---
+
+## Florence Cathedral, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Florence Cathedral](https://en.wikipedia.org/wiki/Florence_Cathedral)
+  - **Type**: Cathedral / Basilica
+  - **Description**: Formally the Cathedral of Saint Mary of the Flower, this is the cathedral of the Catholic Archdiocese of Florence. Commenced in 1296 in the Gothic style to a design of Arnolfo di Cambio and completed by 1436 with a dome engineered by Filippo Brunelleschi, the basilica's exterior is faced with polychrome marble panels in various shades of green and pink, alternated by white, and features an elaborate 19th-century Gothic Revival western façade.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg)
+
+### Artworks
+
+- [The Last Judgement (Vasari and Zuccari)](https://en.wikipedia.org/wiki/The_Last_Judgement_(Vasari_and_Zuccari))
+  - **Artist**: [Giorgio Vasari](https://en.wikipedia.org/wiki/Giorgio_Vasari) and [Federico Zuccari](https://en.wikipedia.org/wiki/Federico_Zuccari)
+  - **Medium**: Fresco
+  - **Date**: 1572-1579
+  - **Description**: A monumental fresco covering the interior of Brunelleschi's dome. Initially commissioned by Grand Duke Cosimo I de' Medici, it was begun by Giorgio Vasari in 1572 and completed after his death by Federico Zuccari in 1579. The subject was inspired by Michelangelo's work on the Sistine Chapel ceiling. It was extensively restored between 1989 and 1994.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a0/Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg)
+
+- [Funerary Monument to Sir John Hawkwood](https://en.wikipedia.org/wiki/Funerary_Monument_to_Sir_John_Hawkwood)
+  - **Artist**: [Paolo Uccello](https://en.wikipedia.org/wiki/Paolo_Uccello)
+  - **Medium**: Fresco
+  - **Date**: 1436
+  - **Description**: A painted equestrian monument commemorating the English condottiero John Hawkwood, who served Florence as a mercenary captain. The fresco is an important example of art commemorating a soldier-for-hire and is a seminal work in the development of perspective. Located on the left internal wall of the cathedral.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/2/24/Paolo_uccello%2C_Monumento_equestre_di_John_Hawkwood%2C_1436%2C_01.JPG)
+
+- [Equestrian Monument of Niccolò da Tolentino](https://en.wikipedia.org/wiki/Equestrian_Monument_of_Niccol%C3%B2_da_Tolentino)
+  - **Artist**: [Andrea del Castagno](https://en.wikipedia.org/wiki/Andrea_del_Castagno)
+  - **Medium**: Fresco
+  - **Date**: 1456
+  - **Description**: A painted equestrian monument honoring the Italian condottiero Niccolò da Tolentino. Located on the left internal wall of the church next to the earlier fresco of John Hawkwood by Paolo Uccello. Both frescoes simulate three-dimensional sculptural monuments through illusionistic painting.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/41/Andrea_del_castagno%2C_Monumento_equestre_di_Niccol%C3%B2_da_Tolentino%2C_1456%2C_01.JPG)
+
+- Dante Before the City of Florence
+  - **Artist**: [Domenico di Michelino](https://en.wikipedia.org/wiki/Domenico_di_Michelino)
+  - **Medium**: Painting
+  - **Date**: 1465
+  - **Description**: Also known as "La Divina Commedia illumina Firenze" (The Divine Comedy Illuminates Florence), this painting shows Dante holding a copy of the Divine Comedy, with Mount Purgatory and the city of Florence behind him. The work honors Dante Alighieri, Florence's greatest poet, who was exiled from the city in 1302.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7b/Dante_Domenico_di_Michelino.jpg)
+
+- [The Deposition (Florentine Pietà)](https://en.wikipedia.org/wiki/The_Deposition_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble sculpture
+  - **Date**: 1547-1555
+  - **Description**: A marble sculpture depicting four figures: the dead body of Jesus Christ newly taken down from the Cross, Nicodemus (said to be Michelangelo's self-portrait), Mary Magdalene, and the Virgin Mary. Originally intended for Michelangelo's own tomb. Now housed in the Museo dell'Opera del Duomo but was earlier in the Duomo itself.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/c6/Pieta_Bandini_Opera_Duomo_Florence_n01.jpg)
+
+### Associated Sites
+
+- [Giotto's Campanile](https://en.wikipedia.org/wiki/Giotto's_Campanile)
+  - **Type**: Bell Tower
+  - **Architect**: [Giotto di Bondone](https://en.wikipedia.org/wiki/Giotto) (begun), Andrea Pisano, Francesco Talenti
+  - **Date**: 1334-1359
+  - **Description**: A free-standing campanile that is part of the complex of buildings making up Florence Cathedral on the Piazza del Duomo. The hexagonal panels on the lower level depict the history of mankind, inspired by Genesis, including scenes of the Creation of Adam and Eve. All present works of art on the campanile are copies; the originals were removed between 1965 and 1967 and are now in the Museo dell'Opera del Duomo.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/69/CampanileGiotto-01.jpg)
+
+- [Florence Baptistery](https://en.wikipedia.org/wiki/Florence_Baptistery)
+  - **Type**: Baptistery
+  - **Description**: Also known as the Baptistery of Saint John, this octagonal building stands between the Piazza del Duomo and the Piazza San Giovanni. Dedicated to the patron saint of the city, John the Baptist, it has been a focus of religious, civic, and artistic life since its completion. Famous for the bronze doors by Andrea Pisano and Lorenzo Ghiberti, including the "Gates of Paradise."
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/d6/Baptistery%2C_Florence.jpg)
+
+- [Museo dell'Opera del Duomo](https://en.wikipedia.org/wiki/Museo_dell'Opera_del_Duomo_(Florence))
+  - **Type**: Museum
+  - **Description**: A museum containing many of the original works of art created for Florence Cathedral, including the adjacent Florence Baptistery and Giotto's campanile. Most exterior sculptures have been removed from these buildings, usually replaced by replica pieces, with the museum conserving the originals. Houses "one of the world's most important collections of sculpture," including the famous Cantorie (singing galleries) by Luca della Robbia and Donatello.
+
+### Artists
+
+- [Arnolfo di Cambio](https://en.wikipedia.org/wiki/Arnolfo_di_Cambio)
+  - **Born**: c. 1240, Colle di Val d'Elsa
+  - **Died**: c. 1302/1310, Florence
+  - Italian architect and sculptor of the Duecento who began as a lead assistant to Nicola Pisano. Documented as capomaestro (Head of Works) for Florence Cathedral in 1300. Also designed the sixth city wall around Florence (1284–1333).
+
+- [Filippo Brunelleschi](https://en.wikipedia.org/wiki/Filippo_Brunelleschi)
+  - **Born**: 1377, Florence
+  - **Died**: 1446, Florence
+  - Italian architect, designer, goldsmith, and sculptor considered a founding father of Renaissance architecture. Most famous for designing the dome of Florence Cathedral and for the mathematical technique of linear perspective in art. In 1421, became the first person to receive a patent in the Western world.
+
+- [Giorgio Vasari](https://en.wikipedia.org/wiki/Giorgio_Vasari)
+  - **Born**: 1511, Arezzo
+  - **Died**: 1574, Florence
+  - Italian Renaissance painter, architect, art historian, and biographer. Known for his work "Lives of the Most Excellent Painters, Sculptors, and Architects," considered the foundation of Western art-historical writing. Began the Last Judgment fresco in the Florence Cathedral dome.
+
+- [Federico Zuccari](https://en.wikipedia.org/wiki/Federico_Zuccari)
+  - **Born**: 1540/42, Sant'Angelo in Vado
+  - **Died**: 1609, Ancona
+  - Italian painter, draughtsman, architect and writer. An important representative of late Mannerism. Completed Vasari's Last Judgment in the Florence Cathedral dome after Vasari's death.
+
+- [Paolo Uccello](https://en.wikipedia.org/wiki/Paolo_Uccello)
+  - **Born**: 1397, Pratovecchio
+  - **Died**: 1475, Florence
+  - Italian Renaissance painter and mathematician notable for his pioneering work on visual perspective in art. Vasari wrote that Uccello was obsessed by perspective and would stay up all night trying to grasp the exact vanishing point. Best known for three paintings representing the Battle of San Romano and the Hawkwood monument in the Duomo.
+
+- [Andrea del Castagno](https://en.wikipedia.org/wiki/Andrea_del_Castagno)
+  - **Born**: c. 1421, Castagno
+  - **Died**: 1457, Florence
+  - Italian Renaissance painter influenced chiefly by Masaccio and Giotto. His works include frescoes in Sant'Apollonia in Florence and the painted equestrian monument of Niccolò da Tolentino (1456) in Florence Cathedral.
+
+- [Domenico di Michelino](https://en.wikipedia.org/wiki/Domenico_di_Michelino)
+  - **Born**: 1417, Florence
+  - **Died**: 1491, Florence
+  - Italian Renaissance painter. Pupil of Fra Angelico, whose influence is reflected in many of his paintings along with that of Filippo Lippi and Pesellino. Best known for the painting of Dante in Florence Cathedral.
+
+- [Lorenzo Ghiberti](https://en.wikipedia.org/wiki/Lorenzo_Ghiberti)
+  - **Born**: 1378, Pelago
+  - **Died**: 1455, Florence
+  - Italian Renaissance sculptor from Florence, a key figure in the Early Renaissance, best known as the creator of two sets of bronze doors for the Florence Baptistery, the later one called by Michelangelo the "Gates of Paradise." Also designed stained glass for the cathedral's oculi and the bronze shrine of Saint Zenobius.
+
+- [Luca della Robbia](https://en.wikipedia.org/wiki/Luca_della_Robbia)
+  - **Born**: 1399/1400, Florence
+  - **Died**: 1482, Florence
+  - Italian Renaissance sculptor noted for his colorful, tin-glazed terracotta statuary, a technique he invented. Also a leading sculptor in stone. Created one of the two famous Cantorie (singing galleries) for Florence Cathedral, now in the Museo dell'Opera del Duomo.
+
+- [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Born**: c. 1386, Florence
+  - **Died**: 1466, Florence
+  - Italian sculptor of the Renaissance period who developed an Early Renaissance style of sculpture. Created one of the two famous Cantorie for Florence Cathedral. His David was the first freestanding nude male sculpture since antiquity.
+
+### Bible Stories
+
+- [Last Judgment](https://en.wikipedia.org/wiki/Last_Judgment)
+  - **Book(s)**: Matthew, Revelation
+  - **Chapters/Verses**: Matthew 25:31-46, Revelation 20:11-15
+  - **Description**: The Christian belief that all humanity will be judged by Christ at the end of time, separating the saved from the damned. The subject of the massive dome fresco by Vasari and Zuccari.
+
+- [Pietà](https://en.wikipedia.org/wiki/Piet%C3%A0)
+  - **Book(s)**: Gospels (implied)
+  - **Description**: The scene of the Virgin Mary mourning over the body of Christ after the Crucifixion. Though not described in the Gospels, it became one of the most moving subjects in Christian art. The subject of Michelangelo's Florentine Pietà.
+
+### Historical Context
+
+- [Condottiero](https://en.wikipedia.org/wiki/Condottiero)
+  - **Period**: 14th-16th century
+  - **Description**: The leaders of mercenary companies in Italy during the Late Middle Ages and the Renaissance. John Hawkwood and Niccolò da Tolentino, both honored with monumental frescoes in Florence Cathedral, were famous condottieri who served Florence.
+
+- [John Hawkwood](https://en.wikipedia.org/wiki/John_Hawkwood)
+  - **Born**: c. 1320, Sible Hedingham, England
+  - **Died**: 1394, Florence
+  - English soldier who served as a mercenary leader (condottiero) in Italy. In Italy known as Giovanni Acuto ("John Sharp"). His enduring fame results largely from the surviving fresco portrait by Paolo Uccello in Florence Cathedral, seen by millions of tourists each year.
+
+- [Niccolò da Tolentino](https://en.wikipedia.org/wiki/Niccol%C3%B2_da_Tolentino)
+  - **Born**: c. 1350, Tolentino
+  - **Died**: 1435
+  - Italian condottiero who served the Republic of Florence. Commemorated in Andrea del Castagno's equestrian fresco in Florence Cathedral, positioned alongside the earlier Hawkwood monument.
+
+### Terms
+
+- **Cantoria**: A raised platform or gallery for singers, usually in a church. The two famous Cantorie by Luca della Robbia (1431-1438) and Donatello (1433-1439) were created for Florence Cathedral and are now in the Museo dell'Opera del Duomo.
+
+- **Capomaestro**: Italian term meaning "head master" or "chief master," referring to the lead architect or master builder in charge of a major construction project such as a cathedral.
+
+- **Opera del Duomo**: The institution responsible for the building and maintenance of Florence Cathedral. Founded in 1296, it supervised the construction and continues to maintain the cathedral complex today. The term literally means "Works of the Cathedral."

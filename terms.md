@@ -23,6 +23,17 @@ A circular painting or relief sculpture. The term comes from the Italian word "r
 
 Blue-gray sandstone used extensively in Renaissance Florence for architectural elements.
 
+## Architectural Terms
+
+### Cantoria
+A raised platform or gallery for singers, usually in a church. The two famous Cantorie by [Luca della Robbia](artists/LucaDellaRobbia.md) (1431-1438) and [Donatello](artists/Donatello.md) (1433-1439) were created for [Florence Cathedral](locations/FlorenceCathedral.md) and are now in the [Museo dell'Opera del Duomo](locations/OperaDelDuomoMuseum.md).
+
+### Capomaestro
+Italian term meaning "head master" or "chief master," referring to the lead architect or master builder in charge of a major construction project such as a cathedral. [Arnolfo di Cambio](artists/ArnolfoDiCambio.md) was documented as capomaestro for Florence Cathedral in 1300.
+
+### Opera del Duomo
+The institution responsible for the building and maintenance of [Florence Cathedral](locations/FlorenceCathedral.md). Founded in 1296, it supervised the construction and continues to maintain the cathedral complex today. The term literally means "Works of the Cathedral."
+
 ## Painting Styles
 
 ### Pompeian Styles

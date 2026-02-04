@@ -56,3 +56,10 @@ Worked in Ghirlandaio's study at age 13, and was invited into the house of Loren
 - [The Brazen Serpent](../artworks/BrazenSerpent.md)
 
 ### [Moses](../artworks/MosesMichelangelo.md)
+
+### Later Works
+
+### [The Deposition (Florentine Pietà)](../artworks/FlorentinePieta.md)
+- **Location**: [Museo dell'Opera del Duomo](../locations/OperaDelDuomoMuseum.md), Florence
+- Originally intended for Michelangelo's own tomb
+- Said to include a self-portrait as Nicodemus

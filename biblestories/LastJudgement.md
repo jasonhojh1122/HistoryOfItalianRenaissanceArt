@@ -15,3 +15,6 @@ The Last Judgement depicts the final and eternal judgment by God of all humanity
 
 ### [Last Judgement](../artworks/LastJudgementCavallini.md)
 - Pietro Cavallini, Santa Cecilia in Trastevere, Rome, c. 1289–1293
+
+### [The Last Judgement (Vasari and Zuccari)](../artworks/LastJudgementVasariZuccari.md)
+- Giorgio Vasari and Federico Zuccari, Florence Cathedral, 1572-1579

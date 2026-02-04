@@ -7,6 +7,9 @@
 Florence, Italy
 
 **Type**: Museum
+**Source**: my-study, self-research
+
+A museum containing many of the original works of art created for [Florence Cathedral](../locations/FlorenceCathedral.md), including the adjacent [Florence Baptistery](../locations/BaptisteryOfFlorence.md) and [Giotto's campanile](../locations/GiottosCampanile.md). Most exterior sculptures have been removed from these buildings, usually replaced by replica pieces, with the museum conserving the originals. Houses "one of the world's most important collections of sculpture," including the famous Cantorie (singing galleries) by Luca della Robbia and Donatello.
 
 ## Artworks
 
@@ -30,3 +33,9 @@ Florence, Italy
 ![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Donatello%2C_maria_maddalena_02.JPG)
 
 ![img](../img/Cantoria_Donatello.png)
+
+### [The Deposition (Florentine Pietà)](../artworks/FlorentinePieta.md)
+- **Artist**: [Michelangelo](../artists/Michelangelo.md)
+- **Medium**: Marble sculpture
+
+![img](https://upload.wikimedia.org/wikipedia/commons/c/c6/Pieta_Bandini_Opera_Duomo_Florence_n01.jpg)
