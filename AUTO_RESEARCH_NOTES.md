@@ -434,3 +434,103 @@
   - **Book(s)**: Matthew, Mark, Luke, John
   - **Chapters/Verses**: Matthew 26:17-30, Mark 14:12-26, Luke 22:7-38, John 13:1-30
   - **Description**: Jesus's final meal with his apostles before his crucifixion, during which he instituted the Eucharist. The original subject of Veronese's Feast in the House of Levi.
+
+---
+
+## Pompeii Archaeological Park, Campania
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Pompeii](https://en.wikipedia.org/wiki/Pompeii)
+  - **Type**: Archaeological Site / UNESCO World Heritage Site
+  - **Description**: An ancient Roman city near Naples buried under 4-6 meters of volcanic ash and pumice in the eruption of Mount Vesuvius in 79 AD. The preserved ruins provide an extraordinarily detailed snapshot of Roman daily life, including frescoes, mosaics, and architecture. One of Italy's most popular tourist attractions and an invaluable archaeological resource.
+
+### Artworks
+
+- [Villa of the Mysteries Frescoes](https://en.wikipedia.org/wiki/Villa_of_the_Mysteries)
+  - **Artist**: Unknown Roman painter
+  - **Medium**: Fresco
+  - **Date**: c. 70-60 BC
+  - **Description**: A well-preserved suburban villa on the outskirts of Pompeii, famous for the series of exquisite frescoes in Room 5. The paintings are usually interpreted as showing the initiation of a bride into the Dionysian Mysteries, a Greco-Roman mystery cult. These are among the best known survivals of ancient Roman painting from the 1st century BC, executed in the Second Style.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/5b/Villa_of_the_Mysteries_in_Pompeii.jpg)
+
+- [Alexander Mosaic](https://en.wikipedia.org/wiki/Alexander_Mosaic)
+  - **Artist**: Unknown (possibly after Philoxenus of Eretria or Apelles)
+  - **Medium**: Floor mosaic
+  - **Date**: c. 120-100 BC
+  - **Description**: Also known as the Battle of Issus Mosaic, this Roman floor mosaic was originally from the House of the Faun in Pompeii. It depicts a battle between the armies of Alexander the Great and Darius III of Persia, comprising over 50 figures with meticulous detail and captured expressions. The original is now in the National Archaeological Museum, Naples.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/69/Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg)
+
+- [Portrait of Terentius Neo](https://en.wikipedia.org/wiki/Portrait_of_Terentius_Neo)
+  - **Artist**: Unknown Roman painter
+  - **Medium**: Fresco
+  - **Date**: c. 50 AD
+  - **Description**: A Roman fresco depicting a couple holding objects important to literacy—he holds a scroll while she holds a stylus and wax tablet. Found in the House of Terentius Neo, it is considered one of the finest pieces of art from the area of Vesuvius. Now in the National Archaeological Museum, Naples.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/11/Pompeii-couple.jpg)
+
+- ["Sappho" Fresco](https://en.wikipedia.org/wiki/%22Sappho%22_fresco_(Pompeii))
+  - **Artist**: Unknown Roman painter
+  - **Medium**: Fresco
+  - **Date**: 1st century AD
+  - **Description**: Also known as Portrait of a Young Woman with Stylus, this fresco depicts a finely dressed young woman with a writing tablet and stylus, indicating literacy and education. Recovered in 1760, it is displayed at the National Archaeological Museum, Naples, alongside the Portrait of Terentius Neo. Executed in the Fourth Style of Pompeian painting.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7c/Portrait_d%27une_jeune_femme%2C_dite_Sappho.jpg)
+
+- [House of the Faun](https://en.wikipedia.org/wiki/House_of_the_Faun)
+  - **Artist**: Various Roman craftsmen
+  - **Medium**: Architecture, mosaics, sculpture
+  - **Date**: 2nd century BC (Samnite period)
+  - **Description**: A grand Hellenistic residence that is one of the most luxurious aristocratic houses from the Roman Republic. Named for its famous bronze Dancing Faun statue in the impluvium. The house contained numerous masterpieces including the Alexander Mosaic, Nilotic scenes, and theatrical masks. It reflects this period better than most archaeological evidence found even in Rome itself.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/39/House_of_the_Faun_%28Pompeii%29.jpg)
+
+- [House of the Vettii Frescoes](https://en.wikipedia.org/wiki/House_of_the_Vettii)
+  - **Artist**: Unknown Roman painters
+  - **Medium**: Fresco
+  - **Date**: After 62 AD
+  - **Description**: A domus owned by two successful freedmen, Aulus Vettius Conviva and Aulus Vettius Restitutus. Contains twelve mythological scenes across four cubiculums and one triclinium, completed after the earthquake of 62 AD in the Fourth Style. The entrance features a famous fresco of Priapus. Reopened to tourists in 2023 after two decades of restoration.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/ee/Antigua_ciudad_de_Pompeya%2C_Italia%2C_2023-03-27%2C_DD_210.jpg)
+
+- [House of the Tragic Poet](https://en.wikipedia.org/wiki/House_of_the_Tragic_Poet)
+  - **Artist**: Unknown Roman craftsmen
+  - **Medium**: Mosaic, fresco
+  - **Date**: 2nd century BC
+  - **Description**: A Roman house famous for its elaborate mosaic floors and frescoes depicting scenes from Greek mythology. Most famous for the "Cave Canem" (Beware of the Dog) mosaic in the vestibule, showing a chained dog with a warning to visitors. The house features scenes from the Iliad and other classical subjects.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/9f/S03_06_01_024_image_3137.jpg)
+
+- [Lupanar Frescoes](https://en.wikipedia.org/wiki/Lupanar)
+  - **Artist**: Unknown Roman painters
+  - **Medium**: Fresco
+  - **Date**: 1st century AD
+  - **Description**: The Lupanar is the most famous ancient Roman brothel in Pompeii, known for the erotic paintings on its walls above each of the five doorways on the ground floor. These frescoes may have served as a menu of services or simply as decoration. Pompeii was closely associated with Venus, goddess of love.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/37/Pompei_5234.jpg)
+
+- [Amphitheatre of Pompeii](https://en.wikipedia.org/wiki/Amphitheatre_of_Pompeii)
+  - **Artist**: Roman architects
+  - **Medium**: Stone architecture
+  - **Date**: c. 80 BC
+  - **Description**: One of the oldest surviving Roman amphitheatres, built during the early Roman colony of Pompeii. It could seat approximately 20,000 spectators for gladiatorial games and other spectacles. A remarkable example of Roman engineering and public entertainment architecture.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/54/Pompeji_-_Arena.jpg)
+
+- [Garden of the Fugitives](https://en.wikipedia.org/wiki/Garden_of_the_Fugitives)
+  - **Artist**: Natural/Archaeological (plaster casts)
+  - **Medium**: Plaster casts of victims
+  - **Date**: 79 AD (eruption) / 19th century (casts)
+  - **Description**: An archaeological site containing the plaster casts of 13 victims of the eruption of Mount Vesuvius in 79 AD. The casts were made by pouring plaster into the cavities left in the volcanic ash where the victims' bodies had decomposed, preserving their final moments in haunting detail.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/9b/Orto_dei_Fuggiaschi_01.jpg)
+
+### Terms
+
+- **Pompeian Styles**: Four periods distinguished in ancient Roman mural painting, originally delineated by German archaeologist August Mau from excavations at Pompeii:
+  - **First Style** (Incrustation, c. 200-80 BC): Imitation of marble veneer
+  - **Second Style** (Architectural, c. 80-20 BC): Illusionistic architecture and depth
+  - **Third Style** (Ornamental, c. 20 BC-50 AD): Delicate, decorative motifs
+  - **Fourth Style** (Intricate, c. 50-79 AD): Combines elements of previous styles
+
+- **Dionysian Mysteries**: A ritual of ancient Greece and Rome, sometimes using trance-inducing techniques. The cult of Dionysus (Bacchus) provided liberation for marginalized groups. The mysteries are depicted in the famous frescoes of the Villa of the Mysteries.
+
+- **Cave Canem**: Latin for "Beware of the Dog," a warning phrase found on mosaic floors in Roman houses, most famously at the House of the Tragic Poet in Pompeii.
+
+### Historical Context
+
+- [Battle of Issus](https://en.wikipedia.org/wiki/Battle_of_Issus)
+  - **Date**: 5 November 333 BC
+  - **Description**: A battle in southern Anatolia between the Hellenic League led by Alexander the Great and the Achaemenid Empire led by Darius III. Alexander's victory forced Darius to flee, leaving behind his family and treasury. This battle is the subject of the famous Alexander Mosaic found in the House of the Faun.

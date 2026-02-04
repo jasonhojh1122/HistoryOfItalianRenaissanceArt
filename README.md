@@ -50,6 +50,10 @@
 - [Pinacoteca Vaticana](locations/PinacotecaVaticana.md)
 - [St. Peter's Basilica](locations/StPetersBasilica.md)
 
+#### Campania
+
+- [Pompeii Archaeological Park](locations/PompeiiArchaeologicalPark.md)
+
 ### Artists
 
 #### Duecento (1200s)
