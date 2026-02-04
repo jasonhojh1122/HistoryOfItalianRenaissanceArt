@@ -62,7 +62,7 @@ log "Step 6: Pushing GitHub Pages..."
 cd "$GITHUB_PAGES_DIR"
 git add -A
 git commit -m "Site update: $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in GitHub Pages"
-git push origin main || log "Push failed or nothing to push in GitHub Pages"
+git push origin master || log "Push failed or nothing to push in GitHub Pages"
 log "Step 6: GitHub Pages commit completed"
 
 log "Pipeline completed successfully"
