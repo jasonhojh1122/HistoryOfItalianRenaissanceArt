@@ -39,3 +39,29 @@ A museum containing many of the original works of art created for [Florence Cath
 - **Medium**: Marble sculpture
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/c/c6/Pieta_Bandini_Opera_Duomo_Florence_n01.jpg)
+
+### [Zuccone (Prophet Habakkuk)](../artworks/Zuccone.md)
+- **Artist**: [Donatello](../artists/Donatello.md)
+- **Medium**: Marble
+
+![img](https://upload.wikimedia.org/wikipedia/commons/a/ac/Zuccone_Donatello_OPA_Florence.jpg)
+
+### [North Doors of the Florence Baptistery](../artworks/NorthDoor.md)
+- **Artist**: [Lorenzo Ghiberti](../artists/LorenzoGhiberti.md)
+- **Medium**: Bronze
+- Originally displayed on the Baptistery, now in the museum after 2013-2015 restoration
+
+![img](https://upload.wikimedia.org/wikipedia/commons/0/0e/Lorenzo_ghiberti_e_aiuti%2C_porta_nord_del_battistero_di_firenze%2C_01.JPG)
+
+### [Gates of Paradise](../artworks/GatesOfParadise.md)
+- **Artist**: [Lorenzo Ghiberti](../artists/LorenzoGhiberti.md)
+- **Medium**: Gilded bronze
+- Original panels displayed in glass cases in the museum
+
+### [South Doors of the Florence Baptistery](../artworks/SouthDoorFlorenceBaptistery.md)
+- **Artist**: [Andrea Pisano](../artists/AndreaPisano.md)
+- **Medium**: Bronze
+
+### [Madonna with Glass Eyes](../artworks/MadonnaWithGlassEyes.md)
+- **Artist**: [Arnolfo di Cambio](../artists/ArnolfoDiCambio.md)
+- **Medium**: Marble with glass inlay

@@ -8,3 +8,7 @@
 Italian architect and sculptor of the Duecento. He began as a lead assistant to Nicola Pisano. Documented as capomaestro (Head of Works) for Florence Cathedral in 1300, he also designed the sixth city wall around Florence and the Palazzo Vecchio.
 
 ## Artworks
+
+### [Madonna with Glass Eyes](../artworks/MadonnaWithGlassEyes.md)
+- **Location**: [Museo dell'Opera del Duomo](../locations/OperaDelDuomoMuseum.md), Florence
+- **Medium**: Marble with glass inlay

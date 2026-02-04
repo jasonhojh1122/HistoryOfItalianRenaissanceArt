@@ -1659,3 +1659,127 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Book(s)**: 1 Samuel, 2 Samuel
   - **Chapters/Verses**: 1 Samuel 16-31, 2 Samuel 1-24
   - King of ancient Israel and Judah according to the Hebrew Bible. As a young shepherd, he defeated the Philistine giant Goliath with a sling and stone (1 Samuel 17). Michelangelo's David depicts the moment before this battle, showing tense anticipation rather than triumphant victory.
+
+---
+
+## Museo dell'Opera del Duomo, Florence
+
+<!-- Last updated: 2026-02-04 -->
+
+- [Museo dell'Opera del Duomo (Florence)](https://en.wikipedia.org/wiki/Museo_dell'Opera_del_Duomo_(Florence))
+  - **Type**: Museum
+  - **Description**: The Museo dell'Opera del Duomo contains many of the original works of art created for Florence Cathedral, the Florence Baptistery, and Giotto's Campanile. Most exterior sculptures have been removed from these buildings, replaced by replicas, with the museum conserving the originals. It houses one of the world's most important collections of sculpture.
+
+### Artworks
+
+- [The Deposition (Florentine Pietà)](https://en.wikipedia.org/wiki/The_Deposition_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: c. 1547-1555
+  - **Description**: A marble sculpture depicting four figures: the dead body of Jesus Christ, newly taken down from the Cross, Nicodemus (whose face is considered a self-portrait of Michelangelo), Mary Magdalene, and the Virgin Mary. Michelangelo intended this work for his own tomb.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/c6/Pieta_Bandini_Opera_Duomo_Florence_n01.jpg)
+
+- [Penitent Magdalene](https://en.wikipedia.org/wiki/Penitent_Magdalene_(Donatello))
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Painted and gilded wood (white poplar)
+  - **Date**: c. 1440
+  - **Description**: A powerful wooden sculpture of Mary Magdalene, probably commissioned for the Florence Baptistery. The piece was received with astonishment for its unprecedented realism, depicting the penitent saint as an emaciated, aging figure.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/e1/Donatello%2C_maria_maddalena_02.JPG)
+
+- [Zuccone (Prophet Habakkuk)](https://en.wikipedia.org/wiki/Zuccone)
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Marble
+  - **Date**: 1423-1425
+  - **Description**: A marble statue commissioned for Giotto's Campanile. The popular name "Zuccone" (pumpkin) refers to the figure's bald head. Though traditionally identified as the prophet Habakkuk, Vasari suggests it may be a portrait of Giovanni di Barduccio Cherichini.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/ac/Zuccone_Donatello_OPA_Florence.jpg)
+
+- [North Doors of the Florence Baptistery](https://en.wikipedia.org/wiki/North_Doors_of_the_Florence_Baptistery)
+  - **Artist**: [Lorenzo Ghiberti](https://en.wikipedia.org/wiki/Lorenzo_Ghiberti)
+  - **Medium**: Bronze
+  - **Date**: 1403-1424
+  - **Description**: Ghiberti's first masterpiece, made before his celebrated Gates of Paradise. The doors contain scenes from the New Testament in quatrefoil frames. After restoration in 2013-2015, the original doors were displayed in the museum and replaced by a copy on the Baptistery.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/0e/Lorenzo_ghiberti_e_aiuti%2C_porta_nord_del_battistero_di_firenze%2C_01.JPG)
+
+- Gates of Paradise (East Doors of the Florence Baptistery)
+  - **Artist**: [Lorenzo Ghiberti](https://en.wikipedia.org/wiki/Lorenzo_Ghiberti)
+  - **Medium**: Gilded bronze
+  - **Date**: 1425-1452
+  - **Description**: The second set of bronze doors Ghiberti created for the Baptistery, depicting Old Testament scenes in ten rectangular panels. Michelangelo reportedly said they were worthy of being the "Gates of Paradise." The original panels are now displayed in glass cases in the museum.
+
+- South Doors of the Florence Baptistery
+  - **Artist**: [Andrea Pisano](https://en.wikipedia.org/wiki/Andrea_Pisano)
+  - **Medium**: Bronze
+  - **Date**: 1330-1336
+  - **Description**: The earliest of the three bronze door sets for the Baptistery. The doors contain 28 quatrefoil panels depicting scenes from the life of John the Baptist and allegorical figures of the Virtues.
+
+- Cantoria (Singing Gallery)
+  - **Artist**: [Luca della Robbia](https://en.wikipedia.org/wiki/Luca_della_Robbia)
+  - **Medium**: Marble
+  - **Date**: 1431-1438
+  - **Description**: A marble singing gallery (cantoria) originally made for Florence Cathedral. The relief panels depict joyful children and youths singing, dancing, and playing musical instruments, illustrating Psalm 150.
+
+- Cantoria (Singing Gallery)
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Marble and mosaic
+  - **Date**: 1433-1439
+  - **Description**: Donatello's companion singing gallery to della Robbia's cantoria. Features a continuous frieze of exuberant putti (cherubs) dancing behind columns, creating a sense of joyous movement and energy.
+
+- Madonna with Glass Eyes (Madonna degli Occhi di Vetro)
+  - **Artist**: [Arnolfo di Cambio](https://en.wikipedia.org/wiki/Arnolfo_di_Cambio)
+  - **Medium**: Marble with glass inlay
+  - **Date**: c. 1300-1310
+  - **Description**: An original sculpture from the main portal of Florence Cathedral, depicting the Virgin Mary with Saints Reparata and Zanobi. Notable for the glass eyes that give the figure an unusually lifelike appearance.
+
+### Artists
+
+- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Born**: 1475, Caprese Michelangelo, Republic of Florence
+  - **Died**: 1564, Rome
+  - Michelangelo di Lodovico Buonarroti Simoni was an Italian sculptor, painter, architect, and poet of the High Renaissance. His work was inspired by models from classical antiquity and had a lasting influence on Western art. His most famous works include the David, the Sistine Chapel ceiling, and the Pietà.
+
+- [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Born**: c. 1386, Florence
+  - **Died**: 1466, Florence
+  - Donato di Niccolò di Betto Bardi, known as Donatello, was an Italian sculptor of the Renaissance period. He studied classical sculpture and developed an Early Renaissance style of sculpture. His David was the first freestanding nude male sculpture since antiquity.
+
+- [Lorenzo Ghiberti](https://en.wikipedia.org/wiki/Lorenzo_Ghiberti)
+  - **Born**: c. 1378, Florence
+  - **Died**: 1455, Florence
+  - Italian Renaissance sculptor, a key figure in the Early Renaissance, best known as the creator of two sets of bronze doors for the Florence Baptistery. Trained as a goldsmith and sculptor, he established an important workshop for sculpture in metal and wrote the Commentarii on art.
+
+- [Luca della Robbia](https://en.wikipedia.org/wiki/Luca_della_Robbia)
+  - **Born**: c. 1399/1400, Florence
+  - **Died**: 1482, Florence
+  - Italian Renaissance sculptor from Florence noted for his colorful, tin-glazed terracotta statuary, a technique that he invented and passed on to his nephew Andrea della Robbia. Although a leading sculptor in stone, after developing his glazing technique in the early 1440s he worked primarily in terracotta.
+
+- [Arnolfo di Cambio](https://en.wikipedia.org/wiki/Arnolfo_di_Cambio)
+  - **Born**: c. 1240, Colle di Val d'Elsa
+  - **Died**: c. 1300/1310, Florence
+  - Italian architect and sculptor of the Duecento who began as a lead assistant to Nicola Pisano. He was documented as capomaestro (Head of Works) for Florence Cathedral in 1300 and designed the sixth city wall around Florence.
+
+- [Andrea Pisano](https://en.wikipedia.org/wiki/Andrea_Pisano)
+  - **Born**: c. 1290, Pontedera
+  - **Died**: c. 1348, Orvieto
+  - Italian sculptor and architect, also known as Andrea da Pontedera. He created the earliest bronze doors for the Florence Baptistery and contributed to the sculptural program of Giotto's Campanile.
+
+### Bible Stories
+
+- [Pietà](https://en.wikipedia.org/wiki/Pietà)
+  - **Book(s)**: Gospels
+  - **Chapters/Verses**: Matthew 27:57-61, Mark 15:42-47, Luke 23:50-56, John 19:38-42
+  - The Pietà is a subject in Christian art depicting the Virgin Mary cradling the mortal body of Jesus Christ after his Descent from the Cross. It is a specific form of the Lamentation of Christ in which Jesus is mourned by the Virgin Mary alone.
+
+- [Mary Magdalene](https://en.wikipedia.org/wiki/Mary_Magdalene)
+  - **Book(s)**: Gospels
+  - **Chapters/Verses**: Luke 8:2, Mark 16:9, John 20:1-18
+  - Mary Magdalene was a woman who, according to the four canonical gospels, travelled with Jesus as one of his followers and was a witness to his crucifixion and resurrection. Medieval tradition conflated her with Mary of Bethany and the unnamed sinful woman in Luke, leading to her depiction as a penitent.
+
+- [Binding of Isaac](https://en.wikipedia.org/wiki/Binding_of_Isaac)
+  - **Book(s)**: Genesis
+  - **Chapters/Verses**: Genesis 22:1-19
+  - The story from the Book of Genesis in which God orders Abraham to sacrifice his son Isaac. As Abraham begins to comply, having bound Isaac to an altar, he is stopped by the Angel of the Lord; a ram appears and is slaughtered in Isaac's stead.
+
+- [John the Baptist](https://en.wikipedia.org/wiki/John_the_Baptist)
+  - **Book(s)**: Gospels
+  - **Chapters/Verses**: Matthew 3, Mark 1:1-11, Luke 1, 3, John 1:6-34
+  - Jewish preacher active in the area of the Jordan River in the early first century AD. He baptized Jesus in the Jordan River and is the patron saint of Florence, to whom the Baptistery is dedicated. His life and martyrdom are depicted on the Baptistery doors.

@@ -6,11 +6,11 @@
 - **Location**: [Museo dell'Opera del Duomo](../locations/OperaDelDuomoMuseum.md), Florence (originally intended for [Florence Cathedral](../locations/FlorenceCathedral.md))
 - **Medium**: Marble sculpture
 - **Date**: 1547-1555
-- **Source**: self-research
+- **Source**: my-study, self-research
 
 ## Biblical Context
 
-[Lamentation (Pietà)](../biblestories/Lamentation.md) - The mourning over Christ's body after the Crucifixion and Deposition.
+[Pietà](../biblestories/Pieta.md) - The Virgin Mary cradling the body of Christ after the Crucifixion.
 
 ## Description
 

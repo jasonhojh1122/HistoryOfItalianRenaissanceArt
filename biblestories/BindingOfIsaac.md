@@ -2,11 +2,11 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Binding_of_Isaac)
 
-**Source**: self-research
+**Source**: my-study, self-research
 
 ## Summary
 
-God tests Abraham by commanding him to sacrifice his son Isaac. An angel stops Abraham at the last moment, and a ram is sacrificed instead. Prefigures Christ's sacrifice.
+The story from the Book of Genesis in which God orders Abraham to sacrifice his son Isaac. As Abraham begins to comply, having bound Isaac to an altar, he is stopped by the Angel of the Lord; a ram appears and is slaughtered in Isaac's stead. Prefigures Christ's sacrifice.
 
 ## Biblical Reference
 
@@ -17,3 +17,6 @@ God tests Abraham by commanding him to sacrifice his son Isaac. An angel stops A
 
 ### [Abraham and Isaac](../artworks/AbrahamAndIsaacTitian.md)
 - Titian, Santa Maria della Salute, 1542-1544
+
+### [Competition panel for the second set of bronze doors](../artworks/CompetitionPanelGhiberti.md)
+- Lorenzo Ghiberti, Baptistery of Florence, 1401

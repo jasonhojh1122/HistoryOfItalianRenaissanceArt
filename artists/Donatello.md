@@ -81,3 +81,9 @@ Born Donato di Niccolò di Betto Bardi, Donatello was an Italian sculptor of the
 - **Location**: [Basilica of San Lorenzo](../locations/BasilicaOfSanLorenzo.md), Florence
 - **Medium**: Bronze
 - Donatello's final works, completed by his workshop after his death
+
+### [Zuccone (Prophet Habakkuk)](../artworks/Zuccone.md)
+- **Location**: [Museo dell'Opera del Duomo](../locations/OperaDelDuomoMuseum.md), Florence
+- **Medium**: Marble
+
+![img](https://upload.wikimedia.org/wikipedia/commons/a/ac/Zuccone_Donatello_OPA_Florence.jpg)
