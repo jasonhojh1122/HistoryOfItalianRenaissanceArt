@@ -58,6 +58,7 @@
 - [Basilica di Santa Maria Gloriosa dei Frari](locations/BasilicaDeiFrari.md)
 - [Basilica dei Santi Giovanni e Paolo](locations/SantiGiovanniEPaolo.md)
 - [Ca' d'Oro](locations/CaDOro.md)
+- [Biblioteca Marciana](locations/BibliotecaMarciana.md)
 
 #### Vatican City
 
@@ -140,12 +141,25 @@
 #### Cinquecento (1500s)
 
 - [Leonardo da Vinci](artists/LeonardoDaVinci.md)
+- [Paolo Veronese](artists/PaoloVeronese.md)
+- [Titian](artists/Titian.md)
+- [Jacopo Sansovino](artists/JacopoSansovino.md)
+- [Andrea Schiavone](artists/AndreaSchiavone.md)
+- [Giovanni Battista Zelotti](artists/GiovanniBattistaZelotti.md)
+- [Battista Franco Veneziano](artists/BattistaFrancoVeneziano.md)
+- [Giuseppe Porta (Salviati)](artists/GiuseppePorta.md)
 
 #### Baroque (1600s-1700s)
 
 - [Andrea Pozzo](artists/AndreaPozzo.md)
 - [Pierre Le Gros the Younger](artists/PierreLeGrosTheYounger.md)
 - [Filippo della Valle](artists/FilippoDellaValle.md)
+- [Bernardo Strozzi](artists/BernardoStrozzi.md)
+- [Padovanino](artists/Padovanino.md)
+
+#### Medieval Cartography
+
+- [Fra Mauro](artists/FraMauro.md)
 
 #### Patrons
 
@@ -196,7 +210,15 @@
 - [Giovanni Bellini](artists/GiovanniBellini.md)
 - [Vittore Carpaccio](artists/VittoreCarpaccio.md)
 - [Leonardo da Vinci](artists/LeonardoDaVinci.md)
+- [Paolo Veronese](artists/PaoloVeronese.md)
+- [Titian](artists/Titian.md)
+- [Andrea Schiavone](artists/AndreaSchiavone.md)
+- [Giovanni Battista Zelotti](artists/GiovanniBattistaZelotti.md)
+- [Battista Franco Veneziano](artists/BattistaFrancoVeneziano.md)
+- [Giuseppe Porta (Salviati)](artists/GiuseppePorta.md)
 - [Andrea Pozzo](artists/AndreaPozzo.md)
+- [Bernardo Strozzi](artists/BernardoStrozzi.md)
+- [Padovanino](artists/Padovanino.md)
 
 #### Sculpture
 
@@ -217,6 +239,7 @@
 - [Filippo Brunelleschi](artists/FilippoBrunelleschi.md)
 - [Michelozzo di Bartolommeo](artists/MichelozzoDiBartolommeo.md)
 - [Leon Battista Alberti](artists/LeonBattistaAlberti.md)
+- [Jacopo Sansovino](artists/JacopoSansovino.md)
 
 ### Must-See Works
 

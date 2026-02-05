@@ -2714,3 +2714,124 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Book(s)**: Matthew
   - **Chapters/Verses**: Matthew 2:1-12
   - The visit of the Magi (wise men or kings) to the infant Jesus, bringing gifts of gold, frankincense, and myrrh. One of the most popular subjects in Christian art.
+
+---
+
+## Biblioteca Nazionale Marciana, Venice
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Biblioteca Marciana](https://en.wikipedia.org/wiki/Biblioteca_Marciana)
+  - **Type**: Public Library
+  - **Description**: The Marciana Library, or Library of Saint Mark, is one of the earliest surviving public libraries and repositories for manuscripts in Italy, holding one of the world's most significant collections of classical texts. The building was designed by Jacopo Sansovino and constructed between 1537-1553. Andrea Palladio considered it the best building erected since Antiquity.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/95/Biblioteca_Maricana-eastern_facade.jpg)
+
+### Artworks
+
+- [Fra Mauro Map](https://en.wikipedia.org/wiki/Fra_Mauro_map)
+  - **Artist**: Fra Mauro
+  - **Medium**: Ink on parchment
+  - **Date**: c. 1450
+  - **Description**: Considered the greatest memorial of medieval cartography, this circular world map (planisphere) measures over two by two meters. It includes Asia, the Indian Ocean, Africa, Europe, and the Atlantic, with south oriented at the top. Contains hundreds of detailed illustrations and more than 3000 descriptive texts.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/1b/FraMauroDetailedMap.jpg)
+
+- Honour (L'Onore)
+  - **Artist**: [Paolo Veronese](https://en.wikipedia.org/wiki/Paolo_Veronese)
+  - **Medium**: Oil on canvas
+  - **Date**: 1556-1557
+  - **Dimensions**: 230 cm diameter (tondo)
+  - **Description**: One of three ceiling tondi by Veronese in the library's main hall, depicting an enthroned male figure (Honour) being adored by the Virtues. Part of a decorative programme of 21 ceiling paintings selected by Sansovino and Titian.
+
+- Music (La Musica)
+  - **Artist**: [Paolo Veronese](https://en.wikipedia.org/wiki/Paolo_Veronese)
+  - **Medium**: Oil on canvas
+  - **Date**: 1556-1557
+  - **Dimensions**: 230 cm diameter (tondo)
+  - **Description**: Depicts beautiful young women playing string instruments—viola da gamba, lute, and harpsichord—with a third woman singing and Cupid shown under a marble statue of a faun. This work was judged the best tondo in the ceiling and earned Veronese a prize of a gold chain, as judged by Titian and Sansovino.
+
+- Arithmetic and Geometry
+  - **Artist**: [Paolo Veronese](https://en.wikipedia.org/wiki/Paolo_Veronese)
+  - **Medium**: Oil on canvas
+  - **Date**: 1556-1557
+  - **Dimensions**: 230 cm diameter (tondo)
+  - **Description**: One of Veronese's three ceiling tondi in the library, depicting allegorical figures representing Arithmetic and Geometry. The paintings were commissioned as part of the library's elaborate ceiling decoration.
+
+- Wisdom (La Sapienza)
+  - **Artist**: [Titian](https://en.wikipedia.org/wiki/Titian)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1560
+  - **Description**: Titian's contribution to the first room ceiling of the library, depicting Wisdom as an allegorical figure. Titian also served as one of the judges who selected the other ceiling painters.
+
+- Plato
+  - **Artist**: [Paolo Veronese](https://en.wikipedia.org/wiki/Paolo_Veronese)
+  - **Medium**: Oil on canvas
+  - **Date**: 1560s
+  - **Description**: One of a pair of philosopher portraits by Veronese flanking the entrance portal in the main hall. The side walls feature canvases by various artists representing the Philosophers.
+
+- Aristotle
+  - **Artist**: [Paolo Veronese](https://en.wikipedia.org/wiki/Paolo_Veronese)
+  - **Medium**: Oil on canvas
+  - **Date**: 1560s
+  - **Description**: The companion piece to Plato, positioned on the opposite side of the entrance portal. Part of the philosopher portrait series decorating the library walls.
+
+### Other Ceiling Contributors
+
+The library's ceiling decoration features 21 tondi by seven artists, plus 52 grotesques by Battista Franco. Other contributing artists include:
+
+- [Giuseppe Porta (Salviati)](https://en.wikipedia.org/wiki/Giuseppe_Porta): "Virtue Despises Fortune," "Art, Mercury and Pluto," "Pallas and Hercules"
+- [Battista Franco Veneziano](https://en.wikipedia.org/wiki/Battista_Franco_Veneziano): "Nature, Pallas and Jupiter," "Theology before the Gods," "Natural Philosophy"
+- [Giovanni Battista Zelotti](https://en.wikipedia.org/wiki/Giovanni_Battista_Zelotti): "Mathematics," "Virtue," "Nile, Atlas, Geometry," "Astrology" (remade by Padovanino)
+- [Andrea Schiavone](https://en.wikipedia.org/wiki/Andrea_Schiavone): "The Government," "The Priesthood," "The Arms"
+- Giulio Licinio: "Watch and Patience," "Glory and Bliss," "Sculpture" (remade by [Bernardo Strozzi](https://en.wikipedia.org/wiki/Bernardo_Strozzi))
+
+### Artists
+
+- [Paolo Veronese](https://en.wikipedia.org/wiki/Paolo_Veronese)
+  - **Born**: 1528, Verona
+  - **Died**: 1588, Venice
+  - One of the "great trio that dominated Venetian painting of the cinquecento" along with Titian and Tintoretto. Known as a supreme colorist, Veronese is celebrated for extremely large history paintings of religion and mythology, such as The Wedding at Cana and The Feast in the House of Levi.
+
+- [Titian](https://en.wikipedia.org/wiki/Titian)
+  - **Born**: c. 1488-1490, Pieve di Cadore
+  - **Died**: 1576, Venice
+  - The most important artist of Renaissance Venetian painting. Served as a judge in selecting ceiling painters for the Biblioteca Marciana and contributed his own ceiling painting, Wisdom, to the first room.
+
+- [Jacopo Sansovino](https://en.wikipedia.org/wiki/Jacopo_Sansovino)
+  - **Born**: 1486, Florence
+  - **Died**: 1570, Venice
+  - Italian Renaissance sculptor and architect best known for his works around the Piazza San Marco in Venice. Andrea Palladio considered the Biblioteca Marciana the best building erected since Antiquity. Sansovino served as one of the judges selecting the library's ceiling painters.
+
+- [Andrea Schiavone](https://en.wikipedia.org/wiki/Andrea_Schiavone)
+  - **Born**: c. 1510, Zadar (Dalmatia)
+  - **Died**: 1563, Venice
+  - Italian Renaissance painter and etcher, born in Dalmatia in the Republic of Venice. His style combined Mannerist elements with influence from the mainstream of Venetian painting, especially Titian. Contributed three tondi to the library ceiling.
+
+- [Giovanni Battista Zelotti](https://en.wikipedia.org/wiki/Giovanni_Battista_Zelotti)
+  - **Born**: c. 1526, Verona
+  - **Died**: 1578, Mantua
+  - Italian painter of the late Renaissance, active in Venice and her mainland territories. Contributed several tondi to the library ceiling, some later remade by Padovanino.
+
+- [Battista Franco Veneziano](https://en.wikipedia.org/wiki/Battista_Franco_Veneziano)
+  - **Born**: c. 1510, Venice
+  - **Died**: 1561, Venice
+  - Italian Mannerist painter and printmaker active in Rome, Urbino, and Venice. Also known as il Semolei. Contributed three ceiling tondi and 52 grotesques to the library decoration.
+
+- [Giuseppe Porta (Salviati)](https://en.wikipedia.org/wiki/Giuseppe_Porta)
+  - **Born**: 1520, Castelnuovo di Garfagnana
+  - **Died**: 1575, Venice
+  - Italian painter of the late-Renaissance period, active mostly in Venice. Contributed three ceiling tondi to the library.
+
+- Fra Mauro
+  - **Born**: Unknown, Venice
+  - **Died**: 1459, Venice
+  - Venetian cartographer and monk who created the Fra Mauro map around 1450, considered the greatest memorial of medieval cartography. The map is housed in the Biblioteca Marciana.
+
+- [Bernardo Strozzi](https://en.wikipedia.org/wiki/Bernardo_Strozzi)
+  - **Born**: 1581, Genoa
+  - **Died**: 1644, Venice
+  - Italian Baroque painter and engraver. Named il Cappuccino and il Prete Genovese. Repainted Giulio Licinio's "Sculpture" tondo in the library ceiling, working in Venice in the latter part of his career.
+
+- [Padovanino](https://en.wikipedia.org/wiki/Padovanino)
+  - **Born**: 1588, Padua
+  - **Died**: 1649, Venice
+  - Alessandro Leone Varotari, known as Il Padovanino, was a Venetian painter of the late-Mannerist and early-Baroque Venetian school. Repainted Zelotti's "Astrology" tondo in the library ceiling.

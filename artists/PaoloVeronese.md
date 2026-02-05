@@ -14,3 +14,8 @@ Italian Renaissance painter based in Venice, known for extremely large history p
 ### [Apotheosis of Venice](../artworks/ApotheosisOfVenice.md)
 ### [Juno Showering Gifts on Venice](../artworks/JunoShoweringGiftsOnVenice.md)
 ### [The Feast in the House of Levi](../artworks/FeastInTheHouseOfLevi.md)
+### [Honour (L'Onore)](../artworks/HonourVeronese.md)
+### [Music (La Musica)](../artworks/MusicVeronese.md)
+### [Arithmetic and Geometry](../artworks/ArithmeticAndGeometryVeronese.md)
+### [Plato](../artworks/PlatoVeronese.md)
+### [Aristotle](../artworks/AristotleVeronese.md)
