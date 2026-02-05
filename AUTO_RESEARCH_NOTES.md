@@ -1957,3 +1957,86 @@ The Mercato Centrale is primarily a historic market building rather than an art 
 - **[Roman amphitheatre](https://en.wikipedia.org/wiki/Roman_amphitheatre)**: A large, elliptical open-air venue with tiered seating built by ancient Romans for events such as gladiatorial combats, animal hunts (venationes), and public executions. About 230 Roman amphitheatres have been found across the Roman Empire.
 
 - **Hypogeum**: The underground network of tunnels and chambers beneath the Colosseum's arena floor, used to house gladiators, animals, and stage machinery. The hypogeum allowed elaborate special effects, with trapdoors enabling sudden appearances of performers and scenery.
+
+---
+
+## Palatine Hill, Rome
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Palatine Hill](https://en.wikipedia.org/wiki/Palatine_Hill)
+  - **Type**: Archaeological Site / Open-air Museum
+  - **Description**: One of the most ancient parts of Rome and the centremost of the seven hills, the Palatine has been called "the first nucleus of the Roman Empire." From the start of the Empire (27 BC), Augustus built his palace here and the hill gradually became the exclusive domain of emperors. The site now functions as a large open-air museum, while the Palatine Museum houses many finds from excavations.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/62/Palatine_Hill_from_across_the_Circus_Maximus_April_2019.jpg)
+
+### Structures
+
+- [House of Augustus](https://en.wikipedia.org/wiki/House_of_Augustus)
+  - **Type**: Imperial Residence
+  - **Date**: c. 30 BC
+  - **Description**: Also known as the Domus Augusti, this house on the southwestern corner of the Palatine served as the primary residence of Emperor Augustus. The western rooms, believed to be private living quarters, feature extensive Second Style wall decorations including the famous Room of the Masks with perspective architectural paintings and theatrical masks.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/53/Augustus-Maskenraum01b.jpg)
+
+- [Temple of Apollo Palatinus](https://en.wikipedia.org/wiki/Temple_of_Apollo_Palatinus)
+  - **Type**: Temple
+  - **Date**: 36-28 BC
+  - **Description**: The first temple to Apollo within Rome's ceremonial boundaries, constructed on the Palatine Hill by Augustus. According to tradition, the site was chosen after being struck by lightning, interpreted as a divine portent. The temple was the second of four temples constructed by Augustus.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/cc/Rome%2C_Temple_of_Apollo_Palatinus_podium_%281994%29.jpg)
+
+- [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace)
+  - **Type**: Imperial Palace
+  - **Date**: Completed 92 AD
+  - **Description**: Known as the Domus Flavia, this is part of the vast Palace of Domitian on the Palatine Hill. Completed by Emperor Titus Flavius Domitianus and attributed to his master architect Rabirius, it served as the official public wing of the imperial palace complex.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/2/2f/Palatin-legende.jpg)
+
+- [Domus Augustana](https://en.wikipedia.org/wiki/Domus_Augustana)
+  - **Type**: Imperial Residence
+  - **Date**: Completed 92 AD
+  - **Description**: The central residential part of the Palace of Domitian on the Palatine Hill. In antiquity the name may have applied to the whole palace. It functioned as the private quarters of the emperor, complementing the public Domus Flavia.
+
+- [Domus Transitoria](https://en.wikipedia.org/wiki/Domus_Transitoria)
+  - **Type**: Imperial Palace (ruins)
+  - **Date**: Before 64 AD
+  - **Description**: Emperor Nero's first palace, damaged or destroyed by the Great Fire of Rome in 64 AD and later extended by his Domus Aurea. Fragments of its elaborate decorations in opus sectile survive in the Palatine Museum.
+
+- [Palatine Museum](https://en.wikipedia.org/wiki/Palatine_Museum)
+  - **Type**: Museum
+  - **Date**: Founded second half of 19th century
+  - **Description**: A museum located on the Palatine Hill housing sculptures, fragments of frescoes, and archaeological material discovered on the hill. Notable holdings include portraits of Nero, Agrippina Minor, Antoninus Pius, Hadrian, and Marcus Aurelius, as well as paintings from the Domus Transitoria.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/79/Museo_Palatino_Roma.jpg)
+
+### Artworks
+
+- [Alexamenos graffito](https://en.wikipedia.org/wiki/Alexamenos_graffito)
+  - **Artist**: Unknown
+  - **Medium**: Graffito (scratched plaster)
+  - **Date**: c. 200 AD
+  - **Description**: A piece of Roman graffiti originally found in a room near the Palatine Hill, now in the Palatine Museum. Often said to be the earliest depiction of Jesus, the image shows a young man worshiping a crucified, donkey-headed figure—believed to be a mocking representation of Christian worship.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/5a/Alexamenos_graffito.jpg)
+
+- Room of the Masks Frescoes
+  - **Artist**: Unknown
+  - **Medium**: Fresco (Second Style Roman wall painting)
+  - **Date**: c. 30 BC
+  - **Location**: House of Augustus
+  - **Description**: Perspective architectural paintings and theatrical masks in the western rooms of the House of Augustus, representing the Second Style of Roman wall painting. The illusionistic architectural scenes create the impression of views through walls into elaborate stage sets.
+
+- Apollo with Cithara Fresco
+  - **Artist**: Unknown
+  - **Medium**: Fresco
+  - **Date**: Ancient Roman
+  - **Location**: Palatine Museum
+  - **Description**: A fresco unearthed in 1950 among the excavations of the Scalae Caci depicting Apollo crowned with laurel, seated on a throne, with the cithara in hand, near the omphalos.
+
+### Artists
+
+- [Rabirius](https://en.wikipedia.org/wiki/Rabirius_(architect))
+  - **Born**: Unknown, 1st century CE
+  - **Died**: Unknown, 2nd century CE
+  - An ancient Roman architect who designed the massive Flavian Palace on the Palatine Hill and the Alban Villa at present-day Castel Gandolfo, both erected on commission by his patron, Emperor Domitian.
+
+### Terms
+
+- **[Second Style (Roman wall painting)](https://en.wikipedia.org/wiki/Pompeian_Styles)**: Also called the "Architectural Style," the second of four Pompeian Styles of Roman mural painting (c. 80 BC – 20 BC). Characterized by illusionistic architectural elements that appear to open up the wall, creating the effect of looking through a window or into another room. The Room of the Masks in the House of Augustus is a prime example.
+
+- **Opus sectile**: A Roman technique of inlaying cut pieces of marble and other colored stones to form patterns or images. Fragments from the Domus Transitoria in the Palatine Museum demonstrate this decorative technique.

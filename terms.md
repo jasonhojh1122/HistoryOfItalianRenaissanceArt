@@ -23,6 +23,11 @@ A circular painting or relief sculpture. The term comes from the Italian word "r
 
 Blue-gray sandstone used extensively in Renaissance Florence for architectural elements.
 
+## Decorative Techniques
+
+### Opus sectile
+A Roman technique of inlaying cut pieces of marble and other colored stones to form patterns or images. Fragments from the Domus Transitoria on the [Palatine Hill](locations/PalatineHill.md) in the Palatine Museum demonstrate this decorative technique.
+
 ## Architectural Terms
 
 ### Cantoria
@@ -65,6 +70,11 @@ Four periods distinguished in ancient Roman mural painting, originally delineate
 - **Second Style** (Architectural, c. 80-20 BC): Illusionistic architecture and depth
 - **Third Style** (Ornamental, c. 20 BC-50 AD): Delicate, decorative motifs
 - **Fourth Style** (Intricate, c. 50-79 AD): Combines elements of previous styles
+
+### Second Style (Roman wall painting)
+[Wikipedia](https://en.wikipedia.org/wiki/Pompeian_Styles)
+
+Also called the "Architectural Style," the second of four Pompeian Styles of Roman mural painting (c. 80 BC – 20 BC). Characterized by illusionistic architectural elements that appear to open up the wall, creating the effect of looking through a window or into another room. The [Room of the Masks Frescoes](artworks/RoomOfTheMasksFrescoes.md) in the House of Augustus on the [Palatine Hill](locations/PalatineHill.md) is a prime example.
 
 ## Mythology
 

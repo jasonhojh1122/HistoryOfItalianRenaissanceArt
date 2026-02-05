@@ -21,3 +21,6 @@ The Crucifixion depicts the death of Jesus Christ on the cross at Golgotha (also
 
 ### [Crucifix](../artworks/CrucifixMichelangelo.md)
 - Michelangelo, Santo Spirito, c. 1492
+
+### [Alexamenos graffito](../artworks/AlexamenosGraffito.md)
+- Unknown, Palatine Hill (Rome), c. 200 AD - Mocking representation, possibly earliest known depiction of the Crucifixion
