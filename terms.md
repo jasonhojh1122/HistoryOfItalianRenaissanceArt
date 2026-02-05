@@ -34,6 +34,29 @@ Italian term meaning "head master" or "chief master," referring to the lead arch
 ### Opera del Duomo
 The institution responsible for the building and maintenance of [Florence Cathedral](locations/FlorenceCathedral.md). Founded in 1296, it supervised the construction and continues to maintain the cathedral complex today. The term literally means "Works of the Cathedral."
 
+### Doric Order
+[Wikipedia](https://en.wikipedia.org/wiki/Doric_order)
+
+The earliest and simplest of the three classical orders of Greek and Roman architecture, recognized by simple circular capitals atop sturdy, fluted columns with no base. Used on the ground floor of the [Colosseum](locations/Colosseum.md) for its strength and simplicity.
+
+### Ionic Order
+[Wikipedia](https://en.wikipedia.org/wiki/Ionic_order)
+
+One of the three canonic orders of classical architecture, characterized by scroll-shaped volutes on the capitals and more slender proportions than Doric. Used on the second tier of the [Colosseum](locations/Colosseum.md).
+
+### Corinthian Order
+[Wikipedia](https://en.wikipedia.org/wiki/Corinthian_order)
+
+The most ornate of the three principal classical orders, featuring elaborate capitals decorated with acanthus leaves. Used on the third tier of the [Colosseum](locations/Colosseum.md), supporting the least weight with the most decorative appearance.
+
+### Roman Amphitheatre
+[Wikipedia](https://en.wikipedia.org/wiki/Roman_amphitheatre)
+
+A large, elliptical open-air venue with tiered seating built by ancient Romans for events such as gladiatorial combats, animal hunts (venationes), and public executions. About 230 Roman amphitheatres have been found across the Roman Empire. The [Colosseum](locations/Colosseum.md) is the largest example.
+
+### Hypogeum
+The underground network of tunnels and chambers beneath the [Colosseum](locations/Colosseum.md)'s arena floor, used to house gladiators, animals, and stage machinery. The hypogeum allowed elaborate special effects, with trapdoors enabling sudden appearances of performers and scenery.
+
 ## Painting Styles
 
 ### Pompeian Styles

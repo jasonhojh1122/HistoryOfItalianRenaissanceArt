@@ -1880,3 +1880,80 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Book(s)**: Book of Judith (deuterocanonical)
   - **Chapters/Verses**: Judith 8-16
   - The story of the Jewish widow Judith who saves her people by entering the camp of the Assyrian general Holofernes, seducing him, and beheading him while he lay drunk in his tent. A popular subject in Renaissance art symbolizing virtue triumphing over tyranny.
+
+## Colosseum, Rome
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Colosseum](https://en.wikipedia.org/wiki/Colosseum)
+  - **Type**: Ancient Roman Amphitheatre
+  - **Description**: The Colosseum is an elliptical amphitheatre in the centre of Rome, the largest ancient amphitheatre ever built. Construction began under Emperor Vespasian in AD 72 and was completed in AD 80 under his successor Titus. It was used for gladiatorial contests, public spectacles, and mock sea battles.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg)
+
+### Artworks
+
+- [Colossus of Nero](https://en.wikipedia.org/wiki/Colossus_of_Nero)
+  - **Artist**: Zenodorus
+  - **Medium**: Bronze
+  - **Date**: c. AD 64-68
+  - **Description**: A 30-metre (98 ft) bronze statue originally created as a portrait of Emperor Nero in the vestibule of his Domus Aurea. Later modified by Nero's successors into a statue of the sun god Sol, it was moved to a spot outside the Flavian Amphitheatre, which became known as the Colosseum by its proximity to the Colossus. The statue no longer survives.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a5/Base_of_the_Colossus_of_Nero%2C_Coliseum%2C_Rome%2C_Italy_Wellcome_M0000104.jpg)
+
+- [Arch of Constantine](https://en.wikipedia.org/wiki/Arch_of_Constantine)
+  - **Artist**: Unknown Roman architects
+  - **Medium**: Brick-faced concrete, marble
+  - **Date**: AD 315
+  - **Description**: A triumphal arch dedicated to Emperor Constantine the Great, commemorating his victory over Maxentius at the Battle of the Milvian Bridge in AD 312. Situated between the Colosseum and the Palatine Hill, it is the largest Roman triumphal arch, measuring 21m high, 25.9m wide, and 7.4m deep with three bays decorated with reliefs, many of which were reused from earlier monuments.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a3/Arch_of_Constantine_%28Rome%29_-_South_side%2C_from_Via_triumphalis.jpg)
+
+- [Meta Sudans](https://en.wikipedia.org/wiki/Meta_Sudans)
+  - **Artist**: Unknown Roman architects
+  - **Medium**: Brick and concrete
+  - **Date**: c. AD 89-96
+  - **Description**: A large monumental conical fountain that once stood near the Colosseum in ancient Rome. The fountain "sweated" water from its surface, hence the name. Its remains were visible until 1936 when they were demolished during Mussolini's urban renewal of the area.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/99/Roma_Arco_di_Constantino01.jpg)
+
+- [Velarium](https://en.wikipedia.org/wiki/Velarium)
+  - **Artist**: Unknown Roman engineers
+  - **Medium**: Canvas, rope, wooden masts
+  - **Date**: c. AD 80
+  - **Description**: A retractable awning system that stretched over the Colosseum's seating area to protect spectators from the sun. Supported by wooden masts socketed into the uppermost level of the structure, it was operated by a detachment of sailors from the Roman naval fleet. Evidence of the mounting brackets remains visible on the Colosseum today.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4c/Pompeii_-_Battle_at_the_Amphitheatre_-_MAN.jpg)
+
+- Arcade Statues
+  - **Artist**: Various Roman sculptors
+  - **Medium**: Marble, bronze
+  - **Date**: c. AD 80
+  - **Description**: Originally 156 statues of gods, heroes, and demigods were placed in the outer arcades of the 2nd and 3rd tiers of the Colosseum. Prominent Romans had their portraits displayed on the 1st tier, while the imperial family's portraits adorned the imperial box. None of these statues survive today; their existence is documented through the reliefs from the Tomb of the Haterii and ancient coins.
+
+### Related Monuments
+
+- [Tomb of the Haterii](https://en.wikipedia.org/wiki/Tomb_of_the_Haterii)
+  - **Type**: Funerary monument
+  - **Date**: c. AD 100-120
+  - **Description**: An ancient Roman funerary monument discovered in 1848 along the Via Labicana. Its reliefs provide valuable documentation of the Colosseum's original decorated appearance, showing the amphitheater with its numerous statues in place. The reliefs are now in the Vatican Museums.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/c4/Tomb_of_Haterii_female01_pushkin.jpg)
+
+### Historical Figures
+
+- [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+  - **Born**: AD 9, near Reate
+  - **Died**: AD 79, Aquae Cutiliae
+  - Roman emperor from AD 69-79 who founded the Flavian dynasty. After the chaotic Year of the Four Emperors, Vespasian brought political stability and initiated an extensive building program, including construction of the Colosseum on the site of Nero's Domus Aurea as a gift to the Roman people.
+
+- [Titus](https://en.wikipedia.org/wiki/Titus)
+  - **Born**: AD 39, Rome
+  - **Died**: AD 81, Aquae Cutiliae
+  - Roman emperor from AD 79-81, son and successor of Vespasian. He completed the Colosseum and inaugurated it with 100 days of games in AD 80. He is also known for the destruction of Jerusalem and its Temple in AD 70 while serving as general under his father.
+
+### Terms
+
+- **[Doric order](https://en.wikipedia.org/wiki/Doric_order)**: The earliest and simplest of the three classical orders of Greek and Roman architecture, recognized by simple circular capitals atop sturdy, fluted columns with no base. Used on the ground floor of the Colosseum for its strength and simplicity.
+
+- **[Ionic order](https://en.wikipedia.org/wiki/Ionic_order)**: One of the three canonic orders of classical architecture, characterized by scroll-shaped volutes on the capitals and more slender proportions than Doric. Used on the second tier of the Colosseum.
+
+- **[Corinthian order](https://en.wikipedia.org/wiki/Corinthian_order)**: The most ornate of the three principal classical orders, featuring elaborate capitals decorated with acanthus leaves. Used on the third tier of the Colosseum, supporting the least weight with the most decorative appearance.
+
+- **[Roman amphitheatre](https://en.wikipedia.org/wiki/Roman_amphitheatre)**: A large, elliptical open-air venue with tiered seating built by ancient Romans for events such as gladiatorial combats, animal hunts (venationes), and public executions. About 230 Roman amphitheatres have been found across the Roman Empire.
+
+- **Hypogeum**: The underground network of tunnels and chambers beneath the Colosseum's arena floor, used to house gladiators, animals, and stage machinery. The hypogeum allowed elaborate special effects, with trapdoors enabling sudden appearances of performers and scenery.

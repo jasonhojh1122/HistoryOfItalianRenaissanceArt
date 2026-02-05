@@ -30,6 +30,7 @@
 
 #### Rome
 
+- [Colosseum](locations/Colosseum.md)
 - [Roman Forum](locations/RomanForum.md)
 - [Santa Maria Maggiore](locations/SantaMariaMaggiore.md)
 - [Santa Cecilia in Trastevere](locations/SantaCeciliaInTrastevere.md)
