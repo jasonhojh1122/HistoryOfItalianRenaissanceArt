@@ -2099,3 +2099,93 @@ The Mercato Centrale is primarily a historic market building rather than an art 
 - **Frigidarium**: The cold room in Roman thermae, featuring a large cold plunge pool. Often the most ornately decorated room in the bath complex.
 
 - **Palaestra**: An exercise ground attached to Roman baths where visitors could exercise before bathing. The Farnese Bull was discovered in the palaestra of the Baths of Caracalla.
+
+---
+
+## Via Appia Antica, Rome
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Appian Way](https://en.wikipedia.org/wiki/Appian_Way)
+  - **Type**: Ancient Roman Road / Archaeological Park
+  - **Description**: One of the earliest and strategically most important Roman roads of the ancient republic, built in 312 BC. Called the "Queen of Roads" (Regina Viarum), it connected Rome to Brindisi in southeast Italy. The preserved section near Rome is now a regional park containing catacombs, tombs, monuments, and early Christian churches.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/3d/Paesaggio_dell%27Appia_antica.jpg)
+
+### Monuments & Archaeological Sites
+
+- [Tomb of Caecilia Metella](https://en.wikipedia.org/wiki/Tomb_of_Caecilia_Metella)
+  - **Type**: Mausoleum
+  - **Date**: c. 30-10 BC
+  - **Description**: A cylindrical mausoleum at the three-mile marker of the Via Appia, built to honor Caecilia Metella, daughter of a consul and wife of Marcus Licinius Crassus (son of the triumvir). The castle-like structure dominates the surrounding landscape and is one of the best-preserved monuments along the ancient road.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/8/84/Cecilia_metella_e_castrum.JPG)
+
+- [Tomb of the Scipios](https://en.wikipedia.org/wiki/Tomb_of_the_Scipios)
+  - **Type**: Hypogeum / Family Tomb
+  - **Date**: Early 3rd century BC - 1st century AD
+  - **Description**: The common tomb of the patrician Scipio family during the Roman Republic. This underground burial chamber (hypogaeum Scipionum) served the family for interments over several centuries before being abandoned and lost, only to be rediscovered in later times.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/48/Sepolcro_degli_Scipioni_001_Entrata.jpg)
+
+- [Circus of Maxentius](https://en.wikipedia.org/wiki/Circus_of_Maxentius)
+  - **Type**: Ancient Chariot Racing Circus
+  - **Date**: AD 306-312
+  - **Description**: Part of a complex built by Emperor Maxentius between the second and third miles of the Via Appia, including a palace and chariot racing track. Situated between the catacombs of San Sebastiano and the Tomb of Caecilia Metella, it is now part of the Appian Way Regional Park.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/41/Circus_of_Maxentius.jpg)
+
+- [Mausoleum of Maxentius](https://en.wikipedia.org/wiki/Mausoleum_of_Maxentius)
+  - **Type**: Imperial Mausoleum
+  - **Date**: Early 4th century AD
+  - **Description**: A large circular tomb built by Emperor Maxentius, probably intended for himself as a family tomb. When his young son Valerius Romulus died, he was buried there. After extensive renovation, the mausoleum was reopened to the public in 2014.
+
+- [Villa of the Quintilii](https://en.wikipedia.org/wiki/Villa_of_the_Quintilii)
+  - **Type**: Ancient Roman Villa
+  - **Date**: 2nd century AD
+  - **Description**: A monumental ancient Roman villa beyond the fifth milestone of the Via Appia Antica, built by the wealthy and cultured Quintilii brothers (Sextus Quintilius Valerius Maximus and Sextus Quintilius Condianus). The sprawling estate was later seized by Emperor Commodus.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/ae/Villa_dei_Quintili_panoramica.jpg)
+
+### Churches
+
+- [Santa Maria in Palmis (Domine Quo Vadis)](https://en.wikipedia.org/wiki/Santa_Maria_in_Palmis)
+  - **Type**: Church
+  - **Date**: Originally 9th century, rebuilt 17th century
+  - **Description**: A small church about 800m from Porta San Sebastiano, where the Via Ardeatina branches off the Appian Way. According to the apocryphal Acts of Peter, this is where Saint Peter, fleeing persecution in Rome, met the risen Christ. Peter asked "Domine, quo vadis?" (Lord, where are you going?), and Christ answered he was going to Rome to be crucified again—prompting Peter to return and face martyrdom.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/0a/Domine_quo_vadis_%28Santa_Maria_in_Palmis%29_-_esterno.jpg)
+
+- [San Sebastiano fuori le mura](https://en.wikipedia.org/wiki/San_Sebastiano_fuori_le_mura)
+  - **Type**: Minor Basilica
+  - **Date**: Originally 4th century
+  - **Description**: One of the Seven Pilgrim Churches of Rome (until the Great Jubilee of 2000). Built above the Catacombs of San Sebastiano, it honors Saint Sebastian, the Roman soldier martyred during the persecution of Christians. The church provides access to the catacombs below.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4f/San_Sebastiano_fuori_le_mura_%28Rome%29.jpg)
+
+### Catacombs
+
+- [Catacomb of Callixtus](https://en.wikipedia.org/wiki/Catacomb_of_Callixtus)
+  - **Type**: Christian Catacomb
+  - **Date**: 2nd-4th centuries AD
+  - **Description**: One of the most important catacombs of Rome, containing the Crypt of the Popes with tombs of several popes from the 2nd to 4th centuries. The catacomb extends over 20 km of tunnels on four levels, reaching depths of 20 meters, and contains over 170,000 graves including sixteen pontiffs and numerous martyrs.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7e/Rom%2C_Calixtus-Katakombe%2C_Eingangstor_zum_Park_der_Katakombe.jpg)
+
+- [Catacombs of San Sebastiano](https://en.wikipedia.org/wiki/Catacombs_of_San_Sebastiano)
+  - **Type**: Christian Catacomb
+  - **Date**: 1st-5th centuries AD
+  - **Description**: A hypogeum cemetery along Via Appia Antica, one of the very few Christian burial places that has always remained accessible throughout history. Originally had four floors, though the first is now almost completely destroyed. The catacombs are accessed through the Basilica of San Sebastiano above.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/05/Catacombs_S._Sebastiano_Rome3.jpg)
+
+- [Catacombs of Domitilla](https://en.wikipedia.org/wiki/Catacombs_of_Domitilla)
+  - **Type**: Christian Catacomb
+  - **Date**: 2nd-3rd centuries AD
+  - **Description**: Among the largest catacombs in Rome, spreading over 17 km along the ancient Via Ardeatine on four levels, housing approximately 15,000 bodies. Named after the Domitilla family who commissioned them. Unique for containing an underground basilica, and features notable frescoes including early Christian iconography such as the Good Shepherd.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/d0/Good_Shepherd_04.jpg)
+
+### Bible Stories
+
+- [Quo Vadis](https://en.wikipedia.org/wiki/Quo_vadis%3F)
+  - **Book(s)**: Acts of Peter (apocryphal)
+  - **Description**: According to the apocryphal Acts of Peter, while fleeing Rome during Nero's persecution, the apostle Peter encountered a vision of Christ on the Appian Way. Peter asked "Domine, quo vadis?" (Lord, where are you going?), and Christ replied "Romam vado iterum crucifigi" (I am going to Rome to be crucified again). Ashamed, Peter returned to Rome where he was martyred by crucifixion (upside down at his request).
+
+### Terms
+
+- **Catacomb**: Underground cemeteries used primarily in ancient Rome and the surrounding regions. Christians and Jews dug these extensive tunnel networks in the soft tufa rock to bury their dead, as Roman law prohibited burial within the city walls. The term may derive from the Greek "kata kumbas" (near the hollow).
+
+- **Hypogeum**: An underground structure or chamber, from the Greek for "under the earth." Used to describe subterranean temples, tombs, and burial places such as the Tomb of the Scipios.
+
+- **Via Appia**: Latin name for the Appian Way. Roman roads were named after the magistrates who commissioned them—in this case, Appius Claudius Caecus, censor in 312 BC who initiated the road's construction.

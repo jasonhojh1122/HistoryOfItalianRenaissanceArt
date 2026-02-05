@@ -69,7 +69,7 @@ The most ornate of the three principal classical orders, featuring elaborate cap
 A large, elliptical open-air venue with tiered seating built by ancient Romans for events such as gladiatorial combats, animal hunts (venationes), and public executions. About 230 Roman amphitheatres have been found across the Roman Empire. The [Colosseum](locations/Colosseum.md) is the largest example.
 
 ### Hypogeum
-The underground network of tunnels and chambers beneath the [Colosseum](locations/Colosseum.md)'s arena floor, used to house gladiators, animals, and stage machinery. The hypogeum allowed elaborate special effects, with trapdoors enabling sudden appearances of performers and scenery.
+An underground structure or chamber, from the Greek for "under the earth." Used to describe subterranean temples, tombs, and burial places. The [Colosseum](locations/Colosseum.md)'s hypogeum refers specifically to the underground network of tunnels beneath the arena floor, used to house gladiators, animals, and stage machinery; trapdoors enabled sudden appearances of performers and scenery. The [Tomb of the Scipios](artworks/TombOfTheScipios.md) on the [Via Appia Antica](locations/ViaAppiaAntica.md) is another example of a hypogeum.
 
 ## Painting Styles
 
@@ -118,6 +118,9 @@ A ritual of ancient Greece and Rome, sometimes using trance-inducing techniques.
 Latin for "Beware of the Dog," a warning phrase found on mosaic floors in Roman houses, most famously at the [House of the Tragic Poet](artworks/HouseOfTheTragicPoet.md) in Pompeii.
 
 ## Archaeological Terms
+
+### Catacomb
+Underground cemeteries used primarily in ancient Rome and the surrounding regions. Christians and Jews dug these extensive tunnel networks in the soft tufa rock to bury their dead, as Roman law prohibited burial within the city walls. The term may derive from the Greek "kata kumbas" (near the hollow). Notable examples along the [Via Appia Antica](locations/ViaAppiaAntica.md) include the [Catacomb of Callixtus](locations/CatacombOfCallixtus.md), [Catacombs of San Sebastiano](locations/CatacombsOfSanSebastiano.md), and [Catacombs of Domitilla](locations/CatacombsOfDomitilla.md).
 
 ### Apodyterium
 The dressing room of a Roman bath house where bathers would undress and store their clothes in numbered cubby holes or boxes. The apodyterium of the Suburban Baths at Pompeii is famous for its erotic frescoes.
@@ -234,3 +237,10 @@ The Visigoths under King Alaric I sacked Rome for three days on August 24, 410 A
 [Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_AD))
 
 The siege and conquest of Jerusalem by Roman forces led by the future Emperor Titus in 70 AD. The city and the Second Temple were destroyed. The famous reliefs inside the [Arch of Titus](artworks/ArchOfTitus.md) depict the triumphal procession displaying spoils from the Temple, including the Menorah.
+
+## Roman Roads
+
+### Via Appia (Appian Way)
+[Wikipedia](https://en.wikipedia.org/wiki/Appian_Way)
+
+Latin name for the Appian Way, one of the earliest and strategically most important Roman roads of the ancient republic. Roman roads were named after the magistrates who commissioned them—in this case, Appius Claudius Caecus, censor in 312 BC who initiated the road's construction. Called the "Queen of Roads" (Regina Viarum), it connected Rome to Brindisi in southeast Italy. The preserved section near Rome, the [Via Appia Antica](locations/ViaAppiaAntica.md), is now a regional park containing catacombs, tombs, monuments, and early Christian churches.

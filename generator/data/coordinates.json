@@ -279,6 +279,10 @@
     "lat": 41.893851,
     "lng": 12.4931577
   },
+  "SanSebastianoFuoriLeMura": {
+    "lat": 41.8558005,
+    "lng": 12.5159104
+  },
   "SantaCeciliaInTrastevere": {
     "lat": 41.8889,
     "lng": 12.476
@@ -302,6 +306,10 @@
   "SantaMariaInCosmedin": {
     "lat": 41.888229,
     "lng": 12.4815989
+  },
+  "SantaMariaInPalmis": {
+    "lat": 41.8664884,
+    "lng": 12.5037248
   },
   "SantaMariaMaggiore": {
     "lat": 41.8976,

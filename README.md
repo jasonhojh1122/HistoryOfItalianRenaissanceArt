@@ -35,6 +35,12 @@
 - [Santa Maria Maggiore](locations/SantaMariaMaggiore.md)
 - [Santa Cecilia in Trastevere](locations/SantaCeciliaInTrastevere.md)
 - [National Gallery of Ancient Art](locations/NationalGalleryOfAncientArt.md)
+- [Via Appia Antica](locations/ViaAppiaAntica.md)
+- [Santa Maria in Palmis](locations/SantaMariaInPalmis.md)
+- [San Sebastiano fuori le mura](locations/SanSebastianoFuoriLeMura.md)
+- [Catacomb of Callixtus](locations/CatacombOfCallixtus.md)
+- [Catacombs of San Sebastiano](locations/CatacombsOfSanSebastiano.md)
+- [Catacombs of Domitilla](locations/CatacombsOfDomitilla.md)
 
 #### Milan
 
