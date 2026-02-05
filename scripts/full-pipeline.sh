@@ -12,7 +12,7 @@ set -e
 
 PROJECT_DIR="/Users/jason/src/HistoryOfItalianRenaissanceArt"
 GITHUB_PAGES_DIR="/Users/jason/src/jasonhojh1122.github.io"
-LOG_FILE="$PROJECT_DIR/pipeline.log"
+LOG_FILE="$PROJECT_DIR/full_pipeline.log"
 
 RESEARCH_TARGET="$1"
 
