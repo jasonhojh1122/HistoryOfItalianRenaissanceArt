@@ -11,3 +11,5 @@ Italian Neoclassical sculptor, famous for his marble sculptures. Often regarded 
 ## Artworks
 
 ### [Tomb of Antonio Canova](../artworks/TombOfAntonioCanova.md)
+
+### [Venus Victrix](../artworks/VenusVictrixCanova.md)

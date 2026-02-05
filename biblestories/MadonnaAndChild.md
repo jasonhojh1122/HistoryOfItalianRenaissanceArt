@@ -54,3 +54,6 @@ The Madonna and Child depicts the Virgin Mary with the infant Jesus. This iconic
 
 ### [Madonna and Child](../artworks/MadonnaAndChildBouts.md)
 - Dieric Bouts, Museo Correr, Venice, mid-15th century
+
+### [Madonna and Child with Saint Anne (Dei Palafrenieri)](../artworks/MadonnaAndChildWithSaintAnne.md)
+- Caravaggio, Galleria Borghese, 1605–1606

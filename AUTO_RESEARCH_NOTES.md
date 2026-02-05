@@ -2835,3 +2835,155 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
   - **Born**: 1588, Padua
   - **Died**: 1649, Venice
   - Alessandro Leone Varotari, known as Il Padovanino, was a Venetian painter of the late-Mannerist and early-Baroque Venetian school. Repainted Zelotti's "Astrology" tondo in the library ceiling.
+
+## Galleria Borghese, Rome
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Galleria Borghese](https://en.wikipedia.org/wiki/Galleria_Borghese)
+  - **Type**: Museum
+  - **Description**: The Galleria Borghese is an art gallery in Rome housed in the former Villa Borghese Pinciana. It houses a substantial part of the Borghese Collection of paintings, sculpture and antiquities, begun by Cardinal Scipione Borghese, the nephew of Pope Paul V.
+
+### Artworks
+
+- [Apollo and Daphne (Bernini)](https://en.wikipedia.org/wiki/Apollo_and_Daphne_(Bernini))
+  - **Artist**: [Gian Lorenzo Bernini](https://en.wikipedia.org/wiki/Gian_Lorenzo_Bernini)
+  - **Medium**: Marble sculpture
+  - **Date**: 1622–1625
+  - **Description**: A life-sized marble sculpture depicting the climax of the myth from Ovid's Metamorphoses, where the nymph Daphne escapes Apollo's advances by transforming into a laurel tree. Regarded as one of the artistic marvels of the Baroque age.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg)
+
+- [David (Bernini)](https://en.wikipedia.org/wiki/David_(Bernini))
+  - **Artist**: [Gian Lorenzo Bernini](https://en.wikipedia.org/wiki/Gian_Lorenzo_Bernini)
+  - **Medium**: Marble sculpture
+  - **Date**: 1623–1624
+  - **Description**: A life-size marble sculpture commissioned by Cardinal Scipione Borghese. Unlike Michelangelo's contemplative David, Bernini captures the biblical hero in dynamic action, mid-throw with his sling.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/92/Bernini%27s_David_02.jpg)
+
+- [The Rape of Proserpina](https://en.wikipedia.org/wiki/The_Rape_of_Proserpina)
+  - **Artist**: [Gian Lorenzo Bernini](https://en.wikipedia.org/wiki/Gian_Lorenzo_Bernini)
+  - **Medium**: Marble sculpture
+  - **Date**: 1621–1622
+  - **Description**: A large Baroque marble group depicting the abduction of Proserpina by Pluto. Completed when Bernini was just 23, it features remarkable technical virtuosity in rendering flesh and movement in marble, with Pluto's fingers pressing into Proserpina's thigh.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/36/Rape_of_Prosepina_September_2015-3a.jpg)
+
+- [Aeneas, Anchises, and Ascanius](https://en.wikipedia.org/wiki/Aeneas%2C_Anchises%2C_and_Ascanius)
+  - **Artist**: [Gian Lorenzo Bernini](https://en.wikipedia.org/wiki/Gian_Lorenzo_Bernini)
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1618–1619
+  - **Description**: A sculpture depicting a scene from Virgil's Aeneid, where the hero Aeneas leads his family from burning Troy, carrying his aged father Anchises on his shoulders while his young son Ascanius follows.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/ed/Museo_borghese%2C_sala_del_gladiatore%2C_g.l._bernini%2C_enea%2C_anchise_e_ascanio%2C_1618-20%2C_04%2C2.jpg)
+
+- [Venus Victrix (Canova)](https://en.wikipedia.org/wiki/Venus_Victrix_(Canova))
+  - **Artist**: [Antonio Canova](https://en.wikipedia.org/wiki/Antonio_Canova)
+  - **Medium**: Marble sculpture
+  - **Date**: 1805–1808
+  - **Description**: A semi-nude, life-size reclining neo-Classical portrait sculpture of Pauline Bonaparte, Napoleon's sister and wife of Camillo Borghese. It depicts her in the guise of Venus holding the apple of Paris, reviving ancient Roman traditions of portraying mortals as deities.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/16/Paolina_Borghese_%28Canova%29.jpg)
+
+- [David with the Head of Goliath (Caravaggio, Rome)](https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio%2C_Rome))
+  - **Artist**: [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1609–1610
+  - **Description**: A haunting depiction of the young David holding the severed head of Goliath. The head of Goliath is believed to be a self-portrait of Caravaggio, painted during his final years while fleeing a murder charge.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg)
+
+- [Boy with a Basket of Fruit](https://en.wikipedia.org/wiki/Boy_with_a_Basket_of_Fruit)
+  - **Artist**: [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1593
+  - **Description**: An early work showing a sensuous young man holding a basket of meticulously rendered fruit. The painting demonstrates Caravaggio's innovative approach to still life and his use of a model from the streets of Rome.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/64/Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg)
+
+- [Young Sick Bacchus](https://en.wikipedia.org/wiki/Young_Sick_Bacchus)
+  - **Artist**: [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1593–1594
+  - **Description**: An early self-portrait depicting the artist as the god Bacchus with a sickly, greenish complexion. According to his biographer Baglione, it was painted using a mirror, possibly during Caravaggio's recovery from illness.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/8/85/Young_Sick_Bacchus-Caravaggio_%281593%29.jpg)
+
+- [Saint Jerome Writing](https://en.wikipedia.org/wiki/Saint_Jerome_Writing)
+  - **Artist**: [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1605–1606
+  - **Description**: A contemplative depiction of the Church Father Saint Jerome at his desk, writing with dramatic chiaroscuro lighting. The elderly saint is shown with his traditional attributes including a skull and books.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4d/Saint_Jerome_Writing-Caravaggio_%281605-6%29.jpg)
+
+- [Madonna and Child with Saint Anne (Dei Palafrenieri)](https://en.wikipedia.org/wiki/Madonna_and_Child_with_Saint_Anne_(Dei_Palafrenieri))
+  - **Artist**: [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio)
+  - **Medium**: Oil on canvas
+  - **Date**: 1605–1606
+  - **Description**: Painted for the altar of the Papal Grooms in St. Peter's Basilica but quickly removed due to its unorthodox portrayal, including the nudity of the Christ child. Purchased by Cardinal Scipione Borghese after its rejection.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/f5/CaravaggioSerpent.jpg)
+
+- [The Deposition (Raphael)](https://en.wikipedia.org/wiki/The_Deposition_(Raphael))
+  - **Artist**: [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Medium**: Oil on panel
+  - **Date**: 1507
+  - **Description**: Also known as the Pala Baglioni or Borghese Entombment. The central panel of an altarpiece commissioned by Atalanta Baglioni of Perugia in honor of her slain son. Forcibly removed by Cardinal Scipione Borghese in 1608.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/f2/Raffaello%2C_pala_baglioni%2C_deposizione.jpg)
+
+- [Young Woman with Unicorn](https://en.wikipedia.org/wiki/Young_Woman_with_Unicorn)
+  - **Artist**: [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1505–1506
+  - **Description**: A portrait of a young woman holding a small unicorn, a symbol of chastity. The composition shows the influence of Leonardo da Vinci's Mona Lisa.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/0f/Raffael_046FXD.jpg)
+
+- [Sacred and Profane Love](https://en.wikipedia.org/wiki/Sacred_and_Profane_Love)
+  - **Artist**: [Titian](https://en.wikipedia.org/wiki/Titian)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1514
+  - **Description**: An early masterpiece probably commissioned to celebrate a wedding. The allegorical painting depicts a clothed woman and a nude woman (possibly representing earthly and divine love) seated at a sarcophagus fountain with Cupid.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7d/Amor_sacro_e_amor_profano_02.jpg)
+
+- [Danaë (Correggio)](https://en.wikipedia.org/wiki/Dana%C3%AB_(Correggio))
+  - **Artist**: [Correggio](https://en.wikipedia.org/wiki/Antonio_da_Correggio)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1531
+  - **Description**: A sensuous depiction of the mythological princess Danaë receiving Zeus in the form of a shower of gold. Part of a series of paintings on the loves of Jupiter commissioned by Federico II Gonzaga.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/b/bd/Correggio_008.jpg)
+
+### Artists
+
+- [Gian Lorenzo Bernini](https://en.wikipedia.org/wiki/Gian_Lorenzo_Bernini)
+  - **Born**: 1598, Naples
+  - **Died**: 1680, Rome
+  - Italian sculptor, architect, painter and city planner. Credited with creating the Baroque style of sculpture. A uomo universale (Renaissance man) who was the leading sculptor of his age. His early works at the Galleria Borghese were commissioned by Cardinal Scipione Borghese.
+
+- [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio)
+  - **Born**: 1571, Milan
+  - **Died**: 1610, Porto Ercole
+  - Michelangelo Merisi da Caravaggio was an Italian painter whose dramatic use of chiaroscuro lighting had a formative influence on Baroque painting. He fled Rome after killing a man in 1606 and spent his final years in Naples, Malta, and Sicily. Six of his masterpieces are in the Galleria Borghese.
+
+- [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Born**: 1483, Urbino
+  - **Died**: 1520, Rome
+  - Raffaello Sanzio da Urbino was an Italian painter and architect of the High Renaissance. His work is admired for its clarity of form and visual achievement of human grandeur. Together with Leonardo and Michelangelo, he forms the trinity of great masters of the High Renaissance.
+
+- [Correggio](https://en.wikipedia.org/wiki/Antonio_da_Correggio)
+  - **Born**: c. 1489, Correggio
+  - **Died**: 1534, Correggio
+  - Antonio Allegri da Correggio was the foremost painter of the Parma school of the High Renaissance. His use of dynamic composition, illusionistic perspective and dramatic foreshortening prefigured the Baroque and Rococo styles.
+
+### Mythology and Stories
+
+- [Apollo and Daphne](https://en.wikipedia.org/wiki/Apollo_and_Daphne)
+  - **Source**: Ovid's Metamorphoses
+  - A Greek transformation myth. Apollo, struck by Cupid's golden arrow, falls in love with the nymph Daphne, who has been struck by a lead arrow causing her to reject love. As Apollo pursues her, she prays to her father, the river god Peneus, who transforms her into a laurel tree.
+
+- [Persephone](https://en.wikipedia.org/wiki/Persephone)
+  - **Source**: Greek mythology
+  - The abduction of Persephone (Roman: Proserpina) by Hades (Roman: Pluto). The daughter of Zeus and Demeter was seized by the god of the underworld and made his queen. Her annual return to the surface represents the cycle of seasons.
+
+- [Aeneas](https://en.wikipedia.org/wiki/Aeneas)
+  - **Source**: Virgil's Aeneid
+  - Trojan hero, son of Anchises and Aphrodite. After the fall of Troy, he carried his aged father on his shoulders while leading his young son Ascanius and other survivors to Italy, where he became an ancestor of the founders of Rome.
+
+- [Danaë](https://en.wikipedia.org/wiki/Dana%C3%AB)
+  - **Source**: Greek mythology
+  - An Argive princess whose father, King Acrisius, imprisoned her in a bronze chamber after an oracle foretold that her son would kill him. Zeus visited her as a shower of gold, and she bore the hero Perseus.
+
+- [Descent from the Cross](https://en.wikipedia.org/wiki/Descent_from_the_Cross)
+  - **Source**: Gospels
+  - The scene of Joseph of Arimathea and Nicodemus taking Christ down from the cross after his crucifixion. It is the 13th Station of the Cross and one of the Seven Sorrows of the Virgin Mary.

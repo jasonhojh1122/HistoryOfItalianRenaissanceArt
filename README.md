@@ -43,6 +43,7 @@
 - [Catacombs of Domitilla](locations/CatacombsOfDomitilla.md)
 - [Temple of Hadrian](locations/TempleOfHadrian.md)
 - [Sant'Ignazio](locations/SantIgnazio.md)
+- [Galleria Borghese](locations/GalleriaBorghese.md)
 
 #### Milan
 
@@ -151,11 +152,14 @@
 
 #### Baroque (1600s-1700s)
 
+- [Caravaggio](artists/Caravaggio.md)
+- [Gian Lorenzo Bernini](artists/GianLorenzoBernini.md)
 - [Andrea Pozzo](artists/AndreaPozzo.md)
 - [Pierre Le Gros the Younger](artists/PierreLeGrosTheYounger.md)
 - [Filippo della Valle](artists/FilippoDellaValle.md)
 - [Bernardo Strozzi](artists/BernardoStrozzi.md)
 - [Padovanino](artists/Padovanino.md)
+- [Correggio](artists/Correggio.md)
 
 #### Medieval Cartography
 
@@ -219,6 +223,8 @@
 - [Andrea Pozzo](artists/AndreaPozzo.md)
 - [Bernardo Strozzi](artists/BernardoStrozzi.md)
 - [Padovanino](artists/Padovanino.md)
+- [Caravaggio](artists/Caravaggio.md)
+- [Correggio](artists/Correggio.md)
 
 #### Sculpture
 
@@ -232,6 +238,7 @@
 - [Andrea del Verrocchio](artists/AndreaDelVerrocchio.md)
 - [Pierre Le Gros the Younger](artists/PierreLeGrosTheYounger.md)
 - [Filippo della Valle](artists/FilippoDellaValle.md)
+- [Gian Lorenzo Bernini](artists/GianLorenzoBernini.md)
 
 #### Architecture
 

@@ -21,3 +21,9 @@ The young shepherd David, armed only with a sling and stones, defeats the giant 
 
 ### [David and Goliath](../artworks/DavidAndGoliathTitian.md)
 - Titian, Santa Maria della Salute, 1542-1544
+
+### [David](../artworks/DavidBernini.md)
+- Gian Lorenzo Bernini, Galleria Borghese, 1623–1624
+
+### [David with the Head of Goliath](../artworks/DavidWithTheHeadOfGoliathCaravaggio.md)
+- Caravaggio, Galleria Borghese, c. 1609–1610

@@ -64,3 +64,11 @@ Studied under Pietro Perugino, whose influence is visible in his early works suc
 
 ### [Cartoon for Philosophy](../artworks/CartoonForPhilosophy.md)
 - **Location**: [Pinacoteca Ambrosiana](../locations/PinacotecaAmbrosiana.md), Milan
+
+### Galleria Borghese
+
+### [The Deposition](../artworks/DepositionRaphael.md)
+- **Location**: [Galleria Borghese](../locations/GalleriaBorghese.md), Rome
+
+### [Young Woman with Unicorn](../artworks/YoungWomanWithUnicorn.md)
+- **Location**: [Galleria Borghese](../locations/GalleriaBorghese.md), Rome
