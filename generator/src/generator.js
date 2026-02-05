@@ -42,6 +42,17 @@ export async function generateSite(rootDir, outputDir) {
   await fs.mkdir(path.join(outputDir, 'artworks'), { recursive: true });
   await fs.mkdir(path.join(outputDir, 'biblestories'), { recursive: true });
 
+  // Load trip data
+  const dataDir = path.join(path.dirname(__filename), '..', 'data');
+  let tripData = { version: 1, days: [] };
+  try {
+    tripData = JSON.parse(await fs.readFile(path.join(dataDir, 'trip.json'), 'utf-8'));
+  } catch (err) {
+    if (err.code !== 'ENOENT') {
+      console.warn('  Warning: Could not load trip.json:', err.message);
+    }
+  }
+
   // Build content index
   console.log('\nIndexing content...');
   const index = await buildIndex(rootDir);
@@ -80,7 +91,19 @@ export async function generateSite(rootDir, outputDir) {
     };
   }).filter(loc => loc.lat && loc.lng);
 
-  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, artworksByCentury, mapLocations);
+  // Build trip locations lookup (all locations with coordinates)
+  const tripLocations = Object.entries(index.locations).map(([id, location]) => {
+    const coord = coordinates[id] || null;
+    return {
+      id,
+      title: location.metadata.title,
+      city: location.metadata.city || '',
+      lat: coord?.lat,
+      lng: coord?.lng
+    };
+  }).filter(loc => loc.lat && loc.lng);
+
+  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, artworksByCentury, mapLocations, tripData, tripLocations);
   await fs.writeFile(path.join(outputDir, 'index.html'), indexHtml);
   console.log('  Generated index.html');
 

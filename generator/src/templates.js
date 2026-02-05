@@ -124,7 +124,7 @@ function fixImagePathForIndex(src) {
 /**
  * Index page template
  */
-export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}, mapLocations = []) {
+export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}, mapLocations = [], tripData = { version: 1, days: [] }, tripLocations = []) {
   const artistsList = artists.map(a => {
     const count = a.artworks?.length || 0;
     const countBadge = count > 0 ? `<span class="artwork-count">${count}</span>` : '';
@@ -180,6 +180,7 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
       <button class="tab-btn" data-tab="biblestories">Bible Stories</button>
       <button class="tab-btn" data-tab="timeline">Timeline</button>
       <button class="tab-btn" data-tab="map">Map</button>
+      <button class="tab-btn" data-tab="trip">Trip</button>
     </div>
 
     <div class="tab-content">
@@ -209,12 +210,19 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
         <div id="map-container" class="map-container"></div>
         <script type="application/json" id="map-locations-data">${JSON.stringify(mapLocations)}</script>
       </section>
+
+      <section class="tab-panel" data-tab="trip">
+        <div id="trip-container"></div>
+        <script type="application/json" id="trip-data">${JSON.stringify(tripData)}</script>
+        <script type="application/json" id="trip-locations-data">${JSON.stringify(tripLocations)}</script>
+      </section>
     </div>
   `;
 
   const leafletHead = `  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">`;
   const leafletScripts = `  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="./map.js"></script>`;
+  <script src="./map.js"></script>
+  <script src="./trip.js"></script>`;
 
   return layoutTemplate('Home', content, 0, { extraHead: leafletHead, extraScripts: leafletScripts });
 }
