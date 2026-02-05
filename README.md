@@ -42,6 +42,7 @@
 - [Catacombs of San Sebastiano](locations/CatacombsOfSanSebastiano.md)
 - [Catacombs of Domitilla](locations/CatacombsOfDomitilla.md)
 - [Temple of Hadrian](locations/TempleOfHadrian.md)
+- [Sant'Ignazio](locations/SantIgnazio.md)
 
 #### Milan
 
@@ -140,6 +141,12 @@
 
 - [Leonardo da Vinci](artists/LeonardoDaVinci.md)
 
+#### Baroque (1600s-1700s)
+
+- [Andrea Pozzo](artists/AndreaPozzo.md)
+- [Pierre Le Gros the Younger](artists/PierreLeGrosTheYounger.md)
+- [Filippo della Valle](artists/FilippoDellaValle.md)
+
 #### Patrons
 
 - [Bernabò Visconti](artists/BernaboVisconti.md)
@@ -189,6 +196,7 @@
 - [Giovanni Bellini](artists/GiovanniBellini.md)
 - [Vittore Carpaccio](artists/VittoreCarpaccio.md)
 - [Leonardo da Vinci](artists/LeonardoDaVinci.md)
+- [Andrea Pozzo](artists/AndreaPozzo.md)
 
 #### Sculpture
 
@@ -200,6 +208,8 @@
 - [Desiderio da Settignano](artists/DesiderioDaSettignano.md)
 - [Antonio del Pollaiuolo](artists/AntonioDelPollaiuolo.md)
 - [Andrea del Verrocchio](artists/AndreaDelVerrocchio.md)
+- [Pierre Le Gros the Younger](artists/PierreLeGrosTheYounger.md)
+- [Filippo della Valle](artists/FilippoDellaValle.md)
 
 #### Architecture
 

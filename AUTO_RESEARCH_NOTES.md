@@ -2338,3 +2338,101 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Died**: 161 CE, Lorium
   - Roman emperor from 138 to 161 CE, fourth of the Five Good Emperors from the Nerva-Antonine dynasty. He commissioned the Temple of Hadrian in honor of his adoptive father and predecessor, completing the structure in 145 CE. His peaceful reign was marked by relative prosperity and stability throughout the empire.
   ![img](https://upload.wikimedia.org/wikipedia/commons/c/c1/Antoninus_Pius_Glyptothek_Munich_337_cropped.jpg)
+
+## Sant'Ignazio, Rome
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Sant'Ignazio, Rome](https://en.wikipedia.org/wiki/Sant'Ignazio%2C_Rome)
+  - **Type**: Church
+  - **Description**: The Church of St. Ignatius of Loyola at Campus Martius is a Latin Catholic titular church dedicated to Ignatius of Loyola, founder of the Society of Jesus, located in Rome. Built in Baroque style between 1626 and 1650, it originally functioned as the chapel of the adjacent Roman College. It is one of the great 17th-century preaching churches built by Counter-Reformation orders in the Centro Storico.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/76/Church_of_Sant%27Ignazio_di_Loyola.jpg)
+
+### Artworks
+
+- Glorification of Saint Ignatius (Nave Ceiling Fresco)
+  - **Artist**: [Andrea Pozzo](https://en.wikipedia.org/wiki/Andrea_Pozzo)
+  - **Medium**: Fresco
+  - **Date**: 1691-1694
+  - **Description**: A masterpiece of Baroque illusionism covering over 40 meters of the nave ceiling. The fresco depicts the apotheosis of St. Ignatius, with light emanating from God the Father to the Son, then to St. Ignatius, breaking into four rays leading to allegorical representations of the four continents. The quadratura technique creates the illusion of three-dimensional architecture extending infinitely into the heavens, visible from a marked spot on the nave floor.
+
+- Trompe-l'œil Dome (Fake Dome)
+  - **Artist**: [Andrea Pozzo](https://en.wikipedia.org/wiki/Andrea_Pozzo)
+  - **Medium**: Painting on canvas
+  - **Date**: 1685 (original, destroyed; reproduced 1823 by Francesco Manno)
+  - **Description**: A flat circular canvas painted to create the illusion of a cupola, since the planned dome was never built due to disputes with the Ludovisi donors. Using masterful perspective, Pozzo created the appearance of a coffered dome when viewed from the correct vantage point in the nave. The original was destroyed by fire and faithfully reproduced in 1823.
+
+- Apse and Presbytery Frescoes
+  - **Artist**: [Andrea Pozzo](https://en.wikipedia.org/wiki/Andrea_Pozzo)
+  - **Medium**: Fresco
+  - **Date**: 1685-1701
+  - **Description**: The frescoes illustrate key moments from Saint Ignatius's life and the founding of the Society of Jesus, including the siege of Pamplona, service to plague victims, Francis Borgia's entry into the order, Francis Xavier's mission to the Indies, and the famous La Storta vision where Christ appeared to Ignatius.
+
+- Glory of Saint Aloysius Gonzaga
+  - **Artist**: [Pierre Le Gros the Younger](https://en.wikipedia.org/wiki/Pierre_Le_Gros_the_Younger)
+  - **Medium**: Marble relief
+  - **Date**: 1697-1699
+  - **Description**: A large marble high-relief altarpiece in the right transept chapel depicting St. Aloysius Gonzaga ascending to heaven with symbols of Penance and Purity above. The monumental altar was designed by Andrea Pozzo. Two cherub sculptures by Le Gros embody the saint's renunciation of worldly honors—one pushing away a globe, the other with a marquis's crown at his feet. The chapel contains a lapis lazuli urn with the saint's remains.
+
+- Annunciation Altar
+  - **Artist**: [Filippo della Valle](https://en.wikipedia.org/wiki/Filippo_della_Valle)
+  - **Medium**: Sculpture
+  - **Date**: 18th century
+  - **Description**: The altarpiece in the Ludovisi Chapel dedicated to the Annunciation. The chapel houses the remains of Saint John Berchmans, a Belgian Jesuit scholastic who died while studying at the Roman College.
+
+### Artists
+
+- [Andrea Pozzo](https://en.wikipedia.org/wiki/Andrea_Pozzo)
+  - **Born**: 1642, Trento
+  - **Died**: 1709, Vienna
+  - Italian Jesuit brother, Baroque painter, architect, decorator, stage designer, and art theoretician. He was an unrivalled master of perspective and quadratura, using light, color, and architectural illusion to create breathtaking effects. His masterwork at Sant'Ignazio set the standard for Late Baroque ceiling frescoes throughout Catholic Europe. He also authored an influential treatise on perspective, *Perspectiva Pictorum et Architectorum*.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/47/Andrea_Pozzo%2C_autoportrait.jpg)
+
+- [Pierre Le Gros the Younger](https://en.wikipedia.org/wiki/Pierre_Le_Gros_the_Younger)
+  - **Born**: 1666, Paris
+  - **Died**: 1719, Rome
+  - French sculptor active almost exclusively in Baroque Rome, where he was the pre-eminent sculptor for nearly two decades. His work at Sant'Ignazio includes the celebrated marble relief of the Glory of Saint Aloysius Gonzaga and accompanying cherub sculptures.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/99/Pierre_Le_Gros_Portrait.jpg)
+
+- [Filippo della Valle](https://en.wikipedia.org/wiki/Filippo_della_Valle)
+  - **Born**: 1698, Florence
+  - **Died**: 1768, Rome
+  - Italian late-Baroque or early Neoclassic sculptor, active mostly in Rome. He created the Annunciation altarpiece in the Ludovisi Chapel at Sant'Ignazio.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7f/Filippo_della_Valle_%28cropped%29.jpg)
+
+### Saints and Historical Figures
+
+- [Ignatius of Loyola](https://en.wikipedia.org/wiki/Ignatius_of_Loyola)
+  - **Born**: 1491, Azpeitia, Spain
+  - **Died**: 1556, Rome
+  - Spanish Catholic priest and theologian who founded the Society of Jesus (Jesuits) with six companions in Paris in 1541, becoming its first Superior General. The church is dedicated to him and contains frescoes depicting key moments of his life, including his wounding at the siege of Pamplona and his mystical La Storta vision.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/f9/Ignatius_Loyola.jpg)
+
+- [Aloysius Gonzaga](https://en.wikipedia.org/wiki/Aloysius_Gonzaga)
+  - **Born**: 1568, Castiglione delle Stiviere
+  - **Died**: 1591, Rome
+  - Italian aristocrat who renounced his noble inheritance to become a Jesuit. While a student at the Roman College, he died caring for plague victims. Beatified in 1605 and canonized in 1726, his remains are preserved in a lapis lazuli urn at the altar dedicated to him.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/2/24/The_Vocation_of_Saint_Aloysius_Gonzaga.PNG)
+
+- [Francis Xavier](https://en.wikipedia.org/wiki/Francis_Xavier)
+  - **Born**: 1506, Javier, Navarre
+  - **Died**: 1552, Shangchuan Island, China
+  - Navarrese cleric and missionary who co-founded the Society of Jesus with Ignatius of Loyola. He led the first Christian mission to Japan and is depicted in the apse frescoes departing for his missionary work in the Indies.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/db/Franciscus_de_Xabier.jpg)
+
+- [Francis Borgia](https://en.wikipedia.org/wiki/Francis_Borgia)
+  - **Born**: 1510, Gandia, Spain
+  - **Died**: 1572, Rome
+  - Spanish Jesuit priest, great-grandson of both Pope Alexander VI and King Ferdinand II of Aragon. He was Duke of Gandía before renouncing his titles after his wife's death to become a Jesuit, later serving as the order's third Superior General. Canonized in 1670, he is depicted in the apse frescoes entering the Society of Jesus.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/52/San_Francisco_de_Borja.jpg)
+
+- [John Berchmans](https://en.wikipedia.org/wiki/John_Berchmans)
+  - **Born**: 1599, Diest, Brabant
+  - **Died**: 1621, Rome
+  - Belgian Jesuit scholastic revered as a saint. He died while studying at the Roman College, and his remains are housed in the Ludovisi Chapel (Annunciation Chapel) at Sant'Ignazio.
+
+- [Robert Bellarmine](https://en.wikipedia.org/wiki/Robert_Bellarmine)
+  - **Born**: 1542, Montepulciano
+  - **Died**: 1621, Rome
+  - Italian Jesuit cardinal and one of the most important figures in the Counter-Reformation. Canonized in 1930 and named Doctor of the Church. His body rests in the Chapel of Saint Joachim at Sant'Ignazio.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/d7/Portret_van_kardinaal_Robertus_Bellarminus%2C_onbekend%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_110_%28cropped%29.jpg)

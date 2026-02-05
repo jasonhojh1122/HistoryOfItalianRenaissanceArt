@@ -26,3 +26,6 @@ The Annunciation depicts the announcement by the Angel Gabriel to the Virgin Mar
 
 ### [Annunciation](../artworks/AnnunciationLeonardo.md)
 - Leonardo da Vinci, Uffizi Gallery, Florence, c. 1472–1476
+
+### [Annunciation Altar](../artworks/AnnunciationAltar.md)
+- Filippo della Valle, Sant'Ignazio, Rome, 18th century
