@@ -33,3 +33,24 @@ The Madonna and Child depicts the Virgin Mary with the infant Jesus. This iconic
 
 ### [The Madonna and Child with Saints](../artworks/MadonnaAndChildWithSaints.md)
 - Domenico Veneziano, Uffizi Gallery, Florence
+
+### [Madonna and Child (Frizzoni Madonna)](../artworks/FrizzoniMadonna.md)
+- Giovanni Bellini, Museo Correr, Venice, c. 1470-1475
+
+### [Madonna, Child and St. John the Baptist](../artworks/MadonnaChildStJohnCarpaccio.md)
+- Vittore Carpaccio, Museo Correr, Venice, early period
+
+### [Madonna and Child with Angels](../artworks/MadonnaAndChildWithAngelsLotto.md)
+- Lorenzo Lotto, Museo Correr, Venice, c. 1525
+
+### [Madonna and Child with St. Nicholas and St. Lawrence](../artworks/MadonnaChildStNicholasStLawrence.md)
+- Cima da Conegliano, Museo Correr, Venice, early 16th century
+
+### [Madonna and Child](../artworks/MadonnaAndChildGiambono.md)
+- Michele Giambono, Museo Correr, Venice, early 15th century
+
+### [Madonna and Child](../artworks/MadonnaAndChildBartolomeoVivarini.md)
+- Bartolomeo Vivarini, Museo Correr, Venice, mid-15th century
+
+### [Madonna and Child](../artworks/MadonnaAndChildBouts.md)
+- Dieric Bouts, Museo Correr, Venice, mid-15th century

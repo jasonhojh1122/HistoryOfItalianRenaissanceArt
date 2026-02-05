@@ -15,3 +15,6 @@ The Delivery of the Keys depicts the moment when Christ gives the keys of the ki
 
 ### [Delivery of the Keys](../artworks/DeliveryOfTheKeys.md)
 - Pietro Perugino, Sistine Chapel, Vatican City
+
+### [Jesus giving the Keys to St. Peter](../artworks/JesusGivingKeysToStPeter.md)
+- Lorenzo Veneziano, Museo Correr, Venice, 1370

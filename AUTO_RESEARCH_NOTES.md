@@ -2436,3 +2436,281 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Died**: 1621, Rome
   - Italian Jesuit cardinal and one of the most important figures in the Counter-Reformation. Canonized in 1930 and named Doctor of the Church. His body rests in the Chapel of Saint Joachim at Sant'Ignazio.
   ![img](https://upload.wikimedia.org/wikipedia/commons/d/d7/Portret_van_kardinaal_Robertus_Bellarminus%2C_onbekend%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_110_%28cropped%29.jpg)
+
+## Museo Correr, Venice
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Museo Correr](https://en.wikipedia.org/wiki/Museo_Correr)
+  - **Type**: Museum
+  - **Description**: The Museo Correr is a civic museum located in St. Mark's Square, Venice, extending along the southside of the square on the upper floors of the Procuratorie Nuove. It is one of the 11 civic museums run by the Fondazione Musei Civici di Venezia, housing a rich collection covering Venetian art from its Byzantine origins through the 16th century Renaissance.
+
+### Artworks
+
+- [Two Venetian Ladies](https://en.wikipedia.org/wiki/Two_Venetian_Ladies)
+  - **Artist**: [Vittore Carpaccio](https://en.wikipedia.org/wiki/Vittore_Carpaccio)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1490-1495
+  - **Description**: A famous painting showing two unknown Venetian ladies on a terrace with dogs, birds, and various symbolic objects. Believed to be a quarter of the original work; the top portion, called Hunting on the Lagoon, is now in the Getty Museum. Once thought to depict courtesans, the work is now believed to show two patrician women awaiting the return of their husbands from a hunting expedition.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/1d/Vittore_Carpaccio_079.jpg)
+
+- [Pietà (Cosmè Tura)](https://en.wikipedia.org/wiki/Piet%C3%A0_(Cosm%C3%A8_Tura))
+  - **Artist**: [Cosmè Tura](https://en.wikipedia.org/wiki/Cosm%C3%A8_Tura)
+  - **Medium**: Tempera on panel
+  - **Date**: c. 1460
+  - **Description**: A significant work demonstrating Tura's monumentality and pathos, bequeathed to the museum as part of Teodoro Correr's original collection in 1830. Measures 47.7 cm by 33.5 cm. Initially attributed to Luca d'Olanda until Vincenzo Lazari recognized it as a Tura work in 1859.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/65/Cosm%C3%A8_Tura_025.jpg)
+
+- [View of Venice](https://en.wikipedia.org/wiki/View_of_Venice)
+  - **Artist**: [Jacopo de' Barbari](https://en.wikipedia.org/wiki/Jacopo_de'_Barbari)
+  - **Medium**: Woodcut print (original wooden blocks)
+  - **Date**: 1498-1500
+  - **Description**: A monumental woodcut print showing a bird's-eye view of Venice from the southwest, also known as the de' Barbari Map. The museum houses the six original wooden printing blocks. When printed on six large sheets, the composite image measures approximately 135 cm × 280 cm, making it one of the largest prints of its time.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/e2/Jacopo_de%27_Barbari_-_View_of_Venice_-_Google_Art_Project.jpg)
+
+- Portrait of Doge Giovanni Mocenigo
+  - **Artist**: [Gentile Bellini](https://en.wikipedia.org/wiki/Gentile_Bellini)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1478-1485
+  - **Description**: A profile portrait of Doge Giovanni Mocenigo demonstrating Gentile Bellini's skill as the official portrait artist for the Doges of Venice. Giovanni Mocenigo served as doge from 1478 to 1485.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/fe/%28Venice%29_Doge_Giovanni_Mocenigo_by_Gentile_Bellini_-_Correr_Museum.jpg)
+
+- [Last Supper (El Greco)](https://en.wikipedia.org/wiki/Last_Supper_(El_Greco))
+  - **Artist**: [El Greco](https://en.wikipedia.org/wiki/El_Greco)
+  - **Medium**: Panel painting
+  - **Date**: 1568
+  - **Description**: An early work by El Greco from his Venetian period, before he developed the more elongated and dramatic style for which he became famous. The painting shows the influence of Venetian masters during his formative years.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4d/El_Greco_020.jpg)
+
+- Crucifixion
+  - **Artist**: [Jacopo Bellini](https://en.wikipedia.org/wiki/Jacopo_Bellini)
+  - **Medium**: Tempera on panel
+  - **Date**: c. 1450
+  - **Description**: A predella work with traditional composition from one of the founders of the Renaissance style of painting in Venice. Jacopo was the patriarch of the famous Bellini family of painters.
+
+- Crucifixion
+  - **Artist**: [Giovanni Bellini](https://en.wikipedia.org/wiki/Giovanni_Bellini)
+  - **Medium**: Tempera on panel
+  - **Date**: 1453-1455
+  - **Description**: An early career work showing the influence of Andrea Mantegna, Giovanni's brother-in-law. This Crucifixion demonstrates Bellini's development before he achieved his mature style.
+
+- Pietà
+  - **Artist**: [Giovanni Bellini](https://en.wikipedia.org/wiki/Giovanni_Bellini)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1460s
+  - **Description**: An atmospheric composition echoing Donatello's bronze relief. Part of the museum's significant collection of Bellini family works.
+
+- Transfiguration of Christ
+  - **Artist**: [Giovanni Bellini](https://en.wikipedia.org/wiki/Giovanni_Bellini)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1480
+  - **Description**: Likely originally from San Salvatore or San Giobbe church. One of several works in the museum representing Giovanni Bellini's mature period.
+
+- Madonna and Child (Frizzoni Madonna)
+  - **Artist**: [Giovanni Bellini](https://en.wikipedia.org/wiki/Giovanni_Bellini)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1470-1475
+  - **Description**: An innovative depiction featuring the Madonna in an unusual purple gown and pink mantle, departing from the traditional blue. Known as the Frizzoni Madonna.
+
+- Pietà
+  - **Artist**: [Antonello da Messina](https://en.wikipedia.org/wiki/Antonello_da_Messina)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1474-1476
+  - **Description**: The only work by Antonello da Messina remaining in Venice from his 1474-76 stay in the city. Originally housed in the Doge's Palace. This work was influential in introducing Flemish oil painting techniques to Venice.
+
+- St. Peter Martyr
+  - **Artist**: [Vittore Carpaccio](https://en.wikipedia.org/wiki/Vittore_Carpaccio)
+  - **Medium**: Oil on panel
+  - **Date**: Late period
+  - **Description**: A late work by Carpaccio, originally part of a polyptych from Santa Fosca church.
+
+- Madonna, Child and St. John the Baptist
+  - **Artist**: [Vittore Carpaccio](https://en.wikipedia.org/wiki/Vittore_Carpaccio)
+  - **Medium**: Oil on panel
+  - **Date**: Early period
+  - **Description**: A recently confirmed early work by Carpaccio, demonstrating his developing style before the major cycles for which he became famous.
+
+- Madonna and Child with Angels
+  - **Artist**: [Lorenzo Lotto](https://en.wikipedia.org/wiki/Lorenzo_Lotto)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1525
+  - **Description**: Spiritual, meditative figures set in a landscape. Lotto's distinctive psychological approach to religious subjects is evident in this work.
+
+- St. Anthony of Padua
+  - **Artist**: [Alvise Vivarini](https://en.wikipedia.org/wiki/Alvise_Vivarini)
+  - **Medium**: Oil on panel
+  - **Date**: Late 15th century
+  - **Description**: A refined, elegant work still in its original frame. Alvise was the leading Venetian artist before Giovanni Bellini.
+
+- Madonna and Child with St. Nicholas and St. Lawrence
+  - **Artist**: [Cima da Conegliano](https://en.wikipedia.org/wiki/Cima_da_Conegliano)
+  - **Medium**: Oil on panel
+  - **Date**: Early 16th century
+  - **Description**: Features Cima's characteristic atmospheric handling with a bright palette. His tranquil, luminous style shows the influence of both Bellini and Antonello da Messina.
+
+- Genealogy of Christ, with the Life of Christ and the Virgin
+  - **Artist**: [Paolo Veneziano](https://en.wikipedia.org/wiki/Paolo_Veneziano)
+  - **Medium**: Tempera on panel
+  - **Date**: Mid-14th century
+  - **Description**: A complex symbolic work showing Giotto's influence. Paolo Veneziano was the founder of the Venetian School and official painter of the Venetian Republic.
+
+- Jesus giving the Keys to St. Peter
+  - **Artist**: [Lorenzo Veneziano](https://en.wikipedia.org/wiki/Lorenzo_Veneziano)
+  - **Medium**: Tempera on panel
+  - **Date**: 1370
+  - **Description**: A monumental composition with marble throne. Lorenzo Veneziano was the first Venetian painter to move away from Byzantine models toward the Gothic style.
+
+- Madonna and Child
+  - **Artist**: [Michele Giambono](https://en.wikipedia.org/wiki/Michele_Giambono)
+  - **Medium**: Tempera on panel
+  - **Date**: Early 15th century
+  - **Description**: A work in the International Gothic style with a refined palette. Giambono designed the mosaics of the Birth of the Virgin and Presentation in the Temple.
+
+- Madonna and Child
+  - **Artist**: [Bartolomeo Vivarini](https://en.wikipedia.org/wiki/Bartolomeo_Vivarini)
+  - **Medium**: Tempera on panel
+  - **Date**: Mid-15th century
+  - **Description**: One of two Madonna and Child paintings by Bartolomeo Vivarini in the collection, representing the transition from Late Gothic to Early Renaissance in Venice.
+
+- Madonna and Child
+  - **Artist**: [Dieric Bouts](https://en.wikipedia.org/wiki/Dieric_Bouts)
+  - **Medium**: Oil on panel
+  - **Date**: Mid-15th century
+  - **Description**: Features pearls and coral symbolizing the virgin birth and Christ's sacrifice. Demonstrates Flemish influence in the Venetian collection.
+
+- The Adoration of the Magi
+  - **Artist**: [Pieter Brueghel the Younger](https://en.wikipedia.org/wiki/Pieter_Brueghel_the_Younger)
+  - **Medium**: Oil on panel
+  - **Date**: Late 16th century
+  - **Description**: A variation of his father Pieter Bruegel the Elder's work with miniaturist detail. Part of the museum's collection of Flemish works.
+
+### Artists
+
+- [Vittore Carpaccio](https://en.wikipedia.org/wiki/Vittore_Carpaccio)
+  - **Born**: c. 1465, Venice
+  - **Died**: 1525/1526, Venice
+  - Italian painter of the Venetian school who studied under Gentile Bellini. Influenced by Antonello da Messina and Early Netherlandish painting. Known for his command of perspective, precise attention to architectural detail, themes of death, and use of bold color.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/67/Vittore_Carpaccio.jpg)
+
+- [Giovanni Bellini](https://en.wikipedia.org/wiki/Giovanni_Bellini)
+  - **Born**: c. 1430, Venice
+  - **Died**: 1516, Venice
+  - Italian Renaissance painter, probably the best known of the Bellini family of Venetian painters. His brother-in-law was Andrea Mantegna. Transformed Venetian painting with his innovative use of oil paint and atmospheric landscapes.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/11/Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg)
+
+- [Gentile Bellini](https://en.wikipedia.org/wiki/Gentile_Bellini)
+  - **Born**: c. 1429, Venice
+  - **Died**: 1507, Venice
+  - Venetian painter from Venice's leading family of painters. Official portrait artist for the Doges of Venice from 1474. In his early career he was more highly regarded than his younger brother Giovanni.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/b/bd/Bellini_selfportrait.jpg)
+
+- [Jacopo Bellini](https://en.wikipedia.org/wiki/Jacopo_Bellini)
+  - **Born**: c. 1396, Venice
+  - **Died**: c. 1470, Venice
+  - One of the founders of the Renaissance style of painting in Venice and northern Italy. Father of Gentile and Giovanni Bellini, and father-in-law of Andrea Mantegna.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/69/Jacopo_Bellini-_Madonna_and_Child.jpg)
+
+- [Antonello da Messina](https://en.wikipedia.org/wiki/Antonello_da_Messina)
+  - **Born**: c. 1430, Messina
+  - **Died**: 1479, Messina
+  - Italian painter from Messina active during the Italian Early Renaissance. His visit to Venice in 1474-76 was instrumental in introducing Flemish oil painting techniques to Venetian artists.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/ed/Antonello_da_Messina_-_Portrait_of_a_Man_-_National_Gallery_London.jpg)
+
+- [Cosmè Tura](https://en.wikipedia.org/wiki/Cosm%C3%A8_Tura)
+  - **Born**: c. 1430, Ferrara
+  - **Died**: 1495, Ferrara
+  - Italian early-Renaissance painter and one of the founders of the School of Ferrara. Known for his highly distinctive style with metallic colors and hard, sculptural forms.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tura_allegory.jpg)
+
+- [Jacopo de' Barbari](https://en.wikipedia.org/wiki/Jacopo_de'_Barbari)
+  - **Born**: c. 1460, Venice
+  - **Died**: 1516, Brussels
+  - Italian painter, printmaker and miniaturist who moved to Germany in 1500, becoming the first Italian Renaissance artist of stature to work in Northern Europe. His surviving paintings include the first known example of trompe-l'œil since antiquity.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/39/Venetian_16th_c._%28Washington%29.jpg)
+
+- [El Greco](https://en.wikipedia.org/wiki/El_Greco)
+  - **Born**: 1541, Crete
+  - **Died**: 1614, Toledo
+  - Greek painter, sculptor and architect of the Spanish Renaissance, regarded as one of the greatest artists of all time. His early works in Venice show the formative influence of Venetian masters before developing his characteristic elongated style.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg)
+
+- [Lorenzo Lotto](https://en.wikipedia.org/wiki/Lorenzo_Lotto)
+  - **Born**: c. 1480, Venice
+  - **Died**: 1556/1557, Loreto
+  - Italian Renaissance painter traditionally placed in the Venetian school, though much of his career was spent in other north Italian cities. Painted mainly altarpieces, religious subjects and portraits.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/df/Lotto_Lorenzo_%28attributed%29_presumably_self_portrait_31862-p.jpg)
+
+- [Paolo Veneziano](https://en.wikipedia.org/wiki/Paolo_Veneziano)
+  - **Born**: c. 1290, Venice
+  - **Died**: c. 1362, Venice
+  - 14th-century painter, "founder of the Venetian School" of painting, active between about 1321 and 1362. Regarded as the most important Venetian painter of the 14th century and official painter of the Venetian Republic.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/3c/Paolo_veneziano%2C_madonna_col_bambino_e_santi%2C_1354%2C_03.JPG)
+
+- [Lorenzo Veneziano](https://en.wikipedia.org/wiki/Lorenzo_Veneziano)
+  - **Born**: Active 1356-1372, Venice
+  - **Died**: After 1372
+  - Important painter in Venice during the second half of the 14th century. First painter of the Venetian school to move away from Byzantine models toward the Gothic style, influencing the next generation of Venetian painters.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7e/14_Lorenzo_Veneziano_Conversion_of_Paul_1370_Staatliche_Museen%2C_Berlin..jpg)
+
+- [Alvise Vivarini](https://en.wikipedia.org/wiki/Alvise_Vivarini)
+  - **Born**: c. 1442/1453, Murano
+  - **Died**: c. 1503/1505, Venice
+  - Italian painter, the leading Venetian artist before Giovanni Bellini. Part of a dynasty of painters; his father was Antonio Vivarini and his uncle was Bartolomeo Vivarini.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/cd/Vivarini_Pfingstretabel.jpg)
+
+- [Bartolomeo Vivarini](https://en.wikipedia.org/wiki/Bartolomeo_Vivarini)
+  - **Born**: c. 1432, Murano
+  - **Died**: c. 1499, Venice
+  - Italian Renaissance painter known to have worked from 1450 to 1499. Part of the prominent Vivarini family of painters from Murano.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/0d/%27Madonna_and_Child%27%2C_tempera_and_gold_on_panel_painting_by_Bartolomeo_Vivarini%2C_ca._1475.JPG)
+
+- [Cima da Conegliano](https://en.wikipedia.org/wiki/Cima_da_Conegliano)
+  - **Born**: c. 1459, Conegliano
+  - **Died**: c. 1517/1518, Conegliano
+  - Italian Renaissance painter who mostly worked in Venice. Part of the Venetian school, influenced by Antonello da Messina. Known for the emphasis he gives to landscape backgrounds and the tranquil atmosphere of his works.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/51/Cima_da_Conegliano_Christ_among_the_doctors.jpg)
+
+- [Michele Giambono](https://en.wikipedia.org/wiki/Michele_Giambono)
+  - **Born**: c. 1400, Venice
+  - **Died**: c. 1462, Venice
+  - Italian painter whose work reflected the International Gothic style with a Venetian influence. Designed the mosaics of the Birth of the Virgin and Presentation in the Temple.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/60/San_Trovaso_%28Venice%29_-_San_Cris%C3%B3gono_a_caballo_-_Michele_Giambono.jpg)
+
+- [Dieric Bouts](https://en.wikipedia.org/wiki/Dieric_Bouts)
+  - **Born**: c. 1415, Haarlem
+  - **Died**: 1475, Leuven
+  - Early Netherlandish painter who may have studied under Rogier van der Weyden. His work was influenced by van der Weyden and Jan van Eyck. Worked in Leuven from 1457 until his death.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/1b/Theodoro_Harlemio.jpg)
+
+- [Pieter Brueghel the Younger](https://en.wikipedia.org/wiki/Pieter_Brueghel_the_Younger)
+  - **Born**: 1564, Brussels
+  - **Died**: 1638, Antwerp
+  - Flemish painter known for numerous copies after his father Pieter Bruegel the Elder's work, as well as original compositions. The large output of his studio contributed to the international spread of his father's imagery.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4e/Van_Dyck_Pieter_Brueghel_the_Younger.jpg)
+
+### Bible Stories
+
+- [Pietà](https://en.wikipedia.org/wiki/Piet%C3%A0)
+  - **Book(s)**: Gospels
+  - **Chapters/Verses**: Events following the Crucifixion
+  - The Pietà depicts the Virgin Mary cradling the dead body of Jesus after his Crucifixion. Though not explicitly described in the Gospels, this scene became one of the most important subjects in Christian art, particularly popular from the Gothic period through the Renaissance.
+
+- [Transfiguration of Jesus](https://en.wikipedia.org/wiki/Transfiguration_of_Jesus)
+  - **Book(s)**: Matthew, Mark, Luke
+  - **Chapters/Verses**: Matthew 17:1-9, Mark 9:2-8, Luke 9:28-36
+  - The Transfiguration is the event where Jesus took Peter, James and John up a high mountain where he was transfigured before them, his face shining like the sun and his clothes becoming white as light. Moses and Elijah appeared and spoke with him.
+
+- [Last Supper](https://en.wikipedia.org/wiki/Last_Supper)
+  - **Book(s)**: Matthew, Mark, Luke, John
+  - **Chapters/Verses**: Matthew 26:17-30, Mark 14:12-26, Luke 22:7-38, John 13:1-17:26
+  - The final meal Jesus shared with his apostles in Jerusalem before his Crucifixion. During this meal Jesus announced that one of his disciples would betray him and instituted the Eucharist.
+
+- [Crucifixion of Jesus](https://en.wikipedia.org/wiki/Crucifixion_of_Jesus)
+  - **Book(s)**: Matthew, Mark, Luke, John
+  - **Chapters/Verses**: Matthew 27:32-56, Mark 15:21-41, Luke 23:26-49, John 19:17-37
+  - The execution of Jesus by crucifixion on Calvary outside Jerusalem, a central event in Christianity depicted extensively in religious art.
+
+- [Adoration of the Magi](https://en.wikipedia.org/wiki/Adoration_of_the_Magi)
+  - **Book(s)**: Matthew
+  - **Chapters/Verses**: Matthew 2:1-12
+  - The visit of the Magi (wise men or kings) to the infant Jesus, bringing gifts of gold, frankincense, and myrrh. One of the most popular subjects in Christian art.

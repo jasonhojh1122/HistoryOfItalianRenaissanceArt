@@ -20,3 +20,12 @@ The Pietà is a subject in Christian art depicting the Virgin Mary cradling the 
 
 ### [The Deposition (Florentine Pietà)](../artworks/FlorentinePieta.md)
 - Michelangelo, Museo dell'Opera del Duomo, Florence, c. 1547-1555
+
+### [Pietà](../artworks/PietaCosmeTura.md)
+- Cosmè Tura, Museo Correr, Venice, c. 1460
+
+### [Pietà](../artworks/PietaGiovanniBelliniCorrer.md)
+- Giovanni Bellini, Museo Correr, Venice, c. 1460s
+
+### [Pietà](../artworks/PietaAntonelloDaMessina.md)
+- Antonello da Messina, Museo Correr, Venice, c. 1474-1476

@@ -27,3 +27,6 @@ The Last Supper depicts Jesus's final meal with his twelve disciples before his 
 
 ### [The Feast in the House of Levi](../artworks/FeastInTheHouseOfLevi.md)
 - Paolo Veronese, Gallerie dell'Accademia, 1573 (originally intended as a Last Supper)
+
+### [Last Supper](../artworks/LastSupperElGreco.md)
+- El Greco, Museo Correr, Venice, 1568

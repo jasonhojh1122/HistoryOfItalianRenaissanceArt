@@ -8,3 +8,5 @@
 Founder of the Venetian School of painting, probably active between about 1321 and 1362. Called the most important Venetian painter of the 14th century, he was regarded as the official painter of the Venetian Republic. Active during the Later Gothic period.
 
 ## Artworks
+
+### [Genealogy of Christ, with the Life of Christ and the Virgin](../artworks/GenealogyOfChristPaoloVeneziano.md)

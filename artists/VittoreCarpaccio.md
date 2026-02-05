@@ -12,3 +12,6 @@ Italian painter of the Venetian school who studied under Gentile Bellini. Largel
 ### [Legend of Saint Ursula](../artworks/LegendOfSaintUrsula.md)
 ### [Legend of Saint Ursula Cycle](../artworks/LegendOfSaintUrsulaCycle.md)
 ### [Miracle of the Relic of the Cross at the Ponte di Rialto](../artworks/MiracleOfTheRelicOfTheCross.md)
+### [Two Venetian Ladies](../artworks/TwoVenetianLadies.md)
+### [St. Peter Martyr](../artworks/StPeterMartyrCarpaccio.md)
+### [Madonna, Child and St. John the Baptist](../artworks/MadonnaChildStJohnCarpaccio.md)

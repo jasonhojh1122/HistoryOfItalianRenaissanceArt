@@ -12,4 +12,4 @@ Venetian painter of the school of Venice. He came from Venice's leading family o
 ### [Procession of the True Cross in Piazza San Marco](../artworks/ProcessionOfTheTrueCross.md)
 ### [Procession in St. Mark's Square](../artworks/ProcessionInStMarksSquare.md)
 ### [St. Mark Preaching in Alexandria](../artworks/StMarkPreachingInAlexandria.md)
-### [Doge Giovanni Mocenigo](../artworks/DogeGiovanniMocenigo.md)
+### [Portrait of Doge Giovanni Mocenigo](../artworks/PortraitOfDogeGiovanniMocenigo.md)

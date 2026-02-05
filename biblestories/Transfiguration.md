@@ -15,3 +15,6 @@ The Transfiguration is an event reported in the New Testament in which Jesus is 
 
 ### [Transfiguration](../artworks/TransfigurationRaphael.md)
 - Raphael, Vatican Museums, 1516-1520
+
+### [Transfiguration of Christ](../artworks/TransfigurationOfChristGiovanniBellini.md)
+- Giovanni Bellini, Museo Correr, Venice, c. 1480

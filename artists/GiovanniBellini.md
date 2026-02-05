@@ -12,3 +12,7 @@ Italian Renaissance painter, probably the best known of the Bellini family of Ve
 ### [Pietà](../artworks/PietaGiovanniBellini.md)
 ### [San Giobbe Altarpiece](../artworks/SanGiobbeAltarpiece.md)
 ### [Frari Triptych](../artworks/FrariTriptych.md)
+### [Crucifixion](../artworks/CrucifixionGiovanniBellini.md)
+### [Pietà (Museo Correr)](../artworks/PietaGiovanniBelliniCorrer.md)
+### [Transfiguration of Christ](../artworks/TransfigurationOfChristGiovanniBellini.md)
+### [Madonna and Child (Frizzoni Madonna)](../artworks/FrizzoniMadonna.md)
