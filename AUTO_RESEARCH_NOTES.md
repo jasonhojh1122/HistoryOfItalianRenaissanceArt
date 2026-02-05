@@ -2299,3 +2299,42 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Type**: Roman Aqueduct
   - **Date**: Completed 19 BC
   - **Description**: One of the eleven Roman aqueducts that supplied ancient Rome, built by Marcus Agrippa during the reign of Augustus to supply the Baths of Agrippa. The aqueduct was named Virgo because legend held that a young girl led thirsty soldiers to the spring that became its source. The Trevi Fountain marks its terminus and still receives water from this ancient source (now called the Acqua Vergine).
+
+---
+
+## Temple of Hadrian, Rome
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Temple of Hadrian](https://en.wikipedia.org/wiki/Temple_of_Hadrian)
+  - **Type**: Ancient Roman Temple
+  - **Description**: An ancient Roman structure on the Campus Martius in Rome, dedicated to the deified emperor Hadrian by his adoptive son Antoninus Pius in 145 CE. Eleven of the original Corinthian columns survive, incorporated into a 17th-century building by Carlo Fontana at Piazza di Pietra, now housing Rome's Chamber of Commerce.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/68/Tempio_di_Adriano_-_esterno.jpg)
+
+### Artworks
+
+- Province Personification Reliefs
+  - **Artist**: Unknown Roman sculptors
+  - **Medium**: Marble relief
+  - **Date**: c. 145 CE
+  - **Description**: A series of marble relief panels depicting personifications of Roman provinces, originally decorating the temple's podium. Nineteen panels survive, showing allegorical female figures representing provinces of the empire alternating with military trophies. Sixteen province figures remain well preserved, now distributed among five collections in Rome and Naples including the Capitoline Museums and Palazzo Massimo alle Terme.
+
+- Trophy Reliefs
+  - **Artist**: Unknown Roman sculptors
+  - **Medium**: Marble relief
+  - **Date**: c. 145 CE
+  - **Description**: Relief panels depicting captured arms, armor, and weapons, placed between the province personifications on the temple podium. These trophies symbolize Roman military might and include shields, axes, spears, armor, lances, flags, and a Dacian draco (dragon standard). Three trophy reliefs are displayed in the Capitoline Museums.
+
+### Artists
+
+- [Hadrian](https://en.wikipedia.org/wiki/Hadrian)
+  - **Born**: 76 CE, Italica, Hispania Baetica
+  - **Died**: 138 CE, Baiae
+  - Roman emperor from 117 to 138 CE and a member of the Nerva-Antonine dynasty. Known for his extensive travels throughout the empire and his building projects including Hadrian's Wall in Britain and the Pantheon reconstruction in Rome. The Temple of Hadrian was built posthumously in his honor by his successor Antoninus Pius.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4d/M%C3%BCnchen_SMAEK_2019-03-23n.jpg)
+
+- [Antoninus Pius](https://en.wikipedia.org/wiki/Antoninus_Pius)
+  - **Born**: 86 CE, Lanuvium
+  - **Died**: 161 CE, Lorium
+  - Roman emperor from 138 to 161 CE, fourth of the Five Good Emperors from the Nerva-Antonine dynasty. He commissioned the Temple of Hadrian in honor of his adoptive father and predecessor, completing the structure in 145 CE. His peaceful reign was marked by relative prosperity and stability throughout the empire.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/c1/Antoninus_Pius_Glyptothek_Munich_337_cropped.jpg)

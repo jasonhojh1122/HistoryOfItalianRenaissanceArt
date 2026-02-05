@@ -41,6 +41,7 @@
 - [Catacomb of Callixtus](locations/CatacombOfCallixtus.md)
 - [Catacombs of San Sebastiano](locations/CatacombsOfSanSebastiano.md)
 - [Catacombs of Domitilla](locations/CatacombsOfDomitilla.md)
+- [Temple of Hadrian](locations/TempleOfHadrian.md)
 
 #### Milan
 
@@ -68,6 +69,11 @@
 - [Pompeii Archaeological Park](locations/PompeiiArchaeologicalPark.md)
 
 ### Artists
+
+#### Ancient Roman
+
+- [Hadrian](artists/Hadrian.md)
+- [Antoninus Pius](artists/AntoninusPius.md)
 
 #### Duecento (1200s)
 
