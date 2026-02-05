@@ -2040,3 +2040,62 @@ The Mercato Centrale is primarily a historic market building rather than an art 
 - **[Second Style (Roman wall painting)](https://en.wikipedia.org/wiki/Pompeian_Styles)**: Also called the "Architectural Style," the second of four Pompeian Styles of Roman mural painting (c. 80 BC – 20 BC). Characterized by illusionistic architectural elements that appear to open up the wall, creating the effect of looking through a window or into another room. The Room of the Masks in the House of Augustus is a prime example.
 
 - **Opus sectile**: A Roman technique of inlaying cut pieces of marble and other colored stones to form patterns or images. Fragments from the Domus Transitoria in the Palatine Museum demonstrate this decorative technique.
+
+---
+
+## Baths of Caracalla, Rome
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Baths of Caracalla](https://en.wikipedia.org/wiki/Baths_of_Caracalla)
+  - **Type**: Ancient Roman Ruins / Archaeological Site
+  - **Description**: Rome's second largest Roman public baths (thermae), after the Baths of Diocletian. Built between AD 212 and 216/217 during the reigns of emperors Septimius Severus and Caracalla. The baths operated until the 530s before falling into disuse. The site yielded many famous sculptures during Renaissance excavations.
+
+### Artworks
+
+- [Farnese Bull](https://en.wikipedia.org/wiki/Farnese_Bull)
+  - **Artist**: After [Apollonius of Tralles](https://en.wikipedia.org/wiki/Apollonius_of_Tralles) and Tauriscus (original Hellenistic sculptors)
+  - **Medium**: Marble
+  - **Date**: Roman copy of 2nd century BC original
+  - **Description**: The largest single sculpture recovered from antiquity. This massive Roman elaborated copy of a Hellenistic sculpture depicts the myth of Dirce being tied to a wild bull by Amphion and Zethus as punishment for mistreating their mother Antiope. Excavated from the gymnasium of the Baths in 1546. Now in Museo Archeologico Nazionale, Naples.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/eb/Farnese_Bull_MAN_Napoli_Inv6002_n01.jpg)
+
+- [Farnese Hercules](https://en.wikipedia.org/wiki/Farnese_Hercules)
+  - **Artist**: [Glykon](https://en.wikipedia.org/wiki/Lysippos) (signed), after [Lysippos](https://en.wikipedia.org/wiki/Lysippos) (original Greek sculptor)
+  - **Medium**: Marble
+  - **Date**: Early 3rd century AD (copy of 4th century BC Greek bronze)
+  - **Description**: A heroically-scaled statue depicting Hercules at rest, leaning on his gnarled club draped with the Nemean lion's skin, holding the golden apples of the Hesperides behind his back. One of the most famous sculptures of antiquity, it has fixed the image of the mythic hero in European imagination. Recovered from the frigidarium of the Baths in 1546. Now in Museo Archeologico Nazionale, Naples.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/ad/Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg)
+
+- [Fontane di Piazza Farnese](https://en.wikipedia.org/wiki/Fontane_di_Piazza_Farnese)
+  - **Artist**: Unknown (original Roman craftsmen); adapted in 16th century
+  - **Medium**: Granite
+  - **Date**: Original: 3rd century AD; Fountain conversion: 16th century
+  - **Description**: Two identical decorative fountains in Piazza Farnese, Rome, incorporating large granite tubs originally from the frigidarium of the Baths of Caracalla. The basins were taken from the Baths and placed in the piazza during the 16th century.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/52/Thermae_of_Caracalla_Pool_at_Piazza_Farnese.jpg)
+
+- Athletes Mosaics
+  - **Artist**: Unknown Roman artisans
+  - **Medium**: Polychrome mosaic
+  - **Date**: c. 4th century AD (later restoration of original baths)
+  - **Description**: Two famous polychrome mosaics depicting athletes and judges of competitions, discovered in 1824 in the exedrae on the east and west sides of the baths complex. The figures are divided into square panels with busts and rectangular panels with full-length figures. Athletes are shown with their hair gathered into a cirrus (characteristic knot at the nape of the neck). Now in the Gregoriano Profano Museum, Vatican Museums.
+
+### Artists
+
+- [Lysippos](https://en.wikipedia.org/wiki/Lysippos)
+  - **Born**: c. 390 BC, Sicyon
+  - **Died**: c. 300 BC
+  - Greek sculptor of the 4th century BC, considered one of the three greatest sculptors of the Classical Greek era alongside Scopas and Praxiteles. Created the original bronze Hercules (Weary Herakles) that was copied for the Farnese Hercules. His works marked the transition into the Hellenistic period.
+
+- [Apollonius of Tralles](https://en.wikipedia.org/wiki/Apollonius_of_Tralles)
+  - **Born**: Unknown, 2nd century BC
+  - **Died**: Unknown, 2nd century BC
+  - Ancient Greek sculptor who flourished in the 2nd century BCE. With his brother Tauriscus, he executed the original marble group known as the Farnese Bull, representing Zethus and Amphion tying Dirce to a wild bull.
+
+### Terms
+
+- **Thermae**: The Latin term for large-scale public bathing establishments in ancient Rome, distinguished from smaller balnea (singular: balneum). Thermae were vast complexes containing not just bathing facilities but also exercise areas (palaestrae), libraries, lecture halls, and gardens.
+
+- **Frigidarium**: The cold room in Roman thermae, featuring a large cold plunge pool. Often the most ornately decorated room in the bath complex.
+
+- **Palaestra**: An exercise ground attached to Roman baths where visitors could exercise before bathing. The Farnese Bull was discovered in the palaestra of the Baths of Caracalla.

@@ -39,6 +39,15 @@ Italian term meaning "head master" or "chief master," referring to the lead arch
 ### Opera del Duomo
 The institution responsible for the building and maintenance of [Florence Cathedral](locations/FlorenceCathedral.md). Founded in 1296, it supervised the construction and continues to maintain the cathedral complex today. The term literally means "Works of the Cathedral."
 
+### Thermae
+The Latin term for large-scale public bathing establishments in ancient Rome, distinguished from smaller balnea (singular: balneum). Thermae were vast complexes containing not just bathing facilities but also exercise areas (palaestrae), libraries, lecture halls, and gardens. The [Baths of Caracalla](locations/BathsOfCaracalla.md) are a major example.
+
+### Frigidarium
+The cold room in Roman thermae, featuring a large cold plunge pool. Often the most ornately decorated room in the bath complex. The [Farnese Hercules](artworks/FarneseHercules.md) was recovered from the frigidarium of the [Baths of Caracalla](locations/BathsOfCaracalla.md).
+
+### Palaestra
+An exercise ground attached to Roman baths where visitors could exercise before bathing. The [Farnese Bull](artworks/FarneseBull.md) was discovered in the palaestra of the [Baths of Caracalla](locations/BathsOfCaracalla.md).
+
 ### Doric Order
 [Wikipedia](https://en.wikipedia.org/wiki/Doric_order)
 
