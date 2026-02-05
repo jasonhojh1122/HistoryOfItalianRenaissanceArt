@@ -2189,3 +2189,113 @@ The Mercato Centrale is primarily a historic market building rather than an art 
 - **Hypogeum**: An underground structure or chamber, from the Greek for "under the earth." Used to describe subterranean temples, tombs, and burial places such as the Tomb of the Scipios.
 
 - **Via Appia**: Latin name for the Appian Way. Roman roads were named after the magistrates who commissioned them—in this case, Appius Claudius Caecus, censor in 312 BC who initiated the road's construction.
+
+## Trevi Fountain, Rome
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Trevi Fountain](https://en.wikipedia.org/wiki/Trevi_Fountain)
+  - **Type**: Fountain / Architectural Sculpture
+  - **Description**: The Trevi Fountain is an 18th-century Baroque fountain in Rome's Trevi district, designed by architect Nicola Salvi and completed by Giuseppe Pannini in 1762. Standing 26.3 metres high and 49.15 metres wide, it is the largest Baroque fountain in Rome and one of the most famous fountains in the world. The fountain marks the terminus of the ancient Aqua Virgo aqueduct.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg)
+
+### Artworks
+
+- Oceanus (Neptune)
+  - **Artist**: [Pietro Bracci](https://en.wikipedia.org/wiki/Pietro_Bracci), after a model by [Giovanni Battista Maini](https://en.wikipedia.org/wiki/Giovanni_Battista_Maini)
+  - **Medium**: Marble sculpture
+  - **Date**: 1761-1762
+  - **Description**: The colossal central figure of the fountain, depicting Oceanus (the personification of all seas and oceans) standing in an oyster-shell chariot. The god commands the waters with a gesture of authority. Bracci carved the marble sculpture based on a plaster modello by Maini, who died before completing the work.
+
+- Tritons with Hippocamps
+  - **Artist**: [Pietro Bracci](https://en.wikipedia.org/wiki/Pietro_Bracci)
+  - **Medium**: Marble sculpture
+  - **Date**: 1761-1762
+  - **Description**: Two tritons guide Oceanus's shell chariot, each controlling a hippocamp (sea horse). One triton blows a conch shell to announce the god's approach, while the other struggles to tame a wild hippocamp. The contrast between the calm and agitated horses symbolizes the moods of the sea.
+
+- Allegory of Abundance
+  - **Artist**: [Filippo della Valle](https://en.wikipedia.org/wiki/Filippo_della_Valle)
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1751-1762
+  - **Description**: One of two allegorical statues flanking the central niche, positioned in the left niche. The female figure holds a cornucopia overflowing with fruits, symbolizing the abundance that water brings to the land.
+
+- Allegory of Health (Salubrity)
+  - **Artist**: [Filippo della Valle](https://en.wikipedia.org/wiki/Filippo_della_Valle)
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1751-1762
+  - **Description**: Positioned in the right niche flanking Oceanus, this female figure holds a cup from which a serpent drinks, the traditional symbol of health. She represents the healing and life-giving properties of fresh water.
+
+- Relief of Agrippa Approving the Aqueduct Plans
+  - **Artist**: Giovanni Battista Grossi
+  - **Medium**: Marble relief
+  - **Date**: c. 1758
+  - **Description**: Located above the left niche, this bas-relief depicts the Roman general Marcus Agrippa approving the construction plans for the Aqua Virgo aqueduct in 19 BC. The relief commemorates the historical origins of the water supply that feeds the fountain.
+
+- Relief of the Virgin Showing Soldiers the Spring
+  - **Artist**: Andrea Bergondi
+  - **Medium**: Marble relief
+  - **Date**: c. 1758
+  - **Description**: Positioned above the right niche, this bas-relief illustrates the legend that gave the Aqua Virgo its name. A young maiden (virgo) leads Roman soldiers to a pure spring, which became the source for the aqueduct.
+
+- Abundance of Fruits
+  - **Artist**: Agostino Corsini
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1735-1762
+  - **Description**: One of four allegorical statues adorning the attic level of the fountain, representing the abundance of fruits. The figure holds a horn of plenty (cornucopia), symbolizing the bounty that water brings to agriculture.
+
+- Fertility of Crops
+  - **Artist**: Bernardino Ludovisi
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1735-1762
+  - **Description**: An attic-level allegorical statue depicting the fertility of crops. The figure holds ears of wheat, symbolizing the agricultural prosperity enabled by the aqueduct's waters.
+
+- Products of Autumn
+  - **Artist**: [Francesco Queirolo](https://en.wikipedia.org/wiki/Francesco_Queirolo)
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1735-1762
+  - **Description**: An allegorical figure at the attic level holding grapes and a cup, representing the autumn harvest and the bounty of the vine made possible by fresh water.
+
+- Joy of Prairies and Gardens
+  - **Artist**: Bartolomeo Pincellotti
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1735-1762
+  - **Description**: The fourth attic-level statue, this figure is adorned with flowers, representing the flourishing of meadows and gardens nourished by the aqueduct's waters.
+
+### Artists
+
+- [Nicola Salvi](https://en.wikipedia.org/wiki/Nicola_Salvi)
+  - **Born**: 1697, Rome
+  - **Died**: 1751, Rome
+  - Italian architect whose masterwork is the Trevi Fountain. He won the commission in 1732 after Pope Clement XII held a competition. Salvi spent nearly two decades designing and overseeing construction but died before its completion. His theatrical design integrates the fountain with the rear wall of Palazzo Poli, creating a dramatic backdrop that merges architecture and sculpture.
+
+- [Pietro Bracci](https://en.wikipedia.org/wiki/Pietro_Bracci)
+  - **Born**: 1700, Rome
+  - **Died**: 1773, Rome
+  - Italian Late Baroque sculptor best known for carving the monumental marble statue of Oceanus at the Trevi Fountain. Bracci took over the sculptural program in 1761 and completed the central figure based on Giovanni Battista Maini's plaster model. He also executed the tritons and hippocamps that frame the central composition.
+
+- [Filippo della Valle](https://en.wikipedia.org/wiki/Filippo_della_Valle)
+  - **Born**: 1698, Florence
+  - **Died**: 1768, Rome
+  - Italian late-Baroque sculptor active mostly in Rome. He contributed the allegorical statues of Health and Abundance to the Trevi Fountain, positioned in niches flanking the central figure of Oceanus. His work bridges the transition between Late Baroque and early Neoclassical styles.
+
+- [Giovanni Battista Maini](https://en.wikipedia.org/wiki/Giovanni_Battista_Maini)
+  - **Born**: 1690, Cassano Magnago
+  - **Died**: 1752, Rome
+  - Italian Late-Baroque sculptor active mainly in Rome. He created the original plaster modello for the Oceanus figure at the Trevi Fountain, though he died before the marble version could be carved. Pietro Bracci executed the final marble sculpture based on Maini's design.
+
+- [Giuseppe Pannini](https://en.wikipedia.org/wiki/Giuseppe_Pannini)
+  - **Born**: 1720, Rome
+  - **Died**: 1765, Rome
+  - Italian architect, scenographer and archaeologist who completed the Trevi Fountain in 1762 after Nicola Salvi's death. Working in the transitional period between Late Baroque and Neoclassicism, Pannini oversaw the final stages of construction and the installation of the sculptural elements.
+
+- [Francesco Queirolo](https://en.wikipedia.org/wiki/Francesco_Queirolo)
+  - **Born**: 1704, Genoa
+  - **Died**: 1762, Naples
+  - Italian Rococo sculptor active in Rome and Naples. He worked under Nicola Salvi on the Trevi Fountain starting in 1735, contributing sculptural details including one of the allegorical figures (Products of Autumn) at the attic level. He is perhaps better known for his virtuosic marble net in the Sansevero Chapel, Naples.
+
+### Related Locations
+
+- [Aqua Virgo](https://en.wikipedia.org/wiki/Aqua_Virgo)
+  - **Type**: Roman Aqueduct
+  - **Date**: Completed 19 BC
+  - **Description**: One of the eleven Roman aqueducts that supplied ancient Rome, built by Marcus Agrippa during the reign of Augustus to supply the Baths of Agrippa. The aqueduct was named Virgo because legend held that a young girl led thirsty soldiers to the spring that became its source. The Trevi Fountain marks its terminus and still receives water from this ancient source (now called the Acqua Vergine).
