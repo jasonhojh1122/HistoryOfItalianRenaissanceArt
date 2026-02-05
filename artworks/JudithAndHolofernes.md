@@ -6,6 +6,7 @@
 - **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
 - **Medium**: Bronze
 - **Date**: c. 1457–1464
+- **Source**: self-research
 
 ## Biblical Context
 
@@ -13,6 +14,6 @@
 
 ## Description
 
-Bronze sculpture by Donatello depicting the climactic moment of the biblical narrative.
+Bronze sculpture by Donatello depicting the biblical heroine Judith beheading the Assyrian general Holofernes. Created toward the end of Donatello's career, it is located in the Sala dei Gigli (Hall of Lilies). A copy stands in one of the sculpture's original positions in the Piazza della Signoria.
 
 ![img](../img/Giuditta_di_donatello_04_a34dbccc.JPG)

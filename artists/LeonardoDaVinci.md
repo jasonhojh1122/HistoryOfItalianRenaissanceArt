@@ -47,3 +47,8 @@ Italian polymath of the High Renaissance who was active as a painter, draughtsma
 ### [Vitruvian Man](../artworks/VitruvianMan.md)
 - **Location**: [Gallerie dell'Accademia](../locations/GallerieDellAccademia.md), Venice
 - **Medium**: Pen and ink on paper
+
+### [The Battle of Anghiari](../artworks/BattleOfAnghiari.md)
+- **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
+- **Medium**: Fresco (lost)
+- Commissioned for the Salone dei Cinquecento, Leonardo's experimental techniques caused deterioration

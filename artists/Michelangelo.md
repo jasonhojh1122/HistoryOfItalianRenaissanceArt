@@ -101,6 +101,16 @@ Worked in Ghirlandaio's study at age 13, and was invited into the house of Loren
 - **Location**: [Bargello](../locations/Bargello.md), Florence
 - The only bust Michelangelo ever made
 
+### Palazzo Vecchio Works
+
+### [The Genius of Victory](../artworks/GeniusOfVictory.md)
+- **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
+- Originally for the tomb of Pope Julius II
+
+### [Battle of Cascina](../artworks/BattleOfCascina.md)
+- **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
+- Fresco (never completed), only the cartoon was finished
+
 ### Later Works
 
 ### [The Deposition (Florentine Pietà)](../artworks/FlorentinePieta.md)

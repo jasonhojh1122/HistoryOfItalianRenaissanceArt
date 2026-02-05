@@ -1783,3 +1783,100 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Book(s)**: Gospels
   - **Chapters/Verses**: Matthew 3, Mark 1:1-11, Luke 1, 3, John 1:6-34
   - Jewish preacher active in the area of the Jordan River in the early first century AD. He baptized Jesus in the Jordan River and is the patron saint of Florence, to whom the Baptistery is dedicated. His life and martyrdom are depicted on the Baptistery doors.
+
+## Palazzo Vecchio, Florence
+
+<!-- Last updated: 2026-02-05 -->
+
+- [Palazzo Vecchio](https://en.wikipedia.org/wiki/Palazzo_Vecchio)
+  - **Type**: Town Hall / Museum
+  - **Description**: The Palazzo Vecchio is the town hall of Florence, Italy, overlooking the Piazza della Signoria. Originally built in 1299-1314, it served as the seat of the Signoria of Florence and later became the residence of Cosimo I de' Medici. The building contains remarkable Renaissance interiors, including the monumental Salone dei Cinquecento decorated by Giorgio Vasari and his workshop.
+
+### Artworks
+
+- [The Genius of Victory](https://en.wikipedia.org/wiki/The_Genius_of_Victory)
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Marble
+  - **Date**: 1532-1534
+  - **Description**: A marble sculpture measuring 2.61m in height, originally produced as part of the design for the tomb of Pope Julius II. The work depicts a young winged male figure standing triumphantly over a crouching older figure. It now stands in the Salone dei Cinquecento.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/72/Palazzo_vecchio%2C_michelangelo%2C_genio_della_vittoria_01.1.jpg)
+
+- [Judith and Holofernes](https://en.wikipedia.org/wiki/Judith_and_Holofernes_(Donatello))
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Bronze
+  - **Date**: 1457-1464
+  - **Description**: A bronze sculpture depicting the biblical heroine Judith beheading the Assyrian general Holofernes. Created toward the end of Donatello's career, it is located in the Sala dei Gigli (Hall of Lilies). A copy stands in one of the sculpture's original positions in the Piazza della Signoria.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/51/Giuditta_di_donatello_04.JPG)
+
+- [Hercules and Cacus](https://en.wikipedia.org/wiki/Hercules_and_Cacus)
+  - **Artist**: [Baccio Bandinelli](https://en.wikipedia.org/wiki/Baccio_Bandinelli)
+  - **Medium**: Marble
+  - **Date**: 1525-1534
+  - **Description**: A monumental marble sculpture standing to the right of the entrance of the Palazzo Vecchio in the Piazza della Signoria. It depicts the mythological hero Hercules subduing the fire-breathing giant Cacus. Commissioned as a pendant to Michelangelo's David.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/04/Baccio_bandinelli%2C_ercole_e_caco_01.JPG)
+
+- [The Battle of Anghiari](https://en.wikipedia.org/wiki/The_Battle_of_Anghiari_(Leonardo))
+  - **Artist**: [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+  - **Medium**: Fresco (lost)
+  - **Date**: 1505
+  - **Description**: A lost painting commissioned for the Salone dei Cinquecento. The central scene depicted four men on raging war horses fighting for possession of a standard at the Battle of Anghiari in 1440. Leonardo's experimental techniques caused the paint to deteriorate. Some believe it may survive beneath Vasari's later frescoes, hinted at by the inscription "Cerca Trova" (Seek and You Shall Find).
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg)
+
+- [Battle of Cascina](https://en.wikipedia.org/wiki/Battle_of_Cascina_(Michelangelo))
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+  - **Medium**: Fresco (never completed)
+  - **Date**: 1504-1506
+  - **Description**: A fresco commissioned for the Palazzo Vecchio to face Leonardo's Battle of Anghiari. Michelangelo only completed the preparatory cartoon before being called to Rome by Pope Julius II. The famous cartoon, showing Florentine soldiers surprised while bathing, was studied and copied by many Renaissance artists before being lost.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/d3/Battagliadicascina.jpg)
+
+- [The Battle of Marciano in Val di Chiana](https://en.wikipedia.org/wiki/Battle_of_Marciano)
+  - **Artist**: [Giorgio Vasari](https://en.wikipedia.org/wiki/Giorgio_Vasari)
+  - **Medium**: Fresco
+  - **Date**: 1555-1572
+  - **Description**: One of the large frescoes on the walls of the Salone dei Cinquecento, depicting the 1554 battle in which Florence defeated the Republic of Siena. This fresco contains the mysterious inscription "Cerca Trova" (Seek and You Shall Find), which some interpret as a hint that Leonardo's Battle of Anghiari may survive beneath.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/b/ba/Giorgio_Vasari_-_The_battle_of_Marciano_in_Val_di_Chiana_-_Google_Art_Project.jpg)
+
+- [Crossing of the Red Sea](https://en.wikipedia.org/wiki/Crossing_of_the_Red_Sea_(Bronzino))
+  - **Artist**: [Bronzino](https://en.wikipedia.org/wiki/Bronzino)
+  - **Medium**: Fresco
+  - **Date**: 1541-1542
+  - **Description**: A fresco in the Chapel of Eleonora di Toledo depicting the Israelites crossing the Red Sea from the Book of Exodus, combined with Moses commissioning Joshua from the Book of Numbers. Notable for its dense, complex composition with numerous figures in Mannerist style.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/3c/Agnolo_Bronzino_-_The_crossing_of_the_Red_Sea_-_Google_Art_Project.jpg)
+
+- [Studiolo of Francesco I](https://en.wikipedia.org/wiki/Studiolo_of_Francesco_I)
+  - **Artist**: Multiple artists under [Giorgio Vasari](https://en.wikipedia.org/wiki/Giorgio_Vasari)
+  - **Medium**: Various (paintings, bronzes)
+  - **Date**: 1570-1572
+  - **Description**: A small painting-encrusted barrel-vaulted room commissioned by Francesco I de' Medici. The intimate space features over 30 paintings by various Mannerist artists and eight bronze statuettes, designed as a cabinet of curiosities. The iconographic program was devised by the scholar Vincenzo Borghini.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/fa/Vista_del_Studiolo_de_Francisco_I.jpg)
+
+- [Marzocco](https://en.wikipedia.org/wiki/Marzocco)
+  - **Artist**: [Donatello](https://en.wikipedia.org/wiki/Donatello)
+  - **Medium**: Stone (original lost)
+  - **Date**: Late 14th century (original); Donatello's version c. 1419
+  - **Description**: The Marzocco is the heraldic lion that is a symbol of Florence. Donatello created a famous version now in the Bargello. The lion stood at the heart of the city in the Piazza della Signoria at the end of the platform attached to the Palazzo Vecchio called the ringhiera.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/b/b3/Marzocco.jpg)
+
+### Artists
+
+- [Bronzino](https://en.wikipedia.org/wiki/Bronzino)
+  - **Born**: November 17, 1503, Florence
+  - **Died**: November 23, 1572, Florence
+  - Agnolo di Cosimo, known as Bronzino, was an Italian Mannerist painter from Florence. He became the court painter for Cosimo I de' Medici, producing portraits of the Medici family and religious and allegorical subjects. He is known for his technically brilliant portraits and his complex Mannerist compositions.
+
+- [Baccio Bandinelli](https://en.wikipedia.org/wiki/Baccio_Bandinelli)
+  - **Born**: November 12, 1493, Florence
+  - **Died**: February 7, 1560, Florence
+  - Italian Renaissance sculptor, draughtsman, and painter. He was a rival of Michelangelo and worked extensively for the Medici. His most famous work is the Hercules and Cacus in the Piazza della Signoria, though it was criticized by contemporaries for not matching the excellence of Michelangelo's David nearby.
+
+### Bible Stories
+
+- [Parting of the Red Sea](https://en.wikipedia.org/wiki/Parting_of_the_Red_Sea)
+  - **Book(s)**: Exodus
+  - **Chapters/Verses**: Exodus 14
+  - An episode in the Exodus story where Moses, leading the Israelites out of Egypt, parts the Red Sea to allow their passage. When the pursuing Egyptian army follows, the waters return and drown them. The subject of Bronzino's fresco in the Chapel of Eleonora.
+
+- [Book of Judith](https://en.wikipedia.org/wiki/Holofernes)
+  - **Book(s)**: Book of Judith (deuterocanonical)
+  - **Chapters/Verses**: Judith 8-16
+  - The story of the Jewish widow Judith who saves her people by entering the camp of the Assyrian general Holofernes, seducing him, and beheading him while he lay drunk in his tent. A popular subject in Renaissance art symbolizing virtue triumphing over tyranny.

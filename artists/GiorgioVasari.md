@@ -13,3 +13,11 @@ Italian Renaissance painter, architect, art historian, and biographer. Known for
 ### [The Last Judgement (Vasari and Zuccari)](../artworks/LastJudgementVasariZuccari.md)
 - **Location**: [Florence Cathedral](../locations/FlorenceCathedral.md), Florence
 - With [Federico Zuccari](../artists/FedericoZuccari.md)
+
+### [The Battle of Marciano in Val di Chiana](../artworks/BattleOfMarciano.md)
+- **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
+- Fresco in the Salone dei Cinquecento
+
+### [Studiolo of Francesco I](../artworks/StudioloOfFrancescoI.md)
+- **Location**: [Palazzo Vecchio](../locations/PalazzoVecchio.md), Florence
+- Designed and directed the collaborative project
