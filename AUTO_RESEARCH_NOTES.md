@@ -2304,7 +2304,7 @@ The Mercato Centrale is primarily a historic market building rather than an art 
 
 ## Temple of Hadrian, Rome
 
-<!-- Last updated: 2026-02-05 -->
+<!-- Last updated: 2026-02-06 -->
 
 - [Temple of Hadrian](https://en.wikipedia.org/wiki/Temple_of_Hadrian)
   - **Type**: Ancient Roman Temple
@@ -2338,6 +2338,12 @@ The Mercato Centrale is primarily a historic market building rather than an art 
   - **Died**: 161 CE, Lorium
   - Roman emperor from 138 to 161 CE, fourth of the Five Good Emperors from the Nerva-Antonine dynasty. He commissioned the Temple of Hadrian in honor of his adoptive father and predecessor, completing the structure in 145 CE. His peaceful reign was marked by relative prosperity and stability throughout the empire.
   ![img](https://upload.wikimedia.org/wikipedia/commons/c/c1/Antoninus_Pius_Glyptothek_Munich_337_cropped.jpg)
+
+- [Carlo Fontana](https://en.wikipedia.org/wiki/Carlo_Fontana)
+  - **Born**: 1634/1638, Rancate, Ticino
+  - **Died**: 1714, Rome
+  - Italian architect partly responsible for the classicizing direction taken by Late Baroque Roman architecture. He redesigned the Temple of Hadrian in the 1690s, incorporating the surviving eleven Corinthian columns into a new building for the Dogana di Terra (customs house) at Piazza di Pietra, which now serves as Rome's Chamber of Commerce.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/58/Carlo_Fontana.jpg)
 
 ## Sant'Ignazio, Rome
 
