@@ -167,7 +167,7 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
 
     <div class="search-container">
       <input type="search" id="index-search" class="search-input"
-             placeholder="Search artists, locations, stories..."
+             placeholder="Search artists, locations, stories, trip..."
              autocomplete="off" aria-label="Search index">
       <span class="search-icon" aria-hidden="true"></span>
       <button class="search-clear" type="button" aria-label="Clear search" hidden>&times;</button>
