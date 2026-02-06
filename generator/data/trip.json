@@ -5,20 +5,25 @@
       "id": "day-1",
       "label": "D1 | 2/11 | Wed - Milan",
       "locations": [
+        { "id": "FlightTPEtoMXP", "time": "7:15", "comment": "去程 BR95 | 從台北 2026/2/10 23:05 → 米蘭 2026/2/11 7:15", "mapLink": "" },
+        { "id": "MXPtoMilano", "time": "", "comment": "MXP → Milano Porta Garibaldi", "mapLink": "" },
         { "id": "GalleriaVittorioEmanueleII", "time": "", "comment": "艾曼紐迴廊 - 精品街、公牛蛋蛋轉三圈, Prada/Gucci opens 10-10:30", "mapLink": "https://maps.app.goo.gl/14DwreXkdx68CmUy6" },
         { "id": "LaRinascente", "time": "10:00", "comment": "老百貨公司 - 七樓有廁所和露天咖啡廳", "mapLink": "https://www.google.com/maps/place/Rinascente+Milano/@45.4649405,9.1892425" },
-        { "id": "SantaMariaDelleGrazie", "time": "15:30", "comment": "最後的晚餐 - Tickets must be activated 30 min before, 只能看15分鐘", "mapLink": "https://maps.app.goo.gl/DvuFUCGjzJkkhrgi7" }
+        { "id": "SantaMariaDelleGrazie", "time": "15:30", "comment": "最後的晚餐博物館 - Tickets must be activated 30 min before, 只能看15分鐘", "mapLink": "https://maps.app.goo.gl/DvuFUCGjzJkkhrgi7" }
       ]
     },
     {
       "id": "day-2",
       "label": "D2 | 2/12 | Thu - Venice",
       "locations": [
+        { "id": "TrainMilanToVenice", "time": "9:35", "comment": "Italo 9:35-12:03, 記得先查入城費避免被罰", "mapLink": "" },
         { "id": "DogesPalace", "time": "14:00", "comment": "總督宮 ~1.5hr", "mapLink": "https://maps.app.goo.gl/FLPRR6JzA6oJoGCs9" },
         { "id": "SaintMarksBasilica", "time": "15:00", "comment": "聖馬爾谷聖殿宗主教座堂 - 地標大教堂和室內博物館", "mapLink": "https://maps.app.goo.gl/n8H8wzRkRjq1QY4e6" },
         { "id": "StMarksCampanile", "time": "", "comment": "聖馬可鐘樓", "mapLink": "https://maps.app.goo.gl/TMAzgk37bk9VR2yj7" },
         { "id": "PiazzaSanMarco", "time": "", "comment": "聖馬可廣場", "mapLink": "https://maps.app.goo.gl/DKYWGHET4KZbPr2A8" },
         { "id": "BibliotecaMarciana", "time": "", "comment": "聖馬可圖書館 - 有很多手抄本", "mapLink": "https://maps.app.goo.gl/JuRy5HdnHXBAK3vz7" },
+        { "id": "Gondola", "time": "16:30", "comment": "貢多拉 - 集合地點很靠近聖馬可", "mapLink": "" },
+        { "id": "CaffeFlorian", "time": "", "comment": "弗洛里安花神咖啡館 - 1720年開業的古老咖啡廳, 很貴路過就好", "mapLink": "https://maps.app.goo.gl/WCzXrotzkg24XYP99" },
         { "id": "BridgeOfSighs", "time": "", "comment": "嘆息橋", "mapLink": "https://maps.app.goo.gl/81pgAEc6pykVgPoQ7" }
       ]
     },
@@ -29,18 +34,22 @@
         { "id": "PalazzoContariniDelBovolo", "time": "", "comment": "蝸牛府", "mapLink": "https://maps.app.goo.gl/NRV9Zd39AvJNtp1N9" },
         { "id": "BasilicaDeiFrari", "time": "", "comment": "聖方濟會榮耀聖母聖殿 - 哥德式教堂，內部安葬著提香，並藏有他的2幅作品", "mapLink": "https://maps.app.goo.gl/tKJDWXiCEY3ua7o46" },
         { "id": "SantaMariaDellaSalute", "time": "", "comment": "安康聖母聖殿 - 17:30關門", "mapLink": "https://maps.app.goo.gl/W8W9w4sbnhUG5xGH6" },
-        { "id": "GallerieDellAccademia", "time": "", "comment": "學院美術館 - 13至18世紀威尼斯藝術品, closes 19:00", "mapLink": "https://maps.app.goo.gl/QcxjLURf5RwLRScR7" }
+        { "id": "GallerieDellAccademia", "time": "", "comment": "學院美術館 - 13至18世紀威尼斯藝術品, closes 19:00", "mapLink": "https://maps.app.goo.gl/QcxjLURf5RwLRScR7" },
+        { "id": "LibreriaAcquaAlta", "time": "", "comment": "沉船書店 (optional)", "mapLink": "" }
       ]
     },
     {
       "id": "day-4",
       "label": "D4 | 2/14 | Sat - Florence",
       "locations": [
+        { "id": "TrainVeniceToFlorence", "time": "11:05", "comment": "Italo 11:05-13:20", "mapLink": "" },
         { "id": "BasilicaOfSanLorenzo", "time": "", "comment": "Medici第一個資助的教堂, 10-17:30", "mapLink": "https://maps.app.goo.gl/mp1GFbiCN5FUEZEt5" },
         { "id": "Bargello", "time": "", "comment": "巴傑羅美術館 - 很多雕像的博物館，有最早的David像, 8:15-18:50", "mapLink": "https://maps.app.goo.gl/scimUYpg3mFK89ur9" },
         { "id": "Orsanmichele", "time": "", "comment": "聖彌額爾教堂 - 教堂外牆四周有很多雕像可以看", "mapLink": "https://maps.app.goo.gl/ApEdrjhnZWyA6Ghi7" },
         { "id": "CasaBuonarroti", "time": "", "comment": "米開朗基羅故居 - 有一些雕塑跟手稿", "mapLink": "https://maps.app.goo.gl/TEWgS73R4zWiwF9i8" },
         { "id": "SantApollonia", "time": "", "comment": "有Castagno的最後的晚餐, 08:30-14:00", "mapLink": "https://maps.app.goo.gl/5QKqXeVBLhAprNZSA" },
+        { "id": "OpificioDellePietreDure", "time": "", "comment": "考古修復博物館 (optional) - 週日沒開, 8:15-14:00", "mapLink": "https://maps.app.goo.gl/ZqCLPR5xyitAZZD46" },
+        { "id": "BoboliGardens", "time": "", "comment": "波波里花園 (optional) - 16:30關門, 禮拜一有開", "mapLink": "https://maps.app.goo.gl/ALerCEfr9sM5TD6p7" },
         { "id": "PiazzaleMichelangelo", "time": "", "comment": "米開朗基羅廣場 - 走過去看夕陽", "mapLink": "https://maps.app.goo.gl/bZuMS8Eqz7mci9y57" }
       ]
     },
@@ -62,24 +71,34 @@
       "locations": [
         { "id": "FlorenceCathedral", "time": "10:30", "comment": "聖母百花大教堂登頂 - 週日因禮拜關閉, 不能穿短裙/涼鞋/帽子", "mapLink": "https://maps.app.goo.gl/1e2dk2YBNJFToJWZA" },
         { "id": "OperaDelDuomoMuseum", "time": "", "comment": "大教堂博物館 - 很多雕像真品藏於此, ~1hr", "mapLink": "https://maps.app.goo.gl/sS82QditYy4fmRDY9" },
+        { "id": "PiazzaDellaSignoria", "time": "", "comment": "領主廣場", "mapLink": "https://maps.app.goo.gl/NtLFRqq4mhzdAUwP6" },
         { "id": "GiottosCampanile", "time": "", "comment": "喬托鐘樓 - 下午爬鐘樓看順光百花, ~1hr", "mapLink": "https://maps.app.goo.gl/U7giApM7Q3Lo6W9aA" },
         { "id": "PalazzoVecchio", "time": "", "comment": "舊宮 - 買全套含高塔票逛3-4hr, 9am-7pm", "mapLink": "https://maps.app.goo.gl/4dry4AVyKhXLQvQf9" },
-        { "id": "BaptisteryOfFlorence", "time": "", "comment": "聖若望洗禮堂 - 8:30-19:30, 不一定要進去", "mapLink": "https://maps.app.goo.gl/rvQNgqoipPRHqo179" }
+        { "id": "BaptisteryOfFlorence", "time": "", "comment": "聖若望洗禮堂 - 8:30-19:30, 不一定要進去", "mapLink": "https://maps.app.goo.gl/rvQNgqoipPRHqo179" },
+        { "id": "CasaDiDante", "time": "", "comment": "但丁故居 (optional) - 離舊宮蠻近的4分鐘", "mapLink": "https://maps.app.goo.gl/4iDYzgMjpWcjqCEe6" },
+        { "id": "LibreriaCinema", "time": "", "comment": "戲院改建的書店 - 有位子可以休息", "mapLink": "https://maps.app.goo.gl/jW5rVPejKS7GDiEv9" }
       ]
     },
     {
       "id": "day-7",
       "label": "D7 | 2/17 | Tue - Florence",
       "locations": [
-        { "id": "UffiziGallery", "time": "09:30", "comment": "烏菲茲美術館 - ~3-4hr, 建議買一般票自己看", "mapLink": "https://maps.app.goo.gl/CBf3FYWYWAzJdqUxHd9" },
-        { "id": "PittiGallery", "time": "", "comment": "新宮/比提宮 - 皇宮2-3hr/花園3-4hr, 8:15am-6:30pm (週一公休)", "mapLink": "https://maps.app.goo.gl/uuFvE78XBMNEnG1P7" }
+        { "id": "UffiziGallery", "time": "09:30", "comment": "烏菲茲美術館 - ~3-4hr, 建議買一般票自己看", "mapLink": "https://maps.app.goo.gl/CBf3FYWAzJdqUxHd9" },
+        { "id": "VasariCorridor", "time": "", "comment": "瓦薩利走廊 (optional) - 從美術館走到新宮", "mapLink": "https://maps.app.goo.gl/NujuCtxE2dvPy2Sm8" },
+        { "id": "PonteVecchio", "time": "", "comment": "老橋", "mapLink": "" },
+        { "id": "PittiPalace", "time": "", "comment": "新宮/比提宮 - 皇宮2-3hr/花園3-4hr, 8:15am-6:30pm (週一公休)", "mapLink": "https://maps.app.goo.gl/uuFvE78XBMNEnG1P7" },
+        { "id": "LibreriaCinema", "time": "", "comment": "戲院改建的書店 - 太累就搬去別的地方", "mapLink": "https://maps.app.goo.gl/jW5rVPejKS7GDiEv9" }
       ]
     },
     {
       "id": "day-8",
       "label": "D8 | 2/18 | Wed - Rome",
       "locations": [
+        { "id": "TrainFlorenceToRome", "time": "10:28", "comment": "Italo 10:28-12:10", "mapLink": "" },
         { "id": "SantaMariaMaggiore", "time": "", "comment": "聖母大殿", "mapLink": "https://maps.app.goo.gl/JrGjqQyq8eR4gYoKA" },
+        { "id": "BathsOfDiocletian", "time": "", "comment": "戴克里先浴場", "mapLink": "https://maps.app.goo.gl/uMzkGUzVykQB6XLE9" },
+        { "id": "MuseoNazionaleRomano", "time": "", "comment": "羅馬國家博物館 (optional)", "mapLink": "" },
+        { "id": "TeatroDellOperaDiRoma", "time": "", "comment": "羅馬歌劇院 (optional)", "mapLink": "" },
         { "id": "TreviFountain", "time": "", "comment": "特雷維噴泉", "mapLink": "" }
       ]
     },
@@ -88,8 +107,11 @@
       "label": "D9 | 2/19 | Thu - Rome Ancient",
       "locations": [
         { "id": "Colosseum", "time": "09:00", "comment": "羅馬競技場 - 記得不能帶包包, ~3hr", "mapLink": "https://maps.app.goo.gl/LzcgUVYsW25kB1P9A" },
+        { "id": "ArchOfConstantine", "time": "", "comment": "君士坦丁凱旋門", "mapLink": "https://maps.app.goo.gl/6VFQ8TQLvqq8UKqm9" },
         { "id": "PalatineHill", "time": "", "comment": "帕拉丁山丘 (套票內含)", "mapLink": "https://maps.app.goo.gl/ZKkMp4FqiYbPsAr36" },
-        { "id": "RomanForum", "time": "", "comment": "古羅馬廣場 (套票內含)", "mapLink": "https://maps.app.goo.gl/kj4r4Seaha7ZsdoN9" }
+        { "id": "RomanForum", "time": "", "comment": "古羅馬廣場 (套票內含)", "mapLink": "https://maps.app.goo.gl/kj4r4Seaha7ZsdoN9" },
+        { "id": "BoccaDellaVerita", "time": "", "comment": "真理之口", "mapLink": "https://maps.app.goo.gl/9YLtp78aBUQdUPdN7" },
+        { "id": "GiardinoDegliAranci", "time": "", "comment": "橘園", "mapLink": "https://maps.app.goo.gl/hXdMHHzhv1Vc3prV6" }
       ]
     },
     {
@@ -98,6 +120,7 @@
       "locations": [
         { "id": "BathsOfCaracalla", "time": "", "comment": "卡拉卡拉浴場 - 09:00-16:30, 禮拜一沒開", "mapLink": "https://maps.app.goo.gl/V7R5QhqyjUtZ68xX6" },
         { "id": "CatacombsOfDomitilla", "time": "", "comment": "Domitilla地下墓穴 - 羅馬最大, 9-12/14-17, 禮拜二沒開", "mapLink": "https://maps.app.goo.gl/ftvrNL3GqoSPD27v8" },
+        { "id": "CatacombsOfCallixtus", "time": "", "comment": "Callisto地下墓穴 - 導覽大概四十五分鐘, 9:30-17:00", "mapLink": "https://maps.app.goo.gl/1rPpj7HES6A78h19A" },
         { "id": "ViaAppiaAntica", "time": "", "comment": "Appian Way - 可以租腳踏車騎羅馬大道", "mapLink": "https://maps.app.goo.gl/K4RoSArnvoc4M6at9" }
       ]
     },
@@ -107,14 +130,37 @@
       "locations": [
         { "id": "TreviFountain", "time": "", "comment": "特雷維噴泉 (考慮和2/23對調)", "mapLink": "https://maps.app.goo.gl/BkMJN8dHVJcGyL6S8" },
         { "id": "TempleOfHadrian", "time": "", "comment": "哈德良神廟", "mapLink": "https://maps.app.goo.gl/wtUG5tFEgUN4in6q9" },
-        { "id": "SantIgnazio", "time": "", "comment": "聖依納爵堂 - 天花板是手繪但看起來很立體", "mapLink": "https://maps.app.goo.gl/2mq3fSkeSizjaUH89" }
+        { "id": "SantIgnazio", "time": "", "comment": "聖依納爵堂 - 天花板是手繪但看起來很立體, 天天營業", "mapLink": "https://maps.app.goo.gl/2mq3fSkeSizjaUH89" },
+        { "id": "Pantheon", "time": "", "comment": "萬神殿 - 天天營業", "mapLink": "https://maps.app.goo.gl/3FsVTNPpAARpunRF9" },
+        { "id": "SantaMariaSopraMinerva", "time": "", "comment": "神廟遺址聖母堂 - 天天營業", "mapLink": "https://maps.app.goo.gl/qgk5jaUjS1F9vRCn9" },
+        { "id": "PiazzaNavona", "time": "", "comment": "納沃納廣場", "mapLink": "https://maps.app.goo.gl/h3dLpx1kNTcSzTgG9" },
+        { "id": "SantAgneseInAgone", "time": "", "comment": "聖依搦斯蒙難堂 - 週一公休, 和2/23對調的話就不能去", "mapLink": "https://maps.app.goo.gl/z8DdD1y5a6FiF5pp9" },
+        { "id": "QuattroFontane", "time": "", "comment": "四合噴泉", "mapLink": "https://maps.app.goo.gl/bWdoUEoH1YwXBSeU9" }
       ]
     },
     {
       "id": "day-12",
       "label": "D12 | 2/22 | Sun - Pompeii Day Trip",
       "locations": [
-        { "id": "PompeiiArchaeologicalPark", "time": "09:00", "comment": "龐貝一日遊", "mapLink": "" }
+        { "id": "TrainRomeToNaples", "time": "7:40", "comment": "Italo 7:40-8:58", "mapLink": "" },
+        { "id": "TrainNaplesToPompeii", "time": "9:20", "comment": "區間車 9:20-9:50", "mapLink": "https://maps.app.goo.gl/iMDihk9ty3LQbebh9" },
+        { "id": "PompeiiArchaeologicalPark", "time": "09:00", "comment": "龐貝一日遊", "mapLink": "" },
+        { "id": "TrainPompeiiToNaples", "time": "15:29", "comment": "區間車 15:29/16:05/16:42/17:01", "mapLink": "" },
+        { "id": "TrainNaplesToRome", "time": "17:55", "comment": "Italo 17:55-19:10", "mapLink": "" }
+      ]
+    },
+    {
+      "id": "day-13",
+      "label": "D13 | 2/23 | Mon - Rome",
+      "locations": [
+        { "id": "MuseoNazionaleArteAntica", "time": "", "comment": "羅馬古代藝術美術博物館 (optional, 考慮和2/21對調)", "mapLink": "https://maps.app.goo.gl/DWTKAQhwnnmNcQnJ6" },
+        { "id": "CapuchinCrypt", "time": "", "comment": "修道會人骨博物館", "mapLink": "https://maps.app.goo.gl/sT48Pd3ethuLf2Ea9" },
+        { "id": "SpanishSteps", "time": "", "comment": "西班牙階梯", "mapLink": "https://maps.app.goo.gl/M1zVSFP3r6MuAYfq7" },
+        { "id": "VillaMedici", "time": "", "comment": "美第奇別墅", "mapLink": "" },
+        { "id": "CampoDeFiori", "time": "", "comment": "鮮花市場", "mapLink": "" },
+        { "id": "MercatoTrionfale", "time": "", "comment": "傳統市場", "mapLink": "https://maps.app.goo.gl/o7vepsRft7KXw98J9" },
+        { "id": "GalleriaBorghese", "time": "", "comment": "鮑格才別墅/博爾蓋賽美術館 (optional) - 限時兩個小時，要預約, 週一公休", "mapLink": "https://maps.app.goo.gl/hKBTtkh4dDxWvosd8" },
+        { "id": "PincianHill", "time": "", "comment": "蘋丘", "mapLink": "" }
       ]
     },
     {
@@ -122,15 +168,23 @@
       "label": "D14 | 2/24 | Tue - Vatican",
       "locations": [
         { "id": "StPetersBasilica", "time": "07:30", "comment": "聖彼得大教堂 - 一早去不太需要排隊, 7:30-19:00", "mapLink": "https://maps.app.goo.gl/rUfJw2Kd57t6zkk2A" },
+        { "id": "StPetersDome", "time": "", "comment": "聖彼得大教堂穹頂 - 一早去登頂, 7:30-17:00", "mapLink": "" },
+        { "id": "StPetersSquare", "time": "", "comment": "聖彼得廣場 - 聽說早上拍比較漂亮", "mapLink": "" },
         { "id": "VaticanMuseums", "time": "14:00", "comment": "梵諦岡博物館 - 加拉蒙蒂館、古地圖陳列館、拉斐爾畫室", "mapLink": "https://maps.app.goo.gl/PCdXYcQtQt9ExLxr6" },
-        { "id": "SistineChapel", "time": "", "comment": "西斯汀教堂", "mapLink": "https://maps.app.goo.gl/AnvWac7i8vLdF1KAA" }
+        { "id": "SistineChapel", "time": "", "comment": "西斯汀教堂", "mapLink": "https://maps.app.goo.gl/AnvWac7i8vLdF1KAA" },
+        { "id": "EmbassyToHolySee", "time": "", "comment": "駐教廷大使館", "mapLink": "https://maps.app.goo.gl/yFjBQoWodmNvhVeD9" },
+        { "id": "PonteSantAngelo", "time": "", "comment": "聖天使橋", "mapLink": "https://maps.app.goo.gl/TaryHfhyQkzMKNn18" }
       ]
     },
     {
       "id": "day-15",
       "label": "D15 | 2/25 | Wed - Milan",
       "locations": [
-        { "id": "CastelloSforzesco", "time": "", "comment": "斯福爾札古堡 - 五個博物館, 10-17:30, 隨便看約2hr", "mapLink": "https://www.google.com/maps/place/Sforzesco+Castle/@45.4704799,9.1767522" }
+        { "id": "TrainRomeToMilan", "time": "10:05", "comment": "Italo 10:05-13:15", "mapLink": "" },
+        { "id": "TeatroAllaScala", "time": "14:30", "comment": "史卡拉歌劇院 - 世界三大歌劇院、外表樸素裡面很讚，有博物館。對面有達文西的雕像, 預留1-2小時", "mapLink": "https://maps.app.goo.gl/R8RJMRnQMJi656e78" },
+        { "id": "ParcoSempione", "time": "", "comment": "森皮奧內公園 - 下午傍晚去和平之門看夕陽很漂亮, 6:30-21:00", "mapLink": "https://maps.app.goo.gl/L8A8QiPJ1s1Xn55K8" },
+        { "id": "CastelloSforzesco", "time": "", "comment": "斯福爾札古堡 - 五個博物館, 10-17:30, 隨便看約2hr", "mapLink": "https://www.google.com/maps/place/Sforzesco+Castle/@45.4704799,9.1767522" },
+        { "id": "ArcoDelaPace", "time": "", "comment": "和平之門", "mapLink": "https://www.google.com/maps/place/Arco+della+Pace/@45.4756964,9.1698711" }
       ]
     },
     {
@@ -138,7 +192,16 @@
       "label": "D16 | 2/26 | Thu - Milan",
       "locations": [
         { "id": "MilanCathedral", "time": "10:00", "comment": "米蘭大教堂登頂 - 開門前半小時去, 電梯上樓梯下, ~2hr", "mapLink": "https://maps.app.goo.gl/qg7vJTGN1iyeC7s59" },
+        { "id": "MuseoDelDuomoDiMilano", "time": "", "comment": "大教堂博物館 - 不大、走馬看花大概半小時, 10:00-19:00, 星期三公休", "mapLink": "https://www.google.com/maps/place/Museo+del+Duomo+di+Milano/@45.4631036,9.1890108" },
         { "id": "Brera", "time": "", "comment": "布雷拉美術館 (optional) - 預留三小時", "mapLink": "https://maps.app.goo.gl/Sm5PoaMohBxDiTWc8" }
+      ]
+    },
+    {
+      "id": "day-17",
+      "label": "D17 | 2/27 | Fri - Departure",
+      "locations": [
+        { "id": "MilanoToMXP", "time": "6:55", "comment": "Milano Centrale → MXP, 車次 6:55-7:56 / 7:25-8:26", "mapLink": "" },
+        { "id": "FlightMXPtoTPE", "time": "11:00", "comment": "回程 BR96 | 從米蘭 2026/2/27 11:00 → 台北 2026/2/28 5:55", "mapLink": "" }
       ]
     }
   ]
