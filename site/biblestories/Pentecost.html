@@ -11,8 +11,10 @@
   <header>
     <nav>
       <a href="../index.html" class="nav-home">Italian Art</a>
+      <button class="copy-filename-btn" onclick="(function(btn){var f=location.pathname.split('/').pop()||'index.html';navigator.clipboard.writeText(f).then(function(){btn.classList.add('copied');btn.setAttribute('data-filename',f);setTimeout(function(){btn.classList.remove('copied')},1200)});})(this)" aria-label="Copy filename"></button>
     </nav>
   </header>
+  <script>document.querySelector('.copy-filename-btn').setAttribute('data-filename',location.pathname.split('/').pop()||'index.html');</script>
   <main>
     
     <article class="bible-story-page">
@@ -56,6 +58,18 @@
         <span class="date">c. 1545</span>
       </div>
       <p class="description">A large painting in the nave depicting the descent of the Holy Spirit upon the apostles. One of several Titian works transferred to the Salute from suppressed churches.</p>
+      
+    </article>
+  
+
+    <article class="artwork-card" data-title="Descent of the Holy Ghost" data-date="1790">
+      <h3><a href="../artworks/DescentOfTheHolyGhost.html">Descent of the Holy Ghost</a> <span class="badge badge-researched">Self-researched</span></h3>
+      <div class="artwork-meta">
+        
+        <span class="medium">Oil painting</span>
+        <span class="date">1790</span>
+      </div>
+      <p class="description">Located on the left wall of the Chapel of the Crucifixion, this late 18th-century painting depicts the descent of the Holy Spirit upon the Apostles at Pentecost.</p>
       
     </article>
   

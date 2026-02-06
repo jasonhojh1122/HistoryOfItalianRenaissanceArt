@@ -44,6 +44,10 @@ Italian polymath of the High Renaissance who was active as a painter, draughtsma
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg)
 
+### [Study of Composition of Last Supper](../artworks/StudyOfLastSupper.md)
+- **Location**: [Gallerie dell'Accademia](../locations/Accademia.md), Venice
+- **Medium**: Drawing
+
 ### [Vitruvian Man](../artworks/VitruvianMan.md)
 - **Location**: [Gallerie dell'Accademia](../locations/GallerieDellAccademia.md), Venice
 - **Medium**: Pen and ink on paper

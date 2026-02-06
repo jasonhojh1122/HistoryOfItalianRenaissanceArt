@@ -9,6 +9,7 @@ import {
   getLocationArtworks,
   getBibleStoryArtworks,
   getSortedArtists,
+  getSortedArtworks,
   getSortedBibleStories,
   getLocationsByCity,
   getArtworksGroupedByCentury
@@ -73,6 +74,7 @@ export async function generateSite(rootDir, outputDir) {
   // Generate index page
   console.log('\nGenerating pages...');
   const artists = getSortedArtists(index);
+  const allArtworks = getSortedArtworks(index);
   const locationsByCity = getLocationsByCity(index);
   const bibleStories = getSortedBibleStories(index);
   const artworksByCentury = getArtworksGroupedByCentury(index);
@@ -103,7 +105,7 @@ export async function generateSite(rootDir, outputDir) {
     };
   }).filter(loc => loc.lat && loc.lng);
 
-  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, artworksByCentury, mapLocations, tripData, tripLocations);
+  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, artworksByCentury, mapLocations, tripData, tripLocations, allArtworks);
   await fs.writeFile(path.join(outputDir, 'index.html'), indexHtml);
   console.log('  Generated index.html');
 

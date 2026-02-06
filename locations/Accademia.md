@@ -16,3 +16,4 @@ The Gallerie dell'Accademia is a museum gallery of pre-19th-century art in Venic
 ### [Procession of the True Cross in Piazza San Marco](../artworks/ProcessionOfTheTrueCross.md)
 ### [San Giobbe Altarpiece](../artworks/SanGiobbeAltarpiece.md)
 ### [Legend of Saint Ursula](../artworks/LegendOfSaintUrsula.md)
+### [Study of Composition of Last Supper](../artworks/StudyOfLastSupper.md)

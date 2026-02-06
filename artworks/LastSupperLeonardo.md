@@ -39,9 +39,8 @@ Poor condition is due to Leonardo's experimental painting technique:
 - Repainted again in the nineteenth century
 - The building was bombed by Allied forces in WWII
 
-### Study Drawing
-Study of Composition of Last Supper at [Accademia](../locations/Accademia.md), Venice shows Judas was originally placed at our side of the table, which is not the case in the final artwork.
+### Related
 
-![img](../img/Stiudium_do_Ostatniej_Wieczerzy_5b53c890.jpg)
+- [Study of Composition of Last Supper](StudyOfLastSupper.md) - Preparatory drawing at [Gallerie dell'Accademia](../locations/Accademia.md), Venice
 
 ![img](../img/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolut_c6e37759.jpg)

@@ -192,6 +192,14 @@ export function getBibleStoryArtworks(index, bibleStoryId) {
 }
 
 /**
+ * Get sorted list of all artworks by title
+ */
+export function getSortedArtworks(index) {
+  return Object.values(index.artworks)
+    .sort((a, b) => a.metadata.title.localeCompare(b.metadata.title));
+}
+
+/**
  * Get sorted list of bible stories by name
  */
 export function getSortedBibleStories(index) {

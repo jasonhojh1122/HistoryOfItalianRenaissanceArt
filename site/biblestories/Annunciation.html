@@ -11,8 +11,10 @@
   <header>
     <nav>
       <a href="../index.html" class="nav-home">Italian Art</a>
+      <button class="copy-filename-btn" onclick="(function(btn){var f=location.pathname.split('/').pop()||'index.html';navigator.clipboard.writeText(f).then(function(){btn.classList.add('copied');btn.setAttribute('data-filename',f);setTimeout(function(){btn.classList.remove('copied')},1200)});})(this)" aria-label="Copy filename"></button>
     </nav>
   </header>
+  <script>document.querySelector('.copy-filename-btn').setAttribute('data-filename',location.pathname.split('/').pop()||'index.html');</script>
   <main>
     
     <article class="bible-story-page">
@@ -69,6 +71,18 @@
       </div>
       <p class="description">One of Fra Angelico&#039;s most famous frescoes, located in the dormitory corridor of San Marco. This is the most well known of all the frescos at the convent.</p>
       <img src="../img/Fra_Angelico_-_Annunciation_c8f3585b.jpg" alt="Annunciation" loading="lazy">
+    </article>
+  
+
+    <article class="artwork-card" data-title="Annunciation" data-date="c. 1470s" data-artist="Melozzo da Forlì">
+      <h3><a href="../artworks/AnnunciationMelozzo.html">Annunciation</a> <span class="badge badge-researched">Self-researched</span></h3>
+      <div class="artwork-meta">
+        <span class="artist"><a href="../artists/MelozzoDaForli.html">Melozzo da Forlì</a></span>
+        <span class="medium">Fresco</span>
+        <span class="date">c. 1470s</span>
+      </div>
+      <p class="description">Located in the seventh chapel of the Pantheon, this is the best-known painting in the building. The fresco depicts the traditional Annunciation scene with God in Heaven sending the dove of the Holy Spirit down to Earth, while the Archangel Gabriel kneels before Mary. It is an important example of Melozzo&#039;s Roman period.</p>
+      
     </article>
   
 

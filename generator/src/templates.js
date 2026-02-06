@@ -58,8 +58,10 @@ ${extraHead}
   <header>
     <nav>
       <a href="${prefix}index.html" class="nav-home">Italian Art</a>
+      <button class="copy-filename-btn" onclick="(function(btn){var f=location.pathname.split('/').pop()||'index.html';navigator.clipboard.writeText(f).then(function(){btn.classList.add('copied');btn.setAttribute('data-filename',f);setTimeout(function(){btn.classList.remove('copied')},1200)});})(this)" aria-label="Copy filename"></button>
     </nav>
   </header>
+  <script>document.querySelector('.copy-filename-btn').setAttribute('data-filename',location.pathname.split('/').pop()||'index.html');</script>
   <main>
     ${content}
   </main>
@@ -124,7 +126,7 @@ function fixImagePathForIndex(src) {
 /**
  * Index page template
  */
-export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}, mapLocations = [], tripData = { version: 1, days: [] }, tripLocations = []) {
+export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}, mapLocations = [], tripData = { version: 1, days: [] }, tripLocations = [], allArtworks = []) {
   const artistsList = artists.map(a => {
     const count = a.artworks?.length || 0;
     const countBadge = count > 0 ? `<span class="artwork-count">${count}</span>` : '';
@@ -147,6 +149,13 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
           `<li><a href="biblestories/${s.id}.html">${escapeHtml(s.metadata.title)}</a>${s.metadata.alternateName ? ` <span class="alternate-name">(${escapeHtml(s.metadata.alternateName)})</span>` : ''}</li>`
         ).join('\n        ')}
   ` : '';
+
+  const artworksListHtml = allArtworks.map(a => {
+    const meta = a.metadata;
+    const artistSpan = meta.artist ? ` <span class="artwork-artist">${escapeHtml(meta.artist)}</span>` : '';
+    const dateSpan = meta.date ? ` <span class="artwork-date">${escapeHtml(meta.date)}</span>` : '';
+    return `<li><a href="artworks/${a.id}.html">${escapeHtml(meta.title)}</a>${artistSpan}${dateSpan}</li>`;
+  }).join('\n        ');
 
   const timelineHtml = Object.entries(artworksByCentury).map(([century, artworks]) => `
       <div class="timeline-century">
@@ -176,6 +185,7 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
 
     <div class="tab-navigation">
       <button class="tab-btn active" data-tab="artists">Artists</button>
+      <button class="tab-btn" data-tab="artworks">Artworks</button>
       <button class="tab-btn" data-tab="locations">Locations</button>
       <button class="tab-btn" data-tab="biblestories">Bible Stories</button>
       <button class="tab-btn" data-tab="timeline">Timeline</button>
@@ -187,6 +197,12 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
       <section class="tab-panel active" data-tab="artists">
         <ul class="artist-list">
           ${artistsList}
+        </ul>
+      </section>
+
+      <section class="tab-panel" data-tab="artworks">
+        <ul class="artworks-list">
+          ${artworksListHtml}
         </ul>
       </section>
 
