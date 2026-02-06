@@ -2993,3 +2993,127 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
 - [Descent from the Cross](https://en.wikipedia.org/wiki/Descent_from_the_Cross)
   - **Source**: Gospels
   - The scene of Joseph of Arimathea and Nicodemus taking Christ down from the cross after his crucifixion. It is the 13th Station of the Cross and one of the Seven Sorrows of the Virgin Mary.
+
+## Pantheon, Rome
+
+<!-- Last updated: 2026-02-06 -->
+
+- [Pantheon, Rome](https://en.wikipedia.org/wiki/Pantheon%2C_Rome)
+  - **Type**: Church (ancient Roman temple)
+  - **Description**: The Pantheon is an ancient 2nd-century Roman temple and, since AD 609, a Catholic church called the Basilica of St. Mary and the Martyrs. It is perhaps the most famous and architecturally most influential rotunda, renowned for its massive unreinforced concrete dome with a central oculus open to the sky. The interior is richly decorated in polychrome marble with eight aedicules alternating with seven larger chapels around the perimeter.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg)
+
+### Artworks
+
+- Madonna del Sasso
+  - **Artist**: [Lorenzetto](https://en.wikipedia.org/wiki/Lorenzetto)
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1524
+  - **Description**: A marble statue of the Virgin and Child placed above Raphael's tomb in the third aedicule. Named "Madonna of the Rock" because Mary rests one foot on a boulder. Lorenzetto, a pupil of Raphael, created the sculpture as a close replica of the Venus Felix in the Vatican Museum, modeling the drapery after a version of the Aphrodite of Melos.
+
+- Annunciation
+  - **Artist**: [Melozzo da Forlì](https://en.wikipedia.org/wiki/Melozzo_da_Forl%C3%AC)
+  - **Medium**: Fresco
+  - **Date**: c. 1470s
+  - **Description**: Located in the seventh chapel of the Pantheon, this is the best-known painting in the building. The fresco depicts the traditional Annunciation scene with God in Heaven sending the dove of the Holy Spirit down to Earth, while the Archangel Gabriel kneels before Mary. It is an important example of Melozzo's Roman period.
+
+- Coronation of the Virgin
+  - **Artist**: Unknown (Tuscan school)
+  - **Medium**: Fresco
+  - **Date**: 15th century
+  - **Description**: A 15th-century fresco attributed to the Tuscan school, located in the second niche of the Pantheon. It depicts the traditional subject of Christ crowning Mary as Queen of Heaven.
+
+- Madonna of Mercy between St Francis and St John the Baptist
+  - **Artist**: Unknown (Umbrian school)
+  - **Medium**: Painting
+  - **Date**: 15th century
+  - **Description**: Also known as the Madonna of the Railing, this 15th-century painting of the Umbrian school is located in the third chapel. It depicts the Madonna sheltering the faithful beneath her mantle, flanked by Saints Francis and John the Baptist.
+
+- Adoration of the Shepherds
+  - **Artist**: [Francesco Cozza](https://en.wikipedia.org/wiki/Francesco_Cozza_(painter))
+  - **Medium**: Oil painting
+  - **Date**: 1661
+  - **Description**: One of two paintings by Francesco Cozza in the Chapel of St. Joseph, depicting the shepherds coming to worship the newborn Christ child in Bethlehem.
+
+- Adoration of the Magi
+  - **Artist**: [Francesco Cozza](https://en.wikipedia.org/wiki/Francesco_Cozza_(painter))
+  - **Medium**: Oil painting
+  - **Date**: 1661
+  - **Description**: Companion piece to the Adoration of the Shepherds in the Chapel of St. Joseph, depicting the three Magi presenting gifts of gold, frankincense, and myrrh to the infant Jesus.
+
+- Descent of the Holy Ghost
+  - **Artist**: Pietro Labruzi
+  - **Medium**: Oil painting
+  - **Date**: 1790
+  - **Description**: Located on the left wall of the Chapel of the Crucifixion, this late 18th-century painting depicts the descent of the Holy Spirit upon the Apostles at Pentecost.
+
+### Tombs
+
+- Tomb of [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Date**: 1520 (burial)
+  - **Description**: Raphael requested to be buried in the Pantheon, making him the first artist to be accorded such an honour. His sarcophagus is in the third aedicule, surmounted by Lorenzetto's Madonna del Sasso. His fiancée Maria Bibbiena, who died before they could marry, is buried to the right of his sarcophagus. The Latin epitaph on his tomb, composed by Pietro Bembo, reads: "Here lies Raphael, by whom Nature herself feared to be outdone while he lived, and when he died, feared that she herself would die."
+
+- Tomb of [Annibale Carracci](https://en.wikipedia.org/wiki/Annibale_Carracci)
+  - **Date**: 1609 (burial)
+  - **Description**: The Baroque painter was buried in the Pantheon near Raphael, as he had requested. His body was carried by members of the Accademia di San Luca in a solemn procession. Annibale greatly admired Raphael and wished to rest beside him.
+
+- Tomb of [Baldassare Peruzzi](https://en.wikipedia.org/wiki/Baldassare_Peruzzi)
+  - **Date**: 1536 (burial)
+  - **Description**: The Renaissance architect and painter, who worked with Bramante and Raphael on the new St. Peter's, was buried in the Pantheon near Raphael. Peruzzi is known for designing the Villa Farnesina and his work on St. Peter's Basilica.
+
+- Tomb of [Victor Emmanuel II](https://en.wikipedia.org/wiki/Victor_Emmanuel_II)
+  - **Date**: 1878 (burial)
+  - **Description**: The first King of a united Italy (r. 1861–1878), known as the "Father of the Fatherland" (Padre della Patria), is entombed in the second chapel of the Pantheon. His monumental tomb has become an important site of Italian national identity.
+
+- Tomb of [Umberto I](https://en.wikipedia.org/wiki/Umberto_I_of_Italy)
+  - **Date**: 1900 (burial)
+  - **Description**: The second King of Italy (r. 1878–1900), son of Victor Emmanuel II, was assassinated by an anarchist in 1900 and buried in the Pantheon opposite his father's tomb.
+
+### Artists
+
+- [Lorenzetto](https://en.wikipedia.org/wiki/Lorenzetto)
+  - **Born**: 1490, Florence
+  - **Died**: 1541, Rome
+  - Lorenzo di Lodovico di Guglielmo, known as Lorenzetto or Lorenzo Lotti, was an Italian Renaissance sculptor and architect in the circle of Raphael. He is best known for the Madonna del Sasso above Raphael's tomb in the Pantheon and the statue of Jonah in the Chigi Chapel at Santa Maria del Popolo, both commissioned by Raphael.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/73/Jonah_Antinous_Santa_Maria_del_Popolo_n1.jpg)
+
+- [Melozzo da Forlì](https://en.wikipedia.org/wiki/Melozzo_da_Forl%C3%AC)
+  - **Born**: 1438, Forlì
+  - **Died**: 1494, Forlì
+  - Italian Renaissance painter and architect notable for his use of foreshortening. He was the most important member of the Forlì painting school. His major works include the Annunciation fresco in the Pantheon and frescoes for the Basilica dei Santi Apostoli in Rome, fragments of which are now in the Vatican Pinacoteca.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/9a/Melozzo.jpg)
+
+- [Annibale Carracci](https://en.wikipedia.org/wiki/Annibale_Carracci)
+  - **Born**: 1560, Bologna
+  - **Died**: 1609, Rome
+  - Italian painter and instructor, active in Bologna and later in Rome. Along with his brother Agostino and cousin Ludovico, Annibale was one of the founders of a leading strand of the Baroque style, aspiring for a return to classical monumentality with added dynamism. His masterwork is the ceiling of the gallery of the Palazzo Farnese in Rome, which was enormously influential on subsequent Roman painting.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/d3/Annibale_Carracci%2C_Autoritratto_.jpg)
+
+- [Baldassare Peruzzi](https://en.wikipedia.org/wiki/Baldassare_Peruzzi)
+  - **Born**: 1481, Ancaiano (near Siena)
+  - **Died**: 1536, Rome
+  - Italian architect and painter who worked for many years with Bramante, Raphael, and later Sangallo on the new St. Peter's. He designed the Villa Farnesina in Rome and served as architect to the Sienese Republic after the Sack of Rome in 1527. He was buried in the Pantheon near Raphael.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/32/105_le_vite%2C_baldassarre_peruzzi.jpg)
+
+- [Francesco Cozza](https://en.wikipedia.org/wiki/Francesco_Cozza_(painter))
+  - **Born**: 1605, Stilo, Calabria
+  - **Died**: 1682, Rome
+  - Italian Baroque painter who worked primarily in Rome. He painted the Adoration of the Shepherds and Adoration of the Magi for the Chapel of St. Joseph in the Pantheon in 1661.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/f7/Cozza_Francesco_e_l%27angelo.jpg)
+
+### Bible Stories
+
+- [Annunciation](https://en.wikipedia.org/wiki/Annunciation)
+  - **Book(s)**: Gospel of Luke
+  - **Chapters/Verses**: Luke 1:26–38
+  - The announcement made by the archangel Gabriel to Mary that she would conceive and bear a son through a virgin birth and become the mother of Jesus Christ, the Messiah and Son of God, marking the Incarnation.
+
+- [Coronation of the Virgin](https://en.wikipedia.org/wiki/Coronation_of_the_Virgin)
+  - **Book(s)**: Not directly biblical; derived from Catholic tradition
+  - **Chapters/Verses**: N/A (based on Revelation 12:1 and Catholic doctrine)
+  - A subject in Christian art depicting Christ, sometimes accompanied by God the Father and the Holy Spirit, placing a crown on the head of Mary as Queen of Heaven. The subject was especially popular in Italy from the 13th to 15th centuries.
+
+- [Adoration of the Shepherds](https://en.wikipedia.org/wiki/Adoration_of_the_Shepherds)
+  - **Book(s)**: Gospel of Luke
+  - **Chapters/Verses**: Luke 2:8–20
+  - The episode in which shepherds near Bethlehem are summoned by an angel to witness the birth of Jesus. They are the first to adore the newborn Christ child, representing the humble faithful who recognize the divine incarnation.

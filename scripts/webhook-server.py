@@ -10,6 +10,9 @@ Endpoints:
     POST /pipeline   - Trigger full pipeline (optional: {"target": "Location Name"})
     POST /research   - Research only (requires: {"target": "Location Name"})
     POST /run        - Run any Claude command (requires: {"prompt": "..."})
+    POST /stop       - Stop running job (kills child process group)
+    GET  /git-status - Git status for both repos
+    POST /git-reset  - Hard reset both repos to HEAD (blocked while job running)
     GET  /status     - Check pipeline status (JSON)
     GET  /log        - Get full log (JSON)
 """
@@ -17,10 +20,32 @@ Endpoints:
 from flask import Flask, request, jsonify, Response
 import subprocess
 import threading
+import os
+import signal
 from datetime import datetime
 
 app = Flask(__name__)
 PROJECT_DIR = "/Users/jason/src/HistoryOfItalianRenaissanceArt"
+GITHUB_PAGES_DIR = "/Users/jason/src/jasonhojh1122.github.io"
+
+# Track the current child process so /stop can kill it
+current_process = None
+current_process_lock = threading.Lock()
+
+# Timeout in seconds: kill subprocess if it exceeds this
+CLAUDE_TIMEOUT = 1800    # 30 minutes for a single claude command
+PIPELINE_TIMEOUT = 3600  # 60 minutes for the full pipeline
+
+
+def _kill_process(process, job, timeout):
+    """Kill a subprocess and its children via process group."""
+    if process.poll() is None:
+        try:
+            os.killpg(os.getpgid(process.pid), signal.SIGKILL)
+        except ProcessLookupError:
+            pass
+        job["log"].append(f"[Killed: exceeded {timeout}s timeout]")
+
 
 # Track running jobs
 current_job = {
@@ -36,7 +61,7 @@ current_job = {
 
 def run_claude(prompt, job_type="claude"):
     """Run any Claude command in background thread"""
-    global current_job
+    global current_job, current_process
     current_job = {
         "running": True,
         "type": job_type,
@@ -61,19 +86,35 @@ def run_claude(prompt, job_type="claude"):
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
             text=True,
-            cwd=PROJECT_DIR
+            cwd=PROJECT_DIR,
+            preexec_fn=os.setsid
         )
 
-        for line in process.stdout:
-            current_job["log"].append(line.rstrip())
+        with current_process_lock:
+            current_process = process
 
-        process.wait()
+        timer = threading.Timer(CLAUDE_TIMEOUT, _kill_process, args=(process, current_job, CLAUDE_TIMEOUT))
+        timer.start()
+        try:
+            for line in process.stdout:
+                current_job["log"].append(line.rstrip())
+            process.wait()
+        finally:
+            timer.cancel()
+            with current_process_lock:
+                current_process = None
+
         current_job["running"] = False
         current_job["completed_at"] = datetime.now().isoformat()
         current_job["exit_code"] = process.returncode
         current_job["log"].append("")
-        current_job["log"].append(f"[Completed with exit code {process.returncode}]")
+        if process.returncode == -9:
+            current_job["log"].append("[Stopped by user]")
+        else:
+            current_job["log"].append(f"[Completed with exit code {process.returncode}]")
     except Exception as e:
+        with current_process_lock:
+            current_process = None
         current_job["running"] = False
         current_job["completed_at"] = datetime.now().isoformat()
         current_job["exit_code"] = -1
@@ -82,7 +123,7 @@ def run_claude(prompt, job_type="claude"):
 
 def run_pipeline(target=None):
     """Run the full pipeline in background thread"""
-    global current_job
+    global current_job, current_process
     current_job = {
         "running": True,
         "type": "pipeline",
@@ -103,18 +144,34 @@ def run_pipeline(target=None):
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
             text=True,
-            cwd=PROJECT_DIR
+            cwd=PROJECT_DIR,
+            preexec_fn=os.setsid
         )
 
-        for line in process.stdout:
-            current_job["log"].append(line.rstrip())
+        with current_process_lock:
+            current_process = process
 
-        process.wait()
+        timer = threading.Timer(PIPELINE_TIMEOUT, _kill_process, args=(process, current_job, PIPELINE_TIMEOUT))
+        timer.start()
+        try:
+            for line in process.stdout:
+                current_job["log"].append(line.rstrip())
+            process.wait()
+        finally:
+            timer.cancel()
+            with current_process_lock:
+                current_process = None
+
         current_job["running"] = False
         current_job["completed_at"] = datetime.now().isoformat()
         current_job["exit_code"] = process.returncode
-        current_job["log"].append(f"[Pipeline completed with exit code {process.returncode}]")
+        if process.returncode == -9:
+            current_job["log"].append("[Stopped by user]")
+        else:
+            current_job["log"].append(f"[Pipeline completed with exit code {process.returncode}]")
     except Exception as e:
+        with current_process_lock:
+            current_process = None
         current_job["running"] = False
         current_job["completed_at"] = datetime.now().isoformat()
         current_job["exit_code"] = -1
@@ -486,6 +543,31 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             cursor: not-allowed;
         }
 
+        button.danger {
+            background: linear-gradient(135deg, var(--color-terracotta) 0%, var(--color-terracotta-deep) 100%);
+            color: var(--color-warm-white);
+            border: none;
+            box-shadow: 0 2px 8px rgba(139, 58, 47, 0.3);
+        }
+
+        button.danger:hover {
+            background: linear-gradient(135deg, var(--color-terracotta-deep) 0%, #6B2A1F 100%);
+            box-shadow: 0 4px 12px rgba(139, 58, 47, 0.4);
+            transform: translateY(-1px);
+        }
+
+        button.danger:active {
+            transform: translateY(0);
+        }
+
+        button.danger:disabled {
+            background: var(--color-border-dark);
+            color: var(--color-stone);
+            cursor: not-allowed;
+            box-shadow: none;
+            transform: none;
+        }
+
         /* Quick Actions */
         .quick-actions {
             display: flex;
@@ -616,6 +698,12 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             <p class="meta">
                 <span id="timing"></span>
             </p>
+            <div class="quick-actions">
+                <div class="quick-actions-label">Quick Actions</div>
+                <button onclick="stopJob()" id="stop-btn" class="secondary" disabled>Stop Job</button>
+                <button onclick="gitStatus()" id="git-status-btn" class="secondary">Git Status</button>
+                <button onclick="hardReset()" id="reset-btn" class="danger">Hard Reset</button>
+            </div>
         </div>
 
         <div class="card pipeline-card">
@@ -644,6 +732,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
 
     <script>
         let refreshInterval;
+        let lastCompletedAt = null;
 
         async function fetchStatus() {
             try {
@@ -654,6 +743,8 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
                 const logEl = document.getElementById('log');
                 const jobInfo = document.getElementById('job-info');
                 const timing = document.getElementById('timing');
+                const stopBtn = document.getElementById('stop-btn');
+                const resetBtn = document.getElementById('reset-btn');
 
                 if (data.running) {
                     statusEl.textContent = 'Running';
@@ -661,15 +752,28 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
                     jobInfo.textContent = `${data.type}: ${data.target}`;
                     document.getElementById('run-btn').disabled = true;
                     document.getElementById('pipeline-btn').disabled = true;
+                    stopBtn.disabled = false;
+                    resetBtn.disabled = true;
                 } else {
                     statusEl.textContent = data.exit_code === 0 ? 'Completed' : (data.exit_code ? 'Error' : 'Idle');
                     statusEl.className = 'status ' + (data.exit_code === 0 ? 'idle' : (data.exit_code ? 'error' : 'idle'));
                     jobInfo.textContent = data.type ? `Last: ${data.type}` : '';
                     document.getElementById('run-btn').disabled = false;
                     document.getElementById('pipeline-btn').disabled = false;
+                    stopBtn.disabled = true;
+                    resetBtn.disabled = false;
                 }
 
-                if (data.log && data.log.length > 0) {
+                // Only update log from polling if the job completion changed
+                // (avoids overwriting git-status/git-reset output)
+                const newCompleted = data.completed_at || (data.running ? 'running' : null);
+                if (newCompleted !== lastCompletedAt) {
+                    lastCompletedAt = newCompleted;
+                    if (data.log && data.log.length > 0) {
+                        logEl.textContent = data.log.join('\\n');
+                        logEl.scrollTop = logEl.scrollHeight;
+                    }
+                } else if (data.running && data.log && data.log.length > 0) {
                     logEl.textContent = data.log.join('\\n');
                     logEl.scrollTop = logEl.scrollHeight;
                 }
@@ -685,6 +789,60 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
 
             } catch (e) {
                 console.error('Failed to fetch status:', e);
+            }
+        }
+
+        async function stopJob() {
+            try {
+                const res = await fetch('/stop', { method: 'POST' });
+                const data = await res.json();
+                if (data.error) {
+                    alert(data.error);
+                }
+                fetchStatus();
+            } catch (e) {
+                alert('Failed to stop job: ' + e.message);
+            }
+        }
+
+        async function gitStatus() {
+            const logEl = document.getElementById('log');
+            logEl.textContent = 'Fetching git status...';
+            try {
+                const res = await fetch('/git-status');
+                const data = await res.json();
+                let output = '';
+                for (const [repo, status] of Object.entries(data)) {
+                    output += `=== ${repo} ===\\n${status}\\n`;
+                }
+                logEl.textContent = output;
+                lastCompletedAt = '__git_status__';
+            } catch (e) {
+                logEl.textContent = 'Failed to fetch git status: ' + e.message;
+            }
+        }
+
+        async function hardReset() {
+            if (!confirm('Hard reset both repos to HEAD? This will discard all uncommitted changes.')) {
+                return;
+            }
+            const logEl = document.getElementById('log');
+            logEl.textContent = 'Running git reset --hard HEAD...';
+            try {
+                const res = await fetch('/git-reset', { method: 'POST' });
+                const data = await res.json();
+                if (data.error) {
+                    logEl.textContent = 'Error: ' + data.error;
+                    return;
+                }
+                let output = '';
+                for (const [repo, result] of Object.entries(data)) {
+                    output += `=== ${repo} ===\\n${result}\\n`;
+                }
+                logEl.textContent = output;
+                lastCompletedAt = '__git_reset__';
+            } catch (e) {
+                logEl.textContent = 'Failed to reset: ' + e.message;
             }
         }
 
@@ -804,6 +962,56 @@ def trigger_research_only():
     thread.start()
 
     return jsonify({"status": "started", "target": target})
+
+
+@app.route('/stop', methods=['POST'])
+def stop_job():
+    """Stop the currently running job"""
+    global current_process
+    with current_process_lock:
+        if current_process is None or current_process.poll() is not None:
+            return jsonify({"error": "No job is currently running"}), 409
+        try:
+            os.killpg(os.getpgid(current_process.pid), signal.SIGKILL)
+        except ProcessLookupError:
+            pass
+    return jsonify({"status": "stopping"})
+
+
+@app.route('/git-status', methods=['GET'])
+def git_status():
+    """Get git status for both repos"""
+    results = {}
+    for name, path in [("HistoryOfItalianRenaissanceArt", PROJECT_DIR),
+                        ("jasonhojh1122.github.io", GITHUB_PAGES_DIR)]:
+        try:
+            result = subprocess.run(
+                ["git", "status"], cwd=path, capture_output=True, text=True, timeout=10
+            )
+            results[name] = result.stdout + result.stderr
+        except Exception as e:
+            results[name] = f"Error: {str(e)}"
+    return jsonify(results)
+
+
+@app.route('/git-reset', methods=['POST'])
+def git_reset():
+    """Hard reset both repos to HEAD"""
+    if current_job["running"]:
+        return jsonify({"error": "Cannot reset while a job is running"}), 409
+
+    results = {}
+    for name, path in [("HistoryOfItalianRenaissanceArt", PROJECT_DIR),
+                        ("jasonhojh1122.github.io", GITHUB_PAGES_DIR)]:
+        try:
+            result = subprocess.run(
+                ["git", "reset", "--hard", "HEAD"],
+                cwd=path, capture_output=True, text=True, timeout=10
+            )
+            results[name] = result.stdout + result.stderr
+        except Exception as e:
+            results[name] = f"Error: {str(e)}"
+    return jsonify(results)
 
 
 @app.route('/status', methods=['GET'])

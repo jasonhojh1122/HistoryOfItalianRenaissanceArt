@@ -18,3 +18,6 @@ The Coronation of the Virgin depicts the Virgin Mary being crowned Queen of Heav
 
 ### [Tabernacle of Orsanmichele](../artworks/TabernacleOfOrsanmichele.md)
 - Andrea Orcagna, Orsanmichele, Florence (includes Assumption and Coronation scenes)
+
+### [Coronation of the Virgin](../artworks/CoronationOfTheVirginPantheon.md)
+- Unknown (Tuscan school), Pantheon, Rome, 15th century

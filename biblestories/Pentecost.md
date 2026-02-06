@@ -20,3 +20,6 @@ The descent of the Holy Spirit upon the apostles fifty days after Easter, enabli
 
 ### [Pentecost Cupola Mosaic](../artworks/PentecostCupolaMosaic.md)
 - Byzantine and Venetian mosaicists, Saint Mark's Basilica, 12th century
+
+### [Descent of the Holy Ghost](../artworks/DescentOfTheHolyGhost.md)
+- Pietro Labruzi, Pantheon, Rome, 1790

@@ -18,3 +18,6 @@ The Adoration of the Shepherds depicts the visit of the shepherds to the newborn
 
 ### [Adoration of the Shepherds](../artworks/AdorationOfTheShepherdsFilippinoLippi.md)
 - Filippino Lippi, Uffizi Gallery, c. 1480
+
+### [Adoration of the Shepherds](../artworks/AdorationOfTheShepherdsCozza.md)
+- Francesco Cozza, Pantheon, Rome, 1661

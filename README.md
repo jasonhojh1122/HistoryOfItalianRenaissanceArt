@@ -44,6 +44,7 @@
 - [Temple of Hadrian](locations/TempleOfHadrian.md)
 - [Sant'Ignazio](locations/SantIgnazio.md)
 - [Galleria Borghese](locations/GalleriaBorghese.md)
+- [Pantheon](locations/Pantheon.md)
 
 #### Milan
 
@@ -149,6 +150,8 @@
 - [Giovanni Battista Zelotti](artists/GiovanniBattistaZelotti.md)
 - [Battista Franco Veneziano](artists/BattistaFrancoVeneziano.md)
 - [Giuseppe Porta (Salviati)](artists/GiuseppePorta.md)
+- [Lorenzetto](artists/Lorenzetto.md)
+- [Baldassare Peruzzi](artists/BaldassarePeruzzi.md)
 
 #### Baroque (1600s-1700s)
 
@@ -160,6 +163,8 @@
 - [Bernardo Strozzi](artists/BernardoStrozzi.md)
 - [Padovanino](artists/Padovanino.md)
 - [Correggio](artists/Correggio.md)
+- [Annibale Carracci](artists/AnnibaleCarracci.md)
+- [Francesco Cozza](artists/FrancescoCozza.md)
 
 #### Medieval Cartography
 
@@ -225,6 +230,8 @@
 - [Padovanino](artists/Padovanino.md)
 - [Caravaggio](artists/Caravaggio.md)
 - [Correggio](artists/Correggio.md)
+- [Annibale Carracci](artists/AnnibaleCarracci.md)
+- [Francesco Cozza](artists/FrancescoCozza.md)
 
 #### Sculpture
 
@@ -239,6 +246,7 @@
 - [Pierre Le Gros the Younger](artists/PierreLeGrosTheYounger.md)
 - [Filippo della Valle](artists/FilippoDellaValle.md)
 - [Gian Lorenzo Bernini](artists/GianLorenzoBernini.md)
+- [Lorenzetto](artists/Lorenzetto.md)
 
 #### Architecture
 
@@ -247,6 +255,7 @@
 - [Michelozzo di Bartolommeo](artists/MichelozzoDiBartolommeo.md)
 - [Leon Battista Alberti](artists/LeonBattistaAlberti.md)
 - [Jacopo Sansovino](artists/JacopoSansovino.md)
+- [Baldassare Peruzzi](artists/BaldassarePeruzzi.md)
 
 ### Must-See Works
 

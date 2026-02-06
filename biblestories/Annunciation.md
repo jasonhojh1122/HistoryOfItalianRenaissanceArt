@@ -29,3 +29,6 @@ The Annunciation depicts the announcement by the Angel Gabriel to the Virgin Mar
 
 ### [Annunciation Altar](../artworks/AnnunciationAltar.md)
 - Filippo della Valle, Sant'Ignazio, Rome, 18th century
+
+### [Annunciation](../artworks/AnnunciationMelozzo.md)
+- Melozzo da Forlì, Pantheon, Rome, c. 1470s

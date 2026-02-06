@@ -27,3 +27,6 @@ The Adoration of the Magi describes the visit of the three wise men (Magi) from 
 
 ### [The Adoration of the Magi](../artworks/AdorationOfTheMagiBrueghel.md)
 - Pieter Brueghel the Younger, Museo Correr, Venice, late 16th century
+
+### [Adoration of the Magi](../artworks/AdorationOfTheMagiCozza.md)
+- Francesco Cozza, Pantheon, Rome, 1661
