@@ -10,7 +10,7 @@
 
 ## Mythological Context
 
-[Ariadne](../terms.md#ariadne) - Cretan princess abandoned by Theseus on Naxos, discovered by Dionysus/Bacchus who made her his immortal wife.
+[Ariadne](../TERMS.md#ariadne) - Cretan princess abandoned by Theseus on Naxos, discovered by Dionysus/Bacchus who made her his immortal wife.
 
 ## Description
 

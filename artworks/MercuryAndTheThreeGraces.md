@@ -8,7 +8,7 @@
 
 ## Mythological Context
 
-[Three Graces](../terms.md#three-graces) - The Charites (Aglaea, Euphrosyne, and Thalia) were goddesses of charm, beauty, and joy in Greek mythology.
+[Three Graces](../TERMS.md#three-graces) - The Charites (Aglaea, Euphrosyne, and Thalia) were goddesses of charm, beauty, and joy in Greek mythology.
 
 ## Description
 

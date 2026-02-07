@@ -6,7 +6,7 @@ user_invocable: true
 
 # Check Exported Files
 
-Validates all exported markdown files in artists/, artworks/, locations/, biblestories/, and terms.md.
+Validates all exported markdown files in artists/, artworks/, locations/, biblestories/, and TERMS.md.
 
 ## Usage
 
@@ -101,7 +101,7 @@ locations/: 37 files
 biblestories/: 21 files
   ✓ 21 valid
 
-terms.md: ✓ valid
+TERMS.md: ✓ valid
 
 Summary: 218 files checked, 5 errors, 4 warnings
 ```

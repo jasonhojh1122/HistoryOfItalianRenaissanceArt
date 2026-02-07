@@ -18,6 +18,12 @@ function createRenderer() {
       text = token.text;
     }
 
+    // Convert TERMS.md#fragment links to index.html?tab=terms#fragment
+    if (href && /TERMS\.md#/i.test(href)) {
+      const fragment = href.split('#')[1];
+      href = href.replace(/\.\.\/TERMS\.md#.*/i, `../index.html?tab=terms#${fragment}`);
+    }
+
     // Convert .md links to .html
     if (href && href.endsWith('.md')) {
       href = href.replace(/\.md$/, '.html');

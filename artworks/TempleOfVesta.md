@@ -9,6 +9,6 @@
 
 ## Description
 
-An ancient circular temple (tholos) located near the Regia and the [House of the Vestals](HouseOfTheVestals.md). The temple housed Vesta's sacred fire, which was a symbol of Rome's safety and prosperity and was tended by the [Vestal Virgins](../terms.md#vestal-virgin). The fire was never allowed to go out; its extinction was seen as a portent of disaster for Rome.
+An ancient circular temple (tholos) located near the Regia and the [House of the Vestals](HouseOfTheVestals.md). The temple housed Vesta's sacred fire, which was a symbol of Rome's safety and prosperity and was tended by the [Vestal Virgins](../TERMS.md#vestal-virgin). The fire was never allowed to go out; its extinction was seen as a portent of disaster for Rome.
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/2/2f/Temple_of_Vesta_%28Rome%29.jpg)

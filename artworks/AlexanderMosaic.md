@@ -10,7 +10,7 @@
 
 ## Historical Context
 
-[Battle of Issus](../terms.md#battle-of-issus) - A battle in southern Anatolia on 5 November 333 BC between the Hellenic League led by Alexander the Great and the Achaemenid Empire led by Darius III.
+[Battle of Issus](../TERMS.md#battle-of-issus) - A battle in southern Anatolia on 5 November 333 BC between the Hellenic League led by Alexander the Great and the Achaemenid Empire led by Darius III.
 
 ## Description
 

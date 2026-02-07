@@ -9,6 +9,6 @@
 
 ## Description
 
-The third named [curia](../terms.md#curia), or senate house, in ancient Rome. Julius Caesar began construction to replace the earlier Curia Cornelia as part of his redesign of the Forum. The building's remarkably well-preserved brick exterior survives because it was converted into the church of Sant'Adriano al Foro in the 7th century. The interior retains its original marble floor in opus sectile and contains the Plutei of Trajan, important relief sculptures.
+The third named [curia](../TERMS.md#curia), or senate house, in ancient Rome. Julius Caesar began construction to replace the earlier Curia Cornelia as part of his redesign of the Forum. The building's remarkably well-preserved brick exterior survives because it was converted into the church of Sant'Adriano al Foro in the 7th century. The interior retains its original marble floor in opus sectile and contains the Plutei of Trajan, important relief sculptures.
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/4/4b/Curia_Julia.jpg)

@@ -5,7 +5,7 @@ description: Export notes from NOTES.md and AUTO_RESEARCH_NOTES.md to individual
 
 # Export Notes
 
-Export reading notes from `NOTES.md` and auto-researched notes from `AUTO_RESEARCH_NOTES.md` to individual markdown files in `artists/`, `locations/`, `artworks/`, and `biblestories/` directories, plus a `terms.md` glossary file.
+Export reading notes from `NOTES.md` and auto-researched notes from `AUTO_RESEARCH_NOTES.md` to individual markdown files in `artists/`, `locations/`, `artworks/`, and `biblestories/` directories, plus a `TERMS.md` glossary file.
 
 ## Workflow
 
@@ -146,7 +146,7 @@ See [templates/](../../../templates/) for canonical file formats:
 - `templates/location.md` - Location file format
 - `templates/biblestory.md` - Bible story file format
 
-**Terms File** (`terms.md` in root directory):
+**Terms File** (`TERMS.md` in root directory):
 ```markdown
 # Art History Terms
 
@@ -229,10 +229,10 @@ When the user asks to export notes:
 
 5. **For each affected bible story** (from Terms section or detected from artworks):
    - Create/update bible story files in `biblestories/`
-   - Migrate religious narrative terms from `terms.md` to `biblestories/`
-   - Keep only art technique terms in `terms.md`
+   - Migrate religious narrative terms from `TERMS.md` to `biblestories/`
+   - Keep only art technique terms in `TERMS.md`
 
-6. **If Terms section changed**, update `terms.md` in the root directory
+6. **If Terms section changed**, update `TERMS.md` in the root directory
 
 7. **Report summary**:
    - List what was created/updated

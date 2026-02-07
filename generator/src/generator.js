@@ -12,7 +12,6 @@ import {
   getSortedArtworks,
   getSortedBibleStories,
   getLocationsByCity,
-  getArtworksGroupedByCentury
 } from './relationships.js';
 import {
   indexTemplate,
@@ -66,8 +65,6 @@ export async function generateSite(rootDir, outputDir) {
   const allArtworks = getSortedArtworks(index);
   const locationsByCity = getLocationsByCity(index);
   const bibleStories = getSortedBibleStories(index);
-  const artworksByCentury = getArtworksGroupedByCentury(index);
-
   // Build map locations array with coordinates
   const mapLocations = Object.entries(index.locations).map(([id, location]) => {
     const artworks = getLocationArtworks(index, id);
@@ -82,7 +79,20 @@ export async function generateSite(rootDir, outputDir) {
     };
   }).filter(loc => loc.lat && loc.lng);
 
-  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, artworksByCentury, mapLocations, allArtworks);
+  // Parse TERMS.md into structured data
+  let terms = [];
+  try {
+    const termsPath = path.join(rootDir, 'TERMS.md');
+    const termsContent = await fs.readFile(termsPath, 'utf-8');
+    terms = parseTerms(termsContent);
+    console.log(`  Found ${terms.reduce((n, c) => n + c.terms.length, 0)} terms in ${terms.length} categories`);
+  } catch (err) {
+    if (err.code !== 'ENOENT') {
+      console.warn('  Warning: Could not parse TERMS.md:', err.message);
+    }
+  }
+
+  const indexHtml = indexTemplate(artists, locationsByCity, bibleStories, mapLocations, allArtworks, terms);
   await fs.writeFile(path.join(outputDir, 'index.html'), indexHtml);
   console.log('  Generated index.html');
 
@@ -137,6 +147,47 @@ export async function generateSite(rootDir, outputDir) {
 
   console.log('\nBuild complete!');
   console.log(`Site generated at: ${outputDir}`);
+}
+
+/**
+ * Copy static assets (CSS, JS, and images)
+ */
+/**
+ * Parse TERMS.md into structured categories and terms
+ */
+function parseTerms(content) {
+  const categories = [];
+  let currentCategory = null;
+  let currentTerm = null;
+
+  for (const line of content.split('\n')) {
+    if (line.startsWith('## ')) {
+      // New category
+      currentCategory = { name: line.slice(3).trim(), terms: [] };
+      categories.push(currentCategory);
+      currentTerm = null;
+    } else if (line.startsWith('### ') && currentCategory) {
+      // New term
+      currentTerm = { name: line.slice(4).trim(), wikipedia: null, body: '' };
+      currentCategory.terms.push(currentTerm);
+    } else if (currentTerm) {
+      currentTerm.body += line + '\n';
+    }
+  }
+
+  // Extract Wikipedia links and trim bodies
+  for (const cat of categories) {
+    for (const term of cat.terms) {
+      const wikiMatch = term.body.match(/^\[Wikipedia\]\(([^)]+)\)\s*\n?/);
+      if (wikiMatch) {
+        term.wikipedia = wikiMatch[1];
+        term.body = term.body.slice(wikiMatch[0].length);
+      }
+      term.body = term.body.trim();
+    }
+  }
+
+  return categories;
 }
 
 /**

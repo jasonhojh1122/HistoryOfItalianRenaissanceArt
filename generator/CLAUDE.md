@@ -40,10 +40,11 @@ generator/
 
 1. **Indexing**: Scans `artists/`, `locations/`, `artworks/`, and `biblestories/` directories for markdown files
 2. **Parsing**: Extracts metadata and content from each markdown file
-3. **Relationship Building**: Links artworks to their artists, locations, and bible stories
-4. **Geocoding**: Updates location coordinates via Nominatim API (rate-limited), saved to `data/coordinates.json`
-5. **Generation**: Creates HTML pages using templates
-6. **Asset Copying**: Copies CSS, JS, and images from `img/` to the output directory
+3. **Terms Parsing**: Reads `TERMS.md` and extracts categories (## headers) and terms (### headers) with definitions
+4. **Relationship Building**: Links artworks to their artists, locations, and bible stories
+5. **Geocoding**: Updates location coordinates via Nominatim API (rate-limited), saved to `data/coordinates.json`
+6. **Generation**: Creates HTML pages using templates
+7. **Asset Copying**: Copies CSS, JS, and images from `img/` to the output directory
 
 ## Content Types
 
@@ -126,6 +127,26 @@ Summary of the biblical narrative.
 ### [Artwork Title](../artworks/ArtworkFile.md)
 ```
 
+### Terms (`TERMS.md`)
+
+A single file at the project root containing art history terms grouped by category. Parsed at build time into the Terms tab on the index page. Not individual pages — all terms displayed inline.
+
+Expected format:
+```markdown
+# Art History Terms
+
+## Category Name
+
+### Term Name
+Definition text with optional [links](path) and ![images](url).
+
+### Another Term
+Another definition.
+
+## Another Category
+...
+```
+
 ### Coordinates (`data/coordinates.json`)
 
 Maps location IDs to geographic coordinates for the interactive map:
@@ -168,13 +189,13 @@ site/
   - **Artworks**: Full artwork list with dates and artists
   - **Locations**: Grouped by city (Milan, Venice, Florence, Rome) with artwork counts
   - **Bible Stories**: List with alternate names
-  - **Timeline**: Visual timeline of artworks by century with cards
+  - **Terms**: All terms from TERMS.md displayed on one page, grouped by category
   - **Map**: Interactive map of all locations
   - **Trip**: Interactive day-by-day trip itinerary with maps
 
 - **URL Deep Linking**: `?tab=<tabname>` parameter to link directly to any tab
 
-- **Search**: Filter artists, artworks, locations, stories, and trip content by name
+- **Search**: Filter artists, artworks, locations, stories, terms, and trip content by name
 
 ### Interactive Map
 

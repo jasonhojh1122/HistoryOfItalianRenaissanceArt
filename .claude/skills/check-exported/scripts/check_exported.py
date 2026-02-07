@@ -87,7 +87,7 @@ class ExportedFileValidator:
 
             results[dir_name] = dir_result
 
-        # Validate terms.md if checking all or specifically terms
+        # Validate TERMS.md if checking all or specifically terms
         if directory is None or directory == 'terms':
             terms_result = self._validate_terms()
             if terms_result:
@@ -324,8 +324,8 @@ class ExportedFileValidator:
                 self.biblestory_artworks[filepath.stem + '.md'].add(artwork_file)
 
     def _validate_terms(self) -> Optional[ValidationResult]:
-        """Validate terms.md file."""
-        terms_path = self.base_path / 'terms.md'
+        """Validate TERMS.md file."""
+        terms_path = self.base_path / 'TERMS.md'
         if not terms_path.exists():
             return None
 
@@ -391,11 +391,11 @@ def format_human_output(results: Dict[str, DirectoryResult]) -> str:
         if dir_name == 'terms':
             # Special handling for single file
             if dir_result.total == 0:
-                lines.append("terms.md: not found")
+                lines.append("TERMS.md: not found")
             elif dir_result.error_count == 0 and dir_result.warning_count == 0:
-                lines.append("terms.md: ✓ valid")
+                lines.append("TERMS.md: ✓ valid")
             else:
-                lines.append(f"terms.md:")
+                lines.append(f"TERMS.md:")
                 for fr in dir_result.file_results:
                     for err in fr.errors:
                         lines.append(f"  ✗ {err}")

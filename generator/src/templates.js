@@ -78,55 +78,9 @@ ${extraScripts}
 }
 
 /**
- * Timeline card template for individual artworks in timeline view
- */
-function timelineCardTemplate(artwork) {
-  const meta = artwork.metadata;
-  const image = meta.images?.[0];
-
-  // For index page (depth 0), external URLs stay as-is, local paths need adjustment
-  const imageSrc = image ? fixImagePathForIndex(image.src) : '';
-
-  return `
-    <article class="timeline-card">
-      ${image ? `<img src="${escapeHtml(imageSrc)}" alt="${escapeHtml(meta.title)}" loading="lazy">` : ''}
-      <div class="timeline-card-content">
-        <span class="timeline-date-badge">${escapeHtml(meta.date || '')}</span>
-        <h4><a href="artworks/${artwork.id}.html">${escapeHtml(meta.title)}</a></h4>
-        ${meta.artist && artwork.metadata.artistFile ? `<span class="timeline-artist"><a href="artists/${artwork.metadata.artistFile}.html">${escapeHtml(meta.artist)}</a></span>` : ''}
-      </div>
-    </article>
-  `;
-}
-
-/**
- * Fix image paths for index page (depth 0)
- */
-function fixImagePathForIndex(src) {
-  if (!src) return '';
-
-  // External URLs stay as-is
-  if (src.startsWith('http://') || src.startsWith('https://')) {
-    return src;
-  }
-
-  // Handle ../img/ paths - from artwork files, adjust for index page
-  if (src.startsWith('../img/')) {
-    return src.replace('../', '');
-  }
-
-  // Handle ../imgAutoResearch/ paths
-  if (src.startsWith('../imgAutoResearch/')) {
-    return src.replace('../', '');
-  }
-
-  return src;
-}
-
-/**
  * Index page template
  */
-export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}, mapLocations = [], allArtworks = []) {
+export function indexTemplate(artists, locationsByCity, bibleStories = [], mapLocations = [], allArtworks = [], terms = []) {
   const artistsList = artists.map(a => {
     const count = a.artworks?.length || 0;
     const countBadge = count > 0 ? `<span class="artwork-count">${count}</span>` : '';
@@ -157,17 +111,23 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
     return `<li><a href="artworks/${a.id}.html">${escapeHtml(meta.title)}</a>${artistSpan}${dateSpan}</li>`;
   }).join('\n        ');
 
-  const timelineHtml = Object.entries(artworksByCentury).map(([century, artworks]) => `
-      <div class="timeline-century">
-        <div class="timeline-century-header">
-          <div class="timeline-marker"></div>
-          <h3>${escapeHtml(century)}</h3>
-          <span class="timeline-count">${artworks.length} artwork${artworks.length !== 1 ? 's' : ''}</span>
-        </div>
-        <div class="timeline-artworks">
-          ${artworks.map(artwork => timelineCardTemplate(artwork)).join('\n')}
-        </div>
-      </div>`
+  const termsHtml = terms.map(category => `
+        <div class="terms-category">
+          <h3>${escapeHtml(category.name)}</h3>
+          <dl>
+            ${category.terms.map(term => {
+              const termId = slugify(term.name);
+              const wikiLink = term.wikipedia
+                ? `<div class="external-links"><a href="${escapeHtml(term.wikipedia)}" target="_blank" rel="noopener noreferrer">Wikipedia</a></div>`
+                : '';
+              return `
+            <div class="term-item" id="${termId}">
+              <dt>${escapeHtml(term.name)}</dt>
+              <dd>${wikiLink}${parseMarkdown(term.body)}</dd>
+            </div>`;
+            }).join('\n')}
+          </dl>
+        </div>`
   ).join('\n');
 
   const content = `
@@ -176,7 +136,7 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
 
     <div class="search-container">
       <input type="search" id="index-search" class="search-input"
-             placeholder="Search artists, locations, stories, trip..."
+             placeholder="Search artists, locations, stories, terms, trip..."
              autocomplete="off" aria-label="Search index">
       <span class="search-icon" aria-hidden="true"></span>
       <button class="search-clear" type="button" aria-label="Clear search" hidden>&times;</button>
@@ -188,7 +148,7 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
       <button class="tab-btn" data-tab="artworks">Artworks</button>
       <button class="tab-btn" data-tab="locations">Locations</button>
       <button class="tab-btn" data-tab="biblestories">Bible Stories</button>
-      <button class="tab-btn" data-tab="timeline">Timeline</button>
+      <button class="tab-btn" data-tab="terms">Terms</button>
       <button class="tab-btn" data-tab="map">Map</button>
       <button class="tab-btn" data-tab="trip">Trip</button>
     </div>
@@ -216,9 +176,9 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
         </ul>
       </section>
 
-      <section class="tab-panel" data-tab="timeline">
-        <div class="timeline-container">
-          ${timelineHtml}
+      <section class="tab-panel" data-tab="terms">
+        <div class="terms-list">
+          ${termsHtml}
         </div>
       </section>
 
@@ -595,6 +555,16 @@ export function creditsTemplate(creditMarkdown) {
   `;
 
   return layoutTemplate('Image Credits', content, 0);
+}
+
+/**
+ * Convert a string to a URL-friendly slug
+ */
+function slugify(text) {
+  return text.toLowerCase()
+    .replace(/[()]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '');
 }
 
 /**
