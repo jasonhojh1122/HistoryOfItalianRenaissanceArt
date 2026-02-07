@@ -21,6 +21,7 @@ from flask import Flask, request, jsonify, Response
 import subprocess
 import threading
 import os
+import select
 import signal
 from datetime import datetime
 
@@ -44,7 +45,38 @@ def _kill_process(process, job, timeout):
             os.killpg(os.getpgid(process.pid), signal.SIGKILL)
         except ProcessLookupError:
             pass
+        job["_stop"] = True
         job["log"].append(f"[Killed: exceeded {timeout}s timeout]")
+
+
+def _read_process_output(process, job):
+    """Read process output using select() so the loop can be interrupted via job['_stop']."""
+    fd = process.stdout.fileno()
+    buf = b''
+    while not job.get("_stop"):
+        try:
+            ready, _, _ = select.select([fd], [], [], 0.5)
+        except (ValueError, OSError):
+            break
+        if ready:
+            try:
+                chunk = os.read(fd, 4096)
+            except OSError:
+                break
+            if not chunk:
+                break
+            buf += chunk
+            while b'\n' in buf:
+                line, buf = buf.split(b'\n', 1)
+                decoded = line.decode('utf-8', errors='replace').rstrip()
+                job["log"].append(decoded)
+                if decoded:
+                    job["progress"] = decoded
+    # Flush remaining buffer
+    if buf:
+        decoded = buf.decode('utf-8', errors='replace').rstrip()
+        if decoded:
+            job["log"].append(decoded)
 
 
 # Track running jobs
@@ -69,7 +101,9 @@ def run_claude(prompt, job_type="claude"):
         "log": [],
         "started_at": datetime.now().isoformat(),
         "completed_at": None,
-        "exit_code": None
+        "exit_code": None,
+        "progress": "",
+        "_stop": False
     }
 
     try:
@@ -86,7 +120,6 @@ def run_claude(prompt, job_type="claude"):
             cmd,
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
-            text=True,
             cwd=PROJECT_DIR,
             preexec_fn=os.setsid
         )
@@ -95,11 +128,22 @@ def run_claude(prompt, job_type="claude"):
             current_process = process
 
         timer = threading.Timer(CLAUDE_TIMEOUT, _kill_process, args=(process, current_job, CLAUDE_TIMEOUT))
+        timer.daemon = True
         timer.start()
         try:
-            for line in process.stdout:
-                current_job["log"].append(line.rstrip())
-            process.wait()
+            _read_process_output(process, current_job)
+            try:
+                process.wait(timeout=5)
+            except subprocess.TimeoutExpired:
+                try:
+                    process.kill()
+                except OSError:
+                    pass
+                try:
+                    process.wait(timeout=3)
+                except subprocess.TimeoutExpired:
+                    if process.returncode is None:
+                        process.returncode = -9
         finally:
             timer.cancel()
             with current_process_lock:
@@ -132,7 +176,9 @@ def run_pipeline(target=None):
         "log": [],
         "started_at": datetime.now().isoformat(),
         "completed_at": None,
-        "exit_code": None
+        "exit_code": None,
+        "progress": "",
+        "_stop": False
     }
 
     try:
@@ -144,7 +190,6 @@ def run_pipeline(target=None):
             cmd,
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
-            text=True,
             cwd=PROJECT_DIR,
             preexec_fn=os.setsid
         )
@@ -153,11 +198,22 @@ def run_pipeline(target=None):
             current_process = process
 
         timer = threading.Timer(PIPELINE_TIMEOUT, _kill_process, args=(process, current_job, PIPELINE_TIMEOUT))
+        timer.daemon = True
         timer.start()
         try:
-            for line in process.stdout:
-                current_job["log"].append(line.rstrip())
-            process.wait()
+            _read_process_output(process, current_job)
+            try:
+                process.wait(timeout=5)
+            except subprocess.TimeoutExpired:
+                try:
+                    process.kill()
+                except OSError:
+                    pass
+                try:
+                    process.wait(timeout=3)
+                except subprocess.TimeoutExpired:
+                    if process.returncode is None:
+                        process.returncode = -9
         finally:
             timer.cancel()
             with current_process_lock:
@@ -652,6 +708,22 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             color: var(--color-stone);
         }
 
+        /* Progress Bar */
+        .progress-bar {
+            background: var(--color-parchment);
+            border: 1px solid var(--color-border);
+            border-bottom: none;
+            border-radius: 3px 3px 0 0;
+            padding: 0.5rem 1rem;
+            font-family: "SF Mono", "Menlo", monospace;
+            font-size: 0.75rem;
+            color: var(--color-terracotta);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
+        }
+
         /* Responsive */
         @media (max-width: 640px) {
             .container {
@@ -695,6 +767,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
                 <span id="status" class="status idle">Idle</span>
                 <span id="job-info" class="job-info"></span>
             </div>
+            <div id="progress" class="progress-bar" style="display:none;"></div>
             <div id="log">Awaiting your command...</div>
             <p class="meta">
                 <span id="timing"></span>
@@ -734,7 +807,10 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
 
     <script>
         let refreshInterval;
+        let currentInterval = 2000;
         let lastCompletedAt = null;
+        let lastLogTotal = 0;
+        let userCleared = false;
 
         async function fetchStatus() {
             try {
@@ -747,6 +823,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
                 const timing = document.getElementById('timing');
                 const stopBtn = document.getElementById('stop-btn');
                 const resetBtn = document.getElementById('reset-btn');
+                const progressEl = document.getElementById('progress');
 
                 if (data.running) {
                     statusEl.textContent = 'Running';
@@ -766,18 +843,52 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
                     resetBtn.disabled = false;
                 }
 
-                // Only update log from polling if the job completion changed
-                // (avoids overwriting git-status/git-reset output)
-                const newCompleted = data.completed_at || (data.running ? 'running' : null);
-                if (newCompleted !== lastCompletedAt) {
-                    lastCompletedAt = newCompleted;
-                    if (data.log && data.log.length > 0) {
+                // Adaptive polling: 1s when running, 3s when idle
+                const newInterval = data.running ? 1000 : 3000;
+                if (currentInterval !== newInterval) {
+                    clearInterval(refreshInterval);
+                    currentInterval = newInterval;
+                    refreshInterval = setInterval(fetchStatus, currentInterval);
+                }
+
+                // Progress indicator
+                if (data.running && data.progress) {
+                    progressEl.textContent = data.progress;
+                    progressEl.style.display = 'block';
+                } else {
+                    progressEl.style.display = 'none';
+                }
+
+                // Reset userCleared when a new job starts
+                if (data.running) {
+                    userCleared = false;
+                }
+
+                // Skip log updates if user cleared and job is idle
+                if (!userCleared || data.running) {
+                    // Incremental log updates
+                    const newCompleted = data.completed_at || (data.running ? 'running' : null);
+                    if (newCompleted !== lastCompletedAt) {
+                        // Job state changed — full replace
+                        lastCompletedAt = newCompleted;
+                        lastLogTotal = 0;
+                    }
+
+                    if (data.log_total === 0) {
+                        // No log lines yet
+                    } else if (lastLogTotal === 0) {
+                        // First load or reset — full replace
                         logEl.textContent = data.log.join('\\n');
                         logEl.scrollTop = logEl.scrollHeight;
+                        lastLogTotal = data.log_total;
+                    } else if (data.log_total > lastLogTotal) {
+                        // Append only new lines
+                        const newCount = data.log_total - lastLogTotal;
+                        const newLines = data.log.slice(-newCount);
+                        logEl.textContent += '\\n' + newLines.join('\\n');
+                        logEl.scrollTop = logEl.scrollHeight;
+                        lastLogTotal = data.log_total;
                     }
-                } else if (data.running && data.log && data.log.length > 0) {
-                    logEl.textContent = data.log.join('\\n');
-                    logEl.scrollTop = logEl.scrollHeight;
                 }
 
                 let timingText = '';
@@ -786,6 +897,9 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
                     if (data.completed_at) {
                         timingText += ` | Completed: ${new Date(data.completed_at).toLocaleTimeString()}`;
                     }
+                }
+                if (data.running && data.log_total) {
+                    timingText += ` | ${data.log_total} lines`;
                 }
                 timing.textContent = timingText;
 
@@ -819,6 +933,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
                 }
                 logEl.textContent = output;
                 lastCompletedAt = '__git_status__';
+                lastLogTotal = 0;
             } catch (e) {
                 logEl.textContent = 'Failed to fetch git status: ' + e.message;
             }
@@ -828,7 +943,10 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             document.getElementById('log').textContent = 'Awaiting your command...';
             document.getElementById('timing').textContent = '';
             document.getElementById('job-info').textContent = '';
+            document.getElementById('progress').style.display = 'none';
             lastCompletedAt = '__cleared__';
+            lastLogTotal = 0;
+            userCleared = true;
         }
 
         async function hardReset() {
@@ -850,6 +968,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
                 }
                 logEl.textContent = output;
                 lastCompletedAt = '__git_reset__';
+                lastLogTotal = 0;
             } catch (e) {
                 logEl.textContent = 'Failed to reset: ' + e.message;
             }
@@ -930,7 +1049,7 @@ def run_command():
     if not prompt:
         return jsonify({"error": "prompt required"}), 400
 
-    thread = threading.Thread(target=run_claude, args=(prompt,))
+    thread = threading.Thread(target=run_claude, args=(prompt,), daemon=True)
     thread.start()
 
     return jsonify({"status": "started", "prompt": prompt[:100]})
@@ -949,7 +1068,7 @@ def trigger_pipeline():
     data = request.get_json() or {}
     target = data.get('target')
 
-    thread = threading.Thread(target=run_pipeline, args=(target,))
+    thread = threading.Thread(target=run_pipeline, args=(target,), daemon=True)
     thread.start()
 
     return jsonify({"status": "started", "target": target})
@@ -967,7 +1086,7 @@ def trigger_research_only():
         return jsonify({"error": "target required"}), 400
 
     prompt = f"/auto-research {target}"
-    thread = threading.Thread(target=run_claude, args=(prompt, "research"))
+    thread = threading.Thread(target=run_claude, args=(prompt, "research"), daemon=True)
     thread.start()
 
     return jsonify({"status": "started", "target": target})
@@ -984,6 +1103,7 @@ def stop_job():
             os.killpg(os.getpgid(current_process.pid), signal.SIGKILL)
         except ProcessLookupError:
             pass
+    current_job["_stop"] = True
     return jsonify({"status": "stopping"})
 
 
@@ -1033,7 +1153,9 @@ def get_status():
         "started_at": current_job["started_at"],
         "completed_at": current_job["completed_at"],
         "exit_code": current_job["exit_code"],
-        "log": current_job["log"][-100:]  # Last 100 lines for web view
+        "log": current_job["log"][-500:],
+        "log_total": len(current_job["log"]),
+        "progress": current_job.get("progress", "")
     })
 
 

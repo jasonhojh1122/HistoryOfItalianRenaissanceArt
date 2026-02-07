@@ -3117,3 +3117,119 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
   - **Book(s)**: Gospel of Luke
   - **Chapters/Verses**: Luke 2:8–20
   - The episode in which shepherds near Bethlehem are summoned by an angel to witness the birth of Jesus. They are the first to adore the newborn Christ child, representing the humble faithful who recognize the divine incarnation.
+
+## Palazzo Pitti, Florence
+
+<!-- Last updated: 2025-02-07 -->
+
+- [Palazzo Pitti](https://en.wikipedia.org/wiki/Palazzo_Pitti)
+  - **Type**: Palace / Museum complex
+  - **Description**: The Palazzo Pitti is a vast Renaissance palace in Florence, situated on the south side of the River Arno near the Ponte Vecchio. Originally the residence of banker Luca Pitti from 1458, it became the chief residence of the Medici grand dukes and later the House of Lorraine. Its Galleria Palatina houses the largest collection of Raphael paintings in the world, along with major works by Titian, Rubens, Caravaggio, and other masters.
+
+### Artworks
+
+- [Madonna della Seggiola](https://en.wikipedia.org/wiki/Madonna_della_Seggiola)
+  - **Artist**: [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1513–1514
+  - **Description**: One of Raphael's most beloved Madonna paintings, depicting Mary embracing the Christ child while seated in a chair as the young John the Baptist devoutly watches. The circular format (tondo) and intimate composition convey a sense of maternal tenderness. It has been in the Medici collection since the 16th century and hangs in the Room of Saturn.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/0/09/Raphael_Madonna_della_seggiola.jpg)
+
+- [Madonna del Granduca](https://en.wikipedia.org/wiki/Madonna_del_Granduca)
+  - **Artist**: [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1505
+  - **Description**: An early masterwork painted shortly after Raphael arrived in Florence, showing the influence of Leonardo da Vinci's sfumato technique. The Virgin holds the Christ child against a dark background of extraordinary simplicity and grace. Named after Ferdinand III, Grand Duke of Tuscany, who treasured it and is said to have kept it by his bedside.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/48/Madona_del_gran_duque%2C_por_Rafael.jpg)
+
+- [Madonna dell'Impannata](https://en.wikipedia.org/wiki/Madonna_dell'Impannata)
+  - **Artist**: [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1513–1514
+  - **Description**: A complex Madonna composition featuring the Virgin, the Christ child, Saint Elizabeth, the young Saint John the Baptist, and Saint Catherine. The title refers to the oiled paper window (impannata) visible in the background. The painting demonstrates Raphael's mature style with its rich coloring and dynamic figure grouping.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/8/8f/Madonna_Impannata.jpg)
+
+- [La Velata](https://en.wikipedia.org/wiki/La_velata)
+  - **Artist**: [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1516
+  - **Description**: A celebrated portrait of a woman wearing an elaborate veil, traditionally identified as Margherita Luti, the baker's daughter who was Raphael's Roman mistress. The same model appears in La Fornarina. The painting is renowned for its masterly rendering of fabric textures, particularly the luminous white veil and sleeve.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a6/La_donna_velata_v2.jpg)
+
+- [Penitent Magdalene](https://en.wikipedia.org/wiki/Penitent_Magdalene_(Titian%2C_1531))
+  - **Artist**: [Titian](https://en.wikipedia.org/wiki/Titian)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1531–1535
+  - **Description**: A sensuous depiction of the penitent Mary Magdalene with flowing copper-brown hair, eyes raised to heaven in devotion. Titian signed the work on the ointment jar at left. The painting exemplifies Titian's ability to combine spiritual subject matter with rich, warm coloring and physicality. Located in the Sala di Apollo.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a2/Magdalena_penitente%2C_por_Tiziano.jpg)
+
+- [Sleeping Cupid](https://en.wikipedia.org/wiki/Sleeping_Cupid_(Caravaggio))
+  - **Artist**: [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio)
+  - **Medium**: Oil on canvas
+  - **Date**: 1608
+  - **Description**: Painted in Malta for Fra Francesco dell'Antella, this work depicts Cupid as a realistic, rather chubby child sleeping on the ground with his wings, bow, and arrows beside him. Unlike idealized classical depictions, Caravaggio portrays the god of love with unflinching naturalism. It is one of the few Caravaggio paintings that can be precisely dated from an inscription on the back.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/49/Caravaggio_sleeping_cupid.jpg)
+
+- [The Three Ages of Man](https://en.wikipedia.org/wiki/The_Three_Ages_of_Man_(Giorgione))
+  - **Artist**: [Giorgione](https://en.wikipedia.org/wiki/Giorgione)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1500–1501
+  - **Description**: An allegorical painting also known as Reading a Song, depicting three figures representing different stages of life. The enigmatic composition is characteristic of Giorgione's poetic and mysterious style. Displayed in the Galleria Palatina.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/56/Giorgione%2C_Three_Ages.jpg)
+
+- [Bartolini Tondo](https://en.wikipedia.org/wiki/Bartolini_Tondo)
+  - **Artist**: [Filippo Lippi](https://en.wikipedia.org/wiki/Filippo_Lippi)
+  - **Medium**: Tempera on panel
+  - **Date**: c. 1452
+  - **Description**: A circular painting 135 cm in diameter, also known as Madonna with the Child and Scenes from the Life of St Anne. The tondo depicts the Madonna and Child in the foreground with narrative scenes from the life of Saint Anne in the background. It exemplifies Lippi's refined linear style and his innovative approach to the tondo format.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/50/Lippi%2C_tondo_bartolini.jpg)
+
+- [Consequences of War](https://en.wikipedia.org/wiki/Consequences_of_War)
+  - **Artist**: [Peter Paul Rubens](https://en.wikipedia.org/wiki/Peter_Paul_Rubens)
+  - **Medium**: Oil on canvas
+  - **Date**: 1638–1639
+  - **Description**: A powerful allegorical painting commissioned by Ferdinando II de' Medici, depicting Mars being dragged into war while Venus attempts to restrain him. Rubens employed numerous classical and contemporary symbols to deplore the devastation of the Thirty Years' War. The dynamic composition and rich coloring are hallmarks of Rubens's Flemish Baroque style.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/e/ef/Los_horrores_de_la_guerra.jpg)
+
+- [The Four Philosophers](https://en.wikipedia.org/wiki/The_Four_Philosophers)
+  - **Artist**: [Peter Paul Rubens](https://en.wikipedia.org/wiki/Peter_Paul_Rubens)
+  - **Medium**: Oil on panel
+  - **Date**: 1611–1612
+  - **Description**: A group portrait featuring Rubens himself alongside his brother Philip, the humanist scholar Justus Lipsius, and Lipsius's student Jan van den Wouwer. A bust of Seneca presides over the intellectual gathering. The painting serves as both a memorial to Rubens's brother and a tribute to the Neo-Stoic philosophical circle.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/78/Peter_Paul_Rubens_118.jpg)
+
+- [Venus Italica](https://en.wikipedia.org/wiki/Venus_Italica)
+  - **Artist**: [Antonio Canova](https://en.wikipedia.org/wiki/Antonio_Canova)
+  - **Medium**: Marble sculpture
+  - **Date**: 1810
+  - **Description**: A neoclassical marble sculpture commissioned by Napoleon Bonaparte as a replacement for the Venus de' Medici, which had been seized and taken to the Louvre. Canova's graceful interpretation of Venus modestly covering herself became celebrated in its own right. After Napoleon's abdication, the original Venus de' Medici was returned, and both works are now displayed in the palazzo.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/8/8e/Venus_Italica_by_Canova.jpg)
+
+### Artists
+
+- [Filippo Lippi](https://en.wikipedia.org/wiki/Filippo_Lippi)
+  - **Born**: c. 1406, Florence
+  - **Died**: 1469, Spoleto
+  - An Italian Renaissance painter of the Quattrocento and a Carmelite friar. He ran an influential painting workshop that trained Sandro Botticelli among others. Known for his graceful Madonnas and narrative frescoes, Lippi's work bridges the gap between the early and High Renaissance. His son Filippino Lippi also became a distinguished painter.
+
+- [Peter Paul Rubens](https://en.wikipedia.org/wiki/Peter_Paul_Rubens)
+  - **Born**: 1577, Siegen, Westphalia
+  - **Died**: 1640, Antwerp
+  - A Flemish artist and diplomat considered the most influential painter of the Flemish Baroque tradition. His highly charged compositions emphasize movement, color, and sensuality in a style promoted by the Counter-Reformation. Rubens maintained a large workshop in Antwerp and received commissions from royal courts across Europe, also serving as a diplomat on several peace missions.
+
+- [Artemisia Gentileschi](https://en.wikipedia.org/wiki/Artemisia_Gentileschi)
+  - **Born**: 1593, Rome
+  - **Died**: c. 1656, Naples
+  - An Italian Baroque painter considered among the most accomplished 17th-century artists, initially working in the Caravaggesque style. She was the first woman to become a member of the Accademia di Arte del Disegno in Florence. Known for powerful depictions of biblical heroines, particularly Judith, she maintained an international clientele and worked at the court of Charles I of England.
+
+- [Andrea del Sarto](https://en.wikipedia.org/wiki/Andrea_del_Sarto)
+  - **Born**: 1486, Florence
+  - **Died**: 1530, Florence
+  - A Florentine painter whose career flourished during the High Renaissance and early Mannerism. Known as an outstanding fresco decorator, portraitist, and colorist, he was called the "faultless painter" (pittore senza errori) during his lifetime. Though eclipsed by contemporaries Leonardo, Michelangelo, and Raphael, his mastery of color and composition influenced the next generation of Mannerist painters.
+
+### Bible Stories
+
+- [Judith beheading Holofernes](https://en.wikipedia.org/wiki/Judith_beheading_Holofernes)
+  - **Book(s)**: Book of Judith (deuterocanonical)
+  - **Chapters/Verses**: Judith 10–13
+  - The story of Judith, a beautiful and pious Jewish widow who saves her people by seducing and then beheading the Assyrian general Holofernes. After gaining his trust, she decapitates him in his tent with his own sword while he lies in a drunken sleep. Her maidservant Abra helps carry the severed head back to the Israelite camp. A popular subject in Baroque art, especially for Artemisia Gentileschi and Caravaggio.
