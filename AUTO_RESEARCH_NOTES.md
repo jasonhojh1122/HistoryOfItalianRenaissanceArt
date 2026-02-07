@@ -3456,3 +3456,132 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
   - **Book(s)**: Apocryphal tradition (not in canonical scripture)
   - **Chapters/Verses**: N/A
   - The "falling asleep" or death of Mary the Theotokos and her being taken up into heaven. Though not described in canonical scripture, the tradition became central to Christian art and devotion, especially in the Eastern churches. It is depicted in the lower register of Jacopo Torriti's apse mosaic at Santa Maria Maggiore, where it appears alongside other scenes from Mary's life.
+
+## Baths of Diocletian, Rome
+
+<!-- Last updated: 2026-02-07 -->
+
+- [Baths of Diocletian](https://en.wikipedia.org/wiki/Baths_of_Diocletian)
+  - **Type**: Archaeological site / Museum / Church
+  - **Description**: The Baths of Diocletian were the largest imperial baths of ancient Rome, built from AD 298 to 306. The complex now houses part of the Museo Nazionale Romano with extensive collections of Roman funerary sculpture, sarcophagi, and inscriptions displayed in Michelangelo's Great Cloister. The frigidarium and tepidarium were converted into the Basilica of Santa Maria degli Angeli e dei Martiri by Michelangelo in 1561, which houses major altarpieces transferred from St. Peter's Basilica.
+
+### Artworks
+
+- [Fall of Simon Magus](https://en.wikipedia.org/wiki/Fall_of_Simon_Magus_(Pompeo_Batoni))
+  - **Artist**: [Pompeo Batoni](https://en.wikipedia.org/wiki/Pompeo_Batoni)
+  - **Medium**: Oil on canvas
+  - **Date**: 1746–1755
+  - **Description**: A monumental late Baroque painting originally intended as the basis for a mosaic altarpiece in St. Peter's Basilica. The work depicts the dramatic fall of the magician Simon Magus as he attempts to fly before the Roman Emperor Nero, struck down by the prayers of Saints Peter and Paul. It was removed from St. Peter's in 1757 and transferred to Santa Maria degli Angeli.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7f/Pompeo_Batoni_-_The_Fall_of_Simon_Magus_-_1983.217_-_Cleveland_Museum_of_Art.tif)
+
+- The Martyrdom of Saint Sebastian
+  - **Artist**: [Domenichino](https://en.wikipedia.org/wiki/Domenichino)
+  - **Medium**: Oil on canvas
+  - **Date**: 1629
+  - **Description**: One of the most celebrated paintings in the basilica, originally painted for the altar of St. Sebastian in St. Peter's Basilica. The dramatic composition shows Jesus Christ welcoming the martyr saint while an angel descends bearing the palm and crown of martyrdom. The painting was transferred to Santa Maria degli Angeli in the 18th century.
+
+- The Baptism of Jesus
+  - **Artist**: [Carlo Maratta](https://en.wikipedia.org/wiki/Carlo_Maratta)
+  - **Medium**: Oil on canvas
+  - **Date**: 1697
+  - **Description**: Painted for St. Peter's Basilica, this monumental altarpiece depicts the baptism of Christ by John the Baptist. It was among the first large paintings moved from St. Peter's to Santa Maria degli Angeli, transferred by order of Pope Benedict XIII after Maratta's death in 1713.
+
+- The Presentation of the Virgin Mary at the Temple
+  - **Artist**: [Giovanni Francesco Romanelli](https://en.wikipedia.org/wiki/Giovanni_Francesco_Romanelli)
+  - **Medium**: Oil on canvas
+  - **Date**: 1638–1642
+  - **Description**: A major Baroque altarpiece originally painted for St. Peter's Basilica, depicting the young Virgin Mary being presented at the Temple in Jerusalem. Considered a highpoint of Romanelli's work, the painting was later transferred to Santa Maria degli Angeli where it hangs in the transept.
+
+- The Delivery of the Keys
+  - **Artist**: [Girolamo Muziano](https://en.wikipedia.org/wiki/Girolamo_Muziano)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1585
+  - **Description**: A large altarpiece depicting Christ delivering the keys of the Church to Saint Peter, displayed in the Chapel of St. Peter. Muziano was one of the most prominent painters active in Rome in the mid-to-late sixteenth century.
+
+- The Death of Ananias and Sapphira
+  - **Artist**: [Cristoforo Roncalli](https://en.wikipedia.org/wiki/Cristoforo_Roncalli) (Pomarancio)
+  - **Medium**: Oil on canvas
+  - **Date**: 1604
+  - **Description**: Originally painted for St. Peter's Basilica, this large canvas depicts the dramatic biblical episode from Acts of the Apostles where Ananias and Sapphira fall dead before the Apostles for lying about their donation to the community. Transferred to Santa Maria degli Angeli in the 18th century.
+
+- The Apparition of the Virgin Mary to Saint Bruno
+  - **Artist**: [Giovanni Odazzi](https://en.wikipedia.org/wiki/Giovanni_Odazzi)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1700
+  - **Description**: Painted for the 1700 Jubilee, this Baroque altarpiece in the Chapel of St. Bruno depicts the Virgin Mary appearing to St. Bruno, founder of the Carthusian Order. Appropriate for its setting, as the church was part of a Carthusian monastery.
+
+- Saint Bruno
+  - **Artist**: [Jean-Antoine Houdon](https://en.wikipedia.org/wiki/Jean-Antoine_Houdon)
+  - **Medium**: Marble sculpture
+  - **Date**: 1766–1767
+  - **Description**: A neoclassical marble statue of Saint Bruno, founder of the Carthusian Order, created by the French sculptor Houdon during his time at the French Academy in Rome. The serene, contemplative figure is considered one of Houdon's masterpieces. Pope Clement XIV reportedly remarked that the statue "would speak, were it not that the rules of his order impose silence."
+
+- Bronze Entrance Doors
+  - **Artist**: [Igor Mitoraj](https://en.wikipedia.org/wiki/Igor_Mitoraj)
+  - **Medium**: Bronze
+  - **Date**: 2005
+  - **Description**: Monumental bronze doors by the Polish sculptor Igor Mitoraj, installed at the entrance to the basilica. The left door depicts the Resurrection and the right door the Annunciation, rendered in Mitoraj's characteristic fragmented figural style.
+
+### Artists
+
+- [Domenichino](https://en.wikipedia.org/wiki/Domenichino)
+  - **Born**: 1581, Bologna
+  - **Died**: 1641, Naples
+  - Domenico Zampieri, known as Domenichino, was an Italian Baroque painter of the Bolognese School. A pupil of the Carracci, he became one of the leading painters in Rome, known for his classicizing approach to Baroque painting and his mastery of fresco and altarpiece composition.
+
+- [Carlo Maratta](https://en.wikipedia.org/wiki/Carlo_Maratta)
+  - **Born**: 1625, Camerano
+  - **Died**: 1713, Rome
+  - Carlo Maratta (or Maratti) was an Italian Baroque painter and draughtsman, the leading painter in Rome in the second half of the 17th century. He is the foremost representative of the classicizing style in the Italian Late Baroque, working for prominent clients including various popes.
+
+- [Pompeo Batoni](https://en.wikipedia.org/wiki/Pompeo_Batoni)
+  - **Born**: 1708, Lucca
+  - **Died**: 1787, Rome
+  - Pompeo Girolamo Batoni was an Italian painter known for his portraits and allegorical and mythological pictures. The influx of foreign visitors on the Grand Tour led him to specialize in portraits, making him one of the most sought-after portraitists in 18th-century Rome.
+
+- [Girolamo Muziano](https://en.wikipedia.org/wiki/Girolamo_Muziano)
+  - **Born**: 1532, Acquafredda
+  - **Died**: 1592, Rome
+  - Girolamo Muziano was an Italian painter, one of the most prominent artists active in Rome in the mid-to-late sixteenth century. He was known for his landscape paintings and large-scale religious works.
+
+- [Giovanni Francesco Romanelli](https://en.wikipedia.org/wiki/Giovanni_Francesco_Romanelli)
+  - **Born**: 1610, Viterbo
+  - **Died**: 1662, Viterbo
+  - Giovanni Francesco Romanelli was a major Italian painter of the Baroque period, celebrated for his vivid colors and clarity of detail. A student of Pietro da Cortona, he worked extensively in Rome and Paris, with many of his works now in the Louvre.
+
+- [Cristoforo Roncalli](https://en.wikipedia.org/wiki/Cristoforo_Roncalli)
+  - **Born**: 1552, Pomarance
+  - **Died**: 1626, Rome
+  - Cristoforo Roncalli, known as Pomarancio, was an Italian Mannerist painter. He was a prominent artist in late 16th and early 17th century Rome, working on major commissions including works for St. Peter's Basilica.
+
+- [Giovanni Odazzi](https://en.wikipedia.org/wiki/Giovanni_Odazzi)
+  - **Born**: 1663, Rome
+  - **Died**: 1731, Rome
+  - Giovanni Odazzi was an Italian painter and etcher of the Baroque period, active mainly in Rome. He was a pupil of Giovanni Battista Gaulli (Baciccio) and Ciro Ferri, and produced altarpieces and decorative paintings for Roman churches.
+
+- [Jean-Antoine Houdon](https://en.wikipedia.org/wiki/Jean-Antoine_Houdon)
+  - **Born**: 1741, Versailles
+  - **Died**: 1828, Paris
+  - Jean-Antoine Houdon was a French Neoclassical sculptor, considered one of the greatest sculptors of the 18th century. He is best known for his portrait busts and statues of Enlightenment figures including Voltaire, Benjamin Franklin, and George Washington.
+
+- [Igor Mitoraj](https://en.wikipedia.org/wiki/Igor_Mitoraj)
+  - **Born**: 1944, Oederan
+  - **Died**: 2014, Paris
+  - Igor Mitoraj was a Polish artist and monumental sculptor known for his fragmented sculptures of the human body, often created as large-scale installations in public places. His work is internationally exhibited, mainly in Europe.
+
+### Bible Stories
+
+- [Saint Sebastian](https://en.wikipedia.org/wiki/Saint_Sebastian)
+  - **Book(s)**: Hagiographic tradition (Acts of the Martyrs)
+  - **Chapters/Verses**: N/A
+  - Sebastian was an early Christian saint and martyr killed during the Diocletianic Persecution. According to tradition, he was tied to a post and shot with arrows, but survived and was nursed back to health by Irene of Rome. He then confronted Emperor Diocletian about his persecution of Christians and was clubbed to death. The first arrow scene became one of the most popular subjects in Renaissance and Baroque art.
+
+- [Simon Magus](https://en.wikipedia.org/wiki/Simon_Magus)
+  - **Book(s)**: Acts of the Apostles; apocryphal Acts of Peter
+  - **Chapters/Verses**: Acts 8:9–24
+  - Simon Magus was a religious figure whose confrontation with the Apostle Peter is recorded in Acts. He tried to purchase the power of the Holy Spirit from the Apostles, giving rise to the term "simony." Later apocryphal tradition recounts his attempt to fly before Emperor Nero in Rome, only to be struck down by the prayers of Saints Peter and Paul — the scene depicted in Batoni's painting.
+
+- [Baptism of Jesus](https://en.wikipedia.org/wiki/Baptism_of_Jesus)
+  - **Book(s)**: Gospels of Matthew, Mark, Luke
+  - **Chapters/Verses**: Matthew 3:13–17, Mark 1:9–11, Luke 3:21–22
+  - The baptism of Jesus by John the Baptist in the Jordan River is a major event in the Synoptic Gospels. As Jesus emerged from the water, the heavens opened, the Holy Spirit descended like a dove, and a voice from heaven declared "This is my beloved Son." The scene is one of the most frequently depicted subjects in Christian art.

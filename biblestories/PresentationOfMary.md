@@ -16,3 +16,6 @@ According to tradition, Mary was presented at the Temple in Jerusalem at age thr
 
 ### [The Presentation of the Virgin at the Temple](../artworks/PresentationOfTheVirginTitian.md)
 - Titian, Gallerie dell'Accademia, 1534-1538
+
+### [The Presentation of the Virgin Mary at the Temple](../artworks/PresentationOfTheVirginRomanelli.md)
+- Giovanni Francesco Romanelli, Baths of Diocletian, Rome, 1638-1642

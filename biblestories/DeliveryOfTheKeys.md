@@ -18,3 +18,6 @@ The Delivery of the Keys depicts the moment when Christ gives the keys of the ki
 
 ### [Jesus giving the Keys to St. Peter](../artworks/JesusGivingKeysToStPeter.md)
 - Lorenzo Veneziano, Museo Correr, Venice, 1370
+
+### [The Delivery of the Keys](../artworks/DeliveryOfTheKeysMuziano.md)
+- Girolamo Muziano, Baths of Diocletian, Rome, c. 1585

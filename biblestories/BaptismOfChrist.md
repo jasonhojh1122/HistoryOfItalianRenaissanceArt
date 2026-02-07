@@ -15,3 +15,6 @@ The Baptism of Christ depicts the moment when John the Baptist baptizes Jesus in
 
 ### [The Baptism of Christ](../artworks/BaptismOfChrist.md)
 - Andrea del Verrocchio (with Leonardo da Vinci), Uffizi Gallery, Florence
+
+### [The Baptism of Jesus](../artworks/BaptismOfJesusMaratta.md)
+- Carlo Maratta, Baths of Diocletian, Rome, 1697
