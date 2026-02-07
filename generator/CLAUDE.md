@@ -21,15 +21,18 @@ generator/
 │   ├── generator.js      # Main site generation logic
 │   ├── parser.js         # Markdown parsing and metadata extraction
 │   ├── relationships.js  # Content indexing and relationship building
-│   └── templates.js      # HTML templates for all page types
+│   ├── templates.js      # HTML templates for all page types
+│   └── geocoder.js       # Location geocoding via Nominatim API
 ├── static/
 │   ├── styles.css        # Site styling
 │   ├── tabs.js           # Tab navigation for index page
 │   ├── sort.js           # Client-side artwork sorting
 │   ├── search.js         # Index page search functionality
-│   └── map.js            # Interactive map with Leaflet
+│   ├── map.js            # Interactive map with Leaflet
+│   └── trip.js           # Trip planner with Google Sheets integration
 ├── data/
-│   └── coordinates.json  # Lat/lng coordinates for location markers
+│   ├── coordinates.json  # Lat/lng coordinates for location markers
+│   └── trip.json         # Backup/legacy trip itinerary data
 └── package.json
 ```
 
@@ -38,7 +41,7 @@ generator/
 1. **Indexing**: Scans `artists/`, `locations/`, `artworks/`, and `biblestories/` directories for markdown files
 2. **Parsing**: Extracts metadata and content from each markdown file
 3. **Relationship Building**: Links artworks to their artists, locations, and bible stories
-4. **Coordinate Loading**: Reads location coordinates from `data/coordinates.json` for the map
+4. **Geocoding**: Updates location coordinates via Nominatim API (rate-limited), saved to `data/coordinates.json`
 5. **Generation**: Creates HTML pages using templates
 6. **Asset Copying**: Copies CSS, JS, and images from `img/` to the output directory
 
@@ -138,8 +141,10 @@ Maps location IDs to geographic coordinates for the interactive map:
 ```
 site/
 ├── index.html              # Home page with tabbed navigation
+├── credits.html            # Credits page (from CREDIT.md)
 ├── styles.css              # Site styling
 ├── tabs.js                 # Tab navigation script
+├── trip.js                 # Trip planner script
 ├── sort.js                 # Artwork sorting script
 ├── search.js               # Search functionality script
 ├── map.js                  # Interactive map script
@@ -158,14 +163,18 @@ site/
 
 ### Index Page
 
-- **Tabbed Navigation**: Five tabs organize content:
+- **Tabbed Navigation**: Seven tabs organize content:
   - **Artists**: Alphabetical list with artwork counts
-  - **Locations**: Grouped by city with artwork counts
+  - **Artworks**: Full artwork list with dates and artists
+  - **Locations**: Grouped by city (Milan, Venice, Florence, Rome) with artwork counts
   - **Bible Stories**: List with alternate names
   - **Timeline**: Visual timeline of artworks by century with cards
   - **Map**: Interactive map of all locations
+  - **Trip**: Interactive day-by-day trip itinerary with maps
 
-- **Search**: Filter artists, locations, and stories by name
+- **URL Deep Linking**: `?tab=<tabname>` parameter to link directly to any tab
+
+- **Search**: Filter artists, artworks, locations, stories, and trip content by name
 
 ### Interactive Map
 
@@ -186,6 +195,20 @@ site/
 
 - **Cards**: Show title, artist link, medium, date, description, and image
   - Artist links appear on location and bible story pages (when multiple artists)
+
+### Trip Planner
+
+- Fetches itinerary data from Google Sheets at runtime via JSONP (`gviz/tq` endpoint)
+- Caches data in `localStorage` with timestamps to minimize requests
+- Displays day-by-day itinerary (e.g., "D1 | 2/11 | Wed - Milan")
+- Each day includes:
+  - Location list with Chinese/English names, time ranges, memos, and map links
+  - "Booked" badges for reserved attractions
+  - Leaflet map with numbered markers (1, 2, 3...)
+  - Route polylines between consecutive locations (clickable for Google Maps directions)
+  - Hover interactions: highlight markers when hovering list items
+- Lazy-loaded when the Trip tab is activated
+- Falls back to `data/trip.json` as static backup
 
 ### Cross-References
 
