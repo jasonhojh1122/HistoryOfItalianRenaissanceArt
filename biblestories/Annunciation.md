@@ -35,3 +35,6 @@ The Annunciation depicts the announcement by the Angel Gabriel to the Virgin Mar
 
 ### [Triumphal Arch Mosaics](../artworks/TriumphalArchMosaicsSantaMariaMaggiore.md)
 - Unknown, Santa Maria Maggiore, c. 432–440
+
+### [Ciborium of Deodatus](../artworks/CiboriumOfDeodatus.md)
+- Deodatus di Cosma, Santa Maria in Cosmedin, 1294

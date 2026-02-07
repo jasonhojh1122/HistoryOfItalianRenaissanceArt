@@ -26,7 +26,7 @@ Blue-gray sandstone used extensively in Renaissance Florence for architectural e
 ## Decorative Techniques
 
 ### Opus sectile
-A Roman technique of inlaying cut pieces of marble and other colored stones to form patterns or images. Fragments from the Domus Transitoria on the [Palatine Hill](locations/PalatineHill.md) in the Palatine Museum demonstrate this decorative technique.
+A Roman and medieval technique of creating decorative surfaces by cutting and fitting together pieces of marble or other colored stones into patterns or figures. Unlike mosaic, which uses small uniform tesserae, opus sectile uses larger, custom-cut pieces. Fragments from the Domus Transitoria on the [Palatine Hill](locations/PalatineHill.md) in the Palatine Museum demonstrate this decorative technique. The Cosmatesque style is a form of opus sectile, as seen in the pavement of [Santa Maria in Cosmedin](locations/SantaMariaInCosmedin.md).
 
 ## Architectural Terms
 
@@ -38,6 +38,12 @@ Italian term meaning "head master" or "chief master," referring to the lead arch
 
 ### Opera del Duomo
 The institution responsible for the building and maintenance of [Florence Cathedral](locations/FlorenceCathedral.md). Founded in 1296, it supervised the construction and continues to maintain the cathedral complex today. The term literally means "Works of the Cathedral."
+
+### Baldacchino
+An ornamental canopy of stone, wood, or metal permanently placed over an altar or throne in a church. Also called a ciborium when in stone or metal. The [Ciborium of Deodatus](artworks/CiboriumOfDeodatus.md) (1294) at [Santa Maria in Cosmedin](locations/SantaMariaInCosmedin.md) is a notable example in the Florentine Gothic style with Cosmatesque decoration.
+
+### Diaconia
+An early Christian institution or building dedicated to charitable work, particularly the distribution of food to the poor. [Santa Maria in Cosmedin](locations/SantaMariaInCosmedin.md) was originally established as a diaconia in the 6th century, serving the Greek community in Rome.
 
 ### Thermae
 The Latin term for large-scale public bathing establishments in ancient Rome, distinguished from smaller balnea (singular: balneum). Thermae were vast complexes containing not just bathing facilities but also exercise areas (palaestrae), libraries, lecture halls, and gardens. The [Baths of Caracalla](locations/BathsOfCaracalla.md) are a major example.

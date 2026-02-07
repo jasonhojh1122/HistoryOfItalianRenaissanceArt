@@ -3726,3 +3726,76 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
 
 - **Damnatio memoriae**
   - **Definition**: The Roman practice of officially condemning the memory of a disgraced person by erasing their name and image from public monuments. On the Arch of Constantine, the figure of Commodus (son of Marcus Aurelius) was chiseled away from the largitio panel following his assassination and posthumous condemnation in AD 192.
+
+## Mouth of Truth (Santa Maria in Cosmedin), Rome
+
+<!-- Last updated: 2026-02-07 -->
+
+- [Santa Maria in Cosmedin](https://en.wikipedia.org/wiki/Santa_Maria_in_Cosmedin)
+  - **Type**: Church (Minor Basilica)
+  - **Description**: A minor basilica in Rome dedicated to the Virgin Mary, located in the rione of Ripa at the site of the ancient Forum Boarium. Constructed in the 6th century as a diaconia for Greek immigrants celebrating Eastern rites, it was expanded in the 8th century and renovated in the 12th century. The church is best known for the Bocca della Verità (Mouth of Truth) in its portico, but also contains outstanding Cosmatesque marble work and an important early medieval mosaic fragment.
+
+### Artworks
+
+- [Bocca della Verità](https://en.wikipedia.org/wiki/Bocca_della_Verit%C3%A0)
+  - **Artist**: Unknown (ancient Roman)
+  - **Medium**: Marble (pavonazzetto from Phrygia)
+  - **Date**: 1st century AD (placed in church portico 1632)
+  - **Description**: A large ancient Roman marble disc (1.75 meters across, 19 cm thick, weighing approximately 1,200 kg) bearing a bearded face in shallow relief with pierced eyes, nostrils, and mouth. Thought to represent an ocean deity or river god, it may have originally served as a drain cover or fountain. According to medieval legend, it will bite off the hand of any liar who places their hand in its mouth. It stands against the left wall of the church portico.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7b/Et%C3%A0_imperiale%2C_chiusino_a_forma_di_mascherone_di_divinit%C3%A0_fluviale%2C_detta_bocca_della_verit%C3%A0%2C_collocata_qui_nel_1632.jpg)
+
+- Adoration of the Magi Mosaic Fragment
+  - **Artist**: Unknown (commissioned by Pope John VII)
+  - **Medium**: Mosaic
+  - **Date**: c. 705–707
+  - **Description**: An important early medieval mosaic fragment housed in the sacristy, originally from the Oratory of Pope John VII in Old St. Peter's Basilica. The full mosaic cycle measured 9 meters by 6 meters and depicted the Virgin Mary surrounded by seven scenes from her life. This surviving fragment shows the Adoration of the Magi with an angel between the Virgin and Child and the approaching Magi, merging the journey and adoration into a single scene. Donated to the church in 1639 by order of Pope Urban VIII.
+
+- Cosmatesque Pavement
+  - **Artist**: [Cosmati](https://en.wikipedia.org/wiki/Cosmati) family
+  - **Medium**: Marble inlay (porphyry, serpentine, giallo antico)
+  - **Date**: 12th century
+  - **Description**: The nave floor is a masterpiece of Cosmatesque opus sectile work, featuring elaborate geometric patterns of inlaid colored marble. Dominated by an enormous porphyry roundel with intricate patterning using purple-crimson porphyry, dark green serpentine, and yellow giallo antico marble set in white marble matrices.
+
+- Ciborium of Deodatus
+  - **Artist**: Deodatus di Cosma (son of Cosmas the Elder)
+  - **Medium**: Marble with Cosmatesque decoration
+  - **Date**: 1294
+  - **Description**: A Gothic-style altar canopy (baldacchino) signed "Deodatus me fecit" ("Deodatus made me"). In the Florentine Gothic style with Cosmatesque inlay decoration, it is supported by four red granite columns from Aswan, Egypt, topped with Ionic capitals. The front face features a mosaic scene of the Annunciation facing the nave.
+
+- Schola Cantorum
+  - **Artist**: [Cosmati](https://en.wikipedia.org/wiki/Cosmati) family
+  - **Medium**: Marble with Cosmatesque decoration
+  - **Date**: 13th century (incorporating 8th-century opus sectile elements)
+  - **Description**: An enclosed choir area in the nave with intricately carved marble panels featuring Cosmatesque geometric inlay. Part of a larger ensemble of 13th-century marble liturgical furnishings including the pulpit, paschal candlestick, and episcopal throne (bishop's chair with three steps and lion-carved armrests).
+
+- Marble Doorcase
+  - **Artist**: Giovanni di Venetia
+  - **Medium**: Marble carving
+  - **Date**: 11th century
+  - **Description**: A signed marble doorcase featuring Classical motifs including birds, foliage, a blessing hand, and Evangelist symbols. One of the few signed works of medieval architectural sculpture in Rome.
+
+### Artists
+
+- [Cosmati](https://en.wikipedia.org/wiki/Cosmati)
+  - **Active**: 12th–13th century, Rome
+  - A Roman family of seven members across four generations who were skilled architects, sculptors, and workers in decorative geometric mosaic. They specialized in a technique of opus sectile formed of elaborate inlays of small triangles and rectangles of colored stones and glass mosaics set into stone matrices. Their name is commemorated in the genre of "Cosmatesque" work. Initial inspiration for the technique was Byzantine, transmitted through Ravenna and Sicily, while some of the minutely-figured tiling patterns are Islamic in origin. Their work adorns many Roman churches including Santa Maria in Cosmedin, where the pavement, schola cantorum, pulpit, paschal candlestick, altar canopy, and episcopal throne all bear their distinctive style.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4f/Trono_papale_1110759.JPG)
+
+### Bible Stories
+
+- [Adoration of the Magi](https://en.wikipedia.org/wiki/Adoration_of_the_Magi)
+  - *(Already documented above)*
+
+- [Annunciation](https://en.wikipedia.org/wiki/Annunciation)
+  - *(Already documented above)*
+
+## Terms
+
+- **Opus sectile**
+  - **Definition**: A Roman and medieval technique of creating decorative surfaces by cutting and fitting together pieces of marble or other stones into patterns or figures. Unlike mosaic, which uses small uniform tesserae, opus sectile uses larger, custom-cut pieces. The Cosmatesque style is a form of opus sectile.
+
+- **Diaconia**
+  - **Definition**: An early Christian institution or building dedicated to charitable work, particularly the distribution of food to the poor. Santa Maria in Cosmedin was originally established as a diaconia in the 6th century, serving the Greek community in Rome.
+
+- **Baldacchino**
+  - **Definition**: An ornamental canopy of stone, wood, or metal permanently placed over an altar or throne in a church. Also called a ciborium when in stone or metal. The Ciborium of Deodatus (1294) at Santa Maria in Cosmedin is a notable example in the Florentine Gothic style with Cosmatesque decoration.

@@ -33,3 +33,6 @@ The Adoration of the Magi describes the visit of the three wise men (Magi) from 
 
 ### [Triumphal Arch Mosaics](../artworks/TriumphalArchMosaicsSantaMariaMaggiore.md)
 - Unknown, Santa Maria Maggiore, c. 432–440
+
+### [Adoration of the Magi Mosaic Fragment](../artworks/AdorationOfTheMagiMosaicFragment.md)
+- Unknown (commissioned by Pope John VII), Santa Maria in Cosmedin, c. 705–707
