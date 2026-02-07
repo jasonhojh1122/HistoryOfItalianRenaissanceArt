@@ -28,6 +28,7 @@ log "Pipeline started"
 if [ -n "$RESEARCH_TARGET" ]; then
     log "Step 1: Researching '$RESEARCH_TARGET'..."
     claude -p "/auto-research $RESEARCH_TARGET" \
+        --verbose \
         --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,Skill"
     log "Step 1: Research completed"
 else
@@ -37,6 +38,7 @@ fi
 # Step 2: Export notes
 log "Step 2: Exporting notes..."
 claude -p "/export-notes" \
+    --verbose \
     --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,Skill"
 log "Step 2: Export completed"
 

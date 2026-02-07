@@ -75,6 +75,7 @@ def run_claude(prompt, job_type="claude"):
     try:
         cmd = [
             "claude", "-p", prompt,
+            "--verbose",
             "--allowedTools", "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,Skill"
         ]
 
