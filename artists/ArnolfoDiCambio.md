@@ -12,3 +12,8 @@ Italian architect and sculptor of the Duecento. He began as a lead assistant to 
 ### [Madonna with Glass Eyes](../artworks/MadonnaWithGlassEyes.md)
 - **Location**: [Museo dell'Opera del Duomo](../locations/OperaDelDuomoMuseum.md), Florence
 - **Medium**: Marble with glass inlay
+
+### [Nativity Sculptures](../artworks/NativitySculpturesSantaMariaMaggiore.md)
+- **Location**: [Santa Maria Maggiore](../locations/SantaMariaMaggiore.md), Rome
+- **Medium**: Marble sculpture
+- **Date**: c. 1291

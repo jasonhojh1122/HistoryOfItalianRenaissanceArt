@@ -3313,3 +3313,146 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
   - **Book(s)**: Book of Ezekiel (Old Testament)
   - **Chapters/Verses**: Ezekiel 1:1–28
   - The prophet Ezekiel's inaugural vision of God enthroned in majesty, carried by four living creatures (later identified with the four Evangelists): a man, a lion, an ox, and an eagle. The vision includes wheels within wheels and a radiant divine presence. This theophany became an important subject in Christian art, symbolizing the glory of God and the inspiration of the Gospels.
+
+## Santa Maria Maggiore, Rome
+
+<!-- Last updated: 2026-02-07 -->
+
+- [Santa Maria Maggiore](https://en.wikipedia.org/wiki/Santa_Maria_Maggiore)
+  - **Type**: Basilica
+  - **Description**: Santa Maria Maggiore, also known as the Basilica of Saint Mary Major, is one of the four major papal basilicas and one of the Seven Pilgrim Churches of Rome. The largest Marian church in Rome, it is regarded as the first Marian sanctuary in the Western world and contains an extraordinary collection of mosaics spanning from the 5th to the 13th centuries.
+
+### Artworks
+
+- Nave Mosaics
+  - **Artist**: Unknown
+  - **Medium**: Mosaic
+  - **Date**: c. 432–440
+  - **Description**: A cycle of Old Testament narrative mosaics lining the nave, depicting scenes from the lives of Abraham, Isaac, Jacob, Moses, and Joshua. Only 27 of the original 42 panels survive. They are the most important Early Christian narrative mosaic series extant, executed in a late Roman illusionistic style with rich gold backgrounds.
+
+- Triumphal Arch Mosaics
+  - **Artist**: Unknown
+  - **Medium**: Mosaic
+  - **Date**: c. 432–440
+  - **Description**: Mosaics on the triumphal arch depicting scenes from the infancy of Christ, including the Annunciation, the Adoration of the Magi, the Massacre of the Innocents, and the Presentation in the Temple. Mary is depicted dressed as a Roman empress, reflecting the Council of Ephesus (431) declaration of Mary as Theotokos (God-bearer). Among the oldest monumental representations of the Virgin Mary in Christian art.
+
+- Apse Mosaic: Coronation of the Virgin
+  - **Artist**: [Jacopo Torriti](https://en.wikipedia.org/wiki/Jacopo_Torriti)
+  - **Medium**: Mosaic
+  - **Date**: c. 1295–1296
+  - **Description**: Commissioned by Pope Nicholas IV, this monumental apse mosaic depicts Christ crowning the Virgin Mary, both seated on a shared throne against a deep blue background filled with swirling acanthus scrolls. Below are five scenes from the Life of the Virgin: the Annunciation, Nativity, Adoration of the Magi, Presentation in the Temple, and the Dormition. It is the largest single mosaic image surviving from 13th-century Italy and one of the earliest monumental depictions of the Coronation of the Virgin.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/9/94/Jacopo_torriti%2C_coronation_of_the_virgin%2C_santa_maria_maggiore%2C_rome.jpg)
+
+- Loggia Mosaics
+  - **Artist**: [Filippo Rusuti](https://en.wikipedia.org/wiki/Filippo_Rusuti)
+  - **Medium**: Mosaic
+  - **Date**: c. 1288–1297
+  - **Description**: Mosaics decorating the upper loggia of the basilica's facade. The upper register shows Christ Blessing flanked by symbols of the four Evangelists; the lower register narrates the legend of the miraculous August snowfall that prompted the founding of the basilica by Pope Liberius. These 13th-century mosaics are now partially hidden behind the 18th-century facade by Ferdinando Fuga.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a2/Santa_Maria_Maggiore_%28Rome%29_mosaic_on_frontside.jpg)
+
+- [Salus Populi Romani](https://en.wikipedia.org/wiki/Salus_Populi_Romani)
+  - **Artist**: Unknown (attributed by tradition to Saint Luke)
+  - **Medium**: Tempera on panel (Byzantine icon)
+  - **Date**: Uncertain, possibly 5th–9th century
+  - **Description**: A venerated Byzantine icon of the Madonna and Child kept in the Borghese (Pauline) Chapel. The image shows the Virgin holding the Christ Child, who holds a Gospel book. Tradition attributes it to Saint Luke the Evangelist. It is one of the most revered Marian icons in Rome and has been a particular devotion of Pope Francis. The icon was restored in 2018.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/ab/Salus_Populi_Romani_after_restoration.jpg)
+
+- Nativity Sculptures
+  - **Artist**: [Arnolfo di Cambio](https://en.wikipedia.org/wiki/Arnolfo_di_Cambio)
+  - **Medium**: Marble sculpture
+  - **Date**: c. 1291
+  - **Description**: A group of 13th-century marble sculptures depicting the Nativity scene, originally part of a larger sculptural ensemble for the Oratory of the Nativity (Presepe). The figures include the Virgin Mary, Joseph, the ox, the ass, and the Magi. They are among the earliest known freestanding Nativity sculptural groups and are now displayed in the underground museum chapel of the basilica.
+
+- Coffered Ceiling
+  - **Artist**: Giuliano da Sangallo (attributed)
+  - **Medium**: Gilded and carved wood
+  - **Date**: c. 1493–1500
+  - **Description**: The magnificent coffered ceiling of the central nave, traditionally attributed to Giuliano da Sangallo, was commissioned by Pope Alexander VI Borgia. According to tradition, it was gilded with the first gold brought from the Americas by Christopher Columbus, presented to the Pope by Ferdinand and Isabella of Spain.
+
+- Sistine Chapel Frescoes
+  - **Artist**: [Cesare Nebbia](https://en.wikipedia.org/wiki/Cesare_Nebbia) and [Giovanni Guerra](https://en.wikipedia.org/wiki/Giovanni_Guerra) (directors), with a large team of Mannerist painters
+  - **Medium**: Fresco
+  - **Date**: 1587–1589
+  - **Description**: The Sistine Chapel of Santa Maria Maggiore (not to be confused with the Vatican Sistine Chapel) was commissioned by Pope Sixtus V and designed by Domenico Fontana. The interior frescoes were directed by Cesare Nebbia and Giovanni Guerra, depicting scenes from the life of the Virgin and Christ's childhood. The dome fresco shows the Assumption of the Virgin. The chapel also houses the tomb of Pope Sixtus V and an ancient relic believed to be pieces of the crib of the Nativity.
+
+- Pauline (Borghese) Chapel Frescoes
+  - **Artist**: [Giuseppe Cesari (Cavalier d'Arpino)](https://en.wikipedia.org/wiki/Giuseppe_Cesari), [Cigoli (Ludovico Cardi)](https://en.wikipedia.org/wiki/Cigoli), [Guido Reni](https://en.wikipedia.org/wiki/Guido_Reni)
+  - **Medium**: Fresco
+  - **Date**: 1605–1616
+  - **Description**: The Pauline or Borghese Chapel was commissioned by Pope Paul V and designed by Flaminio Ponzio. The lavish interior features frescoes by multiple artists: Giuseppe Cesari painted the dome panels and lunette above the altar; Cigoli painted the Virgin and apostles in the dome; and Guido Reni painted the side arches including powerful depictions of St. Dominic and St. Francis. The chapel houses the Salus Populi Romani icon and the tombs of Popes Clement VIII and Paul V. Pietro Bernini contributed dynamic sculptures framing the altar.
+
+- Sforza Chapel
+  - **Artist**: [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo) (design), Tiberio Calcagni and Giacomo Della Porta (execution)
+  - **Medium**: Architecture with travertine and plaster
+  - **Date**: 1564–1573
+  - **Description**: Designed by Michelangelo near the end of his life and completed posthumously by Tiberio Calcagni and Giacomo Della Porta. The chapel features an innovative elliptical plan with a three-part vault and curving side apses, representing one of Michelangelo's most forward-looking architectural experiments. The altar painting of the Assumption of the Virgin is by Girolamo Siciolante da Sermoneta.
+
+- Vault Fresco Fragments (St. Michael Chapel)
+  - **Artist**: [Piero della Francesca](https://en.wikipedia.org/wiki/Piero_della_Francesca) (attributed)
+  - **Medium**: Fresco
+  - **Date**: Mid-15th century
+  - **Description**: Fragments of vault frescoes in the Chapel of St. Michael, attributed to Piero della Francesca. These damaged remnants are among the few surviving traces of the artist's work in Rome, executed during the pontificate of Nicholas V or Pius II. Most of Piero's Roman frescoes were destroyed to make way for later decorations.
+
+### Artists
+
+- [Jacopo Torriti](https://en.wikipedia.org/wiki/Jacopo_Torriti)
+  - **Born**: Unknown, 13th century
+  - **Died**: Unknown, late 13th century
+  - Italian painter and mosaic maker of the 13th century. He was a Franciscan friar who created major mosaic cycles in Rome, including the apse mosaics of both Santa Maria Maggiore (1295–1296) and San Giovanni in Laterano. His Coronation of the Virgin at Santa Maria Maggiore is his masterpiece and the largest surviving single mosaic image from 13th-century Italy.
+
+- [Filippo Rusuti](https://en.wikipedia.org/wiki/Filippo_Rusuti)
+  - **Born**: Unknown, mid-13th century, Rome
+  - **Died**: Unknown, after 1320
+  - Italian painter active in Rome between 1288 and 1297, and in Naples around 1320. He is best known for the facade mosaics of Santa Maria Maggiore, commissioned by Pope Nicholas IV. His work shows the influence of the Roman school of painting and mosaic-making that flourished in the late 13th century.
+
+- [Giuseppe Cesari (Cavalier d'Arpino)](https://en.wikipedia.org/wiki/Giuseppe_Cesari)
+  - **Born**: 1568, Arpino
+  - **Died**: 1640, Rome
+  - Italian Mannerist painter, also called Il Giuseppino. He was created Knight of the Supreme Order of Christ by Pope Clement VIII and was much patronized by both Clement and Sixtus V. He was the chief of the studio in which Caravaggio trained upon the younger painter's arrival in Rome. His works at Santa Maria Maggiore include the dome and lunette frescoes in the Pauline Chapel.
+
+- [Cigoli (Ludovico Cardi)](https://en.wikipedia.org/wiki/Cigoli)
+  - **Born**: 1559, Cigoli, Tuscany
+  - **Died**: 1613, Rome
+  - Italian painter and architect of the late Mannerist and early Baroque period. Trained in Florence under Alessandro Allori, he spent the last nine years of his life in Rome. At Santa Maria Maggiore, he painted the Virgin and apostles in the dome of the Pauline Chapel, a work notable for incorporating Galileo's telescopic observations of the moon into his depiction of the Virgin standing on a lunar surface.
+
+- [Guido Reni](https://en.wikipedia.org/wiki/Guido_Reni)
+  - **Born**: 1575, Bologna
+  - **Died**: 1642, Bologna
+  - Italian Baroque painter who became the dominant figure in the Bolognese School under the influence of the Carracci. He painted primarily religious works but also mythological and allegorical subjects. Active in Rome, Naples, and his native Bologna, his classical manner set him apart from more dramatic Baroque contemporaries. At Santa Maria Maggiore, he frescoed the side arches of the Pauline Chapel.
+
+- [Cesare Nebbia](https://en.wikipedia.org/wiki/Cesare_Nebbia)
+  - **Born**: c. 1536, Orvieto
+  - **Died**: c. 1614, Orvieto
+  - Italian Mannerist painter from Orvieto. He co-directed the large team of artists that decorated the Sistine Chapel of Santa Maria Maggiore (1587–1589) under Pope Sixtus V, alongside Giovanni Guerra.
+
+- [Giovanni Guerra](https://en.wikipedia.org/wiki/Giovanni_Guerra)
+  - **Born**: 1544, Modena
+  - **Died**: 1618, Rome
+  - Italian draughtsman and painter from Modena who worked in Rome. He co-directed the fresco decoration of the Sistine Chapel of Santa Maria Maggiore with Cesare Nebbia. He was documented in Rome from 1583 and became a prolific designer for papal commissions.
+
+- [Pietro Bernini](https://en.wikipedia.org/wiki/Pietro_Bernini)
+  - **Born**: 1562, Sesto Fiorentino
+  - **Died**: 1629, Rome
+  - Italian sculptor and father of Gian Lorenzo Bernini. He contributed dynamic sculptures to the Pauline Chapel at Santa Maria Maggiore, framing the Salus Populi Romani icon. Both Pietro and his more famous son Gian Lorenzo are buried in the basilica, near the Sistine Chapel.
+
+- [Girolamo Siciolante da Sermoneta](https://en.wikipedia.org/wiki/Girolamo_Siciolante_da_Sermoneta)
+  - **Born**: 1521, Sermoneta
+  - **Died**: 1575, Rome
+  - Italian Mannerist painter who later adopted the reformist naturalism of Girolamo Muziano. Active in Rome in the mid-16th century, he painted the altar painting of the Assumption of the Virgin in the Sforza Chapel at Santa Maria Maggiore, as well as frescoes in the Cesi Chapel.
+
+- [Mino del Reame](https://en.wikipedia.org/wiki/Mino_del_Reame)
+  - **Born**: Unknown, 15th century, Naples
+  - **Died**: Unknown, late 15th century
+  - Neapolitan Italian Renaissance sculptor. He created four marble bas-reliefs (c. 1474) from the old ciborium at Santa Maria Maggiore, contributing to the decorative program of the basilica during the Renaissance period.
+
+### Bible Stories
+
+- [Nativity of Jesus](https://en.wikipedia.org/wiki/Nativity_of_Jesus)
+  - **Book(s)**: Gospels of Matthew, Luke
+  - **Chapters/Verses**: Matthew 1:18–2:12, Luke 2:1–20
+  - The birth of Jesus in Bethlehem as told in the Gospels of Matthew and Luke. Mary and Joseph traveled to Bethlehem for a census, and Jesus was born in humble circumstances, laid in a manger. Shepherds were told of the birth by angels, and Magi from the East followed a star to find the child. The subject is central to Santa Maria Maggiore, which houses relics believed to be from the Holy Crib and Arnolfo di Cambio's sculptural Nativity group.
+
+- [Dormition of the Mother of God](https://en.wikipedia.org/wiki/Dormition_of_the_Mother_of_God)
+  - **Book(s)**: Apocryphal tradition (not in canonical scripture)
+  - **Chapters/Verses**: N/A
+  - The "falling asleep" or death of Mary the Theotokos and her being taken up into heaven. Though not described in canonical scripture, the tradition became central to Christian art and devotion, especially in the Eastern churches. It is depicted in the lower register of Jacopo Torriti's apse mosaic at Santa Maria Maggiore, where it appears alongside other scenes from Mary's life.

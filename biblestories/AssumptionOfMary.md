@@ -22,3 +22,9 @@ The belief that Mary, mother of Jesus, was assumed bodily into Heaven at the end
 
 ### [Panciatichi Assumption](../artworks/PanciatchiAssumption.md)
 - Andrea del Sarto, Palazzo Pitti, c. 1522–1523
+
+### [Sistine Chapel Frescoes (Santa Maria Maggiore)](../artworks/SistineChapelFrescoesSantaMariaMaggiore.md)
+- Cesare Nebbia and Giovanni Guerra, Santa Maria Maggiore, 1587–1589
+
+### [Sforza Chapel](../artworks/SforzaChapelSantaMariaMaggiore.md)
+- Girolamo Siciolante da Sermoneta (altar painting), Santa Maria Maggiore, c. 1564–1573

@@ -57,3 +57,6 @@ The Madonna and Child depicts the Virgin Mary with the infant Jesus. This iconic
 
 ### [Madonna and Child with Saint Anne (Dei Palafrenieri)](../artworks/MadonnaAndChildWithSaintAnne.md)
 - Caravaggio, Galleria Borghese, 1605–1606
+
+### [Salus Populi Romani](../artworks/SalusPopuliRomani.md)
+- Unknown (attributed to Saint Luke), Santa Maria Maggiore, possibly 5th–9th century

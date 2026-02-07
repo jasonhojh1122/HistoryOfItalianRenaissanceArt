@@ -84,6 +84,7 @@
 - [Coppo di Marcovaldo](artists/CoppoDiMarcovaldo.md)
 - [Giovanni Cimabue](artists/GiovanniCimabue.md)
 - [Jacopo Torriti](artists/JacopoTorriti.md)
+- [Filippo Rusuti](artists/FilippoRusuti.md)
 - [Pietro Cavallini](artists/PietroCavallini.md)
 - [Arnolfo di Cambio](artists/ArnolfoDiCambio.md)
 
@@ -139,6 +140,8 @@
 - [Gentile Bellini](artists/GentileBellini.md)
 - [Giovanni Bellini](artists/GiovanniBellini.md)
 - [Vittore Carpaccio](artists/VittoreCarpaccio.md)
+- [Piero della Francesca](artists/PieroDellaFrancesca.md)
+- [Mino del Reame](artists/MinoDelReame.md)
 
 #### Cinquecento (1500s)
 
@@ -152,6 +155,9 @@
 - [Giuseppe Porta (Salviati)](artists/GiuseppePorta.md)
 - [Lorenzetto](artists/Lorenzetto.md)
 - [Baldassare Peruzzi](artists/BaldassarePeruzzi.md)
+- [Girolamo Siciolante da Sermoneta](artists/GirolamoSiciolanteDaSermoneta.md)
+- [Cesare Nebbia](artists/CesareNebbia.md)
+- [Giovanni Guerra](artists/GiovanniGuerra.md)
 
 #### Baroque (1600s-1700s)
 
@@ -165,6 +171,10 @@
 - [Correggio](artists/Correggio.md)
 - [Annibale Carracci](artists/AnnibaleCarracci.md)
 - [Francesco Cozza](artists/FrancescoCozza.md)
+- [Giuseppe Cesari (Cavalier d'Arpino)](artists/GiuseppeCesari.md)
+- [Cigoli (Ludovico Cardi)](artists/Cigoli.md)
+- [Guido Reni](artists/GuidoReni.md)
+- [Pietro Bernini](artists/PietroBernini.md)
 
 #### Medieval Cartography
 
@@ -184,6 +194,7 @@
 - [Coppo di Marcovaldo](artists/CoppoDiMarcovaldo.md)
 - [Giovanni Cimabue](artists/GiovanniCimabue.md)
 - [Jacopo Torriti](artists/JacopoTorriti.md)
+- [Filippo Rusuti](artists/FilippoRusuti.md)
 - [Pietro Cavallini](artists/PietroCavallini.md)
 - [Giotto di Bondone](artists/GiottoDiBondone.md)
 - [Maso di Banco](artists/MasoDiBanco.md)
@@ -232,6 +243,13 @@
 - [Correggio](artists/Correggio.md)
 - [Annibale Carracci](artists/AnnibaleCarracci.md)
 - [Francesco Cozza](artists/FrancescoCozza.md)
+- [Giuseppe Cesari (Cavalier d'Arpino)](artists/GiuseppeCesari.md)
+- [Cigoli (Ludovico Cardi)](artists/Cigoli.md)
+- [Guido Reni](artists/GuidoReni.md)
+- [Piero della Francesca](artists/PieroDellaFrancesca.md)
+- [Cesare Nebbia](artists/CesareNebbia.md)
+- [Giovanni Guerra](artists/GiovanniGuerra.md)
+- [Girolamo Siciolante da Sermoneta](artists/GirolamoSiciolanteDaSermoneta.md)
 
 #### Sculpture
 
@@ -247,6 +265,8 @@
 - [Filippo della Valle](artists/FilippoDellaValle.md)
 - [Gian Lorenzo Bernini](artists/GianLorenzoBernini.md)
 - [Lorenzetto](artists/Lorenzetto.md)
+- [Pietro Bernini](artists/PietroBernini.md)
+- [Mino del Reame](artists/MinoDelReame.md)
 
 #### Architecture
 

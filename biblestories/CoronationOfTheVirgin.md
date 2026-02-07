@@ -21,3 +21,6 @@ The Coronation of the Virgin depicts the Virgin Mary being crowned Queen of Heav
 
 ### [Coronation of the Virgin](../artworks/CoronationOfTheVirginPantheon.md)
 - Unknown (Tuscan school), Pantheon, Rome, 15th century
+
+### [Apse Mosaic: Coronation of the Virgin](../artworks/ApseMosaicCoronationOfTheVirgin.md)
+- Jacopo Torriti, Santa Maria Maggiore, c. 1295–1296

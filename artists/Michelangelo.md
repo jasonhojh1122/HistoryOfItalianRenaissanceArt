@@ -121,3 +121,8 @@ Worked in Ghirlandaio's study at age 13, and was invited into the house of Loren
 ### [Palestrina Pietà](../artworks/PalestrinaPieta.md)
 - **Location**: [Galleria dell'Accademia](../locations/GalleriaDellAccademia.md), Florence
 - Attribution disputed, possibly completed by another sculptor
+
+### [Sforza Chapel](../artworks/SforzaChapelSantaMariaMaggiore.md)
+- **Location**: [Santa Maria Maggiore](../locations/SantaMariaMaggiore.md), Rome
+- **Medium**: Architecture (design)
+- **Date**: c. 1564–1573

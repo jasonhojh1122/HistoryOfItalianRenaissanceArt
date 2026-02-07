@@ -13,4 +13,5 @@ The Presentation in the Temple depicts the ritual presentation of the infant Jes
 
 ## Artworks Depicting This Story
 
-*No artworks in this collection currently depict this story.*
+### [Triumphal Arch Mosaics](../artworks/TriumphalArchMosaicsSantaMariaMaggiore.md)
+- Unknown, Santa Maria Maggiore, c. 432–440

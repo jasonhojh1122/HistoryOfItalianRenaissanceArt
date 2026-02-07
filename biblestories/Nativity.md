@@ -20,3 +20,6 @@ The Nativity depicts the birth of Jesus Christ in Bethlehem. According to the Go
 
 ### [Adoration of the Shepherds](../artworks/AdorationOfTheShepherdsFilippinoLippi.md)
 - Filippino Lippi, Uffizi Gallery, c. 1480
+
+### [Nativity Sculptures](../artworks/NativitySculpturesSantaMariaMaggiore.md)
+- Arnolfo di Cambio, Santa Maria Maggiore, c. 1291

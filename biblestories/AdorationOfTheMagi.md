@@ -30,3 +30,6 @@ The Adoration of the Magi describes the visit of the three wise men (Magi) from 
 
 ### [Adoration of the Magi](../artworks/AdorationOfTheMagiCozza.md)
 - Francesco Cozza, Pantheon, Rome, 1661
+
+### [Triumphal Arch Mosaics](../artworks/TriumphalArchMosaicsSantaMariaMaggiore.md)
+- Unknown, Santa Maria Maggiore, c. 432–440

@@ -32,3 +32,6 @@ The Annunciation depicts the announcement by the Angel Gabriel to the Virgin Mar
 
 ### [Annunciation](../artworks/AnnunciationMelozzo.md)
 - Melozzo da Forlì, Pantheon, Rome, c. 1470s
+
+### [Triumphal Arch Mosaics](../artworks/TriumphalArchMosaicsSantaMariaMaggiore.md)
+- Unknown, Santa Maria Maggiore, c. 432–440
