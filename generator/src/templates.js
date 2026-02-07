@@ -51,6 +51,7 @@ export function layoutTemplate(title, content, depth = 0, options = {}) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeHtml(title)} - Italian Art</title>
+  <link rel="icon" type="image/svg+xml" href="${prefix}favicon.svg">
   <link rel="stylesheet" href="${prefix}styles.css">
 ${extraHead}
 </head>
@@ -142,6 +143,7 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], mapLo
       <button class="search-clear" type="button" aria-label="Clear search" hidden>&times;</button>
     </div>
     <p class="search-results-count" hidden></p>
+    <div class="search-results-panel" hidden></div>
 
     <div class="tab-navigation">
       <button class="tab-btn active" data-tab="artists">Artists</button>

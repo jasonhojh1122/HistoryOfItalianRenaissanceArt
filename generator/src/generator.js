@@ -141,12 +141,109 @@ export async function generateSite(rootDir, outputDir) {
     }
   }
 
+  // Build search index
+  console.log('\nBuilding search index...');
+  const searchIndex = buildSearchIndex(index, terms);
+  await fs.writeFile(path.join(outputDir, 'search-index.json'), JSON.stringify(searchIndex));
+  console.log(`  Generated search-index.json (${searchIndex.length} entries)`);
+
   // Copy static assets
   console.log('\nCopying assets...');
   await copyStaticAssets(rootDir, outputDir);
 
   console.log('\nBuild complete!');
   console.log(`Site generated at: ${outputDir}`);
+}
+
+/**
+ * Strip markdown syntax to produce plain text for search indexing
+ */
+function stripMarkdown(md) {
+  return md
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')       // images
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')     // links → text
+    .replace(/^#{1,6}\s+/gm, '')                 // headings
+    .replace(/(\*{1,3}|_{1,3})(.*?)\1/g, '$2')   // bold/italic
+    .replace(/`{1,3}[^`]*`{1,3}/g, '')           // inline code
+    .replace(/^\s*[-*+]\s+/gm, '')               // unordered list markers
+    .replace(/^\s*\d+\.\s+/gm, '')               // ordered list markers
+    .replace(/^\s*>\s+/gm, '')                    // blockquotes
+    .replace(/\|/g, ' ')                          // table pipes
+    .replace(/^-{3,}$/gm, '')                     // horizontal rules
+    .replace(/\n{2,}/g, '\n')                     // collapse blank lines
+    .trim();
+}
+
+/**
+ * Build search index JSON from all content
+ */
+function buildSearchIndex(index, terms) {
+  const entries = [];
+
+  // Artists
+  for (const [id, artist] of Object.entries(index.artists)) {
+    entries.push({
+      type: 'artist',
+      id,
+      title: artist.metadata.title,
+      url: `artists/${id}.html`,
+      content: stripMarkdown(artist.content)
+    });
+  }
+
+  // Artworks
+  for (const [id, artwork] of Object.entries(index.artworks)) {
+    const meta = artwork.metadata;
+    const subtitleParts = [meta.artist, meta.date, meta.medium].filter(Boolean);
+    entries.push({
+      type: 'artwork',
+      id,
+      title: meta.title,
+      url: `artworks/${id}.html`,
+      subtitle: subtitleParts.join(' · '),
+      content: stripMarkdown(artwork.content)
+    });
+  }
+
+  // Locations
+  for (const [id, location] of Object.entries(index.locations)) {
+    entries.push({
+      type: 'location',
+      id,
+      title: location.metadata.title,
+      url: `locations/${id}.html`,
+      subtitle: location.metadata.city || '',
+      content: stripMarkdown(location.content)
+    });
+  }
+
+  // Bible stories
+  for (const [id, story] of Object.entries(index.biblestories)) {
+    entries.push({
+      type: 'bible story',
+      id,
+      title: story.metadata.title,
+      url: `biblestories/${id}.html`,
+      subtitle: story.metadata.alternateName || '',
+      content: stripMarkdown(story.content)
+    });
+  }
+
+  // Terms
+  for (const category of terms) {
+    for (const term of category.terms) {
+      entries.push({
+        type: 'term',
+        id: term.name,
+        title: term.name,
+        url: `index.html?tab=terms#${term.name.toLowerCase().replace(/[()]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}`,
+        subtitle: category.name,
+        content: stripMarkdown(term.body)
+      });
+    }
+  }
+
+  return entries;
 }
 
 /**
