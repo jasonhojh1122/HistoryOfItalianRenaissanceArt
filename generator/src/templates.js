@@ -126,7 +126,7 @@ function fixImagePathForIndex(src) {
 /**
  * Index page template
  */
-export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}, mapLocations = [], tripData = { version: 1, days: [] }, tripLocations = [], allArtworks = []) {
+export function indexTemplate(artists, locationsByCity, bibleStories = [], artworksByCentury = {}, mapLocations = [], allArtworks = []) {
   const artistsList = artists.map(a => {
     const count = a.artworks?.length || 0;
     const countBadge = count > 0 ? `<span class="artwork-count">${count}</span>` : '';
@@ -229,8 +229,6 @@ export function indexTemplate(artists, locationsByCity, bibleStories = [], artwo
 
       <section class="tab-panel" data-tab="trip">
         <div id="trip-container"></div>
-        <script type="application/json" id="trip-data">${JSON.stringify(tripData)}</script>
-        <script type="application/json" id="trip-locations-data">${JSON.stringify(tripLocations)}</script>
       </section>
     </div>
   `;
