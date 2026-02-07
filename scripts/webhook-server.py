@@ -701,6 +701,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             <div class="quick-actions">
                 <div class="quick-actions-label">Quick Actions</div>
                 <button onclick="stopJob()" id="stop-btn" class="secondary" disabled>Stop Job</button>
+                <button onclick="clearLog()" id="clear-btn" class="secondary">Clear Log</button>
                 <button onclick="gitStatus()" id="git-status-btn" class="secondary">Git Status</button>
                 <button onclick="hardReset()" id="reset-btn" class="danger">Hard Reset</button>
             </div>
@@ -820,6 +821,13 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             } catch (e) {
                 logEl.textContent = 'Failed to fetch git status: ' + e.message;
             }
+        }
+
+        function clearLog() {
+            document.getElementById('log').textContent = 'Awaiting your command...';
+            document.getElementById('timing').textContent = '';
+            document.getElementById('job-info').textContent = '';
+            lastCompletedAt = '__cleared__';
         }
 
         async function hardReset() {
