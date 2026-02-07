@@ -3585,3 +3585,144 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
   - **Book(s)**: Gospels of Matthew, Mark, Luke
   - **Chapters/Verses**: Matthew 3:13–17, Mark 1:9–11, Luke 3:21–22
   - The baptism of Jesus by John the Baptist in the Jordan River is a major event in the Synoptic Gospels. As Jesus emerged from the water, the heavens opened, the Holy Spirit descended like a dove, and a voice from heaven declared "This is my beloved Son." The scene is one of the most frequently depicted subjects in Christian art.
+
+## Arch of Constantine, Rome
+
+<!-- Last updated: 2026-02-07 -->
+
+- [Arch of Constantine](https://en.wikipedia.org/wiki/Arch_of_Constantine)
+  - **Type**: Triumphal Arch
+  - **Description**: The Arch of Constantine is the largest Roman triumphal arch, dedicated by the Senate to Emperor Constantine the Great in AD 315 to commemorate his victory over Maxentius at the Battle of the Milvian Bridge in AD 312. Situated between the Colosseum and the Palatine Hill along the Via Triumphalis, it measures 21m high, 25.9m wide, and 7.4m deep with three arched bays. The arch is remarkable for its extensive use of spolia — sculptural reliefs, medallions, and statues reused from earlier monuments of Trajan, Hadrian, and Marcus Aurelius — combined with Constantinian-era carvings, creating a striking juxtaposition of artistic styles spanning over two centuries.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a3/Arch_of_Constantine_%28Rome%29_-_South_side%2C_from_Via_triumphalis.jpg)
+
+### Artworks
+
+- Hadrianic Tondi (North Side: Boar Hunt and Sacrifice to Apollo)
+  - **Artist**: Unknown Roman sculptors (Hadrianic era)
+  - **Medium**: White Luna marble relief, c. 2.4m diameter, framed in porphyry
+  - **Date**: c. AD 117–138 (reign of Hadrian); reused AD 315
+  - **Description**: Two of eight circular relief medallions (tondi) originally from a lost monument to Emperor Hadrian. The left tondo depicts a boar hunt with Hadrian on horseback (recarved to resemble Constantine) and the figure of Antinous visible at top left. The right tondo shows a sacrifice to Apollo. The tondi are among the finest examples of Hadrianic classicizing sculpture, characterized by idealized figures and naturalistic proportions.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/4/4e/Constarch_d2.jpg)
+
+- Hadrianic Tondi (North Side: Lion Hunt and Sacrifice to Hercules)
+  - **Artist**: Unknown Roman sculptors (Hadrianic era)
+  - **Medium**: White Luna marble relief, c. 2.4m diameter, framed in porphyry
+  - **Date**: c. AD 117–138 (reign of Hadrian); reused AD 315
+  - **Description**: The right pair of roundels on the north side depicts a dramatic lion hunt (left tondo) and a sacrifice to Hercules (right tondo). As with all the Hadrianic tondi, the emperor's head was recarved — in hunting scenes to resemble Constantine, and in sacrifice scenes to resemble Licinius or Constantius I. The high-relief carving shows the classical Hadrianic style with carefully modeled anatomy and deep undercutting.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/7/7e/Constarch_d4.jpg)
+
+- Hadrianic Tondi (South Side: Departure for the Hunt and Sacrifice to Silvanus)
+  - **Artist**: Unknown Roman sculptors (Hadrianic era)
+  - **Medium**: White Luna marble relief, c. 2.4m diameter
+  - **Date**: c. AD 117–138 (reign of Hadrian); reused AD 315
+  - **Description**: The left pair of roundels on the south side shows the departure for the hunt, with attendants and horses preparing for the chase, and a sacrifice to Silvanus, the Roman god of woods and wild nature. The tondi demonstrate the Hadrianic preference for depicting emperors in leisure activities alongside religious devotion.
+
+- Hadrianic Tondi (South Side: Bear Hunt and Sacrifice to Diana)
+  - **Artist**: Unknown Roman sculptors (Hadrianic era)
+  - **Medium**: White Luna marble relief, c. 2.4m diameter
+  - **Date**: c. AD 117–138 (reign of Hadrian); reused AD 315
+  - **Description**: The right pair on the south side depicts a bear hunt (left tondo) and a sacrifice to Diana, the goddess of the hunt (right tondo). The eight tondi collectively present a unified program of imperial virtus (courage in the hunt) paired with pietas (devotion through sacrifice), a theme recontextualized for Constantine.
+
+- Marcus Aurelius Relief Panels (North Side)
+  - **Artist**: Unknown Roman sculptors (Antonine era)
+  - **Medium**: Marble relief panels
+  - **Date**: c. AD 176–180 (reign of Marcus Aurelius); reused AD 315
+  - **Description**: Four rectangular panels flanking the inscription on the north (city-facing) side of the attic, taken from a lost triumphal monument commemorating Marcus Aurelius' wars against the Marcomanni and Sarmatians (AD 169–175). From left to right they depict: the emperor's adventus (return to Rome), his departure saluted by a personification of the Via Flaminia, a largitio (distribution of money to the people), and the interrogation of a German prisoner. The emperor's head was recarved to resemble Constantine; on the largitio panel, the figure of Commodus was erased following his damnatio memoriae.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/6/6d/KonstantinsbogenAttika.jpg)
+
+- Marcus Aurelius Relief Panels (South Side)
+  - **Artist**: Unknown Roman sculptors (Antonine era)
+  - **Medium**: Marble relief panels
+  - **Date**: c. AD 176–180 (reign of Marcus Aurelius); reused AD 315
+  - **Description**: Four rectangular panels on the south side of the attic, from the same Antonine monument. From left to right: a captured enemy chieftain led before the emperor, another scene of prisoners presented, the emperor speaking to the troops (adlocutio), and the emperor sacrificing a pig, sheep, and bull (suovetaurilia). These panels exemplify the naturalistic, deeply carved Antonine relief style with rich spatial depth and individualized figures.
+
+- Great Trajanic Frieze (Attic Panels and Central Passageway)
+  - **Artist**: Unknown Roman sculptors (Trajanic era)
+  - **Medium**: Marble relief, c. 3m high
+  - **Date**: c. AD 107–117 (reign of Trajan); reused AD 315
+  - **Description**: Four large relief panels from a monumental frieze celebrating Trajan's Dacian Wars, likely removed from the Basilica Ulpia in Trajan's Forum. Two panels are mounted on the east and west ends of the attic, and two more line the interior of the central passageway. The scenes depict the emperor in heroic combat — charging into battle on horseback as Dacian soldiers fall beneath him — and his triumph, flanked by Roma and Victory preparing to crown him. Trajan's head was recarved to resemble Constantine, reframing the Dacian victory as a Constantinian triumph. The frieze demonstrates the vigorous, dramatic Trajanic style with densely packed figures and dynamic movement.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/12/RomeConstantine%27sArch03.jpg)
+
+- Dacian Prisoner Statues
+  - **Artist**: Unknown Roman sculptors (Trajanic era)
+  - **Medium**: Pavonazzetto marble (purple-veined)
+  - **Date**: c. AD 107–117 (reign of Trajan); reused AD 315
+  - **Description**: Eight statues of captured Dacian prisoners standing atop the Corinthian columns framing the attic level of the arch. Taken from the Forum of Trajan, these over-life-size figures depict barbarian captives in characteristic Dacian dress — beards, long hair, belted tunics, and trousers. Carved from distinctive purple-veined pavonazzetto marble, they symbolize Roman military dominance and were recontextualized to glorify Constantine's victories.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/2/21/Constantine_Arch_Roman_Trophy_IMG_6576.jpg)
+
+- Constantinian Frieze (South and West Sides: Departure from Milan, Siege of Verona, Battle of the Milvian Bridge)
+  - **Artist**: Unknown Roman sculptors (Constantinian era)
+  - **Medium**: Marble relief
+  - **Date**: c. AD 312–315
+  - **Description**: The horizontal frieze running below the Hadrianic roundels is the primary Constantinian-era sculptural contribution, depicting scenes from Constantine's Italian campaign against Maxentius. On the west side, the army departs from Milan (Mediolanum). On the south side, the narrative continues with the siege of Verona and culminates in the Battle of the Milvian Bridge, showing Constantine's soldiers on the bridge while Maxentius' troops drown in the Tiber. The style marks a dramatic departure from the classicizing spolia above — figures are stocky with large heads, arranged in rigid frontal rows with minimal spatial depth, reflecting the late antique shift toward hieratic, symbolic representation.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/8/80/Arco_di_costantino%2C_fregio_costantiniano_01.jpg)
+
+- Constantinian Frieze (North and East Sides: Entry into Rome, Oration in the Forum, Largesse)
+  - **Artist**: Unknown Roman sculptors (Constantinian era)
+  - **Medium**: Marble relief
+  - **Date**: c. AD 312–315
+  - **Description**: The frieze continues on the east side with the victorious army entering Rome (adventus). On the north side, two panels show Constantine delivering a speech (oratio) in the Roman Forum from the Rostra, and distributing largesse (liberalitas) to the Roman people. These scenes emphasize Constantine's civic virtues alongside his military triumph. The oratio panel notably includes recognizable architectural landmarks of the Forum. The flat, frontal style of these reliefs contrasts sharply with the deeply modeled classicism of the reused 2nd-century panels above them.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a2/FriezeNorth5.jpg)
+
+- Column Base Reliefs (Victories and Captives)
+  - **Artist**: Unknown Roman sculptors (Constantinian era)
+  - **Medium**: Marble relief
+  - **Date**: c. AD 312–315
+  - **Description**: Relief panels on the pedestals of the freestanding columns show Victories carrying trophies, with Roman soldiers and bound captives. These small-scale reliefs echo the triumphal imagery of the arch's larger sculptural program and are executed in the same late antique style as the Constantinian frieze.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/5e/KonstantinsbogenS%C3%A4ulenrelief.jpg)
+
+- Spandrel Victories and River Gods
+  - **Artist**: Unknown Roman sculptors (Constantinian era)
+  - **Medium**: Marble relief
+  - **Date**: c. AD 312–315
+  - **Description**: The spandrels (triangular areas flanking the arches) are carved with Victories bearing trophies and palm branches on the central arch, and river gods on the lateral arches. These figures follow traditional Roman triumphal iconography and provide visual continuity between the Constantinian and reused elements.
+
+- Keystone Figures
+  - **Artist**: Unknown Roman sculptors (Constantinian era)
+  - **Medium**: Marble relief
+  - **Date**: c. AD 312–315
+  - **Description**: The keystones of the three arches feature carved busts or figures. The central arch keystones show Sol (the sun god) on the east side and Luna (the moon goddess) on the west, representing the cosmic order under Constantine's rule. The lateral arch keystones depict Mars, Roma, and other deities or personifications.
+
+### Historical Figures
+
+- [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
+  - **Born**: AD 272, Naissus (modern Niš, Serbia)
+  - **Died**: AD 337, Nicomedia (modern İzmit, Turkey)
+  - Roman emperor from AD 306 to 337 and the first emperor to convert to Christianity. His victory over Maxentius at the Battle of the Milvian Bridge in AD 312 — commemorated by this arch — marked a turning point in Roman history. Constantine issued the Edict of Milan in AD 313 decriminalizing Christianity, and later founded Constantinople as a new imperial capital. The Arch of Constantine is his most prominent surviving monument in Rome.
+
+- [Trajan](https://en.wikipedia.org/wiki/Trajan)
+  - **Born**: AD 53, Italica (modern Santiponce, Spain)
+  - **Died**: AD 117, Selinus (modern Gazipasa, Turkey)
+  - Roman emperor from AD 98 to 117, remembered as the second of the Five Good Emperors. He presided over the Roman Empire's greatest territorial extent following his conquest of Dacia and campaigns in Parthia. His Forum, Column, and Markets in Rome were among the grandest imperial building projects. The Great Trajanic Frieze and Dacian prisoner statues on the Arch of Constantine were taken from his monuments.
+
+- [Hadrian](https://en.wikipedia.org/wiki/Hadrian)
+  - **Born**: AD 76, Italica (modern Santiponce, Spain)
+  - **Died**: AD 138, Baiae
+  - Roman emperor from AD 117 to 138, known as a great builder and patron of the arts. His architectural legacy includes the Pantheon reconstruction, Hadrian's Wall in Britain, and his villa at Tivoli. The eight hunting and sacrifice tondi on the Arch of Constantine originally came from a lost monument dedicated to Hadrian, likely a tetrapylon. The classicizing style of these roundels reflects his philhellenic taste.
+
+- [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+  - **Born**: AD 121, Rome
+  - **Died**: AD 180, Vindobona (modern Vienna, Austria)
+  - Roman emperor from AD 161 to 180, last of the Five Good Emperors, and a Stoic philosopher whose *Meditations* remains widely read. His military campaigns against the Marcomanni and Sarmatians (AD 169–175) are depicted in the eight attic relief panels reused on the Arch of Constantine, taken from a lost triumphal monument. The naturalistic Antonine style of these reliefs represents the height of Roman classical relief sculpture.
+
+- [Maxentius](https://en.wikipedia.org/wiki/Maxentius)
+  - **Born**: c. AD 278
+  - **Died**: AD 312, Rome (drowned in the Tiber)
+  - Roman emperor from AD 306 to 312, ruling from Rome but not recognized as legitimate by his fellow tetrarchs. His defeat and death at the Battle of the Milvian Bridge at the hands of Constantine is the event commemorated by the Arch of Constantine. Maxentius was himself a significant builder in Rome, constructing the Basilica of Maxentius in the Roman Forum and a villa complex on the Via Appia.
+
+## Terms
+
+- [Spolia](https://en.wikipedia.org/wiki/Spolia)
+  - **Definition**: Architectural and sculptural elements taken from earlier structures and reused in new construction. The Arch of Constantine is the most famous example of spolia in Roman architecture, incorporating reliefs, statues, and columns from monuments of Trajan, Hadrian, and Marcus Aurelius. The practice served both practical and ideological purposes — linking Constantine to the "good emperors" of Rome's golden age while demonstrating continuity of imperial power.
+
+- **Triumphal arch**
+  - **Definition**: A free-standing monumental structure in the shape of an archway, typically built to commemorate a military victory or significant event. The Roman tradition of triumphal arches spans from the Republic through Late Antiquity. The Arch of Constantine, with its three bays and elaborate sculptural program, is the largest and among the last triumphal arches built in Rome.
+
+- **Adlocutio**
+  - **Definition**: A formal address by a Roman emperor or general to his assembled troops, frequently depicted in Roman imperial relief sculpture. On the Arch of Constantine, adlocutio scenes appear in both the Marcus Aurelius panels and the Constantinian frieze, showing the emperor on a raised platform addressing soldiers arranged in rows below.
+
+- **Suovetaurilia**
+  - **Definition**: An ancient Roman sacrificial rite in which a pig (sus), sheep (ovis), and bull (taurus) were sacrificed to Mars. Depicted on the south side Marcus Aurelius panels of the Arch of Constantine, the ritual was performed for purification of the army or consecration of land.
+
+- **Damnatio memoriae**
+  - **Definition**: The Roman practice of officially condemning the memory of a disgraced person by erasing their name and image from public monuments. On the Arch of Constantine, the figure of Commodus (son of Marcus Aurelius) was chiseled away from the largitio panel following his assassination and posthumous condemnation in AD 192.

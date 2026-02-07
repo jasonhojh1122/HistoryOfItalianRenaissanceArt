@@ -18,7 +18,7 @@ The Colosseum is an elliptical amphitheatre in the centre of Rome, the largest a
 
 ### [Colossus of Nero](../artworks/ColossusOfNero.md)
 
-### [Arch of Constantine](../artworks/ArchOfConstantine.md)
+### [Arch of Constantine](../locations/ArchOfConstantine.md)
 
 ### [Meta Sudans](../artworks/MetaSudans.md)
 

@@ -3,7 +3,7 @@
 [Wikipedia](https://en.wikipedia.org/wiki/Arch_of_Constantine)
 
 - **Artist**: Unknown Roman architects
-- **Location**: [Colosseum](../locations/Colosseum.md), Rome
+- **Location**: [Arch of Constantine](../locations/ArchOfConstantine.md), Rome (near [Colosseum](../locations/Colosseum.md))
 - **Medium**: Brick-faced concrete, marble
 - **Date**: AD 315
 - **Source**: self-research

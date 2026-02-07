@@ -71,6 +71,19 @@ A large, elliptical open-air venue with tiered seating built by ancient Romans f
 ### Hypogeum
 An underground structure or chamber, from the Greek for "under the earth." Used to describe subterranean temples, tombs, and burial places. The [Colosseum](locations/Colosseum.md)'s hypogeum refers specifically to the underground network of tunnels beneath the arena floor, used to house gladiators, animals, and stage machinery; trapdoors enabled sudden appearances of performers and scenery. The [Tomb of the Scipios](artworks/TombOfTheScipios.md) on the [Via Appia Antica](locations/ViaAppiaAntica.md) is another example of a hypogeum.
 
+### Spolia
+[Wikipedia](https://en.wikipedia.org/wiki/Spolia)
+
+Architectural and sculptural elements taken from earlier structures and reused in new construction. The [Arch of Constantine](locations/ArchOfConstantine.md) is the most famous example of spolia in Roman architecture, incorporating reliefs, statues, and columns from monuments of Trajan, Hadrian, and Marcus Aurelius. The practice served both practical and ideological purposes — linking Constantine to the "good emperors" of Rome's golden age while demonstrating continuity of imperial power.
+
+## Roman Military and Ritual
+
+### Adlocutio
+A formal address by a Roman emperor or general to his assembled troops, frequently depicted in Roman imperial relief sculpture. On the [Arch of Constantine](locations/ArchOfConstantine.md), adlocutio scenes appear in both the [Marcus Aurelius panels](artworks/MarcusAureliusReliefPanelsSouthSide.md) and the [Constantinian frieze](artworks/ConstantinianFriezeNorthAndEastSides.md), showing the emperor on a raised platform addressing soldiers arranged in rows below.
+
+### Suovetaurilia
+An ancient Roman sacrificial rite in which a pig (sus), sheep (ovis), and bull (taurus) were sacrificed to Mars. Depicted on the south side [Marcus Aurelius panels](artworks/MarcusAureliusReliefPanelsSouthSide.md) of the [Arch of Constantine](locations/ArchOfConstantine.md), the ritual was performed for purification of the army or consecration of land.
+
 ## Painting Styles
 
 ### Pompeian Styles
@@ -194,7 +207,7 @@ A Greek illuminated manuscript of the Book of Genesis, one of the oldest illustr
 ### Damnatio Memoriae
 [Wikipedia](https://en.wikipedia.org/wiki/Damnatio_memoriae)
 
-A Roman practice of erasing a person from official history, including removing their name from inscriptions and destroying their images. Applied to Geta after his murder by Caracalla, visible on the [Arch of Septimius Severus](artworks/ArchOfSeptimiusSeverus.md) where Geta's name was chiseled away.
+A Roman practice of erasing a person from official history, including removing their name from inscriptions and destroying their images. Applied to Geta after his murder by Caracalla, visible on the [Arch of Septimius Severus](artworks/ArchOfSeptimiusSeverus.md) where Geta's name was chiseled away. Also visible on the [Arch of Constantine](locations/ArchOfConstantine.md), where the figure of Commodus was erased from the [Marcus Aurelius relief panels](artworks/MarcusAureliusReliefPanelsNorthSide.md).
 
 ### Vestal Virgin
 [Wikipedia](https://en.wikipedia.org/wiki/Vestal_Virgin)
@@ -219,7 +232,7 @@ In Roman architecture, a large public building used for legal and commercial bus
 ### Triumphal Arch
 [Wikipedia](https://en.wikipedia.org/wiki/Triumphal_arch)
 
-A monumental structure in the shape of an archway, typically celebrating a military victory. The Roman Forum contains some of the earliest and most influential examples, including the [Arch of Titus](artworks/ArchOfTitus.md) and [Arch of Septimius Severus](artworks/ArchOfSeptimiusSeverus.md).
+A monumental structure in the shape of an archway, typically celebrating a military victory. The Roman Forum contains some of the earliest and most influential examples, including the [Arch of Titus](artworks/ArchOfTitus.md) and [Arch of Septimius Severus](artworks/ArchOfSeptimiusSeverus.md). The [Arch of Constantine](locations/ArchOfConstantine.md), the largest Roman triumphal arch, stands between the Colosseum and the Palatine Hill.
 
 ### Saturnalia
 [Wikipedia](https://en.wikipedia.org/wiki/Saturnalia)

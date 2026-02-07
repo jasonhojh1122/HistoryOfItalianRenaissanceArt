@@ -45,6 +45,7 @@
 - [Sant'Ignazio](locations/SantIgnazio.md)
 - [Galleria Borghese](locations/GalleriaBorghese.md)
 - [Pantheon](locations/Pantheon.md)
+- [Arch of Constantine](locations/ArchOfConstantine.md)
 
 #### Milan
 
