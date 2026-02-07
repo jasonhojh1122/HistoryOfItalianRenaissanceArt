@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Full pipeline script for Italian Renaissance Art project
-# Runs: research (optional) → export → generate site → publish → git commit/push
+# Runs: research (optional) → export → generate site → publish
 #
 # Usage:
 #   ./scripts/full-pipeline.sh                    # Export and publish only
@@ -11,7 +11,6 @@
 set -e
 
 PROJECT_DIR="/Users/jason/src/HistoryOfItalianRenaissanceArt"
-GITHUB_PAGES_DIR="/Users/jason/src/jasonhojh1122.github.io"
 LOG_FILE="$PROJECT_DIR/full_pipeline.log"
 
 RESEARCH_TARGET="$1"
@@ -47,32 +46,13 @@ log "Step 3: Generating site..."
 cd "$PROJECT_DIR/generator" && npm run build && cd "$PROJECT_DIR"
 log "Step 3: Site generation completed"
 
-# Step 4: Publish to GitHub Pages
+# Step 4: Publish to GitHub Pages (sync, commit, and push both repos)
 log "Step 4: Publishing..."
-./scripts/publish.sh
+if [ -n "$RESEARCH_TARGET" ]; then
+    ./scripts/publish.sh "Auto-update ($RESEARCH_TARGET): $(date '+%Y-%m-%d %H:%M')"
+else
+    ./scripts/publish.sh "Auto-update: $(date '+%Y-%m-%d %H:%M')"
+fi
 log "Step 4: Publish completed"
-
-# Step 5: Commit and push main repo
-log "Step 5: Committing main repo..."
-git add -A
-if [ -n "$RESEARCH_TARGET" ]; then
-    git commit -m "Auto-update ($RESEARCH_TARGET): $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in main repo"
-else
-    git commit -m "Auto-update: $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in main repo"
-fi
-git push origin main || log "Push failed or nothing to push in main repo"
-log "Step 5: Main repo commit completed"
-
-# Step 6: Commit and push GitHub Pages repo
-log "Step 6: Pushing GitHub Pages..."
-cd "$GITHUB_PAGES_DIR"
-git add -A
-if [ -n "$RESEARCH_TARGET" ]; then
-    git commit -m "Site update ($RESEARCH_TARGET): $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in GitHub Pages"
-else
-    git commit -m "Site update: $(date '+%Y-%m-%d %H:%M')" || log "Nothing to commit in GitHub Pages"
-fi
-git push origin master || log "Push failed or nothing to push in GitHub Pages"
-log "Step 6: GitHub Pages commit completed"
 
 log "Pipeline completed successfully"

@@ -13,3 +13,4 @@ Italian Renaissance painter of the Umbrian school who developed some of the qual
 ### [Delivery of the Keys](../artworks/DeliveryOfTheKeys.md)
 ### [Portrait of Francesco delle Opere](../artworks/PortraitOfFrancescoDelleOpere.md)
 ### [Vallombrosa Altarpiece](../artworks/VallombrosaAltarpiece.md)
+### [Lamentation over the Dead Christ](../artworks/LamentationOverTheDeadChristPerugino.md)

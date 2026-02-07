@@ -3120,7 +3120,7 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
 
 ## Palazzo Pitti, Florence
 
-<!-- Last updated: 2025-02-07 -->
+<!-- Last updated: 2026-02-07 -->
 
 - [Palazzo Pitti](https://en.wikipedia.org/wiki/Palazzo_Pitti)
   - **Type**: Palace / Museum complex
@@ -3205,6 +3205,61 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
   - **Description**: A neoclassical marble sculpture commissioned by Napoleon Bonaparte as a replacement for the Venus de' Medici, which had been seized and taken to the Louvre. Canova's graceful interpretation of Venus modestly covering herself became celebrated in its own right. After Napoleon's abdication, the original Venus de' Medici was returned, and both works are now displayed in the palazzo.
   ![img](https://upload.wikimedia.org/wikipedia/commons/8/8e/Venus_Italica_by_Canova.jpg)
 
+- [La Bella](https://en.wikipedia.org/wiki/La_Bella)
+  - **Artist**: [Titian](https://en.wikipedia.org/wiki/Titian)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1536
+  - **Description**: A portrait of an unknown woman in a sumptuous blue dress, exemplifying the Renaissance ideal of female beauty. The sitter's identity is debated, though she may be the same model as Titian's Venus of Urbino. The work is documented in a 1536 letter from the Duke of Urbino describing "that portrait of that woman in a blue dress." It hangs in the Sala di Venere.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/c/c9/Tiziano_Vecellio_%28Pieve_di_Cadore_1488-90_-_Venezia_1576%29_-_Ritratto_di_gentildonna_%28La_Bella%29_-_18_-_Galleria_Palatina.jpg)
+
+- [Portrait of Pietro Aretino](https://en.wikipedia.org/wiki/Portrait_of_Pietro_Aretino)
+  - **Artist**: [Titian](https://en.wikipedia.org/wiki/Titian)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1545
+  - **Description**: A commanding portrait of the Renaissance poet and satirist Pietro Aretino, painted possibly for Cosimo I de' Medici. Titian renders his friend in richly textured robes with bold, almost impressionistic brushwork. Aretino famously complained that the finish was too sketchy, yet the vigorous technique is now admired as proto-modern. Displayed in the Sala di Venere.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/a/a0/Portrait_of_Pietro_Aretino_%28by_Titian%29_-_Pitti_Palace.jpg)
+
+- [Portrait of a Young Englishman](https://en.wikipedia.org/wiki/Portrait_of_a_Young_Englishman)
+  - **Artist**: [Titian](https://en.wikipedia.org/wiki/Titian)
+  - **Medium**: Oil on canvas
+  - **Date**: c. 1540–1545
+  - **Description**: A striking portrait of an unidentified young man with intense grey-blue eyes, traditionally but uncertainly identified as an Englishman. The sitter may be Henry Howard, Ottavio Farnese, or the Italian Ippolito Riminaldi. The painting is admired for its penetrating psychological insight and Titian's virtuosic handling of the rich dark costume against the grey background.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Young_Englishman_%28by_Titian%29.jpg)
+
+- [Lamentation over the Dead Christ](https://en.wikipedia.org/wiki/Lamentation_over_the_Dead_Christ_(Perugino))
+  - **Artist**: [Perugino](https://en.wikipedia.org/wiki/Pietro_Perugino)
+  - **Medium**: Oil on panel
+  - **Date**: 1495
+  - **Description**: A large and emotionally restrained depiction of the lamentation, showing the dead Christ mourned by the Virgin Mary, Saint John the Evangelist, Mary Magdalene, and other figures. Perugino's characteristic grace and soft, luminous coloring are evident, with a serene Umbrian landscape visible in the background. Displayed in the Sala di Apollo.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/3/31/Pietro_Perugino_cat40.jpg)
+
+- [Panciatichi Assumption](https://en.wikipedia.org/wiki/Panciatichi_Assumption)
+  - **Artist**: [Andrea del Sarto](https://en.wikipedia.org/wiki/Andrea_del_Sarto)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1522–1523
+  - **Description**: A majestic Assumption of the Virgin painted for the Panciatichi family, showing the Virgin Mary ascending to heaven surrounded by angels, with apostles gathered around the empty tomb below. The work demonstrates Andrea del Sarto's refined spatial composition and experimental use of color that influenced the next generation of Mannerist painters.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/d/de/Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA0402.jpg)
+
+- [Ezekiel's Vision](https://en.wikipedia.org/wiki/Ezekiel%27s_Vision_(Raphael))
+  - **Artist**: [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1518
+  - **Description**: A small but powerfully composed painting depicting the prophet Ezekiel's vision of God in majesty, borne aloft by angels and the four symbols of the Evangelists. Despite its diminutive size (about 40 × 30 cm), the painting achieves monumental grandeur. It reflects the influence of Michelangelo's Sistine ceiling in its muscular figures and dynamic composition.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/1/1e/Raphael_-_Ezekiel%27s_Vision.jpg)
+
+- [La donna gravida](https://en.wikipedia.org/wiki/La_donna_gravida)
+  - **Artist**: [Raphael](https://en.wikipedia.org/wiki/Raphael)
+  - **Medium**: Oil on panel
+  - **Date**: c. 1505–1506
+  - **Description**: A portrait of a pregnant woman, painted during Raphael's Florentine period. The sitter gazes directly at the viewer with a calm, dignified expression, one hand resting on her belly. The identity of the woman is unknown. The painting shows the influence of Leonardo da Vinci in its soft modeling and atmospheric quality, and is notable for its rare subject of pregnancy in Renaissance portraiture.
+  ![img](https://upload.wikimedia.org/wikipedia/commons/f/fe/Raphael-LaDonnaGravida%281505-1506%29.jpg)
+
+- Judith with the Head of Holofernes
+  - **Artist**: [Cristofano Allori](https://en.wikipedia.org/wiki/Cristofano_Allori)
+  - **Medium**: Oil on canvas
+  - **Date**: 1613
+  - **Description**: One of the most celebrated paintings of the Florentine Seicento, depicting Judith holding the severed head of Holofernes while her maidservant waits with a bag. Allori reportedly used his own face as the model for Holofernes, his mistress for Judith, and her mother for the maidservant, lending the painting an intensely personal subtext. Multiple versions exist, with this being the finest.
+
 ### Artists
 
 - [Filippo Lippi](https://en.wikipedia.org/wiki/Filippo_Lippi)
@@ -3227,9 +3282,34 @@ The library's ceiling decoration features 21 tondi by seven artists, plus 52 gro
   - **Died**: 1530, Florence
   - A Florentine painter whose career flourished during the High Renaissance and early Mannerism. Known as an outstanding fresco decorator, portraitist, and colorist, he was called the "faultless painter" (pittore senza errori) during his lifetime. Though eclipsed by contemporaries Leonardo, Michelangelo, and Raphael, his mastery of color and composition influenced the next generation of Mannerist painters.
 
+- [Perugino](https://en.wikipedia.org/wiki/Pietro_Perugino)
+  - **Born**: c. 1446, Città della Pieve
+  - **Died**: 1523, Fontignano
+  - An Italian Renaissance painter of the Umbrian school, born Pietro Vannucci. He was one of the earliest practitioners of oil painting in Italy and a master of perspective and spatial clarity. His serene, luminous style and idealized figures greatly influenced his most famous pupil, Raphael. He contributed to the Sistine Chapel frescoes and was among the most admired painters of his generation.
+
+- [Cristofano Allori](https://en.wikipedia.org/wiki/Cristofano_Allori)
+  - **Born**: 1577, Florence
+  - **Died**: 1621, Florence
+  - An Italian painter of the late Florentine Mannerist school, son of painter Alessandro Allori and great-nephew of Bronzino. He initially trained under his father but later turned to the naturalistic style of Cigoli and Santi di Tito. He painted mostly portraits and religious subjects, and is best known for his Judith with the Head of Holofernes in the Palazzo Pitti.
+
 ### Bible Stories
 
 - [Judith beheading Holofernes](https://en.wikipedia.org/wiki/Judith_beheading_Holofernes)
   - **Book(s)**: Book of Judith (deuterocanonical)
   - **Chapters/Verses**: Judith 10–13
   - The story of Judith, a beautiful and pious Jewish widow who saves her people by seducing and then beheading the Assyrian general Holofernes. After gaining his trust, she decapitates him in his tent with his own sword while he lies in a drunken sleep. Her maidservant Abra helps carry the severed head back to the Israelite camp. A popular subject in Baroque art, especially for Artemisia Gentileschi and Caravaggio.
+
+- [Lamentation of Christ](https://en.wikipedia.org/wiki/Lamentation_of_Christ)
+  - **Book(s)**: Gospels
+  - **Chapters/Verses**: Matthew 27:57–61, Mark 15:42–47, Luke 23:50–56, John 19:38–42
+  - The mourning over the body of Christ after the Crucifixion and before the Entombment. The scene, though not explicitly described as a single moment in the Gospels, became one of the most common subjects in Christian art. It typically shows the Virgin Mary, Mary Magdalene, Saint John the Evangelist, and other figures grieving over the dead Christ.
+
+- [Assumption of Mary](https://en.wikipedia.org/wiki/Assumption_of_Mary)
+  - **Book(s)**: Catholic tradition (not directly in Bible)
+  - **Chapters/Verses**: Defined as dogma in 1950; rooted in early Church tradition
+  - The belief that Mary, mother of Jesus, was taken up body and soul into heavenly glory at the end of her earthly life. Though not described in the canonical scriptures, it has been a central subject in Christian art since the medieval period, typically depicting Mary ascending to heaven surrounded by angels while the apostles look on from below.
+
+- [Book of Ezekiel](https://en.wikipedia.org/wiki/Book_of_Ezekiel)
+  - **Book(s)**: Book of Ezekiel (Old Testament)
+  - **Chapters/Verses**: Ezekiel 1:1–28
+  - The prophet Ezekiel's inaugural vision of God enthroned in majesty, carried by four living creatures (later identified with the four Evangelists): a man, a lion, an ox, and an eagle. The vision includes wheels within wheels and a radiant divine presence. This theophany became an important subject in Christian art, symbolizing the glory of God and the inspiration of the Gospels.

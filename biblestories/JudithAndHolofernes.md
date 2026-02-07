@@ -17,3 +17,6 @@ The story of Judith and Holofernes comes from the deuterocanonical Book of Judit
 
 ### [Judith and Holofernes](../artworks/JudithAndHolofernes.md)
 - Donatello, Palazzo Vecchio, Florence
+
+### [Judith with the Head of Holofernes](../artworks/JudithWithTheHeadOfHolofernes.md)
+- Cristofano Allori, Palazzo Pitti, 1613

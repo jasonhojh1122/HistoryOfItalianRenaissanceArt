@@ -65,6 +65,12 @@ Studied under Pietro Perugino, whose influence is visible in his early works suc
 ### [Cartoon for Philosophy](../artworks/CartoonForPhilosophy.md)
 - **Location**: [Pinacoteca Ambrosiana](../locations/PinacotecaAmbrosiana.md), Milan
 
+### [Ezekiel's Vision](../artworks/EzekielsVision.md)
+- **Location**: [Palazzo Pitti](../locations/PalazzoPitti.md), Florence
+
+### [La donna gravida](../artworks/LaDonnaGravida.md)
+- **Location**: [Palazzo Pitti](../locations/PalazzoPitti.md), Florence
+
 ### Galleria Borghese
 
 ### [The Deposition](../artworks/DepositionRaphael.md)

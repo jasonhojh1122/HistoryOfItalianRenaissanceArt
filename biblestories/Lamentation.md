@@ -27,3 +27,6 @@ The Lamentation (also known as Pietà when focused on Mary alone with Christ's b
 
 ### [Palestrina Pietà](../artworks/PalestrinaPieta.md)
 - Attributed to Michelangelo (disputed), Galleria dell'Accademia, c. 1555
+
+### [Lamentation over the Dead Christ](../artworks/LamentationOverTheDeadChristPerugino.md)
+- Pietro Perugino, Palazzo Pitti, 1495

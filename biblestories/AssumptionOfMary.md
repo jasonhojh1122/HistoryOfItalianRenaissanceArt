@@ -19,3 +19,6 @@ The belief that Mary, mother of Jesus, was assumed bodily into Heaven at the end
 
 ### [Vallombrosa Altarpiece](../artworks/VallombrosaAltarpiece.md)
 - Pietro Perugino, Galleria dell'Accademia, 1500-1501
+
+### [Panciatichi Assumption](../artworks/PanciatchiAssumption.md)
+- Andrea del Sarto, Palazzo Pitti, c. 1522–1523
