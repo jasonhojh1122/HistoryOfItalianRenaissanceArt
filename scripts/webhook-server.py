@@ -15,6 +15,7 @@ Endpoints:
     POST /git-reset  - Hard reset both repos to HEAD (blocked while job running)
     GET  /status     - Check pipeline status (JSON)
     GET  /log        - Get full log (JSON)
+    POST /terminal   - Execute a zsh command (requires: {"command": "..."})
 """
 
 from flask import Flask, request, jsonify, Response
@@ -36,6 +37,7 @@ current_process_lock = threading.Lock()
 # Timeout in seconds: kill subprocess if it exceeds this
 CLAUDE_TIMEOUT = 1800    # 30 minutes for a single claude command
 PIPELINE_TIMEOUT = 3600  # 60 minutes for the full pipeline
+TERMINAL_TIMEOUT = 120   # 120 seconds for terminal commands
 
 
 def _kill_process(process, job, timeout):
@@ -724,6 +726,176 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             max-width: 100%;
         }
 
+        /* Terminal — Scribe's Desk */
+        .terminal-card {
+            background: #1A1510;
+            border: 1px solid #3D3225;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .terminal-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            pointer-events: none;
+            opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+        }
+
+        .terminal-card:hover {
+            border-color: #56442F;
+        }
+
+        .terminal-card::before {
+            background: linear-gradient(to bottom, var(--color-gold), var(--color-terracotta));
+        }
+
+        .terminal-card h2 {
+            color: var(--color-gold);
+            font-family: var(--font-display);
+            font-weight: 500;
+            letter-spacing: 0.04em;
+        }
+
+        .terminal-card h2::after {
+            background: linear-gradient(to right, var(--color-gold), var(--color-terracotta));
+        }
+
+        .terminal-output {
+            background: #110E09;
+            border: 1px solid #2A2218;
+            border-radius: 3px;
+            padding: 1.1rem 1.25rem;
+            font-family: "SF Mono", "Menlo", "Monaco", "Consolas", monospace;
+            font-size: 0.82rem;
+            line-height: 1.7;
+            max-height: 400px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            color: #A89880;
+            margin-bottom: 0.75rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .terminal-output::-webkit-scrollbar {
+            width: 5px;
+        }
+
+        .terminal-output::-webkit-scrollbar-track {
+            background: #1A1510;
+        }
+
+        .terminal-output::-webkit-scrollbar-thumb {
+            background: #3D3225;
+            border-radius: 3px;
+        }
+
+        .terminal-output::-webkit-scrollbar-thumb:hover {
+            background: #56442F;
+        }
+
+        .terminal-output .cmd-line {
+            color: var(--color-gold);
+        }
+
+        .terminal-output .error-text {
+            color: #C75B3A;
+        }
+
+        .terminal-input-row {
+            display: flex;
+            align-items: center;
+            gap: 0;
+            background: #110E09;
+            border: 1px solid #2A2218;
+            border-radius: 3px;
+            overflow: hidden;
+            transition: border-color var(--transition-base), box-shadow var(--transition-base);
+            position: relative;
+            z-index: 1;
+        }
+
+        .terminal-input-row:focus-within {
+            border-color: var(--color-gold-muted);
+            box-shadow: 0 0 0 3px rgba(199, 166, 107, 0.1);
+        }
+
+        .terminal-prompt {
+            font-family: "SF Mono", "Menlo", "Monaco", "Consolas", monospace;
+            font-size: 0.85rem;
+            color: var(--color-gold);
+            padding: 0.85rem 0 0.85rem 1.1rem;
+            user-select: none;
+            white-space: nowrap;
+        }
+
+        .terminal-input-row input {
+            flex: 1;
+            background: transparent;
+            border: none;
+            color: #D4C8B8;
+            font-family: "SF Mono", "Menlo", "Monaco", "Consolas", monospace;
+            font-size: 0.85rem;
+            padding: 0.85rem 0.75rem 0.85rem 0.5rem;
+            outline: none;
+            margin: 0;
+        }
+
+        .terminal-input-row input::placeholder {
+            color: #4A3D2E;
+            font-style: italic;
+        }
+
+        .terminal-actions button.terminal-run-btn {
+            background: linear-gradient(135deg, var(--color-gold) 0%, var(--color-gold-muted) 100%);
+            color: #1A1510;
+            border: none;
+            font-weight: 600;
+            box-shadow: 0 1px 4px rgba(199, 166, 107, 0.2);
+        }
+
+        .terminal-actions button.terminal-run-btn:hover {
+            background: linear-gradient(135deg, #D4B578 0%, var(--color-gold) 100%);
+            color: #1A1510;
+            box-shadow: 0 2px 8px rgba(199, 166, 107, 0.3);
+        }
+
+        .terminal-actions button.terminal-run-btn:active {
+            background: var(--color-gold-muted);
+            box-shadow: none;
+        }
+
+        .terminal-actions {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 0.75rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .terminal-actions button {
+            font-family: var(--font-body);
+            font-size: 0.75rem;
+            padding: 0.45rem 1rem;
+            margin: 0;
+            background: #221C14;
+            color: #8A7D6B;
+            border: 1px solid #3D3225;
+            border-radius: 3px;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            transition: all var(--transition-base);
+        }
+
+        .terminal-actions button:hover {
+            background: #2E261C;
+            color: var(--color-gold);
+            border-color: #56442F;
+        }
+
         /* Responsive */
         @media (max-width: 640px) {
             .container {
@@ -741,6 +913,12 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             button {
                 width: 100%;
                 margin-right: 0;
+            }
+
+            .terminal-actions button,
+            .terminal-actions .terminal-run-btn {
+                width: auto;
+                flex: 1;
             }
 
             .quick-actions button {
@@ -798,6 +976,19 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             <h2>Run Claude Command</h2>
             <textarea id="prompt" placeholder="Enter any instruction for Claude..."></textarea>
             <button onclick="runCommand()" id="run-btn" class="primary">Run Command</button>
+        </div>
+
+        <div class="card terminal-card">
+            <h2>Terminal</h2>
+            <div id="terminal-output" class="terminal-output"></div>
+            <div class="terminal-input-row">
+                <span class="terminal-prompt">&rsaquo;</span>
+                <input type="text" id="terminal-input" placeholder="enter command..." autocomplete="off" spellcheck="false">
+            </div>
+            <div class="terminal-actions">
+                <button class="terminal-run-btn" onclick="runTerminal()">Run</button>
+                <button onclick="clearTerminal()">Clear</button>
+            </div>
         </div>
 
         <footer>
@@ -1020,6 +1211,80 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
             }
         }
 
+        // === Terminal ===
+        const termHistory = [];
+        let termHistoryIdx = -1;
+
+        const termInput = document.getElementById('terminal-input');
+        const termOutput = document.getElementById('terminal-output');
+
+        termInput.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                runTerminal();
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                if (termHistory.length > 0) {
+                    if (termHistoryIdx < termHistory.length - 1) termHistoryIdx++;
+                    termInput.value = termHistory[termHistory.length - 1 - termHistoryIdx];
+                }
+            } else if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                if (termHistoryIdx > 0) {
+                    termHistoryIdx--;
+                    termInput.value = termHistory[termHistory.length - 1 - termHistoryIdx];
+                } else {
+                    termHistoryIdx = -1;
+                    termInput.value = '';
+                }
+            }
+        });
+
+        async function runTerminal() {
+            const command = termInput.value.trim();
+            if (!command) return;
+
+            termHistory.push(command);
+            termHistoryIdx = -1;
+            termInput.value = '';
+
+            // Show the command
+            const cmdSpan = document.createElement('span');
+            cmdSpan.className = 'cmd-line';
+            cmdSpan.textContent = '$ ' + command + '\\n';
+            termOutput.appendChild(cmdSpan);
+            termOutput.scrollTop = termOutput.scrollHeight;
+
+            try {
+                const res = await fetch('/terminal', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ command })
+                });
+                const data = await res.json();
+
+                if (data.output) {
+                    const outSpan = document.createElement('span');
+                    if (data.exit_code !== 0) {
+                        outSpan.className = 'error-text';
+                    }
+                    outSpan.textContent = data.output;
+                    termOutput.appendChild(outSpan);
+                }
+            } catch (e) {
+                const errSpan = document.createElement('span');
+                errSpan.className = 'error-text';
+                errSpan.textContent = 'Failed to execute: ' + e.message + '\\n';
+                termOutput.appendChild(errSpan);
+            }
+
+            termOutput.scrollTop = termOutput.scrollHeight;
+        }
+
+        function clearTerminal() {
+            termOutput.textContent = '';
+        }
+
         // Initial fetch and start polling
         fetchStatus();
         refreshInterval = setInterval(fetchStatus, 2000);
@@ -1157,6 +1422,37 @@ def get_status():
         "log_total": len(current_job["log"]),
         "progress": current_job.get("progress", "")
     })
+
+
+@app.route('/terminal', methods=['POST'])
+def terminal():
+    """Execute a zsh command and return output"""
+    data = request.get_json() or {}
+    command = data.get('command', '').strip()
+    if not command:
+        return jsonify({"error": "command required"}), 400
+
+    try:
+        result = subprocess.run(
+            ["/bin/zsh", "-c", command],
+            capture_output=True, text=True,
+            cwd=PROJECT_DIR,
+            timeout=TERMINAL_TIMEOUT
+        )
+        return jsonify({
+            "output": result.stdout + result.stderr,
+            "exit_code": result.returncode
+        })
+    except subprocess.TimeoutExpired:
+        return jsonify({
+            "output": f"[Command timed out after {TERMINAL_TIMEOUT}s]",
+            "exit_code": -1
+        })
+    except Exception as e:
+        return jsonify({
+            "output": f"[Error: {str(e)}]",
+            "exit_code": -1
+        })
 
 
 @app.route('/log', methods=['GET'])
