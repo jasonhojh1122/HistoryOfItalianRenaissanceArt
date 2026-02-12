@@ -19,3 +19,6 @@ According to tradition, Mary was presented at the Temple in Jerusalem at age thr
 
 ### [The Presentation of the Virgin Mary at the Temple](../artworks/PresentationOfTheVirginRomanelli.md)
 - Giovanni Francesco Romanelli, Baths of Diocletian, Rome, 1638-1642
+
+### [Mascoli Chapel Mosaics](../artworks/MascoliChapelMosaics.md)
+- Michele Giambono and others, Saint Mark's Basilica, first half of 15th century

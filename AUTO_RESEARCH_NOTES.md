@@ -155,7 +155,7 @@
 
 ## Saint Mark's Basilica, Venice
 
-<!-- Last updated: 2026-02-04 (expanded with additional artworks and context) -->
+<!-- Last updated: 2026-02-12 (expanded with additional artworks and context) -->
 
 - [St Mark's Basilica](https://en.wikipedia.org/wiki/St_Mark's_Basilica)
   - **Type**: Cathedral / Basilica
@@ -228,12 +228,69 @@
   - **Date**: 12th century
   - **Description**: The westernmost dome of the nave depicting the descent of the Holy Spirit upon the Apostles at Pentecost. Flames descend from a central dove representing the Holy Spirit, with the Apostles arranged in a radial composition below.
 
+- Iconostasis
+  - **Artist**: [Pierpaolo dalle Masegne](https://en.wikipedia.org/wiki/Pierpaolo_dalle_Masegne) and [Jacobello dalle Masegne](https://en.wikipedia.org/wiki/Jacobello_dalle_Masegne)
+  - **Medium**: Marble sculpture
+  - **Date**: 1394
+  - **Description**: A Gothic rood screen separating the nave from the presbytery, crowned by a tall crucifix flanked by 14 white marble statues depicting the Virgin, St Mark, and the twelve Apostles. Supported by eight columns of red marble. It is the only work in the basilica with the unquestioned signatures of the Dalle Masegne brothers, inscribed on the central section with the date 1394. A masterpiece of Venetian Gothic sculpture.
+
+- Mascoli Chapel Mosaics
+  - **Artist**: [Michele Giambono](https://en.wikipedia.org/wiki/Michele_Giambono) and others
+  - **Medium**: Gold and glass mosaic
+  - **Date**: First half of 15th century
+  - **Description**: A cycle of mosaics on the vault of the Cappella dei Mascoli depicting scenes from the Life of the Virgin. The sequence includes the Birth of the Virgin, the Presentation at the Temple, the Annunciation, the Visitation, and the Dormition (Death of the Virgin). Giambono designed the earlier scenes; later scenes show the influence of Early Renaissance spatial perspective, attributed to Andrea Mantegna or Jacopo Bellini.
+
+- Baptistery Mosaics
+  - **Artist**: Various Venetian mosaicists
+  - **Medium**: Gold and glass mosaic
+  - **Date**: 14th century
+  - **Description**: The baptistery contains mosaics depicting scenes from the life of Saint John the Baptist on the walls and, in the ante-baptistery, the infancy of Christ. The dome above the bronze font shows the dispersion of the Apostles, each baptizing a different nationality in reference to Christ's command to preach the Gospel to all peoples. The baptistery also contains the tomb of Doge Andrea Dandolo.
+
+- Baptistery Font
+  - **Artist**: [Jacopo Sansovino](https://en.wikipedia.org/wiki/Jacopo_Sansovino)
+  - **Medium**: Bronze
+  - **Date**: 16th century
+  - **Description**: A bronze baptismal font designed by Jacopo Sansovino, positioned beneath the central dome of the baptistery. The font is surmounted by the mosaic dome depicting the mission of the Apostles. Sansovino served as Proto (chief architect) of St Mark's from 1529.
+
+- Ciborium Columns
+  - **Artist**: Unknown (Byzantine or Venetian craftsmen)
+  - **Medium**: Oriental alabaster with bas-relief carvings
+  - **Date**: 13th century
+  - **Description**: Four ornately carved alabaster columns supporting the ciborium (altar canopy) over the high altar. The columns contain 108 bas-relief scenes depicting episodes from the lives of Christ and the Virgin Mary, carved in a style that blends Byzantine and Western influences. Among the most intricate relief carvings in the basilica.
+
+- Sacristy Vault Mosaics
+  - **Artist**: Designed by [Titian](https://en.wikipedia.org/wiki/Titian), executed by mosaicists
+  - **Medium**: Gold and glass mosaic
+  - **Date**: 1524–1530
+  - **Description**: The vault decoration of the sacristy depicting Old Testament prophets. Designed by Titian during the height of his career, the cartoons demonstrate the increasing involvement of Renaissance masters in the basilica's mosaic program, replacing the earlier Byzantine workshop tradition with compositions by individual named artists.
+
+- Altars of St Paul, St James, and St Clement
+  - **Artist**: [Antonio Rizzo](https://en.wikipedia.org/wiki/Antonio_Rizzo_(architect))
+  - **Medium**: Marble sculpture
+  - **Date**: Second half of 15th century
+  - **Description**: Three Renaissance altars featuring statues of the saints surrounded by elegant Renaissance tabernacles. Created by Antonio Rizzo of Verona, these works represent the transition from Gothic to Renaissance sculptural style within the basilica.
+
 ### Artists
 
 - [Mark the Evangelist](https://en.wikipedia.org/wiki/Mark_the_Evangelist)
   - **Born**: c. 5 AD, Cyrene (modern Libya)
   - **Died**: c. 68 AD, Alexandria
   - The patron saint of Venice, traditionally ascribed as the author of the Gospel of Mark. According to Church tradition, he founded the episcopal see of Alexandria. His relics were brought to Venice in 828, and the basilica was built to house them. His symbol is the winged lion.
+
+- [Pierpaolo dalle Masegne](https://en.wikipedia.org/wiki/Pierpaolo_dalle_Masegne)
+  - **Born**: Unknown, Venice
+  - **Died**: c. 1403
+  - Italian Gothic sculptor and architect, best remembered for his work on the Doge's Palace and the iconostasis of St Mark's Basilica. He frequently collaborated with his brother Jacobello dalle Masegne. The brothers were the most prominent sculptors active in Venice and the Veneto between 1380 and 1410.
+
+- [Jacobello dalle Masegne](https://en.wikipedia.org/wiki/Jacobello_dalle_Masegne)
+  - **Born**: Unknown, Venice
+  - **Died**: c. 1409
+  - Italian Gothic sculptor active in Veneto, Lombardy, Emilia, and Romagna. Best remembered for his work on the altar of Santa Maria Gloriosa dei Frari, the tomb of John of Legnano, and the iconostasis of St Mark's Basilica with his brother Pierpaolo. Together they signed the iconostasis in 1394.
+
+- [Antonio Rizzo](https://en.wikipedia.org/wiki/Antonio_Rizzo_(architect))
+  - **Born**: c. 1430, Verona
+  - **Died**: c. 1499
+  - Italian architect and sculptor, one of the greatest active in Venice in the latter half of the fifteenth century. Best known for the Scala dei Giganti (Giants' Staircase) at the Doge's Palace. Created three Renaissance altars in St Mark's Basilica featuring statues of saints in elegant tabernacles.
 
 ### Bible Stories
 
@@ -256,6 +313,15 @@
   - **Chapters/Verses**: Ezekiel 1:10, Revelation 4:7
   - **Description**: The four living creatures described in the visions of Ezekiel and Revelation, traditionally associated with the four Evangelists. Mark is represented as a winged lion, which became the symbol of Venice.
 
+- [Visitation](https://en.wikipedia.org/wiki/Visitation_(Christianity))
+  - **Book(s)**: Luke
+  - **Chapters/Verses**: Luke 1:39-56
+  - **Description**: The visit of the Virgin Mary to her cousin Elizabeth, who was pregnant with John the Baptist. Mary's greeting caused the unborn John to leap in Elizabeth's womb, and Elizabeth declared Mary blessed. Mary responded with the Magnificat. Depicted in the Mascoli Chapel mosaics.
+
+- [Dormition of the Mother of God](https://en.wikipedia.org/wiki/Dormition_of_the_Mother_of_God)
+  - **Book(s)**: Apocryphal tradition
+  - **Description**: The "falling asleep" (death) of the Virgin Mary, a major feast in Eastern Christianity. According to tradition, the Apostles were miraculously gathered to be present at her death in Jerusalem, after which she was assumed into heaven. Depicted in the Mascoli Chapel mosaics as the final scene of the Life of the Virgin cycle.
+
 ### Historical Context
 
 - [Fourth Crusade](https://en.wikipedia.org/wiki/Fourth_Crusade)
@@ -275,6 +341,10 @@
 - **Translatio**: The term for the ceremonial transfer of relics from one location to another. The translatio of Saint Mark's relics from Alexandria to Venice in 828 is depicted in mosaics on the basilica's facade.
 
 - **Quadriga**: A chariot drawn by four horses, often depicted in ancient Roman triumphal art. The Horses of Saint Mark originally formed part of a quadriga monument, possibly from a Roman triumphal arch or hippodrome.
+
+- **[Iconostasis](https://en.wikipedia.org/wiki/Iconostasis)**: In Eastern Christianity, a wall of icons and religious paintings separating the nave from the sanctuary. In Western churches influenced by Byzantine tradition, such as St Mark's, it takes the form of a rood screen. The iconostasis at St Mark's by the Dalle Masegne brothers (1394) combines this Byzantine liturgical element with Gothic sculptural style.
+
+- **[Ciborium](https://en.wikipedia.org/wiki/Ciborium_(architecture))**: In ecclesiastical architecture, a canopy or covering supported by columns that stands over and covers the altar. Also known as a baldachin. The ciborium at St Mark's rests on four carved alabaster columns containing 108 relief scenes.
 
 ---
 

@@ -18,3 +18,6 @@ The Baptism of Christ depicts the moment when John the Baptist baptizes Jesus in
 
 ### [The Baptism of Jesus](../artworks/BaptismOfJesusMaratta.md)
 - Carlo Maratta, Baths of Diocletian, Rome, 1697
+
+### [Baptistery Mosaics](../artworks/BaptisteryMosaicsSanMarco.md)
+- Various Venetian mosaicists, Saint Mark's Basilica, 14th century

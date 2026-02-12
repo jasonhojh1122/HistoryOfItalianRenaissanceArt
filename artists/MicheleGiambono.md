@@ -13,3 +13,4 @@ Italian painter whose work reflected the International Gothic style with a Venet
 ## Artworks
 
 ### [Madonna and Child](../artworks/MadonnaAndChildGiambono.md)
+### [Mascoli Chapel Mosaics](../artworks/MascoliChapelMosaics.md)

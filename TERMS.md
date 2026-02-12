@@ -201,6 +201,16 @@ The term for the ceremonial transfer of relics from one location to another. The
 ### Quadriga
 A chariot drawn by four horses, often depicted in ancient Roman triumphal art. The [Horses of Saint Mark](artworks/HorsesOfSaintMark.md) originally formed part of a quadriga monument, possibly from a Roman triumphal arch or hippodrome.
 
+### Iconostasis
+[Wikipedia](https://en.wikipedia.org/wiki/Iconostasis)
+
+In Eastern Christianity, a wall of icons and religious paintings separating the nave from the sanctuary. In Western churches influenced by Byzantine tradition, such as St Mark's, it takes the form of a rood screen. The [Iconostasis](artworks/IconostasisSanMarco.md) at St Mark's by the Dalle Masegne brothers (1394) combines this Byzantine liturgical element with Gothic sculptural style.
+
+### Ciborium
+[Wikipedia](https://en.wikipedia.org/wiki/Ciborium_(architecture))
+
+In ecclesiastical architecture, a canopy or covering supported by columns that stands over and covers the altar. Also known as a baldachin. The [Ciborium Columns](artworks/CiboriumColumnsSanMarco.md) at St Mark's rest on four carved alabaster columns containing 108 relief scenes.
+
 ## Manuscripts
 
 ### Cotton Genesis

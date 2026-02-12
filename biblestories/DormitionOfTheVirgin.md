@@ -17,3 +17,6 @@ The Dormition of the Mother of God celebrates the "falling asleep" (death) of Ma
 
 ### [Apse Mosaic: Coronation of the Virgin](../artworks/ApseMosaicCoronationOfTheVirgin.md)
 - Jacopo Torriti, Santa Maria Maggiore, c. 1295–1296 (depicted in lower register)
+
+### [Mascoli Chapel Mosaics](../artworks/MascoliChapelMosaics.md)
+- Michele Giambono and others, Saint Mark's Basilica, first half of 15th century

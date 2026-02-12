@@ -21,6 +21,8 @@ Tiziano Vecellio, known as Titian, was the most important artist of Renaissance 
 ### [The Presentation of the Virgin at the Temple](../artworks/PresentationOfTheVirginTitian.md)
 ### [Wisdom (La Sapienza)](../artworks/WisdomTitian.md)
 
+### [Sacristy Vault Mosaics](../artworks/SacristyVaultMosaicsSanMarco.md)
+
 ### [Sacred and Profane Love](../artworks/SacredAndProfaneLove.md)
 ### [La Bella](../artworks/LaBella.md)
 ### [Portrait of Pietro Aretino](../artworks/PortraitOfPietroAretino.md)

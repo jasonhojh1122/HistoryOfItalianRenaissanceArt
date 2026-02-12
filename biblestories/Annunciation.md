@@ -38,3 +38,6 @@ The Annunciation depicts the announcement by the Angel Gabriel to the Virgin Mar
 
 ### [Ciborium of Deodatus](../artworks/CiboriumOfDeodatus.md)
 - Deodatus di Cosma, Santa Maria in Cosmedin, 1294
+
+### [Mascoli Chapel Mosaics](../artworks/MascoliChapelMosaics.md)
+- Michele Giambono and others, Saint Mark's Basilica, first half of 15th century
